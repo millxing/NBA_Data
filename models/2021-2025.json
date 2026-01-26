@@ -1,26 +1,25 @@
 {
-  "trained_at": "2026-01-24T21:39:39",
+  "trained_at": "2026-01-26T17:50:27",
   "training_seasons": [
     "2021-22",
-    "2022-23",
     "2023-24",
     "2024-25"
   ],
   "four_factors": {
     "coefficients": {
-      "shooting": 152.31349050105484,
-      "ball_handling": 138.90261661701015,
-      "orebounding": 49.04291689619361,
-      "free_throws": 26.5724620296348
+      "shooting": 307.7058827399114,
+      "ball_handling": 276.73856806104516,
+      "orebounding": 98.7409181990782,
+      "free_throws": 52.505975701904035
     },
-    "intercept": -0.008541928546804564,
+    "intercept": 0.019591244142988462,
     "league_averages": {
-      "efg": 0.5420217752989287,
-      "ball_handling": 0.8761007318956717,
-      "oreb_pct": 0.23974084981601768,
-      "ft_rate": 0.19843159908889246
+      "efg": 0.5407959559370821,
+      "ball_handling": 0.8762897924286921,
+      "oreb_pct": 0.24043398972702817,
+      "ft_rate": 0.19449028293078052
     },
-    "r_squared": 0.9506705341354921,
-    "training_games": 10562
+    "r_squared": 0.9473647620528604,
+    "training_games": 7922
   }
 }
