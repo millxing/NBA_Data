@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-01-28T11:08:27",
+  "trained_at": "2026-01-28T18:36:19",
   "training_seasons": [
     "2015-16",
     "2016-17",
@@ -15,27 +15,27 @@
   "model_type": "season_level",
   "eight_factors": {
     "coefficients": {
-      "shooting": 154.2547375017442,
-      "ball_handling": 149.1372754907151,
-      "orebounding": 51.3955021495194,
-      "free_throws": 29.358854839490984,
-      "opp_shooting": -156.9746619893374,
-      "opp_ball_handling": -137.74253638039863,
-      "opp_orebounding": -44.2734616662011,
-      "opp_free_throws": -25.93881554183923
+      "shooting": 157.92541352343565,
+      "ball_handling": 144.97079952963534,
+      "orebounding": 46.39677290542714,
+      "free_throws": 30.637371374646026,
+      "opp_shooting": -158.55314497593122,
+      "opp_ball_handling": -135.90678422906123,
+      "opp_orebounding": -42.577405810555,
+      "opp_free_throws": -26.32488345724272
     },
-    "intercept": -10.872019869224644,
+    "intercept": -9.34192935778018,
     "league_averages": {
-      "shooting": 0.5351383807503528,
-      "ball_handling": 0.8754717635962095,
-      "orebounding": 0.2318552724066275,
-      "free_throws": 0.19729997903180355,
-      "opp_shooting": 0.5366887341281705,
-      "opp_ball_handling": 0.8757076741409465,
-      "opp_orebounding": 0.23229006242524264,
-      "opp_free_throws": 0.19772642462135256
+      "shooting": 0.5294577809796418,
+      "ball_handling": 0.8740629094812713,
+      "orebounding": 0.23167819889923671,
+      "free_throws": 0.20139531010860048,
+      "opp_shooting": 0.5309007674679631,
+      "opp_ball_handling": 0.8742285297449761,
+      "opp_orebounding": 0.23201265735849583,
+      "opp_free_throws": 0.201868018226548
     },
-    "r_squared": 0.9822020614099193,
-    "training_team_seasons": 180
+    "r_squared": 0.9883092241503635,
+    "training_team_seasons": 300
   }
 }
