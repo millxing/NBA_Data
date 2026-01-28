@@ -1,0 +1,41 @@
+{
+  "trained_at": "2026-01-28T11:08:27",
+  "training_seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "model_type": "season_level",
+  "eight_factors": {
+    "coefficients": {
+      "shooting": 154.2547375017442,
+      "ball_handling": 149.1372754907151,
+      "orebounding": 51.3955021495194,
+      "free_throws": 29.358854839490984,
+      "opp_shooting": -156.9746619893374,
+      "opp_ball_handling": -137.74253638039863,
+      "opp_orebounding": -44.2734616662011,
+      "opp_free_throws": -25.93881554183923
+    },
+    "intercept": -10.872019869224644,
+    "league_averages": {
+      "shooting": 0.5351383807503528,
+      "ball_handling": 0.8754717635962095,
+      "orebounding": 0.2318552724066275,
+      "free_throws": 0.19729997903180355,
+      "opp_shooting": 0.5366887341281705,
+      "opp_ball_handling": 0.8757076741409465,
+      "opp_orebounding": 0.23229006242524264,
+      "opp_free_throws": 0.19772642462135256
+    },
+    "r_squared": 0.9822020614099193,
+    "training_team_seasons": 180
+  }
+}
