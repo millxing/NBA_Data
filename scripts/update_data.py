@@ -45,6 +45,12 @@ NBA_CUP_KNOCKOUT_DATES = {
     "2025-12-16": "nba_cup_final",
 }
 
+# Cancelled/invalid games to exclude (game was scheduled but never played)
+# IND @ BOS on 2013-04-16 was cancelled due to Boston Marathon bombing, never rescheduled
+CANCELLED_GAME_IDS = {
+    "0021201214",  # 2012-13 IND @ BOS cancelled 4/16/2013
+}
+
 
 # ============================================================================
 # Schema definitions (matches NBA_Data canonical format)
@@ -196,6 +202,12 @@ def _normalize_game_level_df(df: pd.DataFrame) -> pd.DataFrame:
     # Drop invalid rows and dedupe
     d = d.dropna(subset=["game_id"])
     d = d.drop_duplicates(subset=["game_id"], keep="first")
+
+    # Remove known cancelled games
+    cancelled_mask = d["game_id"].isin(CANCELLED_GAME_IDS)
+    if cancelled_mask.any():
+        print(f"[data] Filtering out {cancelled_mask.sum()} cancelled game(s)")
+        d = d[~cancelled_mask].copy()
 
     # Sort by game_date
     if "game_date" in d.columns:
