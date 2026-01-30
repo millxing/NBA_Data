@@ -145,11 +145,16 @@ def get_current_season() -> str:
 
 
 def _snake_case(x: object) -> str:
-    """Convert string to snake_case."""
+    """Convert string to snake_case with game_type normalization."""
     s = str(x).strip().lower()
     s = re.sub(r"[^a-z0-9]+", "_", s).strip("_")
+    # Normalize game_type for consistency across seasons
     if s == "regularseason":
         return "regular_season"
+    if s == "playoff":
+        return "playoffs"
+    if s == "playin":
+        return "play_in"
     return s
 
 
