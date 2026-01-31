@@ -20,6 +20,25 @@ from typing import Callable, Dict, Optional, TypeVar
 import pandas as pd
 
 from nba_api.stats.endpoints import leaguegamelog, boxscoresummaryv3, boxscoreadvancedv3
+from nba_api.stats.library.http import NBAStatsHTTP
+
+# Configure custom headers to avoid blocks from cloud IPs (GitHub Actions)
+# The NBA API blocks requests that look like they're from bots/scrapers
+NBAStatsHTTP.HEADERS = {
+    "Host": "stats.nba.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "x-nba-stats-origin": "stats",
+    "x-nba-stats-token": "true",
+    "Connection": "keep-alive",
+    "Referer": "https://stats.nba.com/",
+    "Origin": "https://stats.nba.com",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+}
 
 
 # ============================================================================
