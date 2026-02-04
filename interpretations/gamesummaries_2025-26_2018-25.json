@@ -3696,6 +3696,81 @@
       "generated_at": "2026-02-03T08:44:29.893452",
       "model": "claude-sonnet-4-20250514",
       "eight_factors": "- Los Angeles dominated with blistering 65% effective field goal shooting, providing the strongest individual factor performance of the game\n- Philadelphia's exceptional ball security with just 6% turnover rate kept possessions alive and prevented easy Los Angeles transition opportunities  \n- Los Angeles failed to capitalize on second chances with poor 16% offensive rebounding that hurt their ability to extend possessions\n- Philadelphia's superb 31% offensive rebounding created additional scoring opportunities and kept defensive possessions alive\n- Los Angeles struggled to get to the free throw line with subpar 15% free throw rate, limiting easy scoring chances\n- Los Angeles turned the ball over too frequently with subpar ball handling that gave Philadelphia extra possessions"
+    },
+    "22500109": {
+      "generated_at": "2026-02-04T06:00:51.220009",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Charlotte's hot shooting carried their dominant win, connecting at a good 59% effective field goal rate that overwhelmed Washington's defense\n- Washington's poor offensive rebounding effort at just 15% failed to generate second-chance opportunities in the blowout loss\n- Charlotte's excellent free throw aggression at 33% kept Washington in foul trouble and added crucial easy points\n- Charlotte's good ball security limited their turnovers and maintained offensive flow throughout the rout\n- Washington's sloppy ball-handling with average turnover rate still cost them possessions they couldn't afford to waste"
+    },
+    "22500107": {
+      "generated_at": "2026-02-04T06:00:58.819862",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Milwaukee's careless ball-handling proved costly with poor turnover rate (17%), generating critical extra possessions for Cleveland despite their offensive struggles.\n- Cleveland dominated free throw generation with an excellent 32% rate, repeatedly getting to the line in crucial moments to offset their shooting woes.\n- Milwaukee's efficient shooting at 59% eFG kept them competitive but wasn't enough to overcome their self-inflicted mistakes.\n- Cleveland's sloppy ball security with subpar turnover rate (15%) handed Milwaukee extra scoring opportunities they couldn't afford to give up.\n- Milwaukee's solid free throw rate of 25% provided some offensive balance but fell short of matching Cleveland's aggressive rim attacks.\n- Cleveland capitalized on second chances with good offensive rebounding at 26%, extending possessions when their initial shots weren't falling."
+    },
+    "22500135": {
+      "generated_at": "2026-02-04T06:01:06.421055",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Utah's aggressive play generated an excellent free throw rate of 49%, living at the line and creating crucial extra scoring opportunities in the high-scoring affair.\n\n- Portland's hot shooting performance at 59% eFG undermined Utah's defensive efforts, as the Trail Blazers found quality looks throughout the contest.\n\n- Utah's careless ball-handling proved costly with poor turnover management at 82%, giving Portland additional possessions in a game decided by just two points.\n\n- Utah dominated the offensive glass with an excellent 39% offensive rebounding rate, extending possessions and creating second-chance opportunities.\n\n- Utah's strong offensive rebounding advantage was partially offset by Portland's excellent 32% rate on their own offensive glass, limiting second-chance opportunities for the home team.\n\n- Portland's good ball security at 85% turnover rate helped preserve possessions against Utah's defensive pressure."
+    },
+    "22500020": {
+      "generated_at": "2026-02-04T06:01:13.908899",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Indiana's frigid shooting doomed them with a dismal 42% effective field goal percentage that severely hampered their offensive output.\n\n- Atlanta's scorching 60% effective field goal percentage fueled their dominant offensive performance and created separation throughout the game.\n\n- Atlanta's pristine ball security with excellent turnover rate limited Indiana's transition opportunities and kept their offense flowing smoothly.\n\n- Indiana's disciplined ball-handling with a strong turnover rate helped them stay competitive despite other struggles.\n\n- Indiana dominated the offensive glass with an outstanding 30% offensive rebounding rate, generating crucial second-chance opportunities.\n\n- Atlanta failed to secure defensive rebounds consistently, allowing Indiana extra possessions with a good 28% offensive rebounding rate against them.\n\n- Indiana's aggressive approach drew fouls effectively with a solid 25% free throw rate that provided additional scoring chances."
+    },
+    "22500163": {
+      "generated_at": "2026-02-04T06:01:22.950667",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Lakers shot the lights out with 64% effective field goal percentage, overwhelming Portland's defense with scorching efficiency.\n- Portland dominated the offensive glass at an elite 37% rate, generating crucial extra possessions that kept them competitive despite other shortcomings.\n- Portland's sloppy ball-handling undermined their upset bid, turning the ball over at a poor 84% rate that gifted the Lakers easy transition opportunities.\n- Lakers capitalized on Portland's careless possessions, forcing turnovers at a poor rate for Portland while maintaining their own offensive flow.\n- Portland's excellent free throw rate of 26% provided valuable scoring chances, consistently drawing contact and earning trips to the charity stripe.\n- Portland failed to secure defensive rebounds effectively, allowing the Lakers too many second-chance opportunities despite their good 26% offensive rebounding rate.\n- Portland's solid shooting performance at 55% effective field goal percentage helped offset some of their other struggles in the loss.\n- Lakers' excellent defensive rebounding limited Portland's offensive glass advantage, though Portland still managed to create extra possessions."
+    },
+    "22500721": {
+      "generated_at": "2026-02-04T06:01:29.133814",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Dallas managed poor 47% effective field goal shooting that severely undermined their offensive output despite the loss\n- Boston's excellent ball security at 91% possessions kept was negated by their inability to generate free throw attempts at just 3% of field goal attempts\n- Dallas countered with excellent ball handling of their own at 91%, providing a crucial foundation that kept them competitive\n- Boston's solid 56% effective field goal shooting created consistent scoring opportunities throughout the contest\n- Dallas capitalized on second chances with good offensive rebounding at 26% to extend possessions"
+    },
+    "22500723": {
+      "generated_at": "2026-02-04T06:01:35.140758",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Orlando's poor shooting performance was the defining factor, connecting on just 46% of field goal attempts in a dismal offensive showing.\n\n- Oklahoma City's scorching 58% effective field goal percentage fueled their dominant offensive attack.\n\n- Oklahoma City controlled the glass with excellent 33% offensive rebounding, extending possessions and creating second-chance opportunities.\n\n- Oklahoma City's excellent ball security with just 10% turnover rate kept their offense humming smoothly.\n\n- Orlando's sloppy ball-handling with subpar turnover rate of 15% disrupted their offensive flow throughout the contest.\n\n- Orlando's poor free throw rate of 12% showed their inability to draw contact and get to the line against Oklahoma City's defense."
+    },
+    "22500722": {
+      "generated_at": "2026-02-04T06:01:41.470174",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Milwaukee's scorching 63% effective field goal shooting powered their victory, as the Bucks found excellent looks throughout the night.\n\n- Chicago's pristine ball security backfired as their excellent ball-handling couldn't overcome other deficiencies in the loss.\n\n- Milwaukee's strong work on the offensive glass at 28% gave them crucial extra possessions to extend their lead.\n\n- Milwaukee's inability to draw fouls hindered their offensive output, managing just an 8% free throw rate.\n\n- Chicago's average shooting at 55% effective field goal percentage left points on the table in the defeat."
+    },
+    "22500720": {
+      "generated_at": "2026-02-04T06:01:48.508439",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Miami's ice-cold shooting was devastating, managing just 48% effective field goal percentage in a poor display that severely handicapped their offensive output.\n\n- Atlanta's pristine ball security proved crucial, posting an excellent 92% ball-handling rate that protected possessions and maintained offensive flow throughout the victory.\n\n- Miami's strong defensive rebounding limited Atlanta to just 16% offensive rebounds, helping contain second-chance opportunities despite the loss.\n\n- Miami's poor free throw generation at 0.08 attempts per field goal attempt left valuable points on the table against Atlanta's disciplined defense.\n\n- Miami's disciplined ball-handling at 89% kept them competitive by minimizing turnovers and extra possessions for Atlanta.\n\n- Miami drew fouls effectively with a 24% free throw rate, creating additional scoring chances through aggressive drives and smart positioning."
+    },
+    "22500724": {
+      "generated_at": "2026-02-04T06:01:55.730081",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Philadelphia dominated the offensive glass with excellent rebounding (50%) that created numerous second-chance opportunities for the visitors\n\n- Golden State's careless ball-handling with poor turnover rate (80%) gifted Philadelphia easy scoring chances in transition\n\n- Golden State's hot shooting (60% eFG) kept them competitive early but couldn't overcome their other shortcomings\n\n- Golden State failed to draw fouls with a poor free throw rate (1.3 per field goal attempt) limiting their scoring opportunities\n\n- Philadelphia's good ball security (89% turnover rate) protected possessions and sustained their offensive rhythm\n\n- Golden State's subpar offensive rebounding (21%) failed to extend possessions when they needed extra opportunities most\n\n- Philadelphia maintained solid shooting efficiency at 52% eFG to complement their other advantages"
+    },
+    "22500718": {
+      "generated_at": "2026-02-04T06:02:00.536349",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- New York's scorching 62% effective field goal percentage fueled their dominant road victory\n- New York's pristine ball security with excellent turnover rate (8.4%) kept possessions alive throughout the blowout\n- Washington's frigid 47% effective field goal shooting left them unable to keep pace offensively\n- Washington's subpar offensive rebounding at 20% failed to generate second-chance opportunities in the loss"
+    },
+    "22500717": {
+      "generated_at": "2026-02-04T06:02:06.227862",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Utah's scorching 64% effective field goal percentage overwhelmed Indiana's defense and drove the road victory\n- Indiana's exceptional 62% shooting from the field kept them competitive but wasn't enough to overcome other deficiencies\n- Utah's pristine ball security with just 9% turnover rate created additional possessions and scoring opportunities\n- Indiana's poor rebounding effort on the offensive glass at 18% failed to extend possessions when they needed second chances\n- Indiana's careless ball-handling with frequent turnovers gifted Utah extra scoring chances in the loss"
+    },
+    "22500716": {
+      "generated_at": "2026-02-04T06:02:13.501540",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Detroit's excellent ball security (92% possession retention) was the decisive factor in their upset victory, turning what should have been a Denver advantage into a major edge for the Pistons.\n\n- Denver's exceptional free throw rate of 45% backfired as they couldn't capitalize on their trips to the line when it mattered most.\n\n- Denver's subpar shooting performance (51% eFG) kept Detroit within striking distance despite being the road underdog.\n\n- Denver failed to secure defensive rebounds (28% OREB allowed), giving Detroit crucial second-chance opportunities in the tight finish.\n\n- Detroit's strong offensive rebounding (28%) extended possessions and helped overcome their shooting struggles.\n\n- Detroit lived at the free throw line with a 28% rate, drawing fouls at crucial moments to seal the narrow victory."
+    },
+    "22500719": {
+      "generated_at": "2026-02-04T06:02:19.787969",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Los Angeles dominated with efficient shooting at 58%, capitalizing on quality looks throughout the contest.\n- Brooklyn's reckless ball-handling plagued their offense with an 83% turnover rate, gifting possessions to the Lakers.\n- Brooklyn crashed the offensive glass relentlessly at 34%, extending possessions despite their struggles.\n- Los Angeles lived at the free throw line with a 0.31 rate, drawing contact and earning easy points.\n- Brooklyn's poor free throw rate of 10% left points on the table, failing to draw fouls consistently.\n- Los Angeles maintained solid ball security at 89%, avoiding costly turnovers in transition."
+    },
+    "22500725": {
+      "generated_at": "2026-02-04T06:02:26.577278",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Phoenix torched Portland with excellent shooting at 62% effective field goal percentage, creating the game's largest advantage for the visiting Suns.\n- Portland dominated the offensive glass with an excellent 40% offensive rebounding rate, extending possessions and keeping pace in the high-scoring affair.\n- Phoenix's pristine ball security at 90% ball-handling rate limited Portland's transition opportunities despite the road win.\n- Portland's subpar ball-handling at 86% led to costly turnovers that Phoenix capitalized on in the narrow victory.\n- Phoenix's poor free throw rate of 10% meant they couldn't draw fouls consistently, though their shooting excellence compensated.\n- Portland's subpar free throw rate of 14% reflected their inability to get to the line enough in the losing effort."
     }
   },
   "decomposition_model_id": "2018-2025"
