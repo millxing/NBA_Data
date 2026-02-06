@@ -3806,6 +3806,46 @@
       "generated_at": "2026-02-05T09:00:44.942765",
       "model": "claude-sonnet-4-20250514",
       "eight_factors": "- Toronto's excellent shooting efficiency at 61% eFG fueled their offensive explosion in the narrow loss.\n- Minnesota's excellent ball security at 91% hurt them as they failed to create extra possessions through turnover generation.\n- Minnesota's good offensive rebounding at 29% couldn't capitalize on second-chance opportunities in the tight defeat.\n- Minnesota's subpar free throw rate of 14% surprisingly helped keep them competitive by avoiding foul trouble."
+    },
+    "22500739": {
+      "generated_at": "2026-02-06T06:01:05.598703",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Golden State's sloppy ball security undermined their efficiency, turning the ball over at a subpar 15% clip that cost them crucial possessions in the narrow defeat.\n- Phoenix's poor offensive rebounding rate of 15% failed to generate second-chance opportunities when they desperately needed extra possessions in the tight loss.\n- Phoenix struggled to draw contact and get to the free throw line, managing just a 6% free throw rate that limited their scoring avenues in the four-point defeat.\n- Phoenix's efficient shooting kept them competitive despite other shortcomings, connecting at a solid 56% effective field goal rate."
+    },
+    "22500740": {
+      "generated_at": "2026-02-06T06:01:12.056537",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Los Angeles torched Philadelphia with exceptional shooting efficiency at 61%, creating the game's largest scoring advantage.\n\n- Los Angeles turned the ball over at an alarming rate with sloppy ball security, giving Philadelphia significant extra possessions that kept them competitive.\n\n- Philadelphia's poor rebounding on the offensive glass at just 11% cost them crucial second-chance opportunities in the narrow defeat.\n\n- Philadelphia's solid shooting performance at 57% helped keep pace but wasn't enough to overcome other disadvantages.\n\n- Los Angeles dominated the offensive boards at 29%, extending possessions and creating additional scoring chances.\n\n- Philadelphia's subpar ball handling limited their ability to fully capitalize on Los Angeles' turnover struggles.\n\n- Los Angeles effectively drew fouls and lived at the line with a 28% free throw rate."
+    },
+    "22500738": {
+      "generated_at": "2026-02-06T06:01:16.979156",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- San Antonio's scorching shooting display at 60% eFG fueled their road victory, overwhelming Dallas with elite offensive efficiency.\n- Dallas protected the ball exceptionally well with just 8% turnover rate, but it wasn't enough to overcome other deficiencies in the loss.\n- Dallas failed to secure defensive rebounds, grabbing only 15% of available offensive boards and allowing San Antonio crucial second-chance opportunities."
+    },
+    "22500733": {
+      "generated_at": "2026-02-06T06:01:23.758709",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Washington's scorching shooting at 64% effective field goal percentage overwhelmed Detroit's defense and drove the road victory.\n- Detroit dominated the offensive glass with an excellent 33% offensive rebounding rate, extending possessions and keeping pace despite other shortcomings.\n- Washington's sloppy ball-handling hurt their offensive flow, turning the ball over on 15% of possessions in subpar fashion.\n- Detroit's excellent free throw rate of 30% helped them stay competitive by consistently drawing fouls and getting to the line.\n- Washington's poor free throw rate of just 11% limited their scoring opportunities despite otherwise dominant offensive performance."
+    },
+    "22500735": {
+      "generated_at": "2026-02-06T06:01:30.247325",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Atlanta dominated the glass with excellent offensive rebounding at 38%, creating crucial second-chance opportunities that powered their narrow victory.\n\n- Utah's excellent ball security at 91% was undermined by Atlanta's relentless offensive rebounding, as the Jazz couldn't capitalize on their clean possessions.\n\n- Atlanta's exceptional ball-handling at 91% helped preserve their slim margin, avoiding costly turnovers in a tight finish.\n\n- Utah's struggles getting to the free throw line at just 13% limited their scoring opportunities in a game decided by two points.\n\n- Utah managed decent shooting efficiency at 53% despite the loss, but couldn't overcome their other disadvantages."
+    },
+    "22500736": {
+      "generated_at": "2026-02-06T06:01:40.367650",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Toronto's scorching shooting display at 64% eFG powered their dominant victory, as they consistently found open looks and converted at an elite level.\n\n- Chicago's aggressive rebounding effort grabbing 33% of their missed shots helped extend possessions but couldn't overcome other deficiencies in the loss.\n\n- Chicago struggled to draw contact and get to the free throw line with just a 0.08 rate, limiting their ability to generate easy scoring opportunities.\n\n- Chicago's careless ball security at 85% turnover rate led to extra Toronto possessions that the home team capitalized on efficiently.\n\n- Toronto's poor free throw rate of 0.13 prevented them from fully maximizing their offensive explosion.\n\n- Chicago's average shooting at 55% eFG left points on the table as they couldn't match Toronto's offensive firepower.\n\n- Toronto's solid ball protection minimized turnovers and kept Chicago from generating easy transition opportunities."
+    },
+    "22500737": {
+      "generated_at": "2026-02-06T06:01:48.295748",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Charlotte's poor ball security (81% turnover rate) paradoxically boosted their victory by nearly 9 points as Houston failed to capitalize on the extra possessions.\n\n- Houston's abysmal ball-handling (83% turnover rate) cost them dearly, gifting Charlotte easy scoring opportunities in a game decided by turnovers.\n\n- Charlotte's dominant offensive rebounding (36%) backfired by 6+ points, suggesting Houston converted second-chance opportunities into transition defense or that the offensive boards led to poor shot selection.\n\n- Houston's subpar shooting (51% eFG) limited their scoring efficiency and contributed significantly to the 10-point loss.\n\n- Charlotte's slightly better shooting touch (51% eFG) provided a crucial 4-point edge in an otherwise sloppy affair.\n\n- Houston's solid work on the offensive glass (29% OREB rate) salvaged some possessions and added valuable points in the loss."
+    },
+    "22500734": {
+      "generated_at": "2026-02-06T06:01:55.587686",
+      "model": "claude-sonnet-4-20250514",
+      "eight_factors": "- Orlando's efficient shooting attack powered their dominant victory, connecting at a strong 59% effective field goal rate that overwhelmed Brooklyn's defense.\n\n- Brooklyn's sloppy ball-handling proved costly in the blowout loss, turning the ball over at a poor 83% rate that gifted Orlando numerous extra possessions.\n\n- Brooklyn's subpar shooting woes compounded their struggles, managing just 49% effective field goal percentage against Orlando's stifling defensive pressure.\n\n- Orlando's careless turnover rate hurt their offensive flow despite the convincing win, coughing up possessions at a poor 84% clip.\n\n- Orlando controlled the offensive glass effectively with 27% of available rebounds, extending possessions and wearing down Brooklyn's interior defense.\n\n- Orlando's aggressive approach drew quality foul calls with a 26% free throw rate, consistently putting pressure on Brooklyn's defenders."
     }
   },
   "decomposition_model_id": "2018-2025"
