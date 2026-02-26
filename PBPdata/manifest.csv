@@ -1,5 +1,5 @@
 source,season,season_type,file_path,row_count,game_count,sha256,updated_at
-api_pbpv3,2025-26,regular,PBPdata/api_pbpv3/regular/api_pbpv3_2025.csv,485671,845,cccdea10b161d1b0d048922a0c278af834eef6a58464e6691e16b29fe194d048,2026-02-22T17:07:12
+api_pbpv3,2025-26,regular,PBPdata/api_pbpv3/regular/api_pbpv3_2025.csv,501191,876,f5a3b1fd0ea5c08e44fa7270af911335adcc495ac3562ef65376e3680ea020f5,2026-02-26T06:48:51
 cdnnba,2020-21,playoffs,PBPdata/cdnnba/playoffs/cdnnba_po_2020.csv,47443,85,3e7a707543eacbac491b4124d68b2868f4657b43980c61f2ff7f67deda649225,2026-02-22T17:07:12
 cdnnba,2020-21,regular,PBPdata/cdnnba/regular/cdnnba_2020.csv,605198,1080,9b720fd6137398ef934dc0ed78385b7ed765fceb77c891707f7e453625c31c57,2026-02-22T17:07:14
 cdnnba,2021-22,playoffs,PBPdata/cdnnba/playoffs/cdnnba_po_2021.csv,48527,87,609ed58ac0f2a0dc593740846e968ae3c9a281bf552636d70217624453cab007,2026-02-22T17:07:12
