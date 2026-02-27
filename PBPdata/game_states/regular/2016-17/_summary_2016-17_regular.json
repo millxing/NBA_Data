@@ -1,0 +1,312 @@
+{
+  "season": "2016-17",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:30:02.507013+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2016.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1220,
+  "mismatched_games": 10,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 10,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0021600026",
+      "home_team": "PHI",
+      "road_team": "ATL",
+      "differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 15,
+          "actual_home": 11,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 15,
+          "actual_home": 11,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_PHI_ATL_0021600026.json"
+    },
+    {
+      "game_id": "0021600158",
+      "home_team": "PHI",
+      "road_team": "WAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 18,
+          "actual_home": 15,
+          "actual_road": 19,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 18,
+          "actual_home": 15,
+          "actual_road": 19,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_PHI_WAS_0021600158.json"
+    },
+    {
+      "game_id": "0021600214",
+      "home_team": "ORL",
+      "road_team": "PHX",
+      "differences": {
+        "pf": {
+          "expected_home": 19,
+          "expected_road": 20,
+          "actual_home": 19,
+          "actual_road": 18,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 19,
+          "expected_road": 20,
+          "actual_home": 19,
+          "actual_road": 18,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_ORL_PHX_0021600214.json"
+    },
+    {
+      "game_id": "0021600344",
+      "home_team": "LAL",
+      "road_team": "PHX",
+      "differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 16,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 16,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_LAL_PHX_0021600344.json"
+    },
+    {
+      "game_id": "0021600478",
+      "home_team": "ATL",
+      "road_team": "NYK",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 21,
+          "actual_home": 21,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 21,
+          "actual_home": 21,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_ATL_NYK_0021600478.json"
+    },
+    {
+      "game_id": "0021600487",
+      "home_team": "MEM",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 26,
+          "actual_home": 15,
+          "actual_road": 27,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 26,
+          "actual_home": 15,
+          "actual_road": 27,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_MEM_OKC_0021600487.json"
+    },
+    {
+      "game_id": "0021600528",
+      "home_team": "LAL",
+      "road_team": "MEM",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 32,
+          "actual_home": 16,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 32,
+          "actual_home": 16,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_LAL_MEM_0021600528.json"
+    },
+    {
+      "game_id": "0021600770",
+      "home_team": "IND",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 15,
+          "actual_home": 19,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 15,
+          "actual_home": 19,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_IND_OKC_0021600770.json"
+    },
+    {
+      "game_id": "0021600871",
+      "home_team": "CLE",
+      "road_team": "CHI",
+      "differences": {
+        "fgm": {
+          "expected_home": 37,
+          "expected_road": 46,
+          "actual_home": 37,
+          "actual_road": 45,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {
+        "fgm": {
+          "expected_home": 37,
+          "expected_road": 46,
+          "actual_home": 37,
+          "actual_road": 45,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_CLE_CHI_0021600871.json"
+    },
+    {
+      "game_id": "0021601215",
+      "home_team": "LAL",
+      "road_team": "NOP",
+      "differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 15,
+          "actual_home": 17,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 15,
+          "actual_home": 17,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2016-17/2016-17_LAL_NOP_0021601215.json"
+    }
+  ]
+}

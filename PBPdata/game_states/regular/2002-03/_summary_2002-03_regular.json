@@ -1,0 +1,156 @@
+{
+  "season": "2002-03",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:05:46.618386+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2002.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2002-03",
+  "candidate_games": 1189,
+  "processed_games": 1189,
+  "skipped_existing_games": 0,
+  "matched_games": 1185,
+  "mismatched_games": 4,
+  "source_consistent_mismatched_games": 1,
+  "parser_mismatched_games": 3,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020200053",
+      "home_team": "CLE",
+      "road_team": "LAL",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 16,
+          "actual_road": 17,
+          "delta_home": 3,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 16,
+          "actual_road": 17,
+          "delta_home": 3,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2002-03/2002-03_CLE_LAL_0020200053.json"
+    },
+    {
+      "game_id": "0020200162",
+      "home_team": "DEN",
+      "road_team": "UTA",
+      "differences": {
+        "pf": {
+          "expected_home": 29,
+          "expected_road": 31,
+          "actual_home": 29,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 29,
+          "expected_road": 31,
+          "actual_home": 29,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2002-03/2002-03_DEN_UTA_0020200162.json"
+    },
+    {
+      "game_id": "0020200286",
+      "home_team": "DEN",
+      "road_team": "IND",
+      "differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 30,
+          "actual_home": 24,
+          "actual_road": 31,
+          "delta_home": 0,
+          "delta_road": 1
+        },
+        "pf": {
+          "expected_home": 30,
+          "expected_road": 31,
+          "actual_home": 30,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 30,
+          "actual_home": 24,
+          "actual_road": 31,
+          "delta_home": 0,
+          "delta_road": 1
+        },
+        "pf": {
+          "expected_home": 30,
+          "expected_road": 31,
+          "actual_home": 30,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2002-03/2002-03_DEN_IND_0020200286.json"
+    },
+    {
+      "game_id": "0020200291",
+      "home_team": "SAS",
+      "road_team": "SAC",
+      "differences": {
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 10,
+          "actual_home": 14,
+          "actual_road": 9,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 10,
+          "actual_home": 14,
+          "actual_road": 9,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2002-03/2002-03_SAS_SAC_0020200291.json"
+    }
+  ]
+}

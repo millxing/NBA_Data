@@ -1,0 +1,51 @@
+{
+  "season": "2006-07",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:12:02.009524+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2006.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2006-07",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1229,
+  "mismatched_games": 1,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 1,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020601199",
+      "home_team": "TOR",
+      "road_team": "NYK",
+      "differences": {
+        "fta": {
+          "expected_home": 25,
+          "expected_road": 31,
+          "actual_home": 26,
+          "actual_road": 31,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "fta": {
+          "expected_home": 25,
+          "expected_road": 31,
+          "actual_home": 26,
+          "actual_road": 31,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2006-07/2006-07_TOR_NYK_0020601199.json"
+    }
+  ]
+}

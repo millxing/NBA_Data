@@ -1,0 +1,98 @@
+{
+  "season": "2001-02",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:04:16.547818+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2001.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2001-02",
+  "candidate_games": 1189,
+  "processed_games": 1189,
+  "skipped_existing_games": 0,
+  "matched_games": 1187,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 1,
+  "parser_mismatched_games": 1,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020100064",
+      "home_team": "TOR",
+      "road_team": "GSW",
+      "differences": {
+        "blk": {
+          "expected_home": 20,
+          "expected_road": 5,
+          "actual_home": 24,
+          "actual_road": 5,
+          "delta_home": 4,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "blk": {
+          "expected_home": 20,
+          "expected_road": 5,
+          "actual_home": 24,
+          "actual_road": 5,
+          "delta_home": 4,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "blk": "block_counter_blk_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2001-02/2001-02_TOR_GSW_0020100064.json"
+    },
+    {
+      "game_id": "0020101169",
+      "home_team": "ATL",
+      "road_team": "ORL",
+      "differences": {
+        "reb": {
+          "expected_home": 54,
+          "expected_road": 39,
+          "actual_home": 54,
+          "actual_road": 37,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "stl": {
+          "expected_home": 9,
+          "expected_road": 13,
+          "actual_home": 8,
+          "actual_road": 11,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "reb": {
+          "expected_home": 54,
+          "expected_road": 39,
+          "actual_home": 54,
+          "actual_road": 37,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "stl": {
+          "expected_home": 9,
+          "expected_road": 13,
+          "actual_home": 8,
+          "actual_road": 11,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2001-02/2001-02_ATL_ORL_0020101169.json"
+    }
+  ]
+}

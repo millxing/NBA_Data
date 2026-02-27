@@ -1,0 +1,373 @@
+{
+  "season": "2010-11",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:18:21.553873+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2010.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1219,
+  "mismatched_games": 11,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 11,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0021000044",
+      "home_team": "CHI",
+      "road_team": "POR",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 32,
+          "actual_home": 20,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 32,
+          "actual_home": 20,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_CHI_POR_0021000044.json"
+    },
+    {
+      "game_id": "0021000227",
+      "home_team": "IND",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 36,
+          "actual_home": 18,
+          "actual_road": 37,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 36,
+          "actual_home": 18,
+          "actual_road": 37,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_IND_OKC_0021000227.json"
+    },
+    {
+      "game_id": "0021000365",
+      "home_team": "DEN",
+      "road_team": "ORL",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 16,
+          "actual_home": 15,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 19,
+          "expected_road": 20,
+          "actual_home": 20,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 16,
+          "actual_home": 15,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 19,
+          "expected_road": 20,
+          "actual_home": 20,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_DEN_ORL_0021000365.json"
+    },
+    {
+      "game_id": "0021000434",
+      "home_team": "ORL",
+      "road_team": "BOS",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 18,
+          "actual_home": 20,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 18,
+          "actual_home": 20,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_ORL_BOS_0021000434.json"
+    },
+    {
+      "game_id": "0021000489",
+      "home_team": "MIL",
+      "road_team": "DAL",
+      "differences": {
+        "pf": {
+          "expected_home": 18,
+          "expected_road": 23,
+          "actual_home": 16,
+          "actual_road": 23,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 18,
+          "expected_road": 23,
+          "actual_home": 16,
+          "actual_road": 23,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_MIL_DAL_0021000489.json"
+    },
+    {
+      "game_id": "0021000676",
+      "home_team": "UTA",
+      "road_team": "SAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 23,
+          "actual_home": 21,
+          "actual_road": 24,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 23,
+          "actual_home": 21,
+          "actual_road": 24,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_UTA_SAS_0021000676.json"
+    },
+    {
+      "game_id": "0021000857",
+      "home_team": "PHX",
+      "road_team": "ATL",
+      "differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 12,
+          "actual_home": 12,
+          "actual_road": 13,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 12,
+          "actual_home": 12,
+          "actual_road": 13,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_PHX_ATL_0021000857.json"
+    },
+    {
+      "game_id": "0021000930",
+      "home_team": "LAC",
+      "road_team": "DEN",
+      "differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 11,
+          "actual_home": 23,
+          "actual_road": 11,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 11,
+          "actual_home": 23,
+          "actual_road": 11,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_LAC_DEN_0021000930.json"
+    },
+    {
+      "game_id": "0021001101",
+      "home_team": "CLE",
+      "road_team": "MIA",
+      "differences": {
+        "fgm": {
+          "expected_home": 35,
+          "expected_road": 33,
+          "actual_home": 35,
+          "actual_road": 32,
+          "delta_home": 0,
+          "delta_road": -1
+        },
+        "fg3m": {
+          "expected_home": 9,
+          "expected_road": 10,
+          "actual_home": 9,
+          "actual_road": 9,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {
+        "fgm": {
+          "expected_home": 35,
+          "expected_road": 33,
+          "actual_home": 35,
+          "actual_road": 32,
+          "delta_home": 0,
+          "delta_road": -1
+        },
+        "fg3m": {
+          "expected_home": 9,
+          "expected_road": 10,
+          "actual_home": 9,
+          "actual_road": 9,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_CLE_MIA_0021001101.json"
+    },
+    {
+      "game_id": "0021001173",
+      "home_team": "GSW",
+      "road_team": "LAL",
+      "differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 16,
+          "actual_home": 16,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 16,
+          "actual_home": 16,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_GSW_LAL_0021001173.json"
+    },
+    {
+      "game_id": "0021001210",
+      "home_team": "DEN",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 18,
+          "actual_home": 25,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 18,
+          "actual_home": 25,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2010-11/2010-11_DEN_GSW_0021001210.json"
+    }
+  ]
+}

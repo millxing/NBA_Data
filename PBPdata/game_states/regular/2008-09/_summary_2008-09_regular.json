@@ -1,0 +1,705 @@
+{
+  "season": "2008-09",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:15:12.132585+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2008.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1207,
+  "mismatched_games": 23,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 23,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020800010",
+      "home_team": "OKC",
+      "road_team": "MIL",
+      "differences": {
+        "pf": {
+          "expected_home": 23,
+          "expected_road": 22,
+          "actual_home": 23,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 23,
+          "expected_road": 22,
+          "actual_home": 23,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_OKC_MIL_0020800010.json"
+    },
+    {
+      "game_id": "0020800017",
+      "home_team": "DAL",
+      "road_team": "HOU",
+      "differences": {
+        "ftm": {
+          "expected_home": 28,
+          "expected_road": 29,
+          "actual_home": 28,
+          "actual_road": 30,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 28,
+          "expected_road": 29,
+          "actual_home": 28,
+          "actual_road": 30,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_DAL_HOU_0020800017.json"
+    },
+    {
+      "game_id": "0020800118",
+      "home_team": "CHI",
+      "road_team": "DAL",
+      "differences": {
+        "pf": {
+          "expected_home": 23,
+          "expected_road": 22,
+          "actual_home": 23,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 23,
+          "expected_road": 22,
+          "actual_home": 23,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_CHI_DAL_0020800118.json"
+    },
+    {
+      "game_id": "0020800138",
+      "home_team": "HOU",
+      "road_team": "NOH",
+      "differences": {
+        "ftm": {
+          "expected_home": 25,
+          "expected_road": 17,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 25,
+          "expected_road": 17,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_HOU_NOH_0020800138.json"
+    },
+    {
+      "game_id": "0020800147",
+      "home_team": "UTA",
+      "road_team": "PHX",
+      "differences": {
+        "pf": {
+          "expected_home": 24,
+          "expected_road": 28,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 24,
+          "expected_road": 28,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_UTA_PHX_0020800147.json"
+    },
+    {
+      "game_id": "0020800153",
+      "home_team": "BOS",
+      "road_team": "NYK",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 18,
+          "actual_home": 22,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 30,
+          "expected_road": 22,
+          "actual_home": 31,
+          "actual_road": 22,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 18,
+          "actual_home": 22,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 30,
+          "expected_road": 22,
+          "actual_home": 31,
+          "actual_road": 22,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_BOS_NYK_0020800153.json"
+    },
+    {
+      "game_id": "0020800157",
+      "home_team": "GSW",
+      "road_team": "POR",
+      "differences": {
+        "ftm": {
+          "expected_home": 33,
+          "expected_road": 20,
+          "actual_home": 33,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 33,
+          "expected_road": 20,
+          "actual_home": 33,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_GSW_POR_0020800157.json"
+    },
+    {
+      "game_id": "0020800225",
+      "home_team": "TOR",
+      "road_team": "ATL",
+      "differences": {
+        "ftm": {
+          "expected_home": 9,
+          "expected_road": 10,
+          "actual_home": 9,
+          "actual_road": 11,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 9,
+          "expected_road": 10,
+          "actual_home": 9,
+          "actual_road": 11,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_TOR_ATL_0020800225.json"
+    },
+    {
+      "game_id": "0020800242",
+      "home_team": "HOU",
+      "road_team": "SAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 21,
+          "actual_home": 20,
+          "actual_road": 21,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 21,
+          "actual_home": 20,
+          "actual_road": 21,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_HOU_SAS_0020800242.json"
+    },
+    {
+      "game_id": "0020800329",
+      "home_team": "BOS",
+      "road_team": "NOH",
+      "differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 24,
+          "actual_home": 23,
+          "actual_road": 24,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 24,
+          "actual_home": 23,
+          "actual_road": 24,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_BOS_NOH_0020800329.json"
+    },
+    {
+      "game_id": "0020800380",
+      "home_team": "BOS",
+      "road_team": "CHI",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 11,
+          "actual_home": 15,
+          "actual_road": 11,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 11,
+          "actual_home": 15,
+          "actual_road": 11,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_BOS_CHI_0020800380.json"
+    },
+    {
+      "game_id": "0020800400",
+      "home_team": "BOS",
+      "road_team": "NYK",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 20,
+          "actual_home": 15,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 20,
+          "actual_home": 15,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_BOS_NYK_0020800400.json"
+    },
+    {
+      "game_id": "0020800401",
+      "home_team": "WAS",
+      "road_team": "DAL",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 12,
+          "actual_home": 22,
+          "actual_road": 12,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 12,
+          "actual_home": 22,
+          "actual_road": 12,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_WAS_DAL_0020800401.json"
+    },
+    {
+      "game_id": "0020800431",
+      "home_team": "NOH",
+      "road_team": "HOU",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 22,
+          "actual_home": 19,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 22,
+          "actual_home": 19,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_NOH_HOU_0020800431.json"
+    },
+    {
+      "game_id": "0020800449",
+      "home_team": "LAL",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 24,
+          "actual_home": 27,
+          "actual_road": 24,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 24,
+          "actual_home": 27,
+          "actual_road": 24,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_LAL_GSW_0020800449.json"
+    },
+    {
+      "game_id": "0020800512",
+      "home_team": "DAL",
+      "road_team": "LAC",
+      "differences": {
+        "pf": {
+          "expected_home": 27,
+          "expected_road": 21,
+          "actual_home": 25,
+          "actual_road": 21,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 27,
+          "expected_road": 21,
+          "actual_home": 25,
+          "actual_road": 21,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_DAL_LAC_0020800512.json"
+    },
+    {
+      "game_id": "0020800654",
+      "home_team": "GSW",
+      "road_team": "LAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 18,
+          "actual_home": 17,
+          "actual_road": 19,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 18,
+          "actual_home": 17,
+          "actual_road": 19,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_GSW_LAC_0020800654.json"
+    },
+    {
+      "game_id": "0020800677",
+      "home_team": "POR",
+      "road_team": "CHA",
+      "differences": {
+        "pf": {
+          "expected_home": 20,
+          "expected_road": 24,
+          "actual_home": 18,
+          "actual_road": 24,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 20,
+          "expected_road": 24,
+          "actual_home": 18,
+          "actual_road": 24,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_POR_CHA_0020800677.json"
+    },
+    {
+      "game_id": "0020800681",
+      "home_team": "DET",
+      "road_team": "BOS",
+      "differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 20,
+          "actual_home": 17,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 20,
+          "actual_home": 17,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_DET_BOS_0020800681.json"
+    },
+    {
+      "game_id": "0020800713",
+      "home_team": "GSW",
+      "road_team": "SAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 25,
+          "actual_home": 12,
+          "actual_road": 26,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 25,
+          "actual_home": 12,
+          "actual_road": 26,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_GSW_SAS_0020800713.json"
+    },
+    {
+      "game_id": "0020800796",
+      "home_team": "UTA",
+      "road_team": "MEM",
+      "differences": {
+        "ftm": {
+          "expected_home": 32,
+          "expected_road": 26,
+          "actual_home": 33,
+          "actual_road": 26,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 32,
+          "expected_road": 26,
+          "actual_home": 33,
+          "actual_road": 26,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_UTA_MEM_0020800796.json"
+    },
+    {
+      "game_id": "0020800871",
+      "home_team": "DEN",
+      "road_team": "LAL",
+      "differences": {
+        "ftm": {
+          "expected_home": 27,
+          "expected_road": 21,
+          "actual_home": 27,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 27,
+          "expected_road": 21,
+          "actual_home": 27,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_DEN_LAL_0020800871.json"
+    },
+    {
+      "game_id": "0020801102",
+      "home_team": "UTA",
+      "road_team": "NYK",
+      "differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 25,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 25,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2008-09/2008-09_UTA_NYK_0020801102.json"
+    }
+  ]
+}

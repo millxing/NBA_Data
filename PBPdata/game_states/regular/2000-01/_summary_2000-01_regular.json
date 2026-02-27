@@ -1,0 +1,141 @@
+{
+  "season": "2000-01",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:02:47.375334+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2000.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2000-01",
+  "candidate_games": 1189,
+  "processed_games": 1189,
+  "skipped_existing_games": 0,
+  "matched_games": 1186,
+  "mismatched_games": 3,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 3,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020000106",
+      "home_team": "HOU",
+      "road_team": "CHI",
+      "differences": {
+        "fga": {
+          "expected_home": 71,
+          "expected_road": 88,
+          "actual_home": 71,
+          "actual_road": 86,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "fg3a": {
+          "expected_home": 19,
+          "expected_road": 9,
+          "actual_home": 19,
+          "actual_road": 7,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "fga": {
+          "expected_home": 71,
+          "expected_road": 88,
+          "actual_home": 71,
+          "actual_road": 86,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "fg3a": {
+          "expected_home": 19,
+          "expected_road": 9,
+          "actual_home": 19,
+          "actual_road": 7,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2000-01/2000-01_HOU_CHI_0020000106.json"
+    },
+    {
+      "game_id": "0020000170",
+      "home_team": "IND",
+      "road_team": "TOR",
+      "differences": {
+        "fta": {
+          "expected_home": 15,
+          "expected_road": 37,
+          "actual_home": 15,
+          "actual_road": 38,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "fta": {
+          "expected_home": 15,
+          "expected_road": 37,
+          "actual_home": 15,
+          "actual_road": 38,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2000-01/2000-01_IND_TOR_0020000170.json"
+    },
+    {
+      "game_id": "0020000972",
+      "home_team": "DAL",
+      "road_team": "POR",
+      "differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 19,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 25,
+          "expected_road": 25,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 19,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 25,
+          "expected_road": 25,
+          "actual_home": 24,
+          "actual_road": 25,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2000-01/2000-01_DAL_POR_0020000972.json"
+    }
+  ]
+}

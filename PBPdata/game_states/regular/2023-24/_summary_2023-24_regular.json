@@ -1,0 +1,112 @@
+{
+  "season": "2023-24",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:41:01.496495+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2023.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2023-24",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1228,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 2,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0022300195",
+      "home_team": "TOR",
+      "road_team": "MIL",
+      "differences": {
+        "ftm": {
+          "expected_home": 27,
+          "expected_road": 20,
+          "actual_home": 26,
+          "actual_road": 20,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 31,
+          "expected_road": 21,
+          "actual_home": 30,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 27,
+          "expected_road": 20,
+          "actual_home": 26,
+          "actual_road": 20,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 31,
+          "expected_road": 21,
+          "actual_home": 30,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2023-24/2023-24_TOR_MIL_0022300195.json"
+    },
+    {
+      "game_id": "0022301195",
+      "home_team": "NOP",
+      "road_team": "LAL",
+      "differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 17,
+          "actual_home": 11,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 18,
+          "actual_home": 14,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 17,
+          "actual_home": 11,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": -2
+        },
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 18,
+          "actual_home": 14,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2023-24/2023-24_NOP_LAL_0022301195.json"
+    }
+  ]
+}

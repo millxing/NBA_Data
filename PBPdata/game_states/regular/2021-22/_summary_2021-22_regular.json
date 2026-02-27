@@ -1,0 +1,80 @@
+{
+  "season": "2021-22",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:37:45.823602+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2021.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2021-22",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1228,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 2,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0022100707",
+      "home_team": "DEN",
+      "road_team": "DET",
+      "differences": {
+        "fgm": {
+          "expected_home": 44,
+          "expected_road": 42,
+          "actual_home": 44,
+          "actual_road": 41,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {
+        "fgm": {
+          "expected_home": 44,
+          "expected_road": 42,
+          "actual_home": 44,
+          "actual_road": 41,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2021-22/2021-22_DEN_DET_0022100707.json"
+    },
+    {
+      "game_id": "0022100924",
+      "home_team": "MIL",
+      "road_team": "CHA",
+      "differences": {
+        "fta": {
+          "expected_home": 37,
+          "expected_road": 32,
+          "actual_home": 37,
+          "actual_road": 31,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {
+        "fta": {
+          "expected_home": 37,
+          "expected_road": 32,
+          "actual_home": 37,
+          "actual_road": 31,
+          "delta_home": 0,
+          "delta_road": -1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2021-22/2021-22_MIL_CHA_0022100924.json"
+    }
+  ]
+}

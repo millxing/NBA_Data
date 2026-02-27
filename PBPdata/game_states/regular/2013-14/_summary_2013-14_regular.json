@@ -1,0 +1,486 @@
+{
+  "season": "2013-14",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:25:10.267446+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2013.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1214,
+  "mismatched_games": 16,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 16,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0021300031",
+      "home_team": "SAC",
+      "road_team": "LAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 28,
+          "actual_home": 24,
+          "actual_road": 28,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 28,
+          "actual_home": 24,
+          "actual_road": 28,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_SAC_LAC_0021300031.json"
+    },
+    {
+      "game_id": "0021300107",
+      "home_team": "MIA",
+      "road_team": "MIL",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 18,
+          "actual_home": 15,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 18,
+          "actual_home": 15,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_MIA_MIL_0021300107.json"
+    },
+    {
+      "game_id": "0021300215",
+      "home_team": "CHA",
+      "road_team": "IND",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 25,
+          "actual_home": 19,
+          "actual_road": 26,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 25,
+          "actual_home": 19,
+          "actual_road": 26,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_CHA_IND_0021300215.json"
+    },
+    {
+      "game_id": "0021300225",
+      "home_team": "DAL",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 8,
+          "expected_road": 26,
+          "actual_home": 8,
+          "actual_road": 27,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 8,
+          "expected_road": 26,
+          "actual_home": 8,
+          "actual_road": 27,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_DAL_GSW_0021300225.json"
+    },
+    {
+      "game_id": "0021300251",
+      "home_team": "SAC",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 16,
+          "actual_home": 25,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 24,
+          "expected_road": 16,
+          "actual_home": 25,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_SAC_GSW_0021300251.json"
+    },
+    {
+      "game_id": "0021300368",
+      "home_team": "GSW",
+      "road_team": "NOP",
+      "differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 22,
+          "actual_home": 17,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 22,
+          "actual_home": 17,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_GSW_NOP_0021300368.json"
+    },
+    {
+      "game_id": "0021300414",
+      "home_team": "SAS",
+      "road_team": "TOR",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 18,
+          "actual_home": 22,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 18,
+          "actual_home": 22,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_SAS_TOR_0021300414.json"
+    },
+    {
+      "game_id": "0021300451",
+      "home_team": "SAS",
+      "road_team": "SAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 15,
+          "actual_home": 16,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 15,
+          "actual_home": 16,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_SAS_SAC_0021300451.json"
+    },
+    {
+      "game_id": "0021300493",
+      "home_team": "MIN",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 27,
+          "actual_home": 19,
+          "actual_road": 27,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 27,
+          "actual_home": 19,
+          "actual_road": 27,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_MIN_OKC_0021300493.json"
+    },
+    {
+      "game_id": "0021300541",
+      "home_team": "GSW",
+      "road_team": "BOS",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 14,
+          "actual_home": 16,
+          "actual_road": 14,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 14,
+          "actual_home": 16,
+          "actual_road": 14,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_GSW_BOS_0021300541.json"
+    },
+    {
+      "game_id": "0021300564",
+      "home_team": "MEM",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 16,
+          "actual_home": 22,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 22,
+          "expected_road": 16,
+          "actual_home": 22,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_MEM_OKC_0021300564.json"
+    },
+    {
+      "game_id": "0021300656",
+      "home_team": "NOP",
+      "road_team": "ORL",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 17,
+          "actual_home": 22,
+          "actual_road": 17,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 17,
+          "actual_home": 22,
+          "actual_road": 17,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_NOP_ORL_0021300656.json"
+    },
+    {
+      "game_id": "0021300759",
+      "home_team": "BKN",
+      "road_team": "NOP",
+      "differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 15,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 15,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_BKN_NOP_0021300759.json"
+    },
+    {
+      "game_id": "0021301057",
+      "home_team": "CLE",
+      "road_team": "TOR",
+      "differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 16,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 26,
+          "expected_road": 16,
+          "actual_home": 26,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_CLE_TOR_0021301057.json"
+    },
+    {
+      "game_id": "0021301141",
+      "home_team": "GSW",
+      "road_team": "SAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 8,
+          "expected_road": 18,
+          "actual_home": 9,
+          "actual_road": 19,
+          "delta_home": 1,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 8,
+          "expected_road": 18,
+          "actual_home": 9,
+          "actual_road": 19,
+          "delta_home": 1,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_GSW_SAC_0021301141.json"
+    },
+    {
+      "game_id": "0021301230",
+      "home_team": "DEN",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 29,
+          "expected_road": 20,
+          "actual_home": 30,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 29,
+          "expected_road": 20,
+          "actual_home": 30,
+          "actual_road": 20,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2013-14/2013-14_DEN_GSW_0021301230.json"
+    }
+  ]
+}

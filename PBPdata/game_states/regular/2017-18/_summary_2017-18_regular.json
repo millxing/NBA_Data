@@ -1,0 +1,80 @@
+{
+  "season": "2017-18",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:31:39.157403+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2017.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2017-18",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1228,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 2,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0021700008",
+      "home_team": "MEM",
+      "road_team": "NOP",
+      "differences": {
+        "pf": {
+          "expected_home": 29,
+          "expected_road": 31,
+          "actual_home": 29,
+          "actual_road": 28,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 29,
+          "expected_road": 31,
+          "actual_home": 29,
+          "actual_road": 28,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2017-18/2017-18_MEM_NOP_0021700008.json"
+    },
+    {
+      "game_id": "0021700377",
+      "home_team": "CHA",
+      "road_team": "LAL",
+      "differences": {
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 21,
+          "actual_home": 13,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "fta": {
+          "expected_home": 14,
+          "expected_road": 21,
+          "actual_home": 13,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2017-18/2017-18_CHA_LAL_0021700377.json"
+    }
+  ]
+}

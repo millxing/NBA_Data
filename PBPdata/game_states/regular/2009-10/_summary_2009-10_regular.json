@@ -1,0 +1,299 @@
+{
+  "season": "2009-10",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:16:46.160142+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2009.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1221,
+  "mismatched_games": 9,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 9,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0020900007",
+      "home_team": "TOR",
+      "road_team": "CLE",
+      "differences": {
+        "ftm": {
+          "expected_home": 28,
+          "expected_road": 24,
+          "actual_home": 28,
+          "actual_road": 25,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 28,
+          "expected_road": 24,
+          "actual_home": 28,
+          "actual_road": 25,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_TOR_CLE_0020900007.json"
+    },
+    {
+      "game_id": "0020900179",
+      "home_team": "DAL",
+      "road_team": "SAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 16,
+          "actual_road": 10,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 16,
+          "actual_road": 10,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_DAL_SAC_0020900179.json"
+    },
+    {
+      "game_id": "0020900216",
+      "home_team": "SAS",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 25,
+          "expected_road": 21,
+          "actual_home": 24,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 32,
+          "expected_road": 26,
+          "actual_home": 30,
+          "actual_road": 26,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 25,
+          "expected_road": 21,
+          "actual_home": 24,
+          "actual_road": 21,
+          "delta_home": -1,
+          "delta_road": 0
+        },
+        "fta": {
+          "expected_home": 32,
+          "expected_road": 26,
+          "actual_home": 30,
+          "actual_road": 26,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_SAS_GSW_0020900216.json"
+    },
+    {
+      "game_id": "0020900305",
+      "home_team": "NOH",
+      "road_team": "SAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 9,
+          "actual_home": 14,
+          "actual_road": 10,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 9,
+          "actual_home": 14,
+          "actual_road": 10,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_NOH_SAC_0020900305.json"
+    },
+    {
+      "game_id": "0020900386",
+      "home_team": "PHI",
+      "road_team": "LAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 14,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 18,
+          "expected_road": 14,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_PHI_LAC_0020900386.json"
+    },
+    {
+      "game_id": "0020900451",
+      "home_team": "GSW",
+      "road_team": "BOS",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 14,
+          "actual_home": 19,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 14,
+          "actual_home": 19,
+          "actual_road": 15,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_GSW_BOS_0020900451.json"
+    },
+    {
+      "game_id": "0020900701",
+      "home_team": "HOU",
+      "road_team": "PHX",
+      "differences": {
+        "ftm": {
+          "expected_home": 20,
+          "expected_road": 32,
+          "actual_home": 21,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 20,
+          "expected_road": 32,
+          "actual_home": 21,
+          "actual_road": 32,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_HOU_PHX_0020900701.json"
+    },
+    {
+      "game_id": "0020900887",
+      "home_team": "CLE",
+      "road_team": "NYK",
+      "differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 12,
+          "actual_home": 17,
+          "actual_road": 12,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 16,
+          "expected_road": 12,
+          "actual_home": 17,
+          "actual_road": 12,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_CLE_NYK_0020900887.json"
+    },
+    {
+      "game_id": "0020901163",
+      "home_team": "MIN",
+      "road_team": "GSW",
+      "differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 16,
+          "actual_home": 20,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 19,
+          "expected_road": 16,
+          "actual_home": 20,
+          "actual_road": 16,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2009-10/2009-10_MIN_GSW_0020901163.json"
+    }
+  ]
+}

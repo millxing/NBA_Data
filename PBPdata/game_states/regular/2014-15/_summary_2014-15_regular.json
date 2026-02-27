@@ -1,0 +1,225 @@
+{
+  "season": "2014-15",
+  "phase": "regular",
+  "generated_at_utc": "2026-02-26T21:26:47.682374+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2014.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15",
+  "candidate_games": 1230,
+  "processed_games": 1230,
+  "skipped_existing_games": 0,
+  "matched_games": 1223,
+  "mismatched_games": 7,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 7,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0021400072",
+      "home_team": "ORL",
+      "road_team": "MIN",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_ORL_MIN_0021400072.json"
+    },
+    {
+      "game_id": "0021400215",
+      "home_team": "ATL",
+      "road_team": "TOR",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 28,
+          "actual_home": 21,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 28,
+          "actual_home": 21,
+          "actual_road": 29,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_ATL_TOR_0021400215.json"
+    },
+    {
+      "game_id": "0021400615",
+      "home_team": "GSW",
+      "road_team": "DEN",
+      "differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 12,
+          "actual_home": 21,
+          "actual_road": 13,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 21,
+          "expected_road": 12,
+          "actual_home": 21,
+          "actual_road": 13,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_GSW_DEN_0021400615.json"
+    },
+    {
+      "game_id": "0021400769",
+      "home_team": "DET",
+      "road_team": "MIN",
+      "differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 29,
+          "actual_home": 18,
+          "actual_road": 29,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 17,
+          "expected_road": 29,
+          "actual_home": 18,
+          "actual_road": 29,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_DET_MIN_0021400769.json"
+    },
+    {
+      "game_id": "0021400814",
+      "home_team": "GSW",
+      "road_team": "SAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 15,
+          "actual_home": 12,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 15,
+          "actual_home": 12,
+          "actual_road": 15,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_GSW_SAS_0021400814.json"
+    },
+    {
+      "game_id": "0021400855",
+      "home_team": "PHX",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 27,
+          "actual_home": 13,
+          "actual_road": 27,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 12,
+          "expected_road": 27,
+          "actual_home": 13,
+          "actual_road": 27,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_PHX_OKC_0021400855.json"
+    },
+    {
+      "game_id": "0021401181",
+      "home_team": "HOU",
+      "road_team": "SAS",
+      "differences": {
+        "ftm": {
+          "expected_home": 32,
+          "expected_road": 18,
+          "actual_home": 33,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 32,
+          "expected_road": 18,
+          "actual_home": 33,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2014-15/2014-15_HOU_SAS_0021401181.json"
+    }
+  ]
+}
