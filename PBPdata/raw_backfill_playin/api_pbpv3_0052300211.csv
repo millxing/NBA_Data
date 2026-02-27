@@ -1,0 +1,487 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052300211,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:44 PM EST),period,start,0,0,1
+0052300211,4,PT12M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Jump Ball Valanciunas vs. Sabonis: Tip to Barnes,Jump Ball,,1,0,2
+0052300211,8,PT11M36.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-229,127,26,Missed,1,,,0,v,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0052300211,9,PT11M32.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0052300211,10,PT11M20.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,105,32,11,Missed,1,,,0,h,MISS Ingram 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,5
+0052300211,11,PT11M17.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0052300211,12,PT11M11.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-50,35,6,Missed,1,,,0,v,MISS Sabonis 6' Layup,Missed Shot,Layup Shot,1,2,7
+0052300211,14,PT11M10.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,8
+0052300211,15,PT11M10.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,9
+0052300211,17,PT11M10.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0,1,1,v,Sabonis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,10
+0052300211,18,PT11M10.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0,2,2,v,Sabonis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,11
+0052300211,19,PT10M54.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-7,62,6,Made,1,2,2,4,h,Valanciunas 6' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,12
+0052300211,20,PT10M42.00S,1,1610612758,SAC,1631099,Murray,K. Murray,75,253,26,Missed,1,,,0,v,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,13
+0052300211,21,PT10M39.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0052300211,22,PT10M31.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+0052300211,22,PT10M31.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis STEAL (1 STL),,,1,0,16
+0052300211,24,PT10M28.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-11,20,2,Made,1,2,4,6,v,Sabonis 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,17
+0052300211,25,PT10M13.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-50,143,15,Made,1,4,4,8,h,Ingram 15' Pullup Jump Shot (2 PTS) (Valanciunas 1 AST),Made Shot,Pullup Jump shot,1,2,18
+0052300211,27,PT09M56.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,1,0,19
+0052300211,29,PT09M56.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,20
+0052300211,30,PT09M56.00S,1,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,0,0,21
+0052300211,31,PT09M56.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,4,5,9,v,Murray Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+0052300211,32,PT09M37.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,11,13,2,Missed,1,,,0,h,MISS Valanciunas 2' Layup,Missed Shot,Layup Shot,1,2,23
+0052300211,34,PT09M35.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,24
+0052300211,35,PT09M30.00S,1,1610612758,SAC,1631099,Murray,K. Murray,49,251,26,Missed,1,,,0,v,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,25
+0052300211,36,PT09M27.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+0052300211,37,PT09M19.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,94,92,13,Missed,1,,,0,h,MISS Ingram 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,27
+0052300211,38,PT09M16.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0052300211,39,PT09M06.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-21,31,4,Made,1,4,7,11,v,Fox 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,29
+0052300211,40,PT08M56.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,5,260,26,Made,1,7,7,14,h,Ingram 26' 3PT Jump Shot (5 PTS) (Murphy III 1 AST),Made Shot,Jump Shot,1,3,30
+0052300211,42,PT08M30.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,-142,230,27,Missed,1,,,0,v,MISS Barnes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0052300211,43,PT08M27.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0052300211,44,PT08M20.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,25,69,7,Made,1,9,7,16,h,Valanciunas 7' Hook Shot (4 PTS) (McCollum 1 AST),Made Shot,Hook Shot,1,2,33
+0052300211,46,PT08M10.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,1,0,34
+0052300211,48,PT07M58.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-58,201,21,Missed,1,,,0,v,MISS Fox 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,35
+0052300211,49,PT07M56.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+0052300211,50,PT07M37.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-72,41,8,Missed,1,,,0,h,MISS Ingram 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,37
+0052300211,51,PT07M33.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,38
+0052300211,52,PT07M33.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Missed,1,,,0,h,MISS Valanciunas Putback Layup,Missed Shot,Putback Layup Shot,1,2,39
+0052300211,53,PT07M32.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,40
+0052300211,60,PT07M32.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,12,6,1,Missed,1,,,0,h,MISS Valanciunas 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,41
+0052300211,61,PT07M31.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,42
+0052300211,54,PT07M30.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,23,15,3,Missed,1,,,0,h,MISS Valanciunas 3' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,43
+0052300211,55,PT07M28.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+0052300211,56,PT07M25.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-8,3,1,Made,1,9,9,18,v,Sabonis 1' Driving Dunk (6 PTS) (Barnes 1 AST),Made Shot,Driving Dunk Shot,1,2,45
+0052300211,58,PT07M03.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,26,5,3,Made,1,11,9,20,h,Valanciunas 3' Layup (6 PTS) (Ingram 1 AST),Made Shot,Layup Shot,1,2,46
+0052300211,62,PT06M45.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,-18,22,3,Missed,1,,,0,v,MISS Barnes 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,47
+0052300211,62,PT06M45.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum BLOCK (1 BLK),,,1,2,48
+0052300211,64,PT06M44.00S,1,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,0,49
+0052300211,66,PT06M44.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0052300211,67,PT06M36.00S,1,1610612758,SAC,1631099,Murray,K. Murray,102,37,11,Missed,1,,,0,v,MISS Murray 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,51
+0052300211,68,PT06M34.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,52
+0052300211,69,PT06M29.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,53
+0052300211,69,PT06M29.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox STEAL (1 STL),,,1,0,54
+0052300211,71,PT06M24.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-121,215,25,Made,1,11,12,23,v,Fox 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Ellis 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,55
+0052300211,73,PT06M04.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-26,29,4,Made,1,13,12,25,h,McCollum 4' Driving Layup (2 PTS) (Valanciunas 2 AST),Made Shot,Driving Layup Shot,1,2,56
+0052300211,75,PT05M55.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis OFF.Foul (P1) (K.Lane),Foul,Offensive,1,0,57
+0052300211,77,PT05M55.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,58
+0052300211,78,PT05M33.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-11,29,3,Missed,1,,,0,h,MISS Valanciunas 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,59
+0052300211,78,PT05M33.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis BLOCK (1 BLK),,,1,2,60
+0052300211,80,PT05M30.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0052300211,81,PT05M16.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-28,34,4,Made,1,13,14,27,v,Fox 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,62
+0052300211,82,PT05M03.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,63
+0052300211,82,PT05M03.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis STEAL (2 STL),,,1,0,64
+0052300211,84,PT04M55.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-26,41,5,Made,1,13,16,29,v,Sabonis 5' Layup (8 PTS),Made Shot,Layup Shot,1,2,65
+0052300211,85,PT04M31.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,66
+0052300211,85,PT04M31.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis STEAL (3 STL),,,1,0,67
+0052300211,87,PT04M22.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-16,176,18,Made,1,13,18,31,v,Fox 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,68
+0052300211,88,PT04M21.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,69
+0052300211,89,PT04M21.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Alvarado FOR McCollum,Substitution,,0,0,70
+0052300211,90,PT04M21.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,71
+0052300211,94,PT04M00.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,72
+0052300211,96,PT04M00.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,14,18,32,h,Murphy III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,73
+0052300211,97,PT04M00.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,SUB: Lyles FOR Sabonis,Substitution,,0,0,74
+0052300211,98,PT04M00.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,SUB: Mitchell FOR Murray,Substitution,,0,0,75
+0052300211,99,PT04M00.00S,1,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,SUB: Len FOR Ellis,Substitution,,0,0,76
+0052300211,103,PT04M00.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,15,18,33,h,Murphy III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,77
+0052300211,104,PT03M43.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,-2,101,10,Made,1,15,20,35,v,Barnes 10' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,78
+0052300211,106,PT03M22.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-127,252,28,Missed,1,,,0,h,MISS Murphy III 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0052300211,107,PT03M20.00S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0052300211,108,PT03M17.00S,1,1610612758,SAC,1630558,Mitchell,D. Mitchell,-76,242,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,81
+0052300211,109,PT03M13.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0052300211,110,PT02M57.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,25,22,3,Made,1,17,20,37,h,Nance Jr. 3' Cutting Dunk Shot (2 PTS) (Murphy III 2 AST),Made Shot,Cutting Dunk Shot,1,2,83
+0052300211,112,PT02M32.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,84
+0052300211,114,PT02M32.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,17,21,38,v,Barnes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,85
+0052300211,115,PT02M32.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Daniels FOR Ingram,Substitution,,0,0,86
+0052300211,116,PT02M32.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: McCollum FOR Murphy III,Substitution,,0,0,87
+0052300211,119,PT02M32.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,17,22,39,v,Barnes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,88
+0052300211,120,PT02M12.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0,89
+0052300211,120,PT02M12.00S,1,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,v,Len STEAL (1 STL),,,1,0,90
+0052300211,123,PT02M03.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Marshall FOR Jones,Substitution,,0,0,91
+0052300211,124,PT02M03.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,SUB: Murray FOR Barnes,Substitution,,0,0,92
+0052300211,127,PT01M54.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-20,31,4,Made,1,17,24,41,v,Fox 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,93
+0052300211,129,PT01M39.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,1,0,94
+0052300211,130,PT01M25.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-21,161,16,Missed,1,,,0,v,MISS Fox 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,95
+0052300211,131,PT01M21.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,96
+0052300211,132,PT01M13.00S,1,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,97
+0052300211,132,PT01M13.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall STEAL (1 STL),,,1,0,98
+0052300211,134,PT01M02.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,10,59,6,Missed,1,,,0,h,MISS Alvarado 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,99
+0052300211,135,PT01M00.00S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,100
+0052300211,136,PT00M53.80S,1,1610612758,SAC,1631099,Murray,K. Murray,44,110,12,Missed,1,,,0,v,MISS Murray 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,101
+0052300211,137,PT00M52.40S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,102
+0052300211,138,PT00M52.40S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,Missed,1,,,0,v,MISS Lyles Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,103
+0052300211,139,PT00M50.50S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,104
+0052300211,140,PT00M39.60S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,105
+0052300211,140,PT00M39.60S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum STEAL (1 STL),,,1,0,106
+0052300211,142,PT00M34.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-4,20,2,Made,1,19,24,43,h,McCollum 2' Running Reverse Layup (4 PTS),Made Shot,Running Reverse Layup Shot,1,2,107
+0052300211,143,PT00M29.80S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,108
+0052300211,144,PT00M29.80S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,SUB: Murphy III FOR Daniels,Substitution,,0,0,109
+0052300211,146,PT00M29.80S,1,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,v,SUB: Ellis FOR Len,Substitution,,0,0,110
+0052300211,148,PT00M08.20S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,136,228,27,Made,1,22,24,46,h,Murphy III 27' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,111
+0052300211,149,PT00M00.10S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,112
+0052300211,149,PT00M00.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,113
+0052300211,151,PT00M00.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-154,493,52,Missed,1,,,0,h,MISS Murphy III 52' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0052300211,152,PT00M00.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,115
+0052300211,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,24,46,,End of 1st Period (10:11 PM EST),period,end,1,0,116
+0052300211,158,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,24,46,,Start of 2nd Period (10:14 PM EST),period,start,0,0,117
+0052300211,159,PT11M44.00S,2,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,0,0,118
+0052300211,161,PT11M32.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-2,22,2,Missed,1,,,0,h,MISS Murphy III 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,119
+0052300211,162,PT11M30.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,120
+0052300211,163,PT11M29.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,-227,-17,0,Missed,1,,,0,h,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0052300211,164,PT11M29.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,0,122
+0052300211,166,PT11M07.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,123
+0052300211,166,PT11M07.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III STEAL (1 STL),,,1,0,124
+0052300211,168,PT10M41.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,23,104,11,Missed,1,,,0,h,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,125
+0052300211,169,PT10M40.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,126
+0052300211,170,PT10M40.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,24,24,48,h,Valanciunas Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,127
+0052300211,171,PT10M18.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,14,62,6,Made,1,24,26,50,v,Sabonis 6' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,1,2,128
+0052300211,172,PT10M01.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,129
+0052300211,174,PT10M01.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,25,26,51,h,Valanciunas Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,130
+0052300211,175,PT10M01.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,26,26,52,h,Valanciunas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,131
+0052300211,176,PT09M55.00S,2,1610612758,SAC,1631099,Murray,K. Murray,234,156,28,Made,1,26,29,55,v,Murray 28' 3PT Pullup Jump Shot (4 PTS) (Sabonis 1 AST),Made Shot,Pullup Jump shot,1,3,132
+0052300211,178,PT09M48.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,21,20,3,Made,1,28,29,57,h,Alvarado 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,133
+0052300211,179,PT09M48.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,134
+0052300211,181,PT09M48.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,29,29,58,h,Alvarado Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,135
+0052300211,182,PT09M34.00S,2,1610612758,SAC,1631099,Murray,K. Murray,-9,268,27,Missed,1,,,0,v,MISS Murray 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+0052300211,183,PT09M29.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,137
+0052300211,184,PT09M20.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,12,67,7,Missed,1,,,0,h,MISS Marshall 7' Jump Shot,Missed Shot,Jump Shot,1,2,138
+0052300211,185,PT09M18.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,139
+0052300211,186,PT09M13.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,-6,184,18,Made,1,29,31,60,v,Mitchell 18' Pullup Jump Shot (2 PTS) (Sabonis 2 AST),Made Shot,Pullup Jump shot,1,2,140
+0052300211,188,PT08M56.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,141
+0052300211,189,PT08M56.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,SUB: Ingram FOR Alvarado,Substitution,,0,0,142
+0052300211,191,PT08M43.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,-11,15,2,Missed,1,,,0,v,MISS Mitchell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+0052300211,193,PT08M43.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,144
+0052300211,195,PT08M43.00S,2,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,SUB: Barnes FOR Murray,Substitution,,0,0,145
+0052300211,197,PT08M36.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Turnover: 8 Second Violation (T#8),Turnover,8 Second Violation,0,0,146
+0052300211,198,PT08M23.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,1,0,147
+0052300211,199,PT08M13.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,104,109,15,Missed,1,,,0,h,MISS Ingram 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,148
+0052300211,200,PT08M10.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,149
+0052300211,201,PT08M02.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,56,255,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0052300211,202,PT07M59.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,151
+0052300211,203,PT07M54.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,6,1,1,Made,1,31,31,62,h,Marshall 1' Driving Dunk (2 PTS) (Ingram 2 AST),Made Shot,Driving Dunk Shot,1,2,152
+0052300211,205,PT07M54.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,153
+0052300211,206,PT07M54.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR McCollum,Substitution,,0,0,154
+0052300211,207,PT07M54.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Alvarado FOR Valanciunas,Substitution,,0,0,155
+0052300211,208,PT07M54.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Fox FOR Mitchell,Substitution,,0,0,156
+0052300211,212,PT07M39.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,81,264,28,Missed,1,,,0,v,MISS Barnes 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0052300211,213,PT07M36.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,158
+0052300211,214,PT07M21.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,159
+0052300211,214,PT07M21.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox STEAL (2 STL),,,1,0,160
+0052300211,216,PT07M19.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,161
+0052300211,218,PT07M19.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,162
+0052300211,219,PT07M19.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,0,0,163
+0052300211,220,PT07M19.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,SUB: Murray FOR Lyles,Substitution,,0,0,164
+0052300211,222,PT07M19.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,165
+0052300211,223,PT07M16.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,166
+0052300211,225,PT06M57.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,-25,184,19,Missed,1,,,0,h,MISS Marshall 19' Jump Shot,Missed Shot,Jump Shot,1,2,167
+0052300211,225,PT06M57.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis BLOCK (1 BLK),,,1,2,168
+0052300211,227,PT06M56.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,169
+0052300211,228,PT06M54.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,222,93,24,Made,1,34,31,65,h,Murphy III 24' 3PT Jump Shot (8 PTS) (Marshall 1 AST),Made Shot,Jump Shot,1,3,170
+0052300211,230,PT06M41.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-99,247,27,Missed,1,,,0,v,MISS Fox 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,171
+0052300211,231,PT06M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,172
+0052300211,232,PT06M31.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,4,28,3,Made,1,36,31,67,h,Nance Jr. 3' Cutting Dunk Shot (4 PTS) (Ingram 3 AST),Made Shot,Cutting Dunk Shot,1,2,173
+0052300211,234,PT06M18.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,174
+0052300211,234,PT06M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,175
+0052300211,236,PT06M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,11,1,Made,1,38,31,69,h,Nance Jr. 1' Running Dunk (6 PTS) (Murphy III 3 AST),Made Shot,Running Dunk Shot,1,2,176
+0052300211,238,PT06M13.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177
+0052300211,239,PT06M06.00S,2,1610612758,SAC,1631099,Murray,K. Murray,224,34,0,Missed,1,,,0,v,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0052300211,240,PT06M03.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,179
+0052300211,241,PT05M46.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-233,34,24,Missed,1,,,0,h,MISS Murphy III 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0052300211,242,PT05M42.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,181
+0052300211,243,PT05M27.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,25,52,6,Made,1,38,33,71,v,Barnes 6' Driving Layup (6 PTS) (Sabonis 3 AST),Made Shot,Driving Layup Shot,1,2,182
+0052300211,245,PT05M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-20,20,3,Made,1,40,33,73,h,Nance Jr. 3' Cutting Layup Shot (8 PTS) (Alvarado 1 AST),Made Shot,Cutting Layup Shot,1,2,183
+0052300211,247,PT04M57.00S,2,1610612758,SAC,1631099,Murray,K. Murray,69,247,26,Missed,1,,,0,v,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,184
+0052300211,248,PT04M54.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,185
+0052300211,249,PT04M41.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,6,7,1,Made,1,42,33,75,h,Marshall 1' Driving Layup (4 PTS) (Murphy III 4 AST),Made Shot,Driving Layup Shot,1,2,186
+0052300211,251,PT04M22.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,-6,251,25,Made,1,42,36,78,v,Barnes 25' 3PT Jump Shot (9 PTS) (Sabonis 4 AST),Made Shot,Jump Shot,1,3,187
+0052300211,253,PT03M56.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-74,172,19,Made,1,44,36,80,h,Ingram 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,188
+0052300211,254,PT03M47.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-6,16,2,Missed,1,,,0,v,MISS Fox 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,189
+0052300211,255,PT03M45.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,190
+0052300211,256,PT03M40.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-52,133,14,Missed,1,,,0,h,MISS Ingram 14' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,191
+0052300211,256,PT03M40.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis BLOCK (2 BLK),,,1,2,192
+0052300211,258,PT03M37.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,193
+0052300211,259,PT03M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,10,1,Missed,1,,,0,h,MISS Nance Jr. 1' Layup,Missed Shot,Layup Shot,1,2,194
+0052300211,260,PT03M23.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,195
+0052300211,261,PT03M20.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P3.T2) (C.Kirkland),Foul,Shooting,1,0,196
+0052300211,263,PT03M20.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,MISS Fox Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,197
+0052300211,264,PT03M20.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,0,0,198
+0052300211,265,PT03M20.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Alvarado,Substitution,,0,0,199
+0052300211,266,PT03M20.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: McCollum FOR Nance Jr.,Substitution,,0,0,200
+0052300211,269,PT03M20.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,44,37,81,v,Fox Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,201
+0052300211,270,PT03M05.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,227,-8,0,Made,1,47,37,84,h,Marshall 3PT Jump Shot (7 PTS) (Murphy III 5 AST),Made Shot,Jump Shot,1,3,202
+0052300211,272,PT02M46.00S,2,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,203
+0052300211,272,PT02M46.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall STEAL (2 STL),,,1,0,204
+0052300211,274,PT02M43.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,17,2,2,Made,1,49,37,86,h,Marshall 2' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,2,205
+0052300211,275,PT02M43.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,206
+0052300211,276,PT02M43.00S,2,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,SUB: Vezenkov FOR Murray,Substitution,,0,0,207
+0052300211,278,PT02M38.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,1,0,208
+0052300211,280,PT02M27.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-222,102,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+0052300211,281,PT02M23.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,210
+0052300211,282,PT02M17.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-5,37,4,Missed,1,,,0,h,MISS Ingram 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,211
+0052300211,283,PT02M14.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,212
+0052300211,284,PT02M11.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,-230,0,0,Missed,1,,,0,v,MISS Ellis 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,213
+0052300211,285,PT02M09.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,214
+0052300211,286,PT02M03.00S,2,1610612758,SAC,1628368,Fox,D. Fox,23,248,25,Made,1,49,40,89,v,Fox 25' 3PT Pullup Jump Shot (15 PTS) (Barnes 2 AST),Made Shot,Pullup Jump shot,1,3,215
+0052300211,288,PT01M34.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,4,41,4,Made,1,51,40,91,h,Valanciunas 4' Hook Shot (12 PTS),Made Shot,Hook Shot,1,2,216
+0052300211,290,PT01M22.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-65,247,26,Missed,1,,,0,v,MISS Sabonis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0052300211,291,PT01M22.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,218
+0052300211,292,PT01M05.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,1,36,4,Made,1,53,40,93,h,Ingram 4' Cutting Layup Shot (9 PTS) (McCollum 2 AST),Made Shot,Cutting Layup Shot,1,2,219
+0052300211,294,PT00M59.70S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,5,4,1,Made,1,53,42,95,v,Vezenkov 1' Cutting Layup Shot (2 PTS) (Fox 1 AST),Made Shot,Cutting Layup Shot,1,2,220
+0052300211,296,PT00M38.40S,2,1610612740,NOP,1630230,Marshall,N. Marshall,15,13,2,Missed,1,,,0,h,MISS Marshall 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,221
+0052300211,297,PT00M36.70S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,222
+0052300211,298,PT00M33.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-44,274,28,Made,1,53,45,98,v,Fox 28' 3PT Running Pull-Up Jump Shot (18 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,223
+0052300211,299,PT00M25.70S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis P.FOUL (P2.T4) (K.Lane),Foul,Personal,1,0,224
+0052300211,301,PT00M25.70S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Marshall,Substitution,,0,0,225
+0052300211,302,PT00M25.70S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Jones FOR Valanciunas,Substitution,,0,0,226
+0052300211,303,PT00M25.70S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Lyles FOR Vezenkov,Substitution,,0,0,227
+0052300211,309,PT00M12.50S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,228
+0052300211,312,PT00M12.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,229
+0052300211,313,PT00M12.50S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,230
+0052300211,314,PT00M12.50S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Daniels FOR McCollum,Substitution,,0,0,231
+0052300211,315,PT00M12.50S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Alvarado FOR Ingram,Substitution,,0,0,232
+0052300211,316,PT00M12.50S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Marshall FOR Murphy III,Substitution,,0,0,233
+0052300211,317,PT00M12.50S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,SUB: Vezenkov FOR Lyles,Substitution,,0,0,234
+0052300211,322,PT00M12.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,54,45,99,h,Nance Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0052300211,323,PT00M07.60S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels P.FOUL (P1.T4) (J.Tiven),Foul,Personal,1,0,236
+0052300211,325,PT00M01.90S,2,1610612758,SAC,1628368,Fox,D. Fox,-110,231,26,Missed,1,,,0,v,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,237
+0052300211,326,PT00M01.90S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,238
+0052300211,327,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,45,99,,End of 2nd Period (10:44 PM EST),period,end,1,0,239
+0052300211,338,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,45,99,,Start of 3rd Period (11:01 PM EST),period,start,0,0,240
+0052300211,339,PT11M38.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-34,152,16,Made,1,56,45,101,h,Ingram 16' Turnaround Fadeaway (11 PTS) (Jones 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,241
+0052300211,340,PT11M38.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,242
+0052300211,342,PT11M38.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,57,45,102,h,Ingram Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,243
+0052300211,344,PT11M14.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-150,133,20,Missed,1,,,0,v,MISS Sabonis 20' Jump Shot,Missed Shot,Jump Shot,1,2,244
+0052300211,345,PT11M13.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,245
+0052300211,346,PT11M13.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,Made,1,57,47,104,v,Murray Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,246
+0052300211,347,PT10M59.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,55,80,10,Missed,1,,,0,h,MISS Valanciunas 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,247
+0052300211,348,PT10M58.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,248
+0052300211,349,PT10M57.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,59,47,106,h,Valanciunas Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,2,249
+0052300211,350,PT10M43.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,250
+0052300211,353,PT10M43.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,251
+0052300211,354,PT10M43.00S,3,0,,350,,,0,0,0,,0,59,47,106,,Instant Replay3rd Period (11:04 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,252
+0052300211,355,PT10M43.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,59,48,107,v,Sabonis Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+0052300211,356,PT10M43.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,59,49,108,v,Sabonis Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+0052300211,357,PT10M24.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-229,16,0,Missed,1,,,0,h,MISS Valanciunas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0052300211,358,PT10M20.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,256
+0052300211,359,PT10M10.00S,3,1610612758,SAC,1628368,Fox,D. Fox,16,100,10,Made,1,59,51,110,v,Fox 10' Floating Jump Shot (20 PTS) (Sabonis 5 AST),Made Shot,Floating Jump shot,1,2,257
+0052300211,361,PT09M47.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-138,225,26,Missed,1,,,0,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0052300211,362,PT09M43.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,259
+0052300211,363,PT09M39.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,260
+0052300211,363,PT09M39.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,261
+0052300211,365,PT09M34.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-224,9,0,Made,1,62,51,113,h,McCollum 3PT Running Jump Shot (7 PTS) (Jones 2 AST),Made Shot,Running Jump Shot,1,3,262
+0052300211,367,PT09M16.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,33,38,5,Missed,1,,,0,v,MISS Barnes 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,263
+0052300211,367,PT09M16.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (1 BLK),,,1,2,264
+0052300211,369,PT09M13.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,265
+0052300211,370,PT09M11.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-235,-8,24,Made,1,65,51,116,h,Jones 24' 3PT Running Jump Shot (3 PTS) (Ingram 4 AST),Made Shot,Running Jump Shot,1,3,266
+0052300211,372,PT09M09.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,267
+0052300211,373,PT08M57.00S,3,1610612758,SAC,1628368,Fox,D. Fox,4,85,9,Made,1,65,53,118,v,Fox 9' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,1,2,268
+0052300211,374,PT08M41.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,5,3,1,Made,1,67,53,120,h,Valanciunas 1' Cutting Dunk Shot (16 PTS) (Murphy III 6 AST),Made Shot,Cutting Dunk Shot,1,2,269
+0052300211,376,PT08M22.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-197,167,26,Missed,1,,,0,v,MISS Fox 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,270
+0052300211,377,PT08M19.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,271
+0052300211,378,PT08M18.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,99,230,25,Missed,1,,,0,v,MISS Ellis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0052300211,379,PT08M15.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,273
+0052300211,380,PT08M08.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-16,-1,2,Made,1,67,55,122,v,Sabonis 2' Cutting Layup Shot (14 PTS) (Murray 1 AST),Made Shot,Cutting Layup Shot,1,2,274
+0052300211,382,PT07M55.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,9,9,1,Made,1,69,55,124,h,Murphy III 1' Cutting Dunk Shot (10 PTS) (McCollum 3 AST),Made Shot,Cutting Dunk Shot,1,2,275
+0052300211,384,PT07M38.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-1,202,20,Missed,1,,,0,v,MISS Sabonis 20' Jump Shot,Missed Shot,Jump Shot,1,2,276
+0052300211,385,PT07M37.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,277
+0052300211,387,PT07M37.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,SUB: Mitchell FOR Ellis,Substitution,,0,0,278
+0052300211,389,PT07M29.00S,3,1610612758,SAC,1628368,Fox,D. Fox,152,220,27,Missed,1,,,0,v,MISS Fox 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,279
+0052300211,390,PT07M28.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,280
+0052300211,391,PT07M28.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas L.B.FOUL (P3.T2) (C.Kirkland),Foul,Loose Ball,1,0,281
+0052300211,393,PT07M21.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,174,190,26,Made,1,69,58,127,v,Mitchell 26' 3PT Jump Shot (5 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,3,282
+0052300211,395,PT06M54.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,39,166,17,Missed,1,,,0,h,MISS Ingram 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,283
+0052300211,395,PT06M54.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray BLOCK (1 BLK),,,1,2,284
+0052300211,397,PT06M50.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,285
+0052300211,398,PT06M47.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-27,249,25,Made,1,69,61,130,v,Fox 25' 3PT Running Pull-Up Jump Shot (25 PTS) (Murray 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,286
+0052300211,399,PT06M46.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,287
+0052300211,401,PT06M31.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,119,30,12,Made,1,71,61,132,h,Ingram 12' Turnaround Fadeaway (14 PTS) (Jones 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,288
+0052300211,403,PT06M15.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-4,116,12,Missed,1,,,0,v,MISS Fox 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,289
+0052300211,404,PT06M11.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,290
+0052300211,406,PT05M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR McCollum,Substitution,,0,0,291
+0052300211,407,PT05M52.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Alvarado FOR Valanciunas,Substitution,,0,0,292
+0052300211,410,PT05M49.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,124,174,21,Missed,1,,,0,h,MISS Ingram 21' Jump Shot,Missed Shot,Jump Shot,1,2,293
+0052300211,411,PT05M45.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,294
+0052300211,412,PT05M37.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,147,200,25,Made,1,71,64,135,v,Mitchell 25' 3PT Jump Shot (8 PTS) (Fox 2 AST),Made Shot,Jump Shot,1,3,295
+0052300211,414,PT05M17.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,1,0,296
+0052300211,416,PT05M06.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,21,36,4,Made,1,73,64,137,h,Nance Jr. 4' Layup (11 PTS) (Ingram 5 AST),Made Shot,Layup Shot,1,2,297
+0052300211,418,PT04M44.00S,3,1610612758,SAC,1631099,Murray,K. Murray,148,105,18,Made,1,73,66,139,v,Murray 18' Pullup Jump Shot (8 PTS) (Barnes 4 AST),Made Shot,Pullup Jump shot,1,2,298
+0052300211,420,PT04M27.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,26,187,19,Made,1,75,66,141,h,Ingram 19' Jump Shot (16 PTS) (Nance Jr. 1 AST),Made Shot,Jump Shot,1,2,299
+0052300211,422,PT04M14.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Out of Bounds Lost Ball Turnover (P4.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,300
+0052300211,423,PT03M55.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,25,299,30,Missed,1,,,0,h,MISS Murphy III 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0052300211,424,PT03M51.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,302
+0052300211,425,PT03M51.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell L.B.FOUL (P2.T3) (J.Tiven),Foul,Loose Ball,1,0,303
+0052300211,427,PT03M45.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,8,1,Made,1,77,66,143,h,Nance Jr. 1' Cutting Dunk Shot (13 PTS) (Ingram 6 AST),Made Shot,Cutting Dunk Shot,1,2,304
+0052300211,429,PT03M21.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,17,2,Made,1,77,68,145,v,Sabonis 2' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,2,305
+0052300211,430,PT03M14.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,9,-13,2,Made,1,79,68,147,h,Murphy III 2' Driving Dunk (12 PTS) (Alvarado 2 AST),Made Shot,Driving Dunk Shot,1,2,306
+0052300211,432,PT02M58.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,-225,16,0,Made,1,79,71,150,v,Barnes 3PT Jump Shot (12 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,3,307
+0052300211,434,PT02M40.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox P.FOUL (P2.T4) (K.Lane),Foul,Personal,1,0,308
+0052300211,436,PT02M40.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: McCollum FOR Ingram,Substitution,,0,0,309
+0052300211,437,PT02M40.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Marshall FOR Murphy III,Substitution,,0,0,310
+0052300211,438,PT02M40.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,SUB: Lyles FOR Murray,Substitution,,0,0,311
+0052300211,442,PT02M26.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,123,47,13,Missed,1,,,0,h,MISS Alvarado 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,312
+0052300211,443,PT02M24.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,313
+0052300211,444,PT02M17.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,-86,37,9,Made,1,81,71,152,h,Marshall 9' Driving Floating Jump Shot (11 PTS) (Nance Jr. 2 AST),Made Shot,Driving Floating Jump Shot,1,2,314
+0052300211,446,PT02M06.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,315
+0052300211,448,PT02M06.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,MISS Fox Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,316
+0052300211,449,PT02M06.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,1,0,317
+0052300211,450,PT02M06.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,SUB: Len FOR Sabonis,Substitution,,0,0,318
+0052300211,451,PT02M06.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,SUB: Vezenkov FOR Barnes,Substitution,,0,0,319
+0052300211,454,PT02M06.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,MISS Fox Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,320
+0052300211,455,PT02M03.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,321
+0052300211,456,PT01M46.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-61,148,16,Missed,1,,,0,h,MISS McCollum 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,322
+0052300211,457,PT01M43.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,323
+0052300211,458,PT01M37.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,324
+0052300211,460,PT01M37.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,81,72,153,v,Fox Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+0052300211,461,PT01M37.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,MISS Fox Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+0052300211,462,PT01M34.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,327
+0052300211,463,PT01M17.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,47,48,7,Missed,1,,,0,h,MISS McCollum 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,328
+0052300211,464,PT01M17.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,329
+0052300211,465,PT01M17.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P3.PN) (C.Kirkland),Foul,Loose Ball,1,0,330
+0052300211,467,PT01M17.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,81,73,154,v,Fox Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+0052300211,468,PT01M17.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Ingram FOR Jones,Substitution,,0,0,332
+0052300211,469,PT01M17.00S,3,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,v,SUB: Barnes FOR Len,Substitution,,0,0,333
+0052300211,472,PT01M17.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,81,74,155,v,Fox Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+0052300211,473,PT00M59.40S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,335
+0052300211,473,PT00M59.40S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,336
+0052300211,475,PT00M53.60S,3,1610612758,SAC,1628368,Fox,D. Fox,-104,238,26,Missed,1,,,0,v,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,337
+0052300211,476,PT00M51.20S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,338
+0052300211,478,PT00M36.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-72,152,17,Missed,1,,,0,h,MISS Ingram 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,339
+0052300211,479,PT00M34.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+0052300211,480,PT00M16.60S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,341
+0052300211,480,PT00M16.60S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado STEAL (1 STL),,,1,0,342
+0052300211,482,PT00M02.10S,3,1610612740,NOP,1627742,Ingram,B. Ingram,56,157,17,Made,1,83,74,157,h,Ingram 17' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2,343
+0052300211,483,PT00M00.40S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,158,577,60,Missed,1,,,0,v,MISS Mitchell 60' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0052300211,484,PT00M00.10S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,345
+0052300211,485,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,74,157,,End of 3rd Period (11:30 PM EST),period,end,1,0,346
+0052300211,494,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,74,157,,Start of 4th Period (11:33 PM EST),period,start,0,0,347
+0052300211,495,PT11M40.00S,4,1610612758,SAC,1630558,Mitchell,D. Mitchell,-37,257,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+0052300211,496,PT11M39.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,349
+0052300211,497,PT11M28.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,9,156,16,Missed,1,,,0,h,MISS Alvarado 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,350
+0052300211,498,PT11M25.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,351
+0052300211,499,PT11M24.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,40,10,4,Missed,1,,,0,h,MISS Valanciunas 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,352
+0052300211,500,PT11M23.00S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,353
+0052300211,501,PT11M09.00S,4,1610612758,SAC,1631099,Murray,K. Murray,27,140,14,Missed,1,,,0,v,MISS Murray 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,354
+0052300211,501,PT11M09.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall BLOCK (1 BLK),,,1,2,355
+0052300211,503,PT11M05.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,356
+0052300211,504,PT10M51.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,21,15,3,Made,1,85,74,159,h,Alvarado 3' Cutting Layup Shot (5 PTS) (Valanciunas 3 AST),Made Shot,Cutting Layup Shot,1,2,357
+0052300211,506,PT10M33.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,222,11,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0052300211,506,PT10M33.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum BLOCK (2 BLK),,,1,3,359
+0052300211,508,PT10M32.00S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,1,0,360
+0052300211,510,PT10M32.00S,4,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Barnes FOR Mitchell,Substitution,,0,0,361
+0052300211,511,PT10M32.00S,4,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,SUB: Fox FOR Lyles,Substitution,,0,0,362
+0052300211,514,PT10M25.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,-11,79,8,Missed,1,,,0,v,MISS Sabonis 8' Hook Shot,Missed Shot,Hook Shot,1,2,363
+0052300211,515,PT10M22.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,364
+0052300211,516,PT10M12.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,20,22,3,Missed,1,,,0,v,MISS Barnes 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,365
+0052300211,516,PT10M12.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas BLOCK (1 BLK),,,1,2,366
+0052300211,518,PT10M09.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,367
+0052300211,519,PT10M06.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,19,6,2,Made,1,87,74,161,h,Alvarado 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,368
+0052300211,520,PT09M59.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,-15,25,3,Made,1,87,76,163,v,Sabonis 3' Layup (18 PTS) (Fox 3 AST),Made Shot,Layup Shot,1,2,369
+0052300211,522,PT09M59.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P4.T1) (J.Tiven),Foul,Shooting,1,0,370
+0052300211,524,PT09M59.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,87,77,164,v,Sabonis Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,371
+0052300211,525,PT09M39.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,2,72,7,Made,1,89,77,166,h,Valanciunas 7' Hook Shot (18 PTS),Made Shot,Hook Shot,1,2,372
+0052300211,526,PT09M39.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,373
+0052300211,528,PT09M39.00S,4,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,SUB: Ellis FOR Murray,Substitution,,0,0,374
+0052300211,530,PT09M39.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,90,77,167,h,Valanciunas Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,375
+0052300211,531,PT09M24.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,36,111,12,Missed,1,,,0,v,MISS Vezenkov 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+0052300211,531,PT09M24.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas BLOCK (2 BLK),,,1,2,377
+0052300211,533,PT09M21.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,378
+0052300211,534,PT09M17.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,379
+0052300211,534,PT09M17.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado STEAL (2 STL),,,1,0,380
+0052300211,536,PT09M12.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,225,1,0,Missed,1,,,0,h,MISS Marshall 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,381
+0052300211,537,PT09M09.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,382
+0052300211,538,PT09M02.00S,4,1610612758,SAC,1628368,Fox,D. Fox,109,227,25,Missed,1,,,0,v,MISS Fox 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,383
+0052300211,539,PT08M58.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,384
+0052300211,540,PT08M36.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,53,103,12,Missed,1,,,0,h,MISS Alvarado 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,385
+0052300211,541,PT08M34.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,386
+0052300211,542,PT08M31.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,180,188,26,Missed,1,,,0,v,MISS Ellis 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,387
+0052300211,543,PT08M29.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,388
+0052300211,544,PT08M27.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,26,10,3,Missed,1,,,0,v,MISS Barnes 3' Layup,Missed Shot,Layup Shot,1,2,389
+0052300211,544,PT08M27.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado BLOCK (1 BLK),,,1,2,390
+0052300211,546,PT08M22.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,391
+0052300211,547,PT08M20.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum Step Out of Bounds Turnover (P4.T11),Turnover,Step Out of Bounds Turnover,1,0,392
+0052300211,548,PT08M20.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,SUB: Ingram FOR Alvarado,Substitution,,0,0,393
+0052300211,550,PT08M12.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes OFF.Foul (P1) (K.Lane),Foul,Offensive,1,0,394
+0052300211,552,PT08M12.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,Barnes Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,395
+0052300211,553,PT08M12.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,396
+0052300211,555,PT08M06.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram OFF.Foul (P4) (K.Lane),Foul,Offensive,1,0,397
+0052300211,557,PT08M06.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,398
+0052300211,558,PT08M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,399
+0052300211,560,PT07M53.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,42,64,8,Missed,1,,,0,v,MISS Ellis 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,400
+0052300211,561,PT07M51.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,401
+0052300211,562,PT07M28.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-91,161,18,Made,1,92,77,169,h,Ingram 18' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,2,402
+0052300211,563,PT07M13.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,-114,239,26,Missed,1,,,0,v,MISS Ellis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0052300211,564,PT07M10.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,404
+0052300211,566,PT07M04.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis S.FOUL (P4.T2) (J.Tiven),Foul,Shooting,1,0,405
+0052300211,568,PT07M04.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,93,77,170,h,Ingram Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+0052300211,569,PT07M04.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Alvarado FOR McCollum,Substitution,,0,0,407
+0052300211,570,PT07M04.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,SUB: Mitchell FOR Ellis,Substitution,,0,0,408
+0052300211,573,PT07M04.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,SUB: Vezenkov FOR Barnes,Substitution,,0,0,409
+0052300211,575,PT07M04.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,94,77,171,h,Ingram Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+0052300211,576,PT06M51.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-18,247,25,Missed,1,,,0,v,MISS Fox 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,411
+0052300211,577,PT06M46.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,Alvarado REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,412
+0052300211,578,PT06M35.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,138,225,26,Made,1,97,77,174,h,Alvarado 26' 3PT Jump Shot (10 PTS) (Marshall 2 AST),Made Shot,Jump Shot,1,3,413
+0052300211,580,PT06M31.00S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,414
+0052300211,582,PT06M18.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis Out of Bounds Lost Ball Turnover (P4.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,415
+0052300211,583,PT05M59.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,416
+0052300211,583,PT05M59.00S,4,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,0,417
+0052300211,585,PT05M53.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,-5,0,1,Made,1,97,79,176,v,Sabonis 1' Running Dunk (21 PTS) (Murray 3 AST),Made Shot,Running Dunk Shot,1,2,418
+0052300211,587,PT05M29.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-229,116,26,Missed,1,,,0,h,MISS Marshall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0052300211,588,PT05M25.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,420
+0052300211,589,PT05M22.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,211,153,26,Missed,1,,,0,h,MISS Murphy III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0052300211,590,PT05M18.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,422
+0052300211,591,PT05M08.00S,4,1610612758,SAC,1631099,Murray,K. Murray,-233,8,0,Made,1,97,82,179,v,Murray 3PT Jump Shot (11 PTS) (Fox 4 AST),Made Shot,Jump Shot,1,3,423
+0052300211,593,PT04M53.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,424
+0052300211,594,PT04M53.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Jones FOR Marshall,Substitution,,0,0,425
+0052300211,595,PT04M53.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,,,0,h,SUB: McCollum FOR Alvarado,Substitution,,0,0,426
+0052300211,597,PT04M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,427
+0052300211,602,PT04M45.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,4,6,1,Made,1,99,82,181,h,Murphy III 1' Cutting Dunk Shot (14 PTS) (Jones 4 AST),Made Shot,Cutting Dunk Shot,1,2,428
+0052300211,604,PT04M26.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-173,50,18,Missed,1,,,0,v,MISS Fox 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,429
+0052300211,605,PT04M19.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,430
+0052300211,606,PT04M10.00S,4,1610612740,NOP,1630529,Jones,H. Jones,67,237,25,Missed,1,,,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0052300211,607,PT04M07.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,432
+0052300211,608,PT03M51.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,-238,-14,24,Made,1,99,85,184,v,Barnes 24' 3PT Jump Shot (15 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,1,3,433
+0052300211,610,PT03M24.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-130,225,26,Missed,1,,,0,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0052300211,611,PT03M22.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,435
+0052300211,612,PT03M19.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P2.T2) (J.Tiven),Foul,Personal,1,0,436
+0052300211,614,PT03M10.00S,4,1610612758,SAC,1628368,Fox,D. Fox,136,226,26,Missed,1,,,0,v,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,437
+0052300211,615,PT03M07.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,438
+0052300211,616,PT03M00.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox P.FOUL (P3.T3) (J.Tiven),Foul,Personal,1,0,439
+0052300211,618,PT02M56.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Offensive Charge Foul (P1) (J.Tiven),Foul,Offensive Charge,1,0,440
+0052300211,620,PT02M56.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,441
+0052300211,621,PT02M35.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,-120,117,17,Missed,1,,,0,v,MISS Barnes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,442
+0052300211,622,PT02M34.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,443
+0052300211,623,PT02M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P4.T3) (K.Lane),Foul,Personal,1,0,444
+0052300211,625,PT02M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,445
+0052300211,627,PT02M19.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,145,83,17,Missed,1,,,0,v,MISS Barnes 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,446
+0052300211,628,PT02M17.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,447
+0052300211,629,PT02M08.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,48,138,15,Made,1,101,85,186,h,Ingram 15' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,448
+0052300211,630,PT01M52.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,5,17,2,Made,1,101,87,188,v,Barnes 2' Cutting Layup Shot (17 PTS) (Sabonis 7 AST),Made Shot,Cutting Layup Shot,1,2,449
+0052300211,632,PT01M30.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-15,146,15,Missed,1,,,0,h,MISS McCollum 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,450
+0052300211,633,PT01M28.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,451
+0052300211,634,PT01M22.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-15,13,2,Made,1,101,89,190,v,Fox 2' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,1,2,452
+0052300211,635,PT01M06.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,453
+0052300211,635,PT01M06.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox STEAL (3 STL),,,1,0,454
+0052300211,637,PT01M04.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-5,7,1,Made,1,101,91,192,v,Fox 1' Running Layup (32 PTS),Made Shot,Running Layup Shot,1,2,455
+0052300211,638,PT00M55.80S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Out of Bounds Lost Ball Turnover (P4.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,456
+0052300211,639,PT00M51.50S,4,1610612758,SAC,1628368,Fox,D. Fox,-10,273,27,Missed,1,,,0,v,MISS Fox 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,457
+0052300211,640,PT00M51.50S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,458
+0052300211,641,PT00M45.90S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,10,6,1,Made,1,101,93,194,v,Sabonis 1' Cutting Dunk Shot (23 PTS) (Fox 5 AST),Made Shot,Cutting Dunk Shot,1,2,459
+0052300211,643,PT00M36.40S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,11,-3,1,Made,1,103,93,196,h,Murphy III 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,2,460
+0052300211,644,PT00M36.40S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,461
+0052300211,645,PT00M36.40S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Marshall FOR McCollum,Substitution,,0,0,462
+0052300211,647,PT00M32.30S,4,1610612758,SAC,1628368,Fox,D. Fox,192,158,25,Missed,1,,,0,v,MISS Fox 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463
+0052300211,648,PT00M28.30S,4,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,464
+0052300211,649,PT00M22.80S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,1,0,465
+0052300211,651,PT00M22.80S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,103,94,197,v,Fox Free Throw 1 of 3 (33 PTS),Free Throw,Free Throw 1 of 3,1,0,466
+0052300211,652,PT00M22.80S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,103,95,198,v,Fox Free Throw 2 of 3 (34 PTS),Free Throw,Free Throw 2 of 3,1,0,467
+0052300211,653,PT00M22.80S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Marshall,Substitution,,0,0,468
+0052300211,654,PT00M22.80S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,v,SUB: Ellis FOR Barnes,Substitution,,0,0,469
+0052300211,657,PT00M22.80S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,103,96,199,v,Fox Free Throw 3 of 3 (35 PTS),Free Throw,Free Throw 3 of 3,1,0,470
+0052300211,658,PT00M22.80S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,471
+0052300211,659,PT00M22.80S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: McCollum FOR Valanciunas,Substitution,,0,0,472
+0052300211,660,PT00M22.80S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,SUB: Barnes FOR Sabonis,Substitution,,0,0,473
+0052300211,663,PT00M20.20S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis P.FOUL (P3.T4) (K.Lane),Foul,Personal,1,0,474
+0052300211,665,PT00M19.60S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,Ellis P.FOUL (P4.PN) (K.Lane),Foul,Personal,1,0,475
+0052300211,667,PT00M19.60S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,476
+0052300211,668,PT00M19.60S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,1,0,477
+0052300211,669,PT00M19.60S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,v,SUB: Sabonis FOR Ellis,Substitution,,0,0,478
+0052300211,671,PT00M19.60S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,479
+0052300211,672,PT00M17.60S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,480
+0052300211,673,PT00M12.50S,4,1610612758,SAC,1628368,Fox,D. Fox,-47,262,27,Missed,1,,,0,v,MISS Fox 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,481
+0052300211,673,PT00M12.50S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,3,482
+0052300211,675,PT00M09.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,483
+0052300211,676,PT00M08.10S,4,1610612740,NOP,1630529,Jones,H. Jones,2,36,4,Made,1,105,96,201,h,Jones 4' Cutting Dunk Shot (5 PTS) (Nance Jr. 3 AST),Made Shot,Cutting Dunk Shot,1,2,484
+0052300211,678,PT00M04.10S,4,1610612758,SAC,1630558,Mitchell,D. Mitchell,-7,-2,1,Made,1,105,98,203,v,Mitchell 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,485
+0052300211,679,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,98,203,,End of 4th Period (12:07 AM EST),period,end,1,0,486

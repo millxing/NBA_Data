@@ -1,0 +1,494 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052300101,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:16 PM EST),period,start,0,0,1
+0052300101,4,PT12M00.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Jump Ball Embiid vs. Adebayo: Tip to Maxey,Jump Ball,,1,0,2
+0052300101,7,PT11M32.00S,1,1610612755,PHI,202699,Harris,T. Harris,69,161,18,Made,1,2,0,2,h,Harris 18' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,3
+0052300101,9,PT11M07.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,40,274,28,Missed,1,,,0,v,MISS Adebayo 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0052300101,10,PT11M04.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0052300101,11,PT10M59.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-1,152,15,Missed,1,,,0,h,MISS Embiid 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,6
+0052300101,12,PT10M56.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0052300101,13,PT10M53.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,8
+0052300101,15,PT10M47.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,28,79,8,Missed,1,,,0,v,MISS Butler 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,9
+0052300101,16,PT10M44.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0052300101,17,PT10M40.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,32,287,29,Missed,1,,,0,h,MISS Maxey 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,11
+0052300101,18,PT10M35.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0052300101,19,PT10M31.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-180,201,27,Missed,1,,,0,v,MISS Herro 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+0052300101,20,PT10M26.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+0052300101,21,PT10M20.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,15
+0052300101,26,PT10M11.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Offensive Goaltending Turnover (P1.T1),Turnover,Offensive Goaltending,1,0,16
+0052300101,28,PT09M51.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,17
+0052300101,28,PT09M51.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry STEAL (1 STL),,,1,0,18
+0052300101,30,PT09M48.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,7,19,2,Made,1,4,0,4,h,Maxey 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,19
+0052300101,31,PT09M39.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-13,28,3,Made,1,4,2,6,v,Jovic 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,20
+0052300101,32,PT09M21.00S,1,1610612755,PHI,202699,Harris,T. Harris,238,1,24,Missed,1,,,0,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+0052300101,33,PT09M19.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0052300101,34,PT09M11.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Traveling Turnover (P2.T2),Turnover,Traveling,1,0,23
+0052300101,35,PT08M57.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,142,230,27,Missed,1,,,0,h,MISS Lowry 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,24
+0052300101,36,PT08M52.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,25
+0052300101,37,PT08M49.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,26
+0052300101,38,PT08M44.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,27
+0052300101,39,PT08M35.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,130,237,27,Missed,1,,,0,h,MISS Maxey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,28
+0052300101,40,PT08M32.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0052300101,41,PT08M15.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,-153,84,17,Missed,1,,,0,v,MISS Butler 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,30
+0052300101,42,PT08M11.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,31
+0052300101,43,PT07M59.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-53,32,6,Missed,1,,,0,h,MISS Oubre Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+0052300101,43,PT07M59.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (1 BLK),,,1,2,33
+0052300101,45,PT07M59.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,34
+0052300101,47,PT07M51.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,35
+0052300101,49,PT07M51.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,5,2,7,h,Embiid Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,36
+0052300101,50,PT07M51.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,MISS Embiid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,37
+0052300101,51,PT07M49.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,38
+0052300101,52,PT07M35.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-37,258,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0052300101,53,PT07M32.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+0052300101,54,PT07M25.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,1,51,5,Made,1,7,2,9,h,Embiid 5' Driving Floating Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Driving Floating Jump Shot,1,2,41
+0052300101,56,PT07M15.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,75,249,26,Missed,1,,,0,v,MISS Adebayo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0052300101,57,PT07M12.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,43
+0052300101,58,PT07M02.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-9,119,12,Missed,1,,,0,h,MISS Oubre Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,44
+0052300101,60,PT06M57.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,45
+0052300101,61,PT06M55.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,1,0,46
+0052300101,63,PT06M55.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,8,2,10,h,Embiid Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,47
+0052300101,64,PT06M55.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Love FOR Adebayo,Substitution,,0,0,48
+0052300101,66,PT06M55.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,9,2,11,h,Embiid Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,49
+0052300101,67,PT06M39.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid P.FOUL (P1.T2) (T.Brothers),Foul,Personal,1,0,50
+0052300101,69,PT06M28.00S,1,1610612748,MIA,1629639,Herro,T. Herro,9,71,7,Made,1,9,4,13,v,Herro 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,51
+0052300101,70,PT06M07.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,-239,64,25,Made,1,12,4,16,h,Lowry 25' 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,3,52
+0052300101,72,PT05M56.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,1,0,53
+0052300101,74,PT05M56.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,12,5,17,v,Butler Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,54
+0052300101,75,PT05M56.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,12,6,18,v,Butler Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,55
+0052300101,76,PT05M38.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Heat T.Foul (Def. 3 Sec Martin ) (B.Kennedy),Foul,Defense 3 Second,1,0,56
+0052300101,77,PT05M38.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,13,6,19,h,Embiid Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,1,0,57
+0052300101,78,PT05M24.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,36,63,7,Missed,1,,,0,h,MISS Embiid 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,58
+0052300101,79,PT05M24.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,59
+0052300101,80,PT05M17.00S,1,1610612748,MIA,1629639,Herro,T. Herro,239,-4,24,Missed,1,,,0,v,MISS Herro 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,60
+0052300101,81,PT05M14.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,61
+0052300101,82,PT05M09.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,62
+0052300101,82,PT05M09.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,1,0,63
+0052300101,84,PT05M06.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,5,1,1,Made,1,13,8,21,v,Butler 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,64
+0052300101,85,PT04M39.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-159,209,26,Made,1,16,8,24,h,Maxey 26' 3PT Jump Shot (5 PTS) (Embiid 1 AST),Made Shot,Jump Shot,1,3,65
+0052300101,87,PT04M20.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-58,5,6,Made,1,16,10,26,v,Herro 6' Fadeaway Jumper (4 PTS) (Butler 1 AST),Made Shot,Fadeaway Jump Shot,1,2,66
+0052300101,89,PT03M59.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,67
+0052300101,89,PT03M59.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (2 STL),,,1,0,68
+0052300101,91,PT03M56.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,4,6,1,Made,1,16,12,28,v,Butler 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,2,69
+0052300101,92,PT03M36.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,1,0,70
+0052300101,94,PT03M36.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,SUB: Reed FOR Oubre Jr.,Substitution,,0,0,71
+0052300101,95,PT03M36.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,SUB: Batum FOR Embiid,Substitution,,0,0,72
+0052300101,96,PT03M36.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Highsmith FOR Jovic,Substitution,,0,0,73
+0052300101,97,PT03M36.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,74
+0052300101,102,PT03M21.00S,1,1610612755,PHI,202699,Harris,T. Harris,-88,111,14,Made,1,18,12,30,h,Harris 14' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,75
+0052300101,103,PT03M09.00S,1,1610612748,MIA,1628997,Martin,C. Martin,22,5,2,Made,1,18,14,32,v,Martin 2' Driving Layup (2 PTS) (Herro 1 AST),Made Shot,Driving Layup Shot,1,2,76
+0052300101,105,PT02M59.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-147,230,27,Missed,1,,,0,h,MISS Maxey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,77
+0052300101,106,PT02M59.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,78
+0052300101,108,PT02M59.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,79
+0052300101,109,PT02M57.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,80
+0052300101,109,PT02M57.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,0,81
+0052300101,111,PT02M53.00S,1,1610612748,MIA,1628997,Martin,C. Martin,10,33,3,Missed,1,,,0,v,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,1,2,82
+0052300101,112,PT02M49.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+0052300101,113,PT02M49.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,-5,34,3,Made,1,20,14,34,h,Lowry 3' Running Layup (5 PTS) (Maxey 2 AST),Made Shot,Running Layup Shot,1,2,84
+0052300101,115,PT02M49.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,1,0,85
+0052300101,116,PT02M27.00S,1,1610612748,MIA,201567,Love,K. Love,-202,152,25,Missed,1,,,0,v,MISS Love 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,86
+0052300101,117,PT02M27.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0052300101,118,PT02M27.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry S.FOUL (P2.T4) (B.Kennedy),Foul,Shooting,1,0,88
+0052300101,120,PT02M27.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,MISS Highsmith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,89
+0052300101,121,PT02M27.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,1,0,90
+0052300101,122,PT02M27.00S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Hield FOR Lowry,Substitution,,0,0,91
+0052300101,123,PT02M27.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Harris,Substitution,,0,0,92
+0052300101,124,PT02M27.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Wright FOR Martin,Substitution,,0,0,93
+0052300101,128,PT02M27.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,20,15,35,v,Highsmith Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+0052300101,129,PT02M03.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,95
+0052300101,129,PT02M03.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. STEAL (1 STL),,,1,0,96
+0052300101,131,PT01M58.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,8,1,Missed,1,,,0,v,MISS Herro 1' Running Layup,Missed Shot,Running Layup Shot,1,2,97
+0052300101,131,PT01M58.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. BLOCK (1 BLK),,,1,2,98
+0052300101,133,PT01M55.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,99
+0052300101,135,PT01M55.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. L.B.FOUL (P1.T4) (T.Brothers),Foul,Loose Ball,1,0,100
+0052300101,137,PT01M55.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Embiid FOR Reed,Substitution,,0,0,101
+0052300101,139,PT01M43.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,102
+0052300101,139,PT01M43.00S,1,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright STEAL (1 STL),,,1,0,103
+0052300101,141,PT01M33.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-20,65,7,Made,1,20,17,37,v,Herro 7' Driving Floating Jump Shot (6 PTS) (Wright 1 AST),Made Shot,Driving Floating Jump Shot,1,2,104
+0052300101,143,PT01M11.00S,1,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,Hield Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,105
+0052300101,144,PT01M11.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Butler FOR Herro,Substitution,,0,0,106
+0052300101,146,PT00M57.10S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-163,216,27,Made,1,20,20,40,v,Jaquez Jr. 27' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,1,3,107
+0052300101,148,PT00M37.20S,1,1610612755,PHI,1627741,Hield,B. Hield,-174,211,27,Missed,1,,,0,h,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0052300101,149,PT00M33.20S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0052300101,150,PT00M28.20S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,1,0,110
+0052300101,152,PT00M28.20S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,20,21,41,v,Love Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,111
+0052300101,153,PT00M28.20S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,20,22,42,v,Love Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+0052300101,154,PT00M04.10S,1,1610612755,PHI,1630178,Maxey,T. Maxey,64,61,9,Made,1,22,22,44,h,Maxey 9' Driving Floating Jump Shot (7 PTS) (Hield 1 AST),Made Shot,Driving Floating Jump Shot,1,2,113
+0052300101,156,PT00M01.50S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,114
+0052300101,158,PT00M01.50S,1,0,,156,Carr,A. Carr,0,0,0,,0,22,22,44,,Instant Replay1st Period (7:46 PM EST),Instant Replay,Ruling Stands,0,0,115
+0052300101,159,PT00M01.50S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,116
+0052300101,160,PT00M01.50S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,22,23,45,v,Butler Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,117
+0052300101,161,PT00M01.50S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,SUB: Harris FOR Oubre Jr.,Substitution,,0,0,118
+0052300101,163,PT00M01.50S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+0052300101,164,PT00M01.50S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,120
+0052300101,165,PT00M00.20S,1,1610612755,PHI,203954,Embiid,J. Embiid,162,691,71,Missed,1,,,0,h,MISS Embiid 71' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,121
+0052300101,166,PT00M00.10S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,1,0,122
+0052300101,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,23,45,,End of 1st Period (7:48 PM EST),period,end,1,0,123
+0052300101,170,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,23,45,,Start of 2nd Period (7:52 PM EST),period,start,0,0,124
+0052300101,171,PT11M44.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,76ERS T.Foul (Def. 3 Sec Lowry ) (M.Ervin),Foul,Defense 3 Second,1,0,125
+0052300101,172,PT11M44.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,22,24,46,v,Butler Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,1,0,126
+0052300101,173,PT11M34.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,1,0,127
+0052300101,175,PT11M34.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,22,25,47,v,Butler Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+0052300101,176,PT11M34.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,22,26,48,v,Butler Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,129
+0052300101,177,PT11M15.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,130
+0052300101,177,PT11M15.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (3 STL),,,1,0,131
+0052300101,179,PT11M12.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Double Dribble Turnover (P1.T4),Turnover,Double Dribble,1,0,132
+0052300101,180,PT10M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,133
+0052300101,180,PT10M57.00S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love STEAL (1 STL),,,1,0,134
+0052300101,182,PT10M40.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,44,25,5,Made,1,22,28,50,v,Jaquez Jr. 5' Driving Bank Hook Shot (5 PTS),Made Shot,Driving Bank Hook Shot,1,2,135
+0052300101,183,PT10M23.00S,2,1610612755,PHI,1627741,Hield,B. Hield,-197,177,26,Missed,1,,,0,h,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0052300101,184,PT10M22.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,137
+0052300101,185,PT10M21.00S,2,1610612755,PHI,202699,Harris,T. Harris,132,224,26,Missed,1,,,0,h,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0052300101,186,PT10M19.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,139
+0052300101,188,PT10M19.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,SUB: Maxey FOR Hield,Substitution,,0,0,140
+0052300101,190,PT09M56.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,13,96,10,Missed,1,,,0,v,MISS Butler 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,141
+0052300101,191,PT09M53.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,142
+0052300101,193,PT09M51.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,1,0,143
+0052300101,195,PT09M51.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,23,28,51,h,Maxey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,144
+0052300101,196,PT09M51.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,24,28,52,h,Maxey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,145
+0052300101,197,PT09M41.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,238,128,27,Missed,1,,,0,v,MISS Butler 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0052300101,198,PT09M37.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,147
+0052300101,199,PT09M26.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,17,22,3,Made,1,26,28,54,h,Embiid 3' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,148
+0052300101,200,PT09M07.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,239,7,24,Missed,1,,,0,v,MISS Jaquez Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0052300101,201,PT09M05.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,150
+0052300101,202,PT08M55.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,151
+0052300101,202,PT08M55.00S,2,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright STEAL (2 STL),,,1,0,152
+0052300101,204,PT08M51.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,38,29,5,Missed,1,,,0,v,MISS Butler 5' Running Layup,Missed Shot,Running Layup Shot,1,2,153
+0052300101,205,PT08M48.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,154
+0052300101,206,PT08M48.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,Made,1,26,30,56,v,Jaquez Jr. Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,155
+0052300101,207,PT08M24.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,4,27,3,Missed,1,,,0,h,MISS Embiid 3' Layup,Missed Shot,Layup Shot,1,2,156
+0052300101,208,PT08M21.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,157
+0052300101,209,PT08M21.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,Missed,1,,,0,h,MISS Embiid Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,158
+0052300101,210,PT08M20.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,159
+0052300101,211,PT08M15.00S,2,1610612748,MIA,201567,Love,K. Love,-174,218,28,Made,1,26,33,59,v,Love 28' 3PT Jump Shot (5 PTS) (Wright 2 AST),Made Shot,Jump Shot,1,3,160
+0052300101,213,PT08M06.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+0052300101,214,PT08M06.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,SUB: Reed FOR Embiid,Substitution,,0,0,162
+0052300101,215,PT08M06.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,163
+0052300101,218,PT08M06.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Adebayo FOR Jaquez Jr.,Substitution,,0,0,164
+0052300101,219,PT08M06.00S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Herro FOR Love,Substitution,,0,0,165
+0052300101,222,PT07M52.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,229,4,0,Missed,1,,,0,h,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0052300101,223,PT07M49.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,167
+0052300101,224,PT07M47.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,72,271,28,Missed,1,,,0,h,MISS Lowry 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0052300101,225,PT07M45.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,169
+0052300101,226,PT07M45.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed L.B.FOUL (P1.T2) (B.Kennedy),Foul,Loose Ball,1,0,170
+0052300101,228,PT07M30.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-118,239,27,Missed,1,,,0,v,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0052300101,229,PT07M27.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,172
+0052300101,230,PT07M16.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-5,-4,1,Missed,1,,,0,h,MISS Maxey 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,173
+0052300101,231,PT07M14.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,174
+0052300101,234,PT07M12.00S,2,1610612755,PHI,202699,Harris,T. Harris,23,11,3,Missed,1,,,0,h,MISS Harris 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,175
+0052300101,235,PT07M12.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,176
+0052300101,236,PT07M09.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,Missed,1,,,0,h,MISS Harris Putback Layup,Missed Shot,Putback Layup Shot,1,2,177
+0052300101,236,PT07M09.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith BLOCK (1 BLK),,,1,2,178
+0052300101,237,PT07M09.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,179
+0052300101,238,PT07M07.00S,2,1610612755,PHI,202699,Harris,T. Harris,-5,43,4,Missed,1,,,0,h,MISS Harris 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,180
+0052300101,239,PT07M04.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,181
+0052300101,240,PT06M58.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,238,-17,24,Missed,1,,,0,v,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0052300101,241,PT06M56.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,183
+0052300101,242,PT06M44.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-12,178,18,Missed,1,,,0,h,MISS Oubre Jr. 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,184
+0052300101,243,PT06M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+0052300101,244,PT06M33.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,2,5,1,Made,1,26,35,61,v,Adebayo 1' Alley Oop Dunk (2 PTS) (Herro 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,186
+0052300101,246,PT06M26.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,187
+0052300101,246,PT06M26.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (4 STL),,,1,0,188
+0052300101,248,PT06M22.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,4,4,1,Made,1,26,37,63,v,Highsmith 1' Running Layup (3 PTS) (Butler 3 AST),Made Shot,Running Layup Shot,1,2,189
+0052300101,250,PT06M04.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,234,6,0,Missed,1,,,0,h,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0052300101,251,PT06M00.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,191
+0052300101,252,PT06M00.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,Made,1,28,37,65,h,Harris Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,192
+0052300101,253,PT05M50.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,218,154,27,Missed,1,,,0,v,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0052300101,254,PT05M46.00S,2,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,194
+0052300101,255,PT05M45.00S,2,1610612748,MIA,1626153,Wright,D. Wright,-12,23,3,Missed,1,,,0,v,MISS Wright 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,195
+0052300101,255,PT05M45.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed BLOCK (1 BLK),,,1,2,196
+0052300101,257,PT05M42.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,197
+0052300101,258,PT05M38.00S,2,1610612755,PHI,1630194,Reed,P. Reed,-11,-13,2,Made,1,30,37,67,h,Reed 2' Layup (2 PTS) (Harris 2 AST),Made Shot,Layup Shot,1,2,198
+0052300101,260,PT05M38.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,199
+0052300101,261,PT05M38.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Martin FOR Butler,Substitution,,0,0,200
+0052300101,262,PT05M38.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,201
+0052300101,265,PT05M24.00S,2,1610612748,MIA,1626153,Wright,D. Wright,-232,28,0,Made,1,30,40,70,v,Wright 3PT Jump Shot (3 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Shot,1,3,202
+0052300101,267,PT05M00.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,-179,209,28,Missed,1,,,0,h,MISS Lowry 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0052300101,268,PT04M58.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,204
+0052300101,269,PT04M42.00S,2,1610612748,MIA,1629639,Herro,T. Herro,28,47,5,Missed,1,,,0,v,MISS Herro 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,205
+0052300101,270,PT04M37.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,206
+0052300101,271,PT04M24.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-138,-13,14,Missed,1,,,0,v,MISS Herro 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,207
+0052300101,272,PT04M21.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,208
+0052300101,273,PT04M06.00S,2,1610612755,PHI,1630194,Reed,P. Reed,17,8,2,Made,1,32,40,72,h,Reed 2' Driving Layup (4 PTS) (Harris 3 AST),Made Shot,Driving Layup Shot,1,2,209
+0052300101,274,PT03M56.00S,2,1610612748,MIA,1629639,Herro,T. Herro,38,259,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0052300101,275,PT03M53.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,211
+0052300101,276,PT03M47.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,18,-7,2,Made,1,34,40,74,h,Lowry 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,212
+0052300101,284,PT03M30.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,213
+0052300101,282,PT03M30.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,214
+0052300101,283,PT03M30.00S,2,0,,0,,,0,0,0,,0,34,40,74,,Instant Replay2nd Period (8:12 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,215
+0052300101,285,PT03M30.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Batum FOR Harris,Substitution,,0,0,216
+0052300101,286,PT03M30.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Embiid FOR Reed,Substitution,,0,0,217
+0052300101,287,PT03M30.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Butler FOR Jaquez Jr.,Substitution,,0,0,218
+0052300101,291,PT03M06.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,-119,227,26,Missed,1,,,0,h,MISS Lowry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,219
+0052300101,292,PT03M06.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,1,0,220
+0052300101,293,PT03M06.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,221
+0052300101,294,PT02M48.00S,2,1610612748,MIA,1629639,Herro,T. Herro,97,2,10,Missed,1,,,0,v,MISS Herro 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,222
+0052300101,295,PT02M44.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,223
+0052300101,296,PT02M44.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,34,42,76,v,Adebayo Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,224
+0052300101,297,PT02M28.00S,2,1610612755,PHI,201587,Batum,N. Batum,-232,8,0,Made,1,37,42,79,h,Batum 3PT Jump Shot (3 PTS) (Lowry 1 AST),Made Shot,Jump Shot,1,3,225
+0052300101,299,PT02M11.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,-229,-9,0,Missed,1,,,0,v,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+0052300101,300,PT02M06.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,227
+0052300101,301,PT02M06.00S,2,1610612748,MIA,1626153,Wright,D. Wright,186,168,25,Made,1,37,45,82,v,Wright 25' 3PT Jump Shot (6 PTS) (Herro 3 AST),Made Shot,Jump Shot,1,3,228
+0052300101,304,PT01M49.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Harris FOR Lowry,Substitution,,0,0,229
+0052300101,306,PT01M41.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-5,-6,1,Missed,1,,,0,h,MISS Maxey 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,230
+0052300101,307,PT01M40.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,231
+0052300101,308,PT01M36.00S,2,1610612748,MIA,1629639,Herro,T. Herro,156,209,26,Made,1,37,48,85,v,Herro 26' 3PT Running Jump Shot (9 PTS) (Adebayo 1 AST),Made Shot,Running Jump Shot,1,3,232
+0052300101,310,PT01M14.00S,2,1610612755,PHI,201587,Batum,N. Batum,233,34,24,Missed,1,,,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0052300101,311,PT01M12.00S,2,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,234
+0052300101,312,PT01M05.00S,2,1610612748,MIA,1628997,Martin,C. Martin,228,-5,0,Made,1,37,51,88,v,Martin 3PT Jump Shot (5 PTS) (Butler 4 AST),Made Shot,Jump Shot,1,3,235
+0052300101,314,PT00M47.10S,2,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,236
+0052300101,316,PT00M47.10S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Love FOR Adebayo,Substitution,,0,0,237
+0052300101,318,PT00M38.50S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love P.FOUL (P1.PN) (T.Brothers),Foul,Personal,1,0,238
+0052300101,320,PT00M38.50S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,38,51,89,h,Embiid Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+0052300101,321,PT00M38.50S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,39,51,90,h,Embiid Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+0052300101,322,PT00M33.30S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,241
+0052300101,324,PT00M25.20S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,242
+0052300101,325,PT00M02.60S,2,1610612755,PHI,203954,Embiid,J. Embiid,-29,31,4,Missed,1,,,0,h,MISS Embiid 4' Layup,Missed Shot,Layup Shot,1,2,243
+0052300101,326,PT00M02.60S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,244
+0052300101,327,PT00M00.20S,2,1610612748,MIA,1626153,Wright,D. Wright,-205,432,48,Missed,1,,,0,v,MISS Wright 48' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0052300101,328,PT00M00.10S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,246
+0052300101,329,PT00M00.00S,2,0,,0,,,0,0,0,,0,39,51,90,,End of 2nd Period (8:19 PM EST),period,end,1,0,247
+0052300101,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,39,51,90,,Start of 3rd Period (8:36 PM EST),period,start,0,0,248
+0052300101,338,PT11M48.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris P.FOUL (P2.T1) (B.Kennedy),Foul,Personal,1,0,249
+0052300101,340,PT11M48.00S,3,0,,338,,,0,0,0,,0,39,51,90,,Instant Replay3rd Period (8:36 PM EST),Instant Replay,Ruling Stands,0,0,250
+0052300101,341,PT11M42.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-4,180,18,Missed,1,,,0,v,MISS Herro 18' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,251
+0052300101,342,PT11M38.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,252
+0052300101,343,PT11M36.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,1,0,253
+0052300101,344,PT11M19.00S,3,1610612748,MIA,1629639,Herro,T. Herro,230,38,0,Missed,1,,,0,v,MISS Herro 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+0052300101,345,PT11M13.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,255
+0052300101,346,PT11M13.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Missed,1,,,0,v,MISS Adebayo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,256
+0052300101,347,PT11M13.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,257
+0052300101,348,PT11M06.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-2,270,27,Missed,1,,,0,h,MISS Embiid 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0052300101,349,PT11M05.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,259
+0052300101,350,PT11M01.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,260
+0052300101,351,PT10M47.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,261
+0052300101,353,PT10M40.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-36,15,4,Made,1,41,51,92,h,Oubre Jr. 4' Driving Finger Roll Layup (2 PTS) (Embiid 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,262
+0052300101,355,PT10M27.00S,3,1610612748,MIA,1631107,Jović,N. Jović,-20,260,26,Made,1,41,54,95,v,Jovic 26' 3PT Jump Shot (5 PTS) (Herro 4 AST),Made Shot,Jump Shot,1,3,263
+0052300101,357,PT10M04.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,87,194,21,Missed,1,,,0,h,MISS Embiid 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,264
+0052300101,358,PT10M01.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,265
+0052300101,359,PT09M55.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,266
+0052300101,359,PT09M55.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid STEAL (1 STL),,,1,0,267
+0052300101,361,PT09M51.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,-23,25,3,Missed,1,,,0,h,MISS Lowry 3' Running Layup,Missed Shot,Running Layup Shot,1,2,268
+0052300101,362,PT09M48.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,269
+0052300101,363,PT09M48.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,Made,1,43,54,97,h,Harris Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,270
+0052300101,364,PT09M39.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry P.FOUL (P3.T2) (M.Ervin),Foul,Personal,1,0,271
+0052300101,366,PT09M32.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-6,5,1,Made,1,43,56,99,v,Adebayo 1' Cutting Dunk Shot (6 PTS) (Herro 5 AST),Made Shot,Cutting Dunk Shot,1,2,272
+0052300101,368,PT09M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,5,13,1,Made,1,45,56,101,h,Embiid 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,273
+0052300101,369,PT08M54.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,143,211,25,Missed,1,,,0,v,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+0052300101,370,PT08M51.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,275
+0052300101,371,PT08M42.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-26,191,19,Made,1,47,56,103,h,Maxey 19' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,276
+0052300101,373,PT08M19.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,233,41,24,Made,1,47,59,106,v,Butler 24' 3PT Jump Shot (13 PTS) (Herro 6 AST),Made Shot,Jump Shot,1,3,277
+0052300101,375,PT08M00.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,5,290,29,Missed,1,,,0,h,MISS Maxey 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0052300101,376,PT07M58.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,279
+0052300101,377,PT07M40.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-104,15,11,Missed,1,,,0,v,MISS Butler 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,280
+0052300101,378,PT07M38.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,281
+0052300101,379,PT07M25.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,1,0,282
+0052300101,381,PT07M25.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,48,59,107,h,Harris Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,283
+0052300101,382,PT07M25.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,284
+0052300101,383,PT07M23.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,285
+0052300101,384,PT07M15.00S,3,1610612748,MIA,1629639,Herro,T. Herro,120,229,26,Missed,1,,,0,v,MISS Herro 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,286
+0052300101,385,PT07M10.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,287
+0052300101,386,PT07M06.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,-103,123,16,Missed,1,,,0,h,MISS Lowry 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,288
+0052300101,387,PT07M01.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,289
+0052300101,388,PT07M01.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Missed,1,,,0,h,MISS Oubre Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,290
+0052300101,389,PT07M01.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,291
+0052300101,390,PT07M00.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,23,46,5,Missed,1,,,0,h,MISS Oubre Jr. 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,292
+0052300101,390,PT07M00.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (2 BLK),,,1,2,293
+0052300101,392,PT07M00.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,294
+0052300101,393,PT06M57.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,1,0,295
+0052300101,395,PT06M57.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,296
+0052300101,397,PT06M57.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Hield FOR Harris,Substitution,,0,0,297
+0052300101,400,PT06M57.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Batum FOR Lowry,Substitution,,0,0,298
+0052300101,401,PT06M57.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,299
+0052300101,402,PT06M57.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,300
+0052300101,403,PT06M57.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,301
+0052300101,404,PT06M55.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,302
+0052300101,405,PT06M38.00S,3,1610612755,PHI,201587,Batum,N. Batum,126,242,27,Made,1,51,59,110,h,Batum 27' 3PT Jump Shot (6 PTS) (Hield 2 AST),Made Shot,Jump Shot,1,3,303
+0052300101,407,PT06M17.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,304
+0052300101,407,PT06M17.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. STEAL (1 STL),,,1,0,305
+0052300101,409,PT06M14.00S,3,1610612755,PHI,1627741,Hield,B. Hield,-13,8,2,Made,1,53,59,112,h,Hield 2' Running Layup (2 PTS) (Oubre Jr. 1 AST),Made Shot,Running Layup Shot,1,2,306
+0052300101,411,PT06M14.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,1,0,307
+0052300101,412,PT06M14.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,308
+0052300101,413,PT06M14.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Highsmith FOR Jovic,Substitution,,0,0,309
+0052300101,415,PT05M53.00S,3,1610612748,MIA,1629639,Herro,T. Herro,32,257,26,Missed,1,,,0,v,MISS Herro 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,310
+0052300101,416,PT05M49.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,311
+0052300101,417,PT05M42.00S,3,1610612755,PHI,1627741,Hield,B. Hield,-112,244,27,Made,1,56,59,115,h,Hield 27' 3PT Jump Shot (5 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,3,312
+0052300101,419,PT05M17.00S,3,1610612748,MIA,1629639,Herro,T. Herro,22,176,18,Missed,1,,,0,v,MISS Herro 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,313
+0052300101,420,PT05M11.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,314
+0052300101,421,PT05M06.00S,3,1610612755,PHI,1627741,Hield,B. Hield,-116,247,27,Missed,1,,,0,h,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0052300101,422,PT05M04.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,316
+0052300101,423,PT04M51.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-29,130,13,Made,1,56,61,117,v,Adebayo 13' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,317
+0052300101,424,PT04M35.00S,3,1610612755,PHI,201587,Batum,N. Batum,-239,83,25,Made,1,59,61,120,h,Batum 25' 3PT Jump Shot (9 PTS) (Maxey 3 AST),Made Shot,Jump Shot,1,3,318
+0052300101,426,PT04M11.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,233,43,24,Missed,1,,,0,v,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0052300101,427,PT04M08.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,320
+0052300101,428,PT04M06.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,147,215,26,Made,1,59,64,123,v,Butler 26' 3PT Jump Shot (16 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,321
+0052300101,430,PT03M41.00S,3,1610612755,PHI,201587,Batum,N. Batum,-229,37,0,Missed,1,,,0,h,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0052300101,431,PT03M38.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,323
+0052300101,432,PT03M19.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-51,15,5,Missed,1,,,0,v,MISS Butler 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,324
+0052300101,433,PT03M17.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,325
+0052300101,434,PT03M16.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-174,21,18,Missed,1,,,0,v,MISS Adebayo 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,326
+0052300101,435,PT03M16.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,327
+0052300101,436,PT03M16.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,328
+0052300101,438,PT03M16.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,SUB: Reed FOR Embiid,Substitution,,0,0,329
+0052300101,439,PT03M16.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Love FOR Adebayo,Substitution,,0,0,330
+0052300101,440,PT03M16.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Herro,Substitution,,0,0,331
+0052300101,444,PT03M16.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Wright FOR Martin,Substitution,,0,0,332
+0052300101,446,PT03M00.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,1,18,2,Made,1,61,64,125,h,Maxey 2' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,333
+0052300101,447,PT02M49.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-4,25,3,Missed,1,,,0,v,MISS Butler 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,334
+0052300101,448,PT02M47.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,335
+0052300101,449,PT02M43.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,1,4,0,Missed,1,,,0,h,MISS Maxey Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,336
+0052300101,450,PT02M41.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,337
+0052300101,451,PT02M29.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,1,0,338
+0052300101,453,PT02M29.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,339
+0052300101,454,PT02M29.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,61,65,126,v,Jaquez Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,340
+0052300101,455,PT02M29.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,MISS Jaquez Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,341
+0052300101,456,PT02M27.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,342
+0052300101,457,PT02M24.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love OFF.Foul (P2) (T.Brothers),Foul,Offensive,1,0,343
+0052300101,459,PT02M24.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,344
+0052300101,460,PT02M24.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Embiid FOR Reed,Substitution,,0,0,345
+0052300101,463,PT02M00.00S,3,1610612755,PHI,1627741,Hield,B. Hield,-1,8,1,Made,1,63,65,128,h,Hield 1' Driving Layup (7 PTS) (Maxey 4 AST),Made Shot,Driving Layup Shot,1,2,346
+0052300101,465,PT01M58.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Delay,Foul,Delay Technical,0,0,347
+0052300101,466,PT01M58.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,63,66,129,v,Butler Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,0,348
+0052300101,467,PT01M42.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-1,-12,1,Made,1,63,68,131,v,Highsmith 1' Cutting Layup Shot (5 PTS) (Butler 5 AST),Made Shot,Cutting Layup Shot,1,2,349
+0052300101,469,PT01M19.00S,3,1610612755,PHI,201587,Batum,N. Batum,116,249,27,Made,1,66,68,134,h,Batum 27' 3PT Jump Shot (12 PTS) (Hield 3 AST),Made Shot,Jump Shot,1,3,350
+0052300101,471,PT01M11.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-7,9,1,Missed,1,,,0,v,MISS Jaquez Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,351
+0052300101,472,PT01M08.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,352
+0052300101,473,PT01M08.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,Missed,1,,,0,v,MISS Butler Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,353
+0052300101,474,PT01M08.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,354
+0052300101,475,PT01M08.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Herro FOR Butler,Substitution,,0,0,355
+0052300101,477,PT01M08.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,SUB: Payne FOR Oubre Jr.,Substitution,,0,0,356
+0052300101,479,PT00M51.90S,3,1610612755,PHI,203954,Embiid,J. Embiid,99,11,10,Missed,1,,,0,h,MISS Embiid 10' Jump Shot,Missed Shot,Jump Shot,1,2,357
+0052300101,480,PT00M49.50S,3,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,Hield REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,358
+0052300101,481,PT00M45.10S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,359
+0052300101,481,PT00M45.10S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (2 STL),,,1,0,360
+0052300101,483,PT00M34.30S,3,1610612748,MIA,201567,Love,K. Love,70,246,26,Made,1,66,71,137,v,Love 26' 3PT Pullup Jump Shot (8 PTS) (Jaquez Jr. 2 AST),Made Shot,Pullup Jump shot,1,3,361
+0052300101,485,PT00M12.00S,3,1610612755,PHI,1626166,Payne,C. Payne,224,57,0,Made,1,69,71,140,h,Payne 3PT Jump Shot (3 PTS) (Maxey 5 AST),Made Shot,Jump Shot,1,3,362
+0052300101,487,PT00M02.20S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-103,247,27,Made,1,69,74,143,v,Jaquez Jr. 27' 3PT Jump Shot (11 PTS) (Herro 7 AST),Made Shot,Jump Shot,1,3,363
+0052300101,489,PT00M00.00S,3,0,,0,,,0,0,0,,0,69,74,143,,End of 3rd Period (9:04 PM EST),period,end,1,0,364
+0052300101,494,PT12M00.00S,4,0,,0,,,0,0,0,,0,69,74,143,,Start of 4th Period (9:07 PM EST),period,start,0,0,365
+0052300101,496,PT11M51.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,4,38,4,Made,1,71,74,145,h,Oubre Jr. 4' Driving Layup (4 PTS) (Harris 4 AST),Made Shot,Driving Layup Shot,1,2,366
+0052300101,498,PT11M24.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-6,17,2,Missed,1,,,0,v,MISS Herro 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,367
+0052300101,499,PT11M20.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,368
+0052300101,500,PT11M20.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,Missed,1,,,0,v,MISS Wright Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,369
+0052300101,501,PT11M20.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,370
+0052300101,502,PT11M06.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,49,264,27,Made,1,74,74,148,h,Embiid 27' 3PT Jump Shot (15 PTS) (Hield 4 AST),Made Shot,Jump Shot,1,3,371
+0052300101,504,PT10M50.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,372
+0052300101,505,PT10M37.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0,373
+0052300101,505,PT10M37.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (3 STL),,,1,0,374
+0052300101,507,PT10M16.00S,4,1610612748,MIA,201567,Love,K. Love,-96,242,26,Missed,1,,,0,v,MISS Love 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0052300101,508,PT10M12.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,376
+0052300101,509,PT10M10.00S,4,1610612748,MIA,1629639,Herro,T. Herro,86,256,27,Missed,1,,,0,v,MISS Herro 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+0052300101,510,PT10M06.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,378
+0052300101,511,PT10M00.00S,4,1610612755,PHI,1627741,Hield,B. Hield,6,34,3,Missed,1,,,0,h,MISS Hield 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,379
+0052300101,512,PT09M58.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,380
+0052300101,513,PT09M48.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,27,16,3,Missed,1,,,0,v,MISS Jaquez Jr. 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,381
+0052300101,514,PT09M44.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,382
+0052300101,515,PT09M44.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,Missed,1,,,0,v,MISS Wright Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,383
+0052300101,516,PT09M43.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,384
+0052300101,517,PT09M43.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,Made,1,74,76,150,v,Love Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,385
+0052300101,518,PT09M39.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,1,0,386
+0052300101,520,PT09M39.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,75,76,151,h,Oubre Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,387
+0052300101,521,PT09M39.00S,4,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,SUB: Maxey FOR Hield,Substitution,,0,0,388
+0052300101,522,PT09M39.00S,4,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,h,SUB: Batum FOR Payne,Substitution,,0,0,389
+0052300101,523,PT09M39.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Adebayo FOR Jaquez Jr.,Substitution,,0,0,390
+0052300101,524,PT09M39.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Butler FOR Love,Substitution,,0,0,391
+0052300101,529,PT09M39.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,76,76,152,h,Oubre Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+0052300101,530,PT09M28.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. P.FOUL (P4.T1) (T.Brothers),Foul,Personal,1,0,393
+0052300101,532,PT09M13.00S,4,1610612748,MIA,1626153,Wright,D. Wright,78,69,10,Missed,1,,,0,v,MISS Wright 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,394
+0052300101,533,PT09M12.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,395
+0052300101,534,PT08M58.00S,4,1610612755,PHI,201587,Batum,N. Batum,-157,205,26,Made,1,79,76,155,h,Batum 26' 3PT Jump Shot (15 PTS) (Embiid 4 AST),Made Shot,Jump Shot,1,3,396
+0052300101,536,PT08M43.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,Oubre Jr. S.FOUL (P5.T2) (T.Brothers),Foul,Shooting,1,0,397
+0052300101,538,PT08M43.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,79,77,156,v,Herro Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+0052300101,539,PT08M43.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,h,SUB: Hield FOR Oubre Jr.,Substitution,,0,0,399
+0052300101,540,PT08M43.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,SUB: Reed FOR Embiid,Substitution,,0,0,400
+0052300101,543,PT08M43.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,79,78,157,v,Herro Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,401
+0052300101,544,PT08M24.00S,4,1610612755,PHI,201587,Batum,N. Batum,-232,104,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0052300101,545,PT08M22.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,403
+0052300101,547,PT08M11.00S,4,1610612755,PHI,201587,Batum,N. Batum,-203,160,26,Made,1,82,78,160,h,Batum 26' 3PT Pullup Jump Shot (18 PTS) (Hield 5 AST),Made Shot,Pullup Jump shot,1,3,404
+0052300101,549,PT07M55.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,11,59,6,Made,1,82,80,162,v,Adebayo 6' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,1,2,405
+0052300101,550,PT07M30.00S,4,1610612755,PHI,1630194,Reed,P. Reed,-2,23,2,Made,1,84,80,164,h,Reed 2' Alley Oop Dunk (6 PTS) (Hield 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,406
+0052300101,552,PT07M10.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-233,-6,0,Missed,1,,,0,v,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0052300101,553,PT07M07.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,408
+0052300101,554,PT07M02.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-28,11,3,Missed,1,,,0,h,MISS Maxey 3' Running Layup,Missed Shot,Running Layup Shot,1,2,409
+0052300101,554,PT07M02.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright BLOCK (1 BLK),,,1,2,410
+0052300101,556,PT07M02.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,1,0,411
+0052300101,558,PT07M02.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Wright,Substitution,,0,0,412
+0052300101,560,PT07M00.00S,4,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,Hield Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,413
+0052300101,560,PT07M00.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (5 STL),,,1,0,414
+0052300101,562,PT06M57.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-6,6,1,Made,1,84,82,166,v,Butler 1' Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,2,415
+0052300101,563,PT06M37.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,25,26,4,Made,1,86,82,168,h,Maxey 4' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,416
+0052300101,564,PT06M19.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-173,183,25,Made,1,86,85,171,v,Herro 25' 3PT Jump Shot (14 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,1,3,417
+0052300101,566,PT06M06.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,418
+0052300101,567,PT06M06.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Embiid FOR Reed,Substitution,,0,0,419
+0052300101,569,PT05M54.00S,4,1610612755,PHI,201587,Batum,N. Batum,-115,244,27,Missed,1,,,0,h,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0052300101,570,PT05M51.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,421
+0052300101,571,PT05M45.00S,4,1610612748,MIA,1629639,Herro,T. Herro,147,213,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0052300101,572,PT05M41.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,423
+0052300101,573,PT05M36.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,6,1,Made,1,86,87,173,v,Jaquez Jr. 1' Driving Dunk (13 PTS) (Herro 8 AST),Made Shot,Driving Dunk Shot,1,2,424
+0052300101,575,PT05M16.00S,4,1610612755,PHI,1627741,Hield,B. Hield,228,88,24,Missed,1,,,0,h,MISS Hield 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0052300101,576,PT05M13.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,426
+0052300101,577,PT05M01.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,4,30,3,Missed,1,,,0,v,MISS Jaquez Jr. 3' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,427
+0052300101,578,PT04M59.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,428
+0052300101,579,PT04M53.00S,4,1610612748,MIA,1629639,Herro,T. Herro,49,27,6,Made,1,86,89,175,v,Herro 6' Driving Floating Jump Shot (16 PTS) (Highsmith 2 AST),Made Shot,Driving Floating Jump Shot,1,2,429
+0052300101,581,PT04M38.00S,4,1610612755,PHI,202699,Harris,T. Harris,108,239,26,Missed,1,,,0,h,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+0052300101,582,PT04M36.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,431
+0052300101,583,PT04M23.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-22,173,17,Missed,1,,,0,v,MISS Butler 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,432
+0052300101,584,PT04M19.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,h,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,433
+0052300101,585,PT04M13.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-20,0,2,Missed,1,,,0,h,MISS Maxey 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,434
+0052300101,586,PT04M12.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,435
+0052300101,587,PT04M12.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,Made,1,88,89,177,h,Batum Tip Layup Shot (20 PTS),Made Shot,Tip Layup Shot,1,2,436
+0052300101,588,PT04M12.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,437
+0052300101,589,PT04M12.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Harris,Substitution,,0,0,438
+0052300101,590,PT04M12.00S,4,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,h,SUB: Lowry FOR Hield,Substitution,,0,0,439
+0052300101,593,PT03M48.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-143,127,19,Missed,1,,,0,v,MISS Herro 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,440
+0052300101,594,PT03M43.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,441
+0052300101,595,PT03M37.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P3.T2) (B.Kennedy),Foul,Personal,1,0,442
+0052300101,597,PT03M23.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,13,191,19,Missed,1,,,0,h,MISS Lowry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,443
+0052300101,598,PT03M18.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,444
+0052300101,600,PT03M09.00S,4,1610612748,MIA,1629639,Herro,T. Herro,105,126,16,Made,1,88,91,179,v,Herro 16' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2,445
+0052300101,601,PT02M46.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,1,0,446
+0052300101,603,PT02M46.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,89,91,180,h,Embiid Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0052300101,604,PT02M46.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,90,91,181,h,Embiid Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,448
+0052300101,605,PT02M39.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,449
+0052300101,605,PT02M39.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry STEAL (2 STL),,,1,0,450
+0052300101,607,PT02M33.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-4,256,26,Made,1,93,91,184,h,Embiid 26' 3PT Running Jump Shot (20 PTS) (Maxey 6 AST),Made Shot,Running Jump Shot,1,3,451
+0052300101,609,PT02M15.00S,4,1610612748,MIA,1629639,Herro,T. Herro,162,216,27,Made,1,93,94,187,v,Herro 27' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,452
+0052300101,610,PT01M50.00S,4,1610612755,PHI,201587,Batum,N. Batum,94,163,19,Missed,1,,,0,h,MISS Batum 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,453
+0052300101,611,PT01M47.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,454
+0052300101,612,PT01M47.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-29,106,11,Made,1,95,94,189,h,Embiid 11' Floating Jump Shot (22 PTS),Made Shot,Floating Jump shot,1,2,455
+0052300101,613,PT01M47.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,1,0,456
+0052300101,615,PT01M47.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,96,94,190,h,Embiid Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0,457
+0052300101,616,PT01M30.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-54,64,8,Made,1,96,96,192,v,Highsmith 8' Driving Floating Jump Shot (7 PTS) (Herro 9 AST),Made Shot,Driving Floating Jump Shot,1,2,458
+0052300101,618,PT01M10.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,20,11,2,Missed,1,,,0,h,MISS Embiid 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,459
+0052300101,619,PT01M07.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,h,Embiid REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,460
+0052300101,620,PT01M07.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,Missed,1,,,0,h,MISS Embiid Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,461
+0052300101,621,PT01M07.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,462
+0052300101,622,PT00M58.30S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,463
+0052300101,624,PT00M55.60S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Backcourt Turnover (P5.T13),Turnover,Backcourt Turnover,1,0,464
+0052300101,625,PT00M36.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-12,44,5,Made,1,98,96,194,h,Oubre Jr. 5' Layup (8 PTS) (Embiid 5 AST),Made Shot,Layup Shot,1,2,465
+0052300101,627,PT00M36.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,466
+0052300101,629,PT00M36.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,99,96,195,h,Oubre Jr. Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,467
+0052300101,630,PT00M36.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,468
+0052300101,631,PT00M26.20S,4,1610612748,MIA,1629639,Herro,T. Herro,87,274,29,Missed,1,,,0,v,MISS Herro 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,469
+0052300101,631,PT00M26.20S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum BLOCK (1 BLK),,,1,3,470
+0052300101,633,PT00M24.70S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,471
+0052300101,634,PT00M24.70S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith L.B.FOUL (P2.PN) (T.Brothers),Foul,Loose Ball,1,0,472
+0052300101,636,PT00M24.70S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,96,196,h,Maxey Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0052300101,637,PT00M24.70S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,101,96,197,h,Maxey Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,474
+0052300101,638,PT00M19.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-23,-13,3,Made,1,101,98,199,v,Highsmith 3' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,2,475
+0052300101,639,PT00M19.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,476
+0052300101,640,PT00M19.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Martin FOR Butler,Substitution,,0,0,477
+0052300101,642,PT00M19.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,478
+0052300101,643,PT00M16.40S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,1,0,479
+0052300101,645,PT00M16.40S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,102,98,200,h,Oubre Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+0052300101,646,PT00M16.40S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,103,98,201,h,Oubre Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+0052300101,647,PT00M09.70S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,37,84,9,Made,1,103,100,203,v,Jaquez Jr. 9' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,2,482
+0052300101,648,PT00M08.20S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Personal Take Foul (P3.PN) (T.Brothers),Foul,Personal Take,1,0,483
+0052300101,650,PT00M08.20S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,104,100,204,h,Maxey Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,484
+0052300101,651,PT00M08.20S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,105,100,205,h,Maxey Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+0052300101,652,PT00M08.20S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,486
+0052300101,653,PT00M08.20S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Love FOR Martin,Substitution,,0,0,487
+0052300101,655,PT00M08.20S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum AWAY.FROM.PLAY.FOUL (P2.PN) (M.Ervin),Foul,Away From Play,1,0,488
+0052300101,657,PT00M08.20S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,105,101,206,v,Herro Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,489
+0052300101,658,PT00M07.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,145,208,25,Missed,1,,,0,v,MISS Jaquez Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+0052300101,659,PT00M03.90S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,491
+0052300101,660,PT00M01.60S,4,1610612748,MIA,1629639,Herro,T. Herro,-218,121,25,Made,1,105,104,209,v,Herro 25' 3PT Pullup Jump Shot (25 PTS) (Highsmith 3 AST),Made Shot,Pullup Jump shot,1,3,492
+0052300101,662,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,104,209,,End of 4th Period (9:45 PM EST),period,end,1,0,493

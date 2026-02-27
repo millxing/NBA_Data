@@ -1,0 +1,487 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:09 PM EST),period,start,0,0,1,0021201223
+1,PT12M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Jefferson: Tip to Conley,Jump Ball,,0,0,2,0021201223
+2,PT11M43.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-122,61,14,Missed,1,,,0,h,MISS Randolph 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,3,0021201223
+3,PT11M42.00S,1,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,4,0021201223
+4,PT11M21.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,18,15,2,Missed,1,,,0,v,MISS Jefferson 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,5,0021201223
+5,PT11M20.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,6,0021201223
+6,PT11M09.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,15,12,2,Missed,1,,,0,h,MISS Gasol 2' Layup,Missed Shot,Layup Shot,0,2,7,0021201223
+7,PT11M08.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,8,0021201223
+8,PT11M03.00S,1,1610612763,MEM,201144,Conley,M. Conley,-130,225,26,Missed,1,,,0,h,MISS Conley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,9,0021201223
+9,PT11M02.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10,0021201223
+10,PT10M50.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,-56,118,13,Made,1,0.0,2.0,2,v,Jefferson 13' Jump Shot (2 PTS) (Mo. Williams 1 AST),Made Shot,Jump Shot,0,2,11,0021201223
+11,PT10M27.00S,1,1610612763,MEM,2754,Allen,T. Allen,65,52,8,Missed,1,,,0,h,MISS Allen 8' Jump Shot,Missed Shot,Jump Shot,0,2,12,0021201223
+12,PT10M25.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,4,7,1,Missed,1,,,0,h,MISS Randolph 1' Tip Shot,Missed Shot,Tip Shot,0,2,14,0021201223
+13,PT10M25.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,13,0021201223
+14,PT10M23.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,15,0021201223
+15,PT10M09.00S,1,1610612762,UTA,200751,Foye,R. Foye,209,0,21,Missed,1,,,0,v,MISS Foye 21' Jump Shot,Missed Shot,Jump Shot,0,2,16,0021201223
+16,PT10M08.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,17,0021201223
+17,PT10M06.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,2,0,0,Made,1,0.0,4.0,4,v,Millsap Layup (2 PTS),Made Shot,Layup Shot,0,2,18,0021201223
+18,PT09M55.00S,1,1610612763,MEM,2754,Allen,T. Allen,-171,124,21,Made,1,2.0,4.0,6,h,Allen 21' Jump Shot (2 PTS) (Conley 1 AST),Made Shot,Jump Shot,0,2,19,0021201223
+19,PT09M33.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,9,4,1,Made,1,2.0,6.0,8,v,Jefferson 1' Layup (4 PTS) (Hayward 1 AST),Made Shot,Layup Shot,0,2,20,0021201223
+20,PT09M10.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-109,99,15,Missed,1,,,0,h,MISS Gasol 15' Jump Shot,Missed Shot,Jump Shot,0,2,21,0021201223
+21,PT09M08.00S,1,1610612763,MEM,2754,Allen,T. Allen,9,1,1,Made,1,4.0,6.0,10,h,Allen 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,2,23,0021201223
+22,PT09M08.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,22,0021201223
+23,PT08M43.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,20,4,2,Missed,1,,,0,v,MISS Jefferson 2' Layup,Missed Shot,Layup Shot,0,2,24,0021201223
+23,PT08M43.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol BLOCK (1 BLK),,,0,2,25,0021201223
+24,PT08M41.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,26,0021201223
+25,PT08M29.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,2,48,5,Missed,1,,,0,h,MISS Gasol 5' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,27,0021201223
+26,PT08M26.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,28,0021201223
+27,PT08M15.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,56,126,14,Missed,1,,,0,v,MISS Millsap 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,29,0021201223
+28,PT08M12.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,30,0021201223
+29,PT08M03.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-60,30,7,Made,1,6.0,6.0,12,h,Randolph 7' Turnaround Bank Shot (2 PTS) (Allen 1 AST),Made Shot,Turnaround Bank shot,0,2,31,0021201223
+30,PT07M50.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Traveling Turnover (P1.T1),Turnover,Traveling,0,0,32,0021201223
+31,PT07M27.00S,1,1610612763,MEM,2419,Prince,T. Prince,88,235,25,Missed,1,,,0,h,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,33,0021201223
+32,PT07M27.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,34,0021201223
+33,PT07M16.00S,1,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,35,0021201223
+33,PT07M16.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol STEAL (1 STL),,,0,0,36,0021201223
+34,PT07M11.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,7,1,Made,1,8.0,6.0,14,h,Conley 1' Layup (2 PTS) (Gasol 1 AST),Made Shot,Layup Shot,0,2,37,0021201223
+35,PT06M51.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,140,154,21,Missed,1,,,0,v,MISS Hayward 21' Jump Shot,Missed Shot,Jump Shot,0,2,38,0021201223
+36,PT06M50.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,39,0021201223
+37,PT06M34.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,94,189,21,Missed,1,,,0,h,MISS Randolph 21' Jump Shot,Missed Shot,Jump Shot,0,2,40,0021201223
+38,PT06M33.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,41,0021201223
+39,PT06M15.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley P.FOUL (P1.T1),Foul,Personal,0,0,42,0021201223
+40,PT06M01.00S,1,1610612762,UTA,200751,Foye,R. Foye,78,246,26,Made,1,8.0,9.0,17,v,Foye 26' 3PT Jump Shot (3 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,0,3,43,0021201223
+41,PT05M40.00S,1,1610612763,MEM,2419,Prince,T. Prince,59,44,7,Made,1,10.0,9.0,19,h,Prince 7' Pullup Jump Shot (2 PTS) (Randolph 1 AST),Made Shot,Pullup Jump shot,0,2,44,0021201223
+42,PT05M21.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T2),Foul,Shooting,0,0,45,0021201223
+43,PT05M21.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46,0021201223
+45,PT05M21.00S,1,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,SUB: Favors FOR Millsap,Substitution,,0,0,47,0021201223
+46,PT05M21.00S,1,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,10.0,10.0,20,v,Foye Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,48,0021201223
+48,PT05M21.00S,1,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,10.0,11.0,21,v,Foye Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,49,0021201223
+50,PT05M08.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,50,0021201223
+50,PT05M08.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,0,0,51,0021201223
+51,PT04M46.00S,1,1610612762,UTA,2590,Williams,M. Williams,-105,231,25,Missed,1,,,0,v,MISS Mo. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,52,0021201223
+52,PT04M45.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,53,0021201223
+53,PT04M30.00S,1,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye P.FOUL (P1.T1),Foul,Personal,0,0,54,0021201223
+54,PT04M30.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Ma. Williams FOR Hayward,Substitution,,0,0,55,0021201223
+55,PT04M30.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Davis FOR Randolph,Substitution,,0,0,56,0021201223
+56,PT04M30.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,SUB: Bayless FOR Allen,Substitution,,0,0,57,0021201223
+57,PT04M24.00S,1,1610612763,MEM,201144,Conley,M. Conley,20,4,2,Missed,1,,,0,h,MISS Conley 2' Running Layup,Missed Shot,Running Layup Shot,0,2,58,0021201223
+58,PT04M22.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,59,0021201223
+59,PT04M15.00S,1,1610612762,UTA,101107,Williams,M. Williams,-202,1,20,Missed,1,,,0,v,MISS Ma. Williams 20' Jump Shot,Missed Shot,Jump Shot,0,2,60,0021201223
+60,PT04M14.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,61,0021201223
+61,PT04M05.00S,1,1610612763,MEM,2419,Prince,T. Prince,-168,80,19,Missed,1,,,0,h,MISS Prince 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,62,0021201223
+62,PT04M03.00S,1,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,63,0021201223
+63,PT03M58.00S,1,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,64,0021201223
+63,PT03M58.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol STEAL (2 STL),,,0,0,65,0021201223
+64,PT03M54.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,66,0021201223
+64,PT03M54.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors STEAL (1 STL),,,0,0,67,0021201223
+65,PT03M49.00S,1,1610612762,UTA,2590,Williams,M. Williams,-97,194,22,Missed,1,,,0,v,MISS Mo. Williams 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,68,0021201223
+66,PT03M46.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,69,0021201223
+67,PT03M34.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-90,75,12,Made,1,12.0,11.0,23,h,Gasol 12' Pullup Jump Shot (2 PTS) (Conley 2 AST),Made Shot,Pullup Jump shot,0,2,70,0021201223
+68,PT03M03.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,29,34,4,Missed,1,,,0,v,MISS Jefferson 4' Jump Shot,Missed Shot,Jump Shot,0,2,71,0021201223
+68,PT03M03.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis BLOCK (1 BLK),,,0,2,72,0021201223
+69,PT02M59.00S,1,1610612762,UTA,202324,Favors,D. Favors,1,6,1,Missed,1,,,0,v,MISS Favors 1' Tip Shot,Missed Shot,Tip Shot,0,2,74,0021201223
+70,PT02M59.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,73,0021201223
+71,PT02M57.00S,1,1610612762,UTA,101107,Williams,M. Williams,6,4,1,Missed,1,,,0,v,MISS Ma. Williams 1' Tip Shot,Missed Shot,Tip Shot,0,2,76,0021201223
+72,PT02M57.00S,1,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,75,0021201223
+73,PT02M55.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,79,0021201223
+74,PT02M51.00S,1,1610612763,MEM,201144,Conley,M. Conley,228,-5,0,Made,1,15.0,11.0,26,h,Conley 3PT Jump Shot (5 PTS) (Bayless 1 AST),Made Shot,Jump Shot,0,3,80,0021201223
+75,PT02M25.00S,1,1610612762,UTA,101107,Williams,M. Williams,4,121,12,Missed,1,,,0,v,MISS Ma. Williams 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,81,0021201223
+76,PT02M23.00S,1,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,82,0021201223
+77,PT02M12.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-117,19,12,Missed,1,,,0,h,MISS Gasol 12' Jump Shot,Missed Shot,Jump Shot,0,2,83,0021201223
+78,PT02M11.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,84,0021201223
+79,PT02M05.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,85,0021201223
+81,PT02M55.00S,1,1610612762,UTA,101107,Williams,M. Williams,1,16,2,Missed,1,,,0,v,MISS Ma. Williams 2' Tip Shot,Missed Shot,Tip Shot,0,2,78,0021201223
+82,PT02M55.00S,1,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,77,0021201223
+83,PT02M05.00S,1,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Tinsley FOR Mo. Williams,Substitution,,0,0,86,0021201223
+84,PT01M46.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,20,172,17,Made,1,15.0,13.0,28,v,Jefferson 17' Jump Bank Shot (6 PTS) (Foye 1 AST),Made Shot,Jump Bank Shot,0,2,87,0021201223
+85,PT01M23.00S,1,1610612763,MEM,201144,Conley,M. Conley,174,-16,17,Missed,1,,,0,h,MISS Conley 17' Jump Shot,Missed Shot,Jump Shot,0,2,88,0021201223
+86,PT01M22.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,89,0021201223
+87,PT01M02.00S,1,1610612762,UTA,2744,Jefferson,A. Jefferson,56,61,8,Made,1,15.0,15.0,30,v,Jefferson 8' Pullup Jump Shot (8 PTS) (Tinsley 1 AST),Made Shot,Pullup Jump shot,0,2,90,0021201223
+88,PT00M47.90S,1,1610612763,MEM,201188,Gasol,M. Gasol,-84,179,20,Missed,1,,,0,h,MISS Gasol 20' Jump Shot,Missed Shot,Jump Shot,0,2,91,0021201223
+89,PT00M46.90S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,92,0021201223
+90,PT00M33.90S,1,1610612762,UTA,200751,Foye,R. Foye,-78,247,26,Missed,1,,,0,v,MISS Foye 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,93,0021201223
+91,PT00M32.90S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,94,0021201223
+92,PT00M22.00S,1,1610612763,MEM,201573,Bayless,J. Bayless,36,22,4,Missed,1,,,0,h,MISS Bayless 4' Jump Shot,Missed Shot,Jump Shot,0,2,95,0021201223
+92,PT00M22.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors BLOCK (1 BLK),,,0,2,96,0021201223
+93,PT00M21.00S,1,1610612763,MEM,202334,Davis,E. Davis,6,4,1,Made,1,17.0,15.0,32,h,Davis 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,98,0021201223
+94,PT00M21.00S,1,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,97,0021201223
+95,PT00M03.60S,1,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless P.FOUL (P1.T3),Foul,Personal,0,0,99,0021201223
+96,PT00M03.60S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Dooling FOR Conley,Substitution,,0,0,100,0021201223
+97,PT00M00.40S,1,1610612762,UTA,202324,Favors,D. Favors,12,0,1,Made,1,17.0,17.0,34,v,Favors 1' Layup (2 PTS) (Foye 2 AST),Made Shot,Layup Shot,0,2,101,0021201223
+98,PT00M00.00S,1,0,,97,Grandison,R. Grandison,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0,102,0021201223
+100,PT00M00.00S,1,0,,0,,,0,0,0,,0,17.0,17.0,34,,End of 1st Period (8:30 PM EST),period,end,0,0,103,0021201223
+102,PT12M00.00S,2,0,,0,,,0,0,0,,0,17.0,17.0,34,,Start of 2nd Period (8:34 PM EST),period,start,0,0,104,0021201223
+103,PT11M36.00S,2,1610612762,UTA,202324,Favors,D. Favors,58,20,6,Missed,1,,,0,v,MISS Favors 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,105,0021201223
+104,PT11M35.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,106,0021201223
+105,PT11M35.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0,107,0021201223
+106,PT11M23.00S,2,1610612763,MEM,202334,Davis,E. Davis,-62,25,7,Missed,1,,,0,h,MISS Davis 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,108,0021201223
+107,PT11M21.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,109,0021201223
+108,PT11M10.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,110,0021201223
+108,PT11M10.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless STEAL (1 STL),,,0,0,111,0021201223
+109,PT10M53.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,133,41,14,Missed,1,,,0,h,MISS Arthur 14' Jump Shot,Missed Shot,Jump Shot,0,2,112,0021201223
+110,PT10M50.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,113,0021201223
+111,PT10M49.00S,2,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams S.FOUL (P1.T1),Foul,Shooting,0,0,114,0021201223
+112,PT10M49.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,MISS Arthur Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,115,0021201223
+113,PT10M49.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0,116,0021201223
+114,PT10M49.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,18.0,17.0,35,h,Arthur Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,117,0021201223
+116,PT10M28.00S,2,1610612762,UTA,202692,Burks,A. Burks,144,129,19,Missed,1,,,0,v,MISS Burks 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,118,0021201223
+117,PT10M26.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,119,0021201223
+118,PT10M16.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,-100,190,21,Missed,1,,,0,h,MISS Bayless 21' Jump Shot,Missed Shot,Jump Shot,0,2,120,0021201223
+119,PT10M15.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,121,0021201223
+121,PT10M00.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,62,48,8,Missed,1,,,0,v,MISS Millsap 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,2,122,0021201223
+122,PT09M59.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,123,0021201223
+123,PT09M48.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,48,168,17,Made,1,20.0,17.0,37,h,Arthur 17' Jump Shot (3 PTS) (Bayless 2 AST),Made Shot,Jump Shot,0,2,124,0021201223
+124,PT09M25.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur P.FOUL (P1.T1),Foul,Personal,0,0,125,0021201223
+125,PT09M09.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,-155,80,17,Made,1,20.0,19.0,39,v,Millsap 17' Jump Shot (4 PTS) (Ma. Williams 1 AST),Made Shot,Jump Shot,0,2,126,0021201223
+126,PT08M49.00S,2,1610612763,MEM,2039,Dooling,K. Dooling,-196,26,20,Made,1,22.0,19.0,41,h,Dooling 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,2,127,0021201223
+127,PT08M34.00S,2,1610612762,UTA,202692,Burks,A. Burks,42,12,4,Missed,1,,,0,v,MISS Burks 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,2,128,0021201223
+128,PT08M32.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,129,0021201223
+129,PT08M31.00S,2,1610612762,UTA,202324,Favors,D. Favors,-19,6,2,Made,1,22.0,21.0,43,v,Favors 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,0,2,130,0021201223
+130,PT08M12.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,47,200,21,Missed,1,,,0,h,MISS Arthur 21' Jump Shot,Missed Shot,Jump Shot,0,2,131,0021201223
+131,PT08M11.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,132,0021201223
+132,PT08M02.00S,2,1610612762,UTA,101107,Williams,M. Williams,20,7,2,Made,1,22.0,23.0,45,v,Ma. Williams 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,0,2,133,0021201223
+133,PT07M58.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,134,0021201223
+135,PT07M58.00S,2,0,,125,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0,135,0021201223
+138,PT07M46.00S,2,1610612763,MEM,202334,Davis,E. Davis,-11,20,2,Missed,1,,,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,0,2,136,0021201223
+139,PT07M46.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,137,0021201223
+140,PT07M35.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,1,1,0,Missed,1,,,0,v,MISS Millsap Layup,Missed Shot,Layup Shot,0,2,138,0021201223
+141,PT07M32.00S,2,1610612762,UTA,202324,Favors,D. Favors,4,0,0,Missed,1,,,0,v,MISS Favors Tip Shot,Missed Shot,Tip Shot,0,2,140,0021201223
+141,PT07M32.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis BLOCK (2 BLK),,,0,2,141,0021201223
+142,PT07M32.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,139,0021201223
+143,PT07M28.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,145,0021201223
+144,PT07M18.00S,2,1610612762,UTA,202692,Burks,A. Burks,-141,88,17,Missed,1,,,0,v,MISS Burks 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,146,0021201223
+145,PT07M15.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,Pondexter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,147,0021201223
+146,PT07M14.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,Pondexter Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,148,0021201223
+147,PT06M58.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,58,22,6,Missed,1,,,0,v,MISS Millsap 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,149,0021201223
+148,PT06M56.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,150,0021201223
+149,PT06M44.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,-149,85,17,Made,1,24.0,23.0,47,h,Arthur 17' Jump Shot (5 PTS) (Bayless 3 AST),Made Shot,Jump Shot,0,2,151,0021201223
+150,PT06M26.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,-2,0,Made,1,24.0,25.0,49,v,Burks Slam Dunk (2 PTS) (Tinsley 2 AST),Made Shot,Slam Dunk Shot,0,2,152,0021201223
+151,PT06M10.00S,2,1610612763,MEM,2039,Dooling,K. Dooling,-131,157,20,Made,1,26.0,25.0,51,h,Dooling 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,2,153,0021201223
+152,PT05M51.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T2),Foul,Shooting,0,0,154,0021201223
+153,PT05M51.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,155,0021201223
+155,PT07M28.00S,2,1610612762,UTA,202324,Favors,D. Favors,9,8,1,Missed,1,,,0,v,MISS Favors 1' Tip Shot,Missed Shot,Tip Shot,0,2,143,0021201223
+155,PT07M28.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis BLOCK (3 BLK),,,0,2,144,0021201223
+156,PT07M28.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,142,0021201223
+157,PT05M51.00S,2,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,SUB: Jefferson FOR Millsap,Substitution,,0,0,156,0021201223
+158,PT05M51.00S,2,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,SUB: Randolph FOR Davis,Substitution,,0,0,157,0021201223
+160,PT05M51.00S,2,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,26.0,26.0,52,v,Ma. Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,158,0021201223
+162,PT05M51.00S,2,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,MISS Ma. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,159,0021201223
+164,PT05M50.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,160,0021201223
+165,PT05M41.00S,2,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley P.FOUL (P1.T2),Foul,Personal,0,0,161,0021201223
+166,PT05M31.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,61,167,18,Made,1,28.0,26.0,54,h,Arthur 18' Jump Shot (7 PTS) (Dooling 1 AST),Made Shot,Jump Shot,0,2,162,0021201223
+167,PT05M15.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,Pondexter P.FOUL (P1.T3),Foul,Personal,0,0,163,0021201223
+168,PT05M15.00S,2,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Foye FOR Burks,Substitution,,0,0,164,0021201223
+169,PT05M15.00S,2,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Hayward FOR Ma. Williams,Substitution,,0,0,165,0021201223
+170,PT05M05.00S,2,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,166,0021201223
+170,PT05M05.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,Pondexter STEAL (1 STL),,,0,0,167,0021201223
+171,PT05M01.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,-2,11,1,Made,1,30.0,26.0,56,h,Pondexter 1' Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,2,168,0021201223
+172,PT04M41.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-2,6,1,Made,1,30.0,28.0,58,v,Hayward 1' Reverse Layup (2 PTS) (Favors 1 AST),Made Shot,Reverse Layup Shot,0,2,169,0021201223
+173,PT04M41.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,Pondexter S.FOUL (P2.T4),Foul,Shooting,0,0,170,0021201223
+174,PT04M41.00S,2,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Mo. Williams FOR Tinsley,Substitution,,0,0,171,0021201223
+175,PT04M41.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,,,0,h,SUB: Prince FOR Pondexter,Substitution,,0,0,172,0021201223
+176,PT04M41.00S,2,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,SUB: Allen FOR Bayless,Substitution,,0,0,173,0021201223
+177,PT04M41.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,174,0021201223
+179,PT04M40.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,175,0021201223
+180,PT04M25.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,176,0021201223
+180,PT04M25.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors STEAL (2 STL),,,0,0,177,0021201223
+181,PT04M23.00S,2,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,Dooling Personal Take Foul (P1.PN),Foul,Personal Take,0,0,178,0021201223
+182,PT04M23.00S,2,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,MISS Mo. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,179,0021201223
+183,PT04M23.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,180,0021201223
+184,PT04M23.00S,2,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,SUB: Conley FOR Dooling,Substitution,,0,0,181,0021201223
+185,PT04M23.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,SUB: Gasol FOR Arthur,Substitution,,0,0,182,0021201223
+186,PT04M23.00S,2,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,30.0,29.0,59,v,Mo. Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,183,0021201223
+188,PT04M02.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,143,52,15,Made,1,32.0,29.0,61,h,Randolph 15' Jump Shot (4 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,2,184,0021201223
+189,PT03M47.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,3,0,Made,1,32.0,31.0,63,v,Jefferson Dunk (10 PTS) (Favors 2 AST),Made Shot,Dunk Shot,0,2,185,0021201223
+190,PT03M20.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,138,31,14,Missed,1,,,0,h,MISS Randolph 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,186,0021201223
+191,PT03M18.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,187,0021201223
+192,PT03M14.00S,2,1610612763,MEM,2754,Allen,T. Allen,-168,74,18,Missed,1,,,0,h,MISS Allen 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,188,0021201223
+193,PT03M11.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,-2,11,1,Made,1,34.0,31.0,65,h,Randolph 1' Finger Roll Layup (6 PTS),Made Shot,Finger Roll Layup Shot,0,2,190,0021201223
+194,PT03M11.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,189,0021201223
+195,PT02M56.00S,2,1610612762,UTA,202324,Favors,D. Favors,17,12,2,Missed,1,,,0,v,MISS Favors 2' Layup,Missed Shot,Layup Shot,0,2,191,0021201223
+196,PT02M54.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,1,7,1,Missed,1,,,0,v,MISS Jefferson 1' Tip Shot,Missed Shot,Tip Shot,0,2,193,0021201223
+197,PT02M54.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,192,0021201223
+198,PT02M52.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,196,0021201223
+199,PT02M37.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,14,1,Made,1,36.0,31.0,67,h,Randolph 1' Layup (8 PTS) (Allen 3 AST),Made Shot,Layup Shot,0,2,197,0021201223
+200,PT02M28.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,198,0021201223
+202,PT02M52.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,-1,11,1,Missed,1,,,0,v,MISS Jefferson 1' Tip Shot,Missed Shot,Tip Shot,0,2,195,0021201223
+203,PT02M52.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,194,0021201223
+206,PT02M21.00S,2,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams Step Out of Bounds Turnover (P3.T7),Turnover,Step Out of Bounds Turnover,0,0,199,0021201223
+207,PT02M05.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,9,67,7,Made,1,38.0,31.0,69,h,Gasol 7' Running Hook Shot (4 PTS) (Conley 3 AST),Made Shot,Running Hook Shot,0,2,200,0021201223
+208,PT02M05.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson S.FOUL (P1.T3),Foul,Shooting,0,0,201,0021201223
+209,PT02M05.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,MISS Gasol Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,202,0021201223
+211,PT02M03.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,203,0021201223
+212,PT01M46.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,129,230,26,Made,1,38.0,34.0,72,v,Hayward 26' 3PT Jump Shot (5 PTS) (Favors 3 AST),Made Shot,Jump Shot,0,3,204,0021201223
+213,PT01M27.00S,2,1610612763,MEM,2754,Allen,T. Allen,-7,31,3,Missed,1,,,0,h,MISS Allen 3' Jump Shot,Missed Shot,Jump Shot,0,2,205,0021201223
+213,PT01M27.00S,2,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye BLOCK (1 BLK),,,0,2,206,0021201223
+214,PT01M26.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,207,0021201223
+215,PT01M23.00S,2,1610612763,MEM,2754,Allen,T. Allen,-16,33,4,Missed,1,,,0,h,MISS Allen 4' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,208,0021201223
+216,PT01M21.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,209,0021201223
+217,PT01M17.00S,2,1610612763,MEM,2754,Allen,T. Allen,13,9,2,Missed,1,,,0,h,MISS Allen 2' Running Layup,Missed Shot,Running Layup Shot,0,2,210,0021201223
+217,PT01M17.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson BLOCK (1 BLK),,,0,2,211,0021201223
+218,PT01M15.00S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,212,0021201223
+219,PT01M07.00S,2,1610612762,UTA,2590,Williams,M. Williams,-13,-2,1,Made,1,38.0,36.0,74,v,Mo. Williams 1' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,213,0021201223
+220,PT00M48.80S,2,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye S.FOUL (P2.T4),Foul,Shooting,0,0,214,0021201223
+221,PT00M48.80S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,39.0,36.0,75,h,Allen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,215,0021201223
+223,PT00M48.80S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,40.0,36.0,76,h,Allen Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,216,0021201223
+225,PT00M28.60S,2,1610612762,UTA,2590,Williams,M. Williams,-7,22,2,Made,1,40.0,38.0,78,v,Mo. Williams 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,2,217,0021201223
+226,PT00M28.60S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph S.FOUL (P1.PN),Foul,Shooting,0,0,218,0021201223
+228,PT00M28.60S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,SUB: Bayless FOR Allen,Substitution,,0,0,219,0021201223
+229,PT00M28.60S,2,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,MISS Mo. Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,220,0021201223
+231,PT00M27.90S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,221,0021201223
+232,PT00M06.90S,2,1610612763,MEM,201144,Conley,M. Conley,7,22,2,Missed,1,,,0,h,MISS Conley 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,222,0021201223
+233,PT00M04.90S,2,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,223,0021201223
+234,PT00M00.90S,2,1610612762,UTA,2590,Williams,M. Williams,15,11,2,Missed,1,,,0,v,MISS Mo. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,224,0021201223
+234,PT00M00.90S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol BLOCK (2 BLK),,,0,2,225,0021201223
+235,PT00M00.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,226,0021201223
+237,PT00M00.00S,2,0,,0,,,0,0,0,,0,40.0,38.0,78,,End of 2nd Period (9:02 PM EST),period,end,0,0,227,0021201223
+239,PT12M00.00S,3,0,,0,,,0,0,0,,0,40.0,38.0,78,,Start of 3rd Period (9:19 PM EST),period,start,0,0,228,0021201223
+240,PT11M37.00S,3,1610612762,UTA,200751,Foye,R. Foye,-142,31,15,Missed,1,,,0,v,MISS Foye 15' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,229,0021201223
+241,PT11M36.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,1,0,Missed,1,,,0,v,MISS Hayward Tip Shot,Missed Shot,Tip Shot,0,2,231,0021201223
+242,PT11M36.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,230,0021201223
+243,PT11M34.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,232,0021201223
+244,PT11M34.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,36,33,5,Missed,1,,,0,v,MISS Hayward 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,233,0021201223
+245,PT11M32.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,234,0021201223
+246,PT11M15.00S,3,1610612763,MEM,2419,Prince,T. Prince,-73,186,20,Missed,1,,,0,h,MISS Prince 20' Jump Shot,Missed Shot,Jump Shot,0,2,235,0021201223
+247,PT11M14.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,236,0021201223
+248,PT10M56.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P1.T1),Foul,Shooting,0,0,237,0021201223
+249,PT10M56.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,40.0,39.0,79,v,Jefferson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,238,0021201223
+251,PT10M56.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,40.0,40.0,80,v,Jefferson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,239,0021201223
+253,PT10M44.00S,3,1610612763,MEM,201144,Conley,M. Conley,12,112,11,Made,1,42.0,40.0,82,h,Conley 11' Running Jump Shot (7 PTS) (Gasol 2 AST),Made Shot,Running Jump Shot,0,2,240,0021201223
+254,PT10M44.00S,3,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams S.FOUL (P1.T1),Foul,Shooting,0,0,241,0021201223
+255,PT10M44.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,MISS Conley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,242,0021201223
+257,PT10M43.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,243,0021201223
+258,PT10M29.00S,3,1610612762,UTA,2590,Williams,M. Williams,0,-6,1,Missed,1,,,0,v,MISS Mo. Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,244,0021201223
+259,PT10M28.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,245,0021201223
+260,PT10M19.00S,3,1610612763,MEM,201144,Conley,M. Conley,-13,-5,1,Missed,1,,,0,h,MISS Conley 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,246,0021201223
+260,PT10M19.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap BLOCK (1 BLK),,,0,2,247,0021201223
+261,PT10M17.00S,3,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,248,0021201223
+262,PT10M14.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,18,11,2,Missed,1,,,0,v,MISS Hayward 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,2,249,0021201223
+263,PT10M10.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,250,0021201223
+265,PT09M58.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T2),Foul,Personal,0,0,251,0021201223
+266,PT09M45.00S,3,1610612763,MEM,201144,Conley,M. Conley,-15,11,2,Missed,1,,,0,h,MISS Conley 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,252,0021201223
+267,PT09M43.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,6,1,Missed,1,,,0,h,MISS Randolph 1' Tip Shot,Missed Shot,Tip Shot,0,2,254,0021201223
+268,PT09M43.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,253,0021201223
+269,PT09M41.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,255,0021201223
+270,PT09M23.00S,3,1610612762,UTA,2590,Williams,M. Williams,-139,132,19,Missed,1,,,0,v,MISS Mo. Williams 19' Jump Shot,Missed Shot,Jump Shot,0,2,256,0021201223
+271,PT09M22.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,257,0021201223
+272,PT09M18.00S,3,1610612763,MEM,201144,Conley,M. Conley,-2,15,2,Made,1,44.0,40.0,84,h,Conley 2' Driving Layup (9 PTS) (Prince 1 AST),Made Shot,Driving Layup Shot,0,2,258,0021201223
+273,PT09M18.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap S.FOUL (P1.T3),Foul,Shooting,0,0,259,0021201223
+274,PT09M18.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,45.0,40.0,85,h,Conley Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,260,0021201223
+275,PT08M59.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,-56,71,9,Made,1,45.0,42.0,87,v,Jefferson 9' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,0,2,261,0021201223
+276,PT08M35.00S,3,1610612763,MEM,2754,Allen,T. Allen,2,22,2,Missed,1,,,0,h,MISS Allen 2' Layup,Missed Shot,Layup Shot,0,2,262,0021201223
+276,PT08M35.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap BLOCK (2 BLK),,,0,2,263,0021201223
+277,PT08M34.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,9,1,Made,1,47.0,42.0,89,h,Allen 1' Tip Shot (8 PTS),Made Shot,Tip Shot,0,2,265,0021201223
+278,PT08M34.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,264,0021201223
+279,PT08M11.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P2.T2),Foul,Shooting,0,0,266,0021201223
+280,PT08M11.00S,3,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,MISS Mo. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,267,0021201223
+281,PT08M11.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,268,0021201223
+282,PT08M11.00S,3,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,47.0,43.0,90,v,Mo. Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,269,0021201223
+283,PT07M57.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,15,2,Missed,1,,,0,h,MISS Randolph 2' Layup,Missed Shot,Layup Shot,0,2,270,0021201223
+284,PT07M56.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,271,0021201223
+285,PT07M54.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen Personal Take Foul (P2.T3),Foul,Personal Take,0,0,272,0021201223
+286,PT07M31.00S,3,1610612762,UTA,2590,Williams,M. Williams,236,36,24,Missed,1,,,0,v,MISS Mo. Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,273,0021201223
+287,PT07M30.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,274,0021201223
+288,PT07M17.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince OFF.Foul (P1),Foul,Offensive,0,0,275,0021201223
+289,PT07M17.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Foul Turnover (P2.T5),Turnover,Foul,0,0,276,0021201223
+290,PT07M10.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol P.FOUL (P3.T4),Foul,Personal,0,0,277,0021201223
+291,PT07M03.00S,3,1610612762,UTA,2590,Williams,M. Williams,-8,11,1,Made,1,47.0,45.0,92,v,Mo. Williams 1' Layup (8 PTS) (Jefferson 2 AST),Made Shot,Layup Shot,0,2,278,0021201223
+292,PT06M42.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,12,1,1,Made,1,49.0,45.0,94,h,Randolph 1' Layup (10 PTS) (Allen 4 AST),Made Shot,Layup Shot,0,2,279,0021201223
+293,PT06M42.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson S.FOUL (P2.T4),Foul,Shooting,0,0,280,0021201223
+294,PT06M42.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,50.0,45.0,95,h,Randolph Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,281,0021201223
+296,PT06M30.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P4.PN),Foul,Shooting,0,0,282,0021201223
+297,PT06M30.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,MISS Millsap Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,283,0021201223
+298,PT06M30.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,284,0021201223
+299,PT06M30.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Davis FOR Gasol,Substitution,,0,0,285,0021201223
+300,PT06M30.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,50.0,46.0,96,v,Millsap Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,286,0021201223
+302,PT06M14.00S,3,1610612763,MEM,2419,Prince,T. Prince,54,56,8,Missed,1,,,0,h,MISS Prince 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,287,0021201223
+303,PT06M14.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,288,0021201223
+304,PT06M14.00S,3,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis L.B.FOUL (P2.PN),Foul,Loose Ball,0,0,289,0021201223
+306,PT06M14.00S,3,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,50.0,47.0,97,v,Foye Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,290,0021201223
+308,PT06M14.00S,3,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,MISS Foye Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,291,0021201223
+310,PT06M12.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,292,0021201223
+312,PT05M54.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,159,44,16,Made,1,52.0,47.0,99,h,Randolph 16' Jump Shot (13 PTS) (Prince 2 AST),Made Shot,Jump Shot,0,2,293,0021201223
+313,PT05M33.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,20,12,2,Missed,1,,,0,v,MISS Jefferson 2' Layup,Missed Shot,Layup Shot,0,2,294,0021201223
+313,PT05M33.00S,3,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis BLOCK (4 BLK),,,0,2,295,0021201223
+314,PT05M31.00S,3,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,Foye REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,296,0021201223
+315,PT05M29.00S,3,1610612762,UTA,200751,Foye,R. Foye,-223,45,0,Missed,1,,,0,v,MISS Foye 3PT Jump Shot,Missed Shot,Jump Shot,0,3,297,0021201223
+316,PT05M28.00S,3,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,298,0021201223
+317,PT05M24.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap P.FOUL (P2.PN),Foul,Personal,0,0,299,0021201223
+318,PT05M24.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,300,0021201223
+320,PT05M24.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,301,0021201223
+321,PT05M24.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0,302,0021201223
+322,PT05M24.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,53.0,47.0,100,h,Randolph Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,303,0021201223
+324,PT05M12.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,304,0021201223
+324,PT05M12.00S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince STEAL (1 STL),,,0,0,305,0021201223
+325,PT04M53.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson S.FOUL (P3.PN),Foul,Shooting,0,0,306,0021201223
+326,PT04M53.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,54.0,47.0,101,h,Randolph Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,307,0021201223
+328,PT04M53.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,55.0,47.0,102,h,Randolph Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,308,0021201223
+330,PT04M35.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,-15,28,3,Missed,1,,,0,v,MISS Millsap 3' Jump Shot,Missed Shot,Jump Shot,0,2,309,0021201223
+331,PT04M34.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,310,0021201223
+332,PT04M31.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,Allen Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,311,0021201223
+333,PT04M19.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,-125,159,20,Made,1,55.0,49.0,104,v,Hayward 20' Jump Shot (7 PTS) (Mo. Williams 2 AST),Made Shot,Jump Shot,0,2,312,0021201223
+334,PT04M02.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap P.FOUL (P3.PN),Foul,Personal,0,0,313,0021201223
+335,PT04M02.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,56.0,49.0,105,h,Conley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,314,0021201223
+337,PT04M02.00S,3,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,SUB: Favors FOR Millsap,Substitution,,0,0,315,0021201223
+338,PT04M02.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,,,0,h,SUB: Bayless FOR Allen,Substitution,,0,0,316,0021201223
+339,PT04M02.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,57.0,49.0,106,h,Conley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,317,0021201223
+341,PT03M46.00S,3,1610612762,UTA,2590,Williams,M. Williams,-152,142,21,Missed,1,,,0,v,MISS Mo. Williams 21' Jump Shot,Missed Shot,Jump Shot,0,2,318,0021201223
+342,PT03M45.00S,3,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,319,0021201223
+343,PT03M33.00S,3,1610612763,MEM,202334,Davis,E. Davis,-84,15,9,Missed,1,,,0,h,MISS Davis 9' Running Bank Shot,Missed Shot,Running Bank shot,0,2,320,0021201223
+344,PT03M31.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,13,0,1,Missed,1,,,0,h,MISS Randolph 1' Layup,Missed Shot,Layup Shot,0,2,322,0021201223
+345,PT03M31.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,321,0021201223
+346,PT03M30.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-7,11,1,Missed,1,,,0,h,MISS Randolph 1' Layup,Missed Shot,Layup Shot,0,2,324,0021201223
+346,PT03M30.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors BLOCK (2 BLK),,,0,2,325,0021201223
+347,PT03M30.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,323,0021201223
+348,PT03M28.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,326,0021201223
+349,PT03M22.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,91,39,10,Made,1,59.0,49.0,108,h,Randolph 10' Jump Shot (18 PTS),Made Shot,Jump Shot,0,2,327,0021201223
+350,PT03M00.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors 3 Second Violation Turnover (P2.T9),Turnover,3 Second Violation,0,0,328,0021201223
+351,PT02M41.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,-8,12,1,Made,1,61.0,49.0,110,h,Randolph 1' Driving Layup (20 PTS) (Conley 4 AST),Made Shot,Driving Layup Shot,0,2,329,0021201223
+353,PT02M19.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,330,0021201223
+355,PT02M19.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Ma. Williams FOR Hayward,Substitution,,0,0,331,0021201223
+357,PT02M15.00S,3,1610612762,UTA,200751,Foye,R. Foye,135,224,26,Missed,1,,,0,v,MISS Foye 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,332,0021201223
+358,PT02M13.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,333,0021201223
+359,PT01M54.00S,3,1610612763,MEM,201144,Conley,M. Conley,-5,6,1,Made,1,63.0,49.0,112,h,Conley 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,2,334,0021201223
+360,PT01M24.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,335,0021201223
+361,PT01M24.00S,3,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Tinsley FOR Mo. Williams,Substitution,,0,0,336,0021201223
+362,PT01M24.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Dooling FOR Conley,Substitution,,0,0,337,0021201223
+363,PT01M06.00S,3,1610612763,MEM,201573,Bayless,J. Bayless,108,239,26,Missed,1,,,0,h,MISS Bayless 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,338,0021201223
+364,PT01M05.00S,3,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,339,0021201223
+365,PT01M02.00S,3,1610612763,MEM,202334,Davis,E. Davis,6,37,4,Missed,1,,,0,h,MISS Davis 4' Jump Shot,Missed Shot,Jump Shot,0,2,340,0021201223
+366,PT01M00.00S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,341,0021201223
+367,PT00M52.90S,3,1610612762,UTA,200751,Foye,R. Foye,6,1,1,Missed,1,,,0,v,MISS Foye 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,342,0021201223
+368,PT00M51.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,343,0021201223
+369,PT00M51.00S,3,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,344,0021201223
+370,PT00M49.20S,3,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,SUB: Burks FOR Foye,Substitution,,0,0,345,0021201223
+371,PT00M41.70S,3,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley P.FOUL (P2.PN),Foul,Personal,0,0,346,0021201223
+372,PT00M41.70S,3,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,64.0,49.0,113,h,Dooling Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,347,0021201223
+374,PT00M41.70S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Arthur FOR Randolph,Substitution,,0,0,348,0021201223
+375,PT00M41.70S,3,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Daye FOR Prince,Substitution,,0,0,349,0021201223
+376,PT00M41.70S,3,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,65.0,49.0,114,h,Dooling Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,350,0021201223
+379,PT00M31.50S,3,1610612762,UTA,202692,Burks,A. Burks,-146,138,20,Made,1,65.0,51.0,116,v,Burks 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,2,351,0021201223
+380,PT00M08.90S,3,1610612763,MEM,201589,Arthur,D. Arthur,2,149,15,Missed,1,,,0,h,MISS Arthur 15' Jump Shot,Missed Shot,Jump Shot,0,2,352,0021201223
+381,PT00M06.90S,3,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,353,0021201223
+382,PT00M01.00S,3,1610612762,UTA,101107,Williams,M. Williams,62,252,26,Missed,1,,,0,v,MISS Ma. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,354,0021201223
+382,PT00M01.00S,3,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,Daye BLOCK (1 BLK),,,0,3,355,0021201223
+383,PT00M00.00S,3,0,,0,,,0,0,0,,0,65.0,51.0,116,,End of 3rd Period (9:50 PM EST),period,end,0,0,357,0021201223
+384,PT00M00.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,356,0021201223
+386,PT12M00.00S,4,0,,0,,,0,0,0,,0,65.0,51.0,116,,Start of 4th Period (9:53 PM EST),period,start,0,0,358,0021201223
+387,PT11M46.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,141,7,14,Missed,1,,,0,h,MISS Arthur 14' Jump Shot,Missed Shot,Jump Shot,0,2,359,0021201223
+388,PT11M45.00S,4,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,360,0021201223
+389,PT11M30.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,-71,69,10,Missed,1,,,0,v,MISS Jefferson 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,361,0021201223
+390,PT11M28.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,Daye REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,362,0021201223
+391,PT11M21.00S,4,1610612763,MEM,201948,Daye,A. Daye,168,197,26,Missed,1,,,0,h,MISS Daye 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,363,0021201223
+392,PT11M19.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,364,0021201223
+393,PT10M59.00S,4,1610612762,UTA,202324,Favors,D. Favors,-15,143,14,Missed,1,,,0,v,MISS Favors 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,365,0021201223
+394,PT10M56.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,366,0021201223
+395,PT10M39.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,-147,211,26,Missed,1,,,0,h,MISS Bayless 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,367,0021201223
+396,PT10M37.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,10,4,1,Made,1,67.0,51.0,118,h,Arthur 1' Tip Shot (9 PTS),Made Shot,Tip Shot,0,2,369,0021201223
+397,PT10M37.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,368,0021201223
+398,PT10M26.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P3.T1),Foul,Shooting,0,0,370,0021201223
+399,PT10M26.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,67.0,52.0,119,v,Burks Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,371,0021201223
+401,PT10M26.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,67.0,53.0,120,v,Burks Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,372,0021201223
+403,PT10M07.00S,4,1610612763,MEM,201948,Daye,A. Daye,69,242,25,Made,1,70.0,53.0,123,h,Daye 25' 3PT Jump Shot (3 PTS) (Dooling 2 AST),Made Shot,Jump Shot,0,3,373,0021201223
+404,PT09M53.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,Daye P.FOUL (P1.T2),Foul,Personal,0,0,374,0021201223
+405,PT09M53.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,SUB: Gasol FOR Davis,Substitution,,0,0,375,0021201223
+406,PT09M40.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,376,0021201223
+406,PT09M40.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless STEAL (2 STL),,,0,0,377,0021201223
+408,PT09M22.00S,4,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,Tinsley S.FOUL (P3.T1),Foul,Shooting,0,0,378,0021201223
+409,PT09M22.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,MISS Daye Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,379,0021201223
+410,PT09M22.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0,380,0021201223
+411,PT09M22.00S,4,1610612762,UTA,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,v,SUB: Mo. Williams FOR Tinsley,Substitution,,0,0,381,0021201223
+412,PT09M22.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,71.0,53.0,124,h,Daye Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,382,0021201223
+414,PT09M05.00S,4,1610612762,UTA,202324,Favors,D. Favors,-34,157,16,Missed,1,,,0,v,MISS Favors 16' Jump Shot,Missed Shot,Jump Shot,0,2,383,0021201223
+415,PT09M04.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,Daye REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,384,0021201223
+416,PT08M56.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,-5,-2,1,Made,1,73.0,53.0,126,h,Arthur 1' Alley Oop Dunk (11 PTS) (Daye 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,385,0021201223
+417,PT08M42.00S,4,1610612762,UTA,101107,Williams,M. Williams,-128,222,26,Made,1,73.0,56.0,129,v,Ma. Williams 26' 3PT Jump Shot (6 PTS) (Mo. Williams 3 AST),Made Shot,Jump Shot,0,3,386,0021201223
+418,PT08M26.00S,4,1610612763,MEM,201948,Daye,A. Daye,233,45,24,Missed,1,,,0,h,MISS Daye 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,387,0021201223
+419,PT08M25.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,388,0021201223
+420,PT08M18.00S,4,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Ma. Williams P.FOUL (P2.T2),Foul,Personal,0,0,389,0021201223
+421,PT08M18.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,390,0021201223
+423,PT08M18.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,SUB: Foye FOR Favors,Substitution,,0,0,391,0021201223
+424,PT08M18.00S,4,1610612762,UTA,101107,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Millsap FOR Ma. Williams,Substitution,,0,0,392,0021201223
+425,PT08M18.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Hayward FOR Burks,Substitution,,0,0,393,0021201223
+426,PT08M07.00S,4,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,Dooling Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,394,0021201223
+426,PT08M07.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap STEAL (1 STL),,,0,0,395,0021201223
+427,PT08M02.00S,4,1610612762,UTA,2590,Williams,M. Williams,2,-8,1,Missed,1,,,0,v,MISS Mo. Williams 1' Layup,Missed Shot,Layup Shot,0,2,396,0021201223
+428,PT08M00.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,12,4,1,Made,1,73.0,58.0,131,v,Hayward 1' Tip Shot (9 PTS),Made Shot,Tip Shot,0,2,398,0021201223
+429,PT08M00.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,397,0021201223
+430,PT07M39.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,-16,244,24,Missed,1,,,0,h,MISS Bayless 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,399,0021201223
+431,PT07M38.00S,4,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,400,0021201223
+433,PT07M29.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P5.T3),Foul,Shooting,0,0,401,0021201223
+434,PT07M29.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,MISS Millsap Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,402,0021201223
+435,PT07M29.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,403,0021201223
+436,PT07M29.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Randolph FOR Gasol,Substitution,,0,0,404,0021201223
+437,PT07M29.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,73.0,59.0,132,v,Millsap Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,405,0021201223
+439,PT07M06.00S,4,1610612763,MEM,2039,Dooling,K. Dooling,-86,242,26,Missed,1,,,0,h,MISS Dooling 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,406,0021201223
+440,PT07M05.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:13),Rebound,Unknown,0,0,407,0021201223
+441,PT06M52.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,-136,15,14,Missed,1,,,0,v,MISS Jefferson 14' Jump Shot,Missed Shot,Jump Shot,0,2,408,0021201223
+442,PT06M51.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,409,0021201223
+443,PT06M38.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,-105,170,20,Made,1,73.0,61.0,134,v,Jefferson 20' Jump Shot (16 PTS) (Hayward 2 AST),Made Shot,Jump Shot,0,2,410,0021201223
+444,PT06M12.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,130,159,21,Missed,1,,,0,h,MISS Randolph 21' Jump Shot,Missed Shot,Jump Shot,0,2,411,0021201223
+445,PT06M11.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,412,0021201223
+446,PT06M11.00S,4,1610612763,MEM,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,SUB: Conley FOR Dooling,Substitution,,0,0,413,0021201223
+447,PT05M56.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless P.FOUL (P2.T4),Foul,Personal,0,0,414,0021201223
+448,PT05M56.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,415,0021201223
+451,PT05M56.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,SUB: Davis FOR Arthur,Substitution,,0,0,416,0021201223
+452,PT05M56.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,SUB: Prince FOR Daye,Substitution,,0,0,417,0021201223
+453,PT05M46.00S,4,1610612762,UTA,2590,Williams,M. Williams,17,-3,2,Missed,1,,,0,v,MISS Mo. Williams 2' Layup,Missed Shot,Layup Shot,0,2,418,0021201223
+453,PT05M46.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley BLOCK (1 BLK),,,0,2,419,0021201223
+454,PT05M44.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,420,0021201223
+455,PT05M42.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,154,124,20,Missed,1,,,0,v,MISS Jefferson 20' Jump Shot,Missed Shot,Jump Shot,0,2,421,0021201223
+456,PT05M40.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,422,0021201223
+457,PT05M22.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,31,17,4,Missed,1,,,0,h,MISS Randolph 4' Jump Shot,Missed Shot,Jump Shot,0,2,423,0021201223
+458,PT05M21.00S,4,1610612763,MEM,202334,Davis,E. Davis,-5,1,1,Made,1,75.0,61.0,136,h,Davis 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,2,425,0021201223
+459,PT05M21.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,424,0021201223
+460,PT05M06.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph S.FOUL (P2.PN),Foul,Shooting,0,0,426,0021201223
+461,PT05M06.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,75.0,62.0,137,v,Jefferson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,427,0021201223
+462,PT05M06.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,75.0,63.0,138,v,Jefferson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,428,0021201223
+464,PT04M49.00S,4,1610612763,MEM,202334,Davis,E. Davis,-67,42,8,Missed,1,,,0,h,MISS Davis 8' Jump Shot,Missed Shot,Jump Shot,0,2,429,0021201223
+465,PT04M48.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:14),Rebound,Unknown,0,0,430,0021201223
+466,PT04M48.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis L.B.FOUL (P4.PN),Foul,Loose Ball,0,0,431,0021201223
+467,PT04M48.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,75.0,64.0,139,v,Jefferson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,432,0021201223
+469,PT04M48.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,75.0,65.0,140,v,Jefferson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,433,0021201223
+471,PT04M32.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis OFF.Foul (P5),Foul,Offensive,0,0,434,0021201223
+472,PT04M32.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis Foul Turnover (P1.T8),Turnover,Foul,0,0,435,0021201223
+473,PT04M20.00S,4,1610612762,UTA,200751,Foye,R. Foye,168,187,25,Missed,1,,,0,v,MISS Foye 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,436,0021201223
+474,PT04M19.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:5 Def:11),Rebound,Unknown,0,0,437,0021201223
+475,PT04M18.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson P.FOUL (P4.T3),Foul,Personal,0,0,438,0021201223
+476,PT04M18.00S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,SUB: Gasol FOR Davis,Substitution,,0,0,439,0021201223
+477,PT04M06.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,Millsap P.FOUL (P4.T4),Foul,Personal,0,0,440,0021201223
+479,PT03M55.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,108,271,29,Made,1,78.0,65.0,143,h,Bayless 29' 3PT Jump Shot (3 PTS) (Randolph 2 AST),Made Shot,Jump Shot,0,3,441,0021201223
+480,PT03M38.00S,4,1610612762,UTA,200751,Foye,R. Foye,28,45,5,Missed,1,,,0,v,MISS Foye 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,442,0021201223
+481,PT03M36.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:5 Def:12),Rebound,Unknown,0,0,443,0021201223
+482,PT03M33.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,444,0021201223
+483,PT03M19.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,-67,20,7,Made,1,78.0,67.0,145,v,Jefferson 7' Turnaround Jump Shot (22 PTS),Made Shot,Turnaround Jump Shot,0,2,445,0021201223
+484,PT03M05.00S,4,1610612763,MEM,2419,Prince,T. Prince,119,172,21,Missed,1,,,0,h,MISS Prince 21' Jump Shot,Missed Shot,Jump Shot,0,2,446,0021201223
+485,PT03M04.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:12),Rebound,Unknown,0,0,447,0021201223
+486,PT03M04.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,Jefferson L.B.FOUL (P5.PN),Foul,Loose Ball,0,0,448,0021201223
+487,PT03M04.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,449,0021201223
+488,PT03M04.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,0,450,0021201223
+489,PT03M04.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,79.0,67.0,146,h,Randolph Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,451,0021201223
+491,PT02M54.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,-138,61,15,Missed,1,,,0,v,MISS Jefferson 15' Jump Shot,Missed Shot,Jump Shot,0,2,452,0021201223
+492,PT02M53.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,453,0021201223
+493,PT02M45.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,9,1,1,Made,1,81.0,67.0,148,h,Randolph 1' Slam Dunk (23 PTS) (Conley 5 AST),Made Shot,Slam Dunk Shot,0,2,454,0021201223
+494,PT02M36.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,455,0021201223
+496,PT02M30.00S,4,1610612762,UTA,2590,Williams,M. Williams,91,235,25,Missed,1,,,0,v,MISS Mo. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,456,0021201223
+497,PT02M29.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:13),Rebound,Unknown,0,0,457,0021201223
+498,PT02M16.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,458,0021201223
+498,PT02M16.00S,4,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,Mo. Williams STEAL (1 STL),,,0,0,459,0021201223
+499,PT02M14.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,Bayless S.FOUL (P3.PN),Foul,Shooting,0,0,460,0021201223
+500,PT02M14.00S,4,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,MISS Foye Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,461,0021201223
+501,PT02M14.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,462,0021201223
+502,PT02M14.00S,4,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,81.0,68.0,149,v,Foye Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,463,0021201223
+504,PT01M53.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-56,15,6,Made,1,83.0,68.0,151,h,Randolph 6' Jump Shot (25 PTS),Made Shot,Jump Shot,0,2,464,0021201223
+505,PT01M38.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,92,172,20,Missed,1,,,0,v,MISS Jefferson 20' Jump Shot,Missed Shot,Jump Shot,0,2,465,0021201223
+506,PT01M37.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,466,0021201223
+507,PT01M30.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Short (Full 4 Short 1),Timeout,Short,0,0,467,0021201223
+509,PT01M30.00S,4,1610612762,UTA,200794,Millsap,P. Millsap,0,0,0,,0,,,0,v,SUB: Burks FOR Millsap,Substitution,,0,0,468,0021201223
+510,PT01M30.00S,4,1610612762,UTA,2744,Jefferson,A. Jefferson,0,0,0,,0,,,0,v,SUB: Evans FOR Jefferson,Substitution,,0,0,469,0021201223
+511,PT01M30.00S,4,1610612762,UTA,200751,Foye,R. Foye,0,0,0,,0,,,0,v,SUB: Favors FOR Foye,Substitution,,0,0,470,0021201223
+512,PT01M30.00S,4,1610612762,UTA,2590,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Tinsley FOR Mo. Williams,Substitution,,0,0,471,0021201223
+513,PT01M30.00S,4,1610612763,MEM,2419,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Arthur FOR Prince,Substitution,,0,0,472,0021201223
+514,PT01M30.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Daye FOR Randolph,Substitution,,0,0,473,0021201223
+515,PT01M30.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Pondexter FOR Gasol,Substitution,,0,0,474,0021201223
+516,PT01M30.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Davis FOR Conley,Substitution,,0,0,475,0021201223
+517,PT01M30.00S,4,1610612763,MEM,201573,Bayless,J. Bayless,0,0,0,,0,,,0,h,SUB: Dooling FOR Bayless,Substitution,,0,0,476,0021201223
+518,PT01M12.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,230,-3,0,Made,1,86.0,68.0,154,h,Pondexter 3PT Jump Shot (5 PTS) (Daye 2 AST),Made Shot,Jump Shot,0,3,477,0021201223
+519,PT01M07.00S,4,1610612762,UTA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,478,0021201223
+519,PT01M07.00S,4,1610612763,MEM,201948,Daye,A. Daye,0,0,0,,0,,,0,h,Daye STEAL (1 STL),,,0,0,479,0021201223
+521,PT00M42.90S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,234,-3,0,Missed,1,,,0,h,MISS Pondexter 3PT Jump Shot,Missed Shot,Jump Shot,0,3,480,0021201223
+522,PT00M41.90S,4,1610612762,UTA,202379,Evans,J. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,481,0021201223
+523,PT00M33.70S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,482,0021201223
+524,PT00M10.90S,4,1610612763,MEM,202334,Davis,E. Davis,0,0,0,,0,,,0,h,Davis Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,483,0021201223
+524,PT00M10.90S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors STEAL (3 STL),,,0,0,484,0021201223
+525,PT00M05.80S,4,1610612762,UTA,202692,Burks,A. Burks,10,0,1,Made,1,86.0,70.0,156,v,Burks 1' Layup (8 PTS),Made Shot,Layup Shot,0,2,485,0021201223
+527,PT00M00.00S,4,0,,0,,,0,0,0,,0,86.0,70.0,156,,End of 4th Period (10:25 PM EST),period,end,0,0,486,0021201223

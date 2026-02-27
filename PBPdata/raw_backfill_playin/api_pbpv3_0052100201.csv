@@ -1,0 +1,458 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052100201,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:47 PM EST),period,start,0,0,1
+0052100201,4,PT12M00.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Jump Ball Allen vs. Capela: Tip to Markkanen,Jump Ball,,1,0,2
+0052100201,7,PT11M40.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-235,2,24,Made,1,3,0,3,h,Mobley 24' 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,3
+0052100201,9,PT11M15.00S,1,1610612737,ATL,1629027,Young,T. Young,50,140,15,Missed,1,,,0,v,MISS Young 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,4
+0052100201,10,PT11M12.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0052100201,11,PT11M08.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,192,172,26,Made,1,6,0,6,h,Markkanen 26' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,1,3,6
+0052100201,13,PT10M56.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,2,10,1,Made,1,6,2,8,v,Huerter 1' Cutting Layup Shot (2 PTS) (Young 1 AST),Made Shot,Cutting Layup Shot,1,2,7
+0052100201,15,PT10M45.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-72,43,8,Missed,1,,,0,h,MISS LeVert 8' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,8
+0052100201,16,PT10M42.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0052100201,17,PT10M36.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,10
+0052100201,17,PT10M36.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland STEAL (1 STL),,,1,0,11
+0052100201,19,PT10M33.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter Personal Take Foul (P1.T1) (E.Lewis),Foul,Personal Take,1,0,12
+0052100201,21,PT10M18.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,2,13,1,Made,1,8,2,10,h,Mobley 1' Alley Oop Dunk (5 PTS) (Allen 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,13
+0052100201,23,PT10M01.00S,1,1610612737,ATL,1629027,Young,T. Young,-27,308,31,Missed,1,,,0,v,MISS Young 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0052100201,24,PT09M59.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,15
+0052100201,25,PT09M54.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,167,219,28,Missed,1,,,0,v,MISS Hunter 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0052100201,26,PT09M47.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,17
+0052100201,27,PT09M47.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,8,4,12,v,Capela Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,18
+0052100201,28,PT09M44.00S,1,1610612739,CLE,1629636,Garland,D. Garland,11,8,1,Missed,1,,,0,h,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,19
+0052100201,29,PT09M42.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,20
+0052100201,30,PT09M36.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,21
+0052100201,30,PT09M36.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland STEAL (2 STL),,,1,0,22
+0052100201,32,PT09M30.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,6,8,1,Made,1,10,4,14,h,Markkanen 1' Running Layup (5 PTS) (Garland 2 AST),Made Shot,Running Layup Shot,1,2,23
+0052100201,34,PT09M20.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,241,25,24,Missed,1,,,0,v,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+0052100201,35,PT09M20.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0052100201,36,PT09M00.00S,1,1610612739,CLE,1629636,Garland,D. Garland,12,12,2,Missed,1,,,0,h,MISS Garland 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,26
+0052100201,37,PT09M00.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,27
+0052100201,38,PT08M51.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-4,4,1,Missed,1,,,0,v,MISS Hunter 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,28
+0052100201,39,PT08M50.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,29
+0052100201,40,PT08M50.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,Missed,1,,,0,v,MISS Gallinari Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,30
+0052100201,41,PT08M50.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,31
+0052100201,42,PT08M33.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,38,80,9,Made,1,12,4,16,h,LeVert 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,32
+0052100201,43,PT08M10.00S,1,1610612737,ATL,1629027,Young,T. Young,34,214,22,Made,1,12,6,18,v,Young 22' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,33
+0052100201,44,PT07M53.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,237,21,24,Made,1,15,6,21,h,Markkanen 24' 3PT Jump Shot (8 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,3,34
+0052100201,46,PT07M37.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,-12,26,3,Missed,1,,,0,v,MISS Gallinari 3' Layup,Missed Shot,Layup Shot,1,2,35
+0052100201,46,PT07M37.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen BLOCK (1 BLK),,,1,2,36
+0052100201,48,PT07M37.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,37
+0052100201,50,PT07M29.00S,1,1610612737,ATL,1629027,Young,T. Young,-22,327,33,Missed,1,,,0,v,MISS Young 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0052100201,51,PT07M28.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0052100201,52,PT07M16.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,-225,146,27,Missed,1,,,0,h,MISS Markkanen 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0052100201,53,PT07M11.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0052100201,54,PT07M04.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,42
+0052100201,54,PT07M04.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland STEAL (3 STL),,,1,0,43
+0052100201,56,PT06M59.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,44
+0052100201,57,PT06M59.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0052100201,58,PT06M59.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Okoro FOR Allen,Substitution,,0,0,46
+0052100201,60,PT06M45.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,230,22,0,Missed,1,,,0,v,MISS Gallinari 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0052100201,61,PT06M41.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,48
+0052100201,62,PT06M36.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,65,0,7,Made,1,15,8,23,v,Hunter 7' Driving Floating Jump Shot (2 PTS) (Huerter 1 AST),Made Shot,Driving Floating Jump Shot,1,2,49
+0052100201,64,PT06M14.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-60,152,16,Missed,1,,,0,h,MISS Garland 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,50
+0052100201,65,PT06M11.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,51
+0052100201,66,PT06M08.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,-199,175,27,Made,1,18,8,26,h,Markkanen 27' 3PT Jump Shot (11 PTS) (Garland 3 AST),Made Shot,Jump Shot,1,3,52
+0052100201,68,PT05M48.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,-137,1,14,Made,1,18,10,28,v,Huerter 14' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,53
+0052100201,123,PT05M28.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,9,45,5,Missed,1,,,0,h,MISS Markkanen 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,54
+0052100201,123,PT05M28.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari BLOCK (1 BLK),,,1,2,55
+0052100201,125,PT05M27.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,56
+0052100201,69,PT05M21.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,25,117,12,Missed,1,,,0,h,MISS Mobley 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,57
+0052100201,70,PT05M19.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,58
+0052100201,71,PT05M04.00S,1,1610612737,ATL,203991,Capela,C. Capela,6,0,1,Made,1,18,12,30,v,Capela 1' Cutting Dunk Shot (4 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,1,2,59
+0052100201,73,PT04M49.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-33,115,12,Made,1,20,12,32,h,Garland 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,60
+0052100201,74,PT04M41.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,4,5,1,Made,1,20,14,34,v,Hunter 1' Running Dunk (4 PTS) (Young 3 AST),Made Shot,Running Dunk Shot,1,2,61
+0052100201,76,PT04M23.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-162,218,27,Made,1,23,14,37,h,Garland 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,62
+0052100201,77,PT04M12.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P3.T4),Turnover,Bad Pass,1,0,63
+0052100201,77,PT04M12.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen STEAL (1 STL),,,1,0,64
+0052100201,79,PT04M05.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-237,12,24,Made,1,26,14,40,h,LeVert 24' 3PT Jump Shot (5 PTS) (Mobley 1 AST),Made Shot,Jump Shot,1,3,65
+0052100201,81,PT04M03.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,66
+0052100201,82,PT04M03.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Love FOR LeVert,Substitution,,0,0,67
+0052100201,83,PT04M03.00S,1,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Rondo FOR Markkanen,Substitution,,0,0,68
+0052100201,84,PT04M03.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,69
+0052100201,88,PT03M52.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,70
+0052100201,90,PT03M44.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,28,87,9,Missed,1,,,0,v,MISS Huerter 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,71
+0052100201,91,PT03M41.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0052100201,92,PT03M36.00S,1,1610612739,CLE,1629636,Garland,D. Garland,4,8,1,Missed,1,,,0,h,MISS Garland 1' Running Layup,Missed Shot,Running Layup Shot,1,2,73
+0052100201,93,PT03M33.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,74
+0052100201,94,PT03M24.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,75
+0052100201,94,PT03M24.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love STEAL (1 STL),,,1,0,76
+0052100201,96,PT03M09.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,77
+0052100201,98,PT03M09.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,27,14,41,h,Garland Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+0052100201,99,PT03M09.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Allen FOR Mobley,Substitution,,0,0,79
+0052100201,100,PT03M09.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,SUB: Wright FOR Huerter,Substitution,,0,0,80
+0052100201,104,PT03M09.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Okongwu FOR Capela,Substitution,,0,0,81
+0052100201,103,PT03M09.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,28,14,42,h,Garland Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+0052100201,106,PT02M57.00S,1,1610612737,ATL,1629027,Young,T. Young,-98,173,20,Missed,1,,,0,v,MISS Young 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,83
+0052100201,107,PT02M50.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0052100201,108,PT02M50.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,Made,1,28,16,44,v,Bogdanovic Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,85
+0052100201,109,PT02M44.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,2,5,1,Missed,1,,,0,h,MISS Rondo 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,86
+0052100201,110,PT02M41.00S,1,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0052100201,111,PT02M36.00S,1,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,88
+0052100201,111,PT02M36.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo STEAL (1 STL),,,1,0,89
+0052100201,113,PT02M26.00S,1,1610612739,CLE,201567,Love,K. Love,-227,201,30,Missed,1,,,0,h,MISS Love 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0052100201,114,PT02M24.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,91
+0052100201,116,PT02M12.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,152,211,26,Missed,1,,,0,v,MISS Hunter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0052100201,117,PT02M08.00S,1,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0052100201,118,PT02M04.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,94,5,9,Made,1,28,18,46,v,Bogdanovic 9' Layup (4 PTS),Made Shot,Layup Shot,1,2,94
+0052100201,120,PT02M04.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,95
+0052100201,121,PT02M04.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Gallinari FOR Hunter,Substitution,,0,0,96
+0052100201,126,PT01M38.00S,1,1610612739,CLE,1629636,Garland,D. Garland,10,1,1,Missed,1,,,0,h,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,97
+0052100201,127,PT01M38.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0052100201,128,PT01M35.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Made,1,30,18,48,h,Allen Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,99
+0052100201,129,PT01M28.00S,1,1610612737,ATL,1629027,Young,T. Young,-26,52,6,Made,1,30,20,50,v,Young 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,100
+0052100201,130,PT01M04.00S,1,1610612739,CLE,1629636,Garland,D. Garland,2,16,2,Made,1,32,20,52,h,Garland 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,101
+0052100201,131,PT01M00.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,1,0,102
+0052100201,133,PT00M51.60S,1,1610612737,ATL,1629027,Young,T. Young,85,8,9,Missed,1,,,0,v,MISS Young 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,103
+0052100201,134,PT00M49.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,104
+0052100201,135,PT00M44.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,-118,220,25,Made,1,32,23,55,v,Gallinari 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,105
+0052100201,136,PT00M34.10S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,1,0,106
+0052100201,138,PT00M34.10S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,33,23,56,h,Allen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+0052100201,139,PT00M34.10S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,SUB: Mobley FOR Love,Substitution,,0,0,108
+0052100201,141,PT00M34.10S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,34,23,57,h,Allen Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,109
+0052100201,142,PT00M32.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Step Out of Bounds Turnover (P4.T7),Turnover,Step Out of Bounds Turnover,0,0,110
+0052100201,143,PT00M27.80S,1,1610612739,CLE,1628386,Allen,J. Allen,7,20,2,Made,1,36,23,59,h,Allen 2' Cutting Dunk Shot (6 PTS) (Rondo 1 AST),Made Shot,Cutting Dunk Shot,1,2,111
+0052100201,145,PT00M07.60S,1,1610612737,ATL,1629027,Young,T. Young,135,119,18,Made,1,36,25,61,v,Young 18' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,112
+0052100201,146,PT00M01.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,-217,259,34,Missed,1,,,0,h,MISS Rondo 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0052100201,147,PT00M01.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,114
+0052100201,148,PT00M00.00S,1,0,,0,,,0,0,0,,0,36,25,61,,End of 1st Period (8:12 PM EST),period,end,1,0,115
+0052100201,155,PT12M00.00S,2,0,,0,,,0,0,0,,0,36,25,61,,Start of 2nd Period (8:16 PM EST),period,start,0,0,116
+0052100201,156,PT11M45.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,120,101,16,Missed,1,,,0,v,MISS Gallinari 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,117
+0052100201,157,PT11M42.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,118
+0052100201,158,PT11M26.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-229,122,26,Missed,1,,,0,h,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0052100201,159,PT11M21.00S,2,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,,,0,v,Luwawu-Cabarrot REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0052100201,160,PT11M14.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-159,193,25,Missed,1,,,0,v,MISS Gallinari 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0052100201,161,PT11M10.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0052100201,162,PT11M08.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,-2,10,1,Made,1,38,25,63,h,Okoro 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,123
+0052100201,163,PT10M44.00S,2,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,-29,-15,3,Missed,1,,,0,v,MISS Luwawu-Cabarrot 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,124
+0052100201,164,PT10M42.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+0052100201,166,PT10M35.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,126
+0052100201,168,PT10M35.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,127
+0052100201,169,PT10M35.00S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,128
+0052100201,170,PT10M35.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,39,25,64,h,Okoro Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,129
+0052100201,171,PT10M21.00S,2,1610612737,ATL,1626153,Wright,D. Wright,164,206,26,Missed,1,,,0,v,MISS Wright 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0052100201,172,PT10M17.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,131
+0052100201,173,PT10M02.00S,2,1610612739,CLE,200765,Rondo,R. Rondo,235,-6,24,Missed,1,,,0,h,MISS Rondo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0052100201,174,PT09M59.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,133
+0052100201,175,PT09M46.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,5,101,10,Made,1,39,27,66,v,Gallinari 10' Pullup Jump Shot (5 PTS) (Bogdanovic 1 AST),Made Shot,Pullup Jump shot,1,2,134
+0052100201,176,PT09M24.00S,2,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,,,0,v,Luwawu-Cabarrot P.FOUL (P1.T2) (E.Lewis),Foul,Personal,1,0,135
+0052100201,178,PT09M17.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,40,64,8,Missed,1,,,0,h,MISS LeVert 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+0052100201,179,PT09M17.00S,2,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,137
+0052100201,180,PT09M17.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,138
+0052100201,182,PT08M55.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-109,1,11,Made,1,39,29,68,v,Gallinari 11' Fadeaway Jumper (7 PTS) (Wright 1 AST),Made Shot,Fadeaway Jump Shot,1,2,139
+0052100201,184,PT08M44.00S,2,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,140
+0052100201,184,PT08M44.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (1 STL),,,1,0,141
+0052100201,186,PT08M39.00S,2,1610612737,ATL,1626153,Wright,D. Wright,229,105,25,Missed,1,,,0,v,MISS Wright 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0052100201,187,PT08M36.00S,2,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0052100201,188,PT08M23.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,144
+0052100201,188,PT08M23.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (2 STL),,,1,0,145
+0052100201,190,PT08M20.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,1,24,2,Made,1,39,31,70,v,Bogdanovic 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,146
+0052100201,192,PT08M20.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,0,147
+0052100201,194,PT08M20.00S,2,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,SUB: Mobley FOR Rondo,Substitution,,0,0,148
+0052100201,195,PT08M20.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Markkanen FOR Allen,Substitution,,0,0,149
+0052100201,196,PT08M20.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: Garland FOR Okoro,Substitution,,0,0,150
+0052100201,197,PT08M20.00S,2,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,,,0,v,SUB: Huerter FOR Luwawu-Cabarrot,Substitution,,0,0,151
+0052100201,202,PT08M20.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,39,32,71,v,Bogdanovic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,152
+0052100201,203,PT08M13.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter P.FOUL (P2.T3) (B.Taylor),Foul,Personal,1,0,153
+0052100201,206,PT07M57.00S,2,1610612739,CLE,1629636,Garland,D. Garland,10,26,3,Made,1,41,32,73,h,Garland 3' Driving Layup (11 PTS) (LeVert 3 AST),Made Shot,Driving Layup Shot,1,2,154
+0052100201,209,PT07M40.00S,2,1610612737,ATL,1626153,Wright,D. Wright,1,6,1,Made,1,41,34,75,v,Wright 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,155
+0052100201,211,PT07M25.00S,2,1610612739,CLE,201567,Love,K. Love,-146,239,28,Made,1,44,34,78,h,Love 28' 3PT Jump Shot (3 PTS) (Mobley 2 AST),Made Shot,Jump Shot,1,3,156
+0052100201,213,PT07M10.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,188,192,27,Missed,1,,,0,v,MISS Gallinari 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0052100201,214,PT07M06.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,158
+0052100201,216,PT06M54.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,21,15,3,Missed,1,,,0,h,MISS Mobley 3' Layup,Missed Shot,Layup Shot,1,2,159
+0052100201,216,PT06M54.00S,2,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright BLOCK (1 BLK),,,1,2,160
+0052100201,218,PT06M52.00S,2,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0052100201,219,PT06M43.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-225,141,27,Made,1,44,37,81,v,Bogdanovic 27' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,3,162
+0052100201,220,PT06M43.00S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,163
+0052100201,222,PT06M43.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,SUB: Allen FOR Love,Substitution,,0,0,164
+0052100201,223,PT06M43.00S,2,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Young FOR Wright,Substitution,,0,0,165
+0052100201,226,PT06M27.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic P.FOUL (P2.T4) (E.Lewis),Foul,Personal,1,0,166
+0052100201,228,PT06M16.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,-230,26,0,Missed,1,,,0,h,MISS Markkanen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0052100201,229,PT06M11.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,168
+0052100201,230,PT06M11.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Missed,1,,,0,h,MISS Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,169
+0052100201,231,PT06M09.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,170
+0052100201,232,PT06M07.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,1,0,171
+0052100201,234,PT05M57.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari OFF.Foul (P1) (Z.Zarba),Foul,Offensive,1,0,172
+0052100201,236,PT05M57.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,173
+0052100201,237,PT05M46.00S,2,1610612739,CLE,1629636,Garland,D. Garland,9,183,18,Made,1,46,37,83,h,Garland 18' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,174
+0052100201,238,PT05M27.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-200,-4,20,Made,1,46,39,85,v,Bogdanovic 20' Jump Shot (12 PTS) (Huerter 2 AST),Made Shot,Jump Shot,1,2,175
+0052100201,240,PT05M14.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-69,107,13,Missed,1,,,0,h,MISS Garland 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,176
+0052100201,241,PT05M11.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,177
+0052100201,242,PT05M08.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,1,0,178
+0052100201,244,PT05M08.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,46,40,86,v,Bogdanovic Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,179
+0052100201,250,PT05M08.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,46,41,87,v,Bogdanovic Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,180
+0052100201,245,PT05M08.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Capela FOR Gallinari,Substitution,,0,0,181
+0052100201,246,PT05M08.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,SUB: Hunter FOR Okongwu,Substitution,,0,0,182
+0052100201,251,PT04M51.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,69,57,9,Missed,1,,,0,h,MISS LeVert 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,183
+0052100201,252,PT04M48.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,184
+0052100201,253,PT04M38.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,-43,25,5,Made,1,46,43,89,v,Huerter 5' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,185
+0052100201,254,PT04M21.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,-229,96,25,Made,1,49,43,92,h,Markkanen 25' 3PT Jump Shot (14 PTS) (Mobley 3 AST),Made Shot,Jump Shot,1,3,186
+0052100201,256,PT04M03.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-153,195,25,Missed,1,,,0,v,MISS Hunter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0052100201,257,PT03M59.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,188
+0052100201,258,PT03M50.00S,2,1610612739,CLE,1628386,Allen,J. Allen,10,23,3,Made,1,51,43,94,h,Allen 3' Cutting Dunk Shot (8 PTS) (LeVert 4 AST),Made Shot,Cutting Dunk Shot,1,2,189
+0052100201,260,PT03M33.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,1,20,2,Missed,1,,,0,v,MISS Huerter 2' Layup,Missed Shot,Layup Shot,1,2,190
+0052100201,260,PT03M33.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley BLOCK (1 BLK),,,1,2,191
+0052100201,262,PT03M29.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,192
+0052100201,263,PT03M23.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-201,232,31,Missed,1,,,0,h,MISS Garland 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0052100201,264,PT03M19.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,194
+0052100201,265,PT03M16.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,-38,289,29,Missed,1,,,0,h,MISS Markkanen 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0052100201,266,PT03M13.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,196
+0052100201,267,PT03M08.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-5,13,1,Missed,1,,,0,v,MISS Hunter 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,197
+0052100201,267,PT03M08.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen BLOCK (1 BLK),,,1,2,198
+0052100201,269,PT03M07.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,199
+0052100201,270,PT03M04.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,2,15,2,Made,1,53,43,96,h,Mobley 2' Running Alley Oop Dunk Shot (7 PTS) (LeVert 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,200
+0052100201,272,PT03M04.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,201
+0052100201,273,PT03M04.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Gallinari FOR Bogdanovic,Substitution,,0,0,202
+0052100201,275,PT02M55.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,-180,198,27,Made,1,53,46,99,v,Huerter 27' 3PT Jump Shot (9 PTS) (Young 4 AST),Made Shot,Jump Shot,1,3,203
+0052100201,277,PT02M37.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,165,190,25,Missed,1,,,0,h,MISS LeVert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0052100201,278,PT02M34.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,205
+0052100201,279,PT02M28.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,88,256,27,Missed,1,,,0,v,MISS Huerter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0052100201,280,PT02M25.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,207
+0052100201,281,PT02M16.00S,2,1610612737,ATL,1629027,Young,T. Young,-211,142,25,Missed,1,,,0,v,MISS Young 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,208
+0052100201,282,PT02M12.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,209
+0052100201,283,PT01M55.00S,2,1610612739,CLE,1629636,Garland,D. Garland,235,17,24,Missed,1,,,0,h,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0052100201,284,PT01M52.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,211
+0052100201,285,PT01M47.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,1,0,212
+0052100201,287,PT01M47.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,213
+0052100201,288,PT01M47.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,214
+0052100201,289,PT01M47.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Huerter,Substitution,,0,0,215
+0052100201,291,PT01M47.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,53,47,100,v,Capela Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+0052100201,292,PT01M32.00S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,219,127,25,Made,1,56,47,103,h,Markkanen 25' 3PT Jump Shot (17 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,3,217
+0052100201,294,PT01M18.00S,2,1610612737,ATL,1629027,Young,T. Young,-6,9,1,Missed,1,,,0,v,MISS Young 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,218
+0052100201,295,PT01M16.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,219
+0052100201,296,PT01M16.00S,2,1610612737,ATL,203991,Capela,C. Capela,1,0,0,Made,1,56,49,105,v,Capela Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,220
+0052100201,297,PT01M02.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,228,116,26,Made,1,59,49,108,h,LeVert 26' 3PT Jump Shot (8 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,3,221
+0052100201,300,PT00M48.90S,2,1610612737,ATL,1629027,Young,T. Young,-89,227,24,Missed,1,,,0,v,MISS Young 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,222
+0052100201,301,PT00M46.30S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,223
+0052100201,302,PT00M30.70S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,1,0,224
+0052100201,304,PT00M30.70S,2,0,,302,Blaylock,M. Blaylock,0,0,0,,0,59,49,108,,Instant Replay2nd Period (8:43 PM EST),Instant Replay,Support Ruling,0,0,225
+0052100201,305,PT00M30.70S,2,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Okoro FOR Markkanen,Substitution,,0,0,226
+0052100201,306,PT00M30.70S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Wright FOR Capela,Substitution,,0,0,227
+0052100201,307,PT00M30.70S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Okongwu FOR Bogdanovic,Substitution,,0,0,228
+0052100201,311,PT00M30.70S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,60,49,109,h,Mobley Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,229
+0052100201,312,PT00M30.70S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,61,49,110,h,Mobley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+0052100201,313,PT00M09.20S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,1,0,231
+0052100201,315,PT00M09.20S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,61,50,111,v,Gallinari Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+0052100201,316,PT00M09.20S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: Love FOR Okoro,Substitution,,0,0,233
+0052100201,317,PT00M09.20S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Luwawu-Cabarrot FOR Young,Substitution,,0,0,234
+0052100201,320,PT00M09.20S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,61,51,112,v,Gallinari Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0052100201,321,PT00M00.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-42,293,30,Missed,1,,,0,h,MISS Garland 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+0052100201,322,PT00M00.00S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,237
+0052100201,323,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,51,112,,End of 2nd Period (8:48 PM EST),period,end,1,0,238
+0052100201,330,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,51,112,,Start of 3rd Period (9:04 PM EST),period,start,0,0,239
+0052100201,331,PT11M42.00S,3,1610612737,ATL,1629027,Young,T. Young,146,211,26,Made,1,61,54,115,v,Young 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,3,240
+0052100201,332,PT11M28.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu P.FOUL (P2.T1) (B.Taylor),Foul,Personal,1,0,241
+0052100201,334,PT11M15.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,-1,1,0,Made,1,63,54,117,h,Markkanen Cutting Dunk Shot (19 PTS) (Allen 2 AST),Made Shot,Cutting Dunk Shot,1,2,242
+0052100201,336,PT10M56.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,9,15,2,Made,1,63,56,119,v,Huerter 2' Driving Finger Roll Layup (11 PTS) (Young 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,243
+0052100201,337,PT10M40.00S,3,1610612739,CLE,1629636,Garland,D. Garland,72,117,14,Missed,1,,,0,h,MISS Garland 14' Jump Shot,Missed Shot,Jump Shot,1,2,244
+0052100201,338,PT10M38.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,245
+0052100201,339,PT10M31.00S,3,1610612737,ATL,1629027,Young,T. Young,69,338,34,Missed,1,,,0,v,MISS Young 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,246
+0052100201,340,PT10M30.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,247
+0052100201,341,PT10M16.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,2,3,0,Made,1,65,56,121,h,Mobley Cutting Dunk Shot (11 PTS) (Garland 6 AST),Made Shot,Cutting Dunk Shot,1,2,248
+0052100201,343,PT09M52.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,110,112,16,Made,1,65,58,123,v,Hunter 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,249
+0052100201,345,PT09M31.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,86,132,16,Made,1,67,58,125,h,Mobley 16' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,1,2,250
+0052100201,346,PT09M19.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,CAVALIERS T.Foul (Def. 3 Sec Mobley ) (B.Taylor),Foul,Defense 3 Second,1,0,251
+0052100201,347,PT09M19.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,67,59,126,v,Young Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,252
+0052100201,349,PT09M15.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,253
+0052100201,364,PT09M03.00S,3,1610612739,CLE,1629636,Garland,D. Garland,11,78,8,Missed,1,,,0,h,MISS Garland 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,254
+0052100201,364,PT09M03.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young BLOCK (1 BLK),,,1,2,255
+0052100201,366,PT09M02.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,256
+0052100201,354,PT08M57.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter P.FOUL (P3.T2) (B.Taylor),Foul,Personal,1,0,257
+0052100201,357,PT08M57.00S,3,0,,354,,,0,0,0,,0,67,59,126,,Instant Replay3rd Period (9:09 PM EST),Instant Replay,Overturn Ruling,0,0,258
+0052100201,358,PT08M51.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,259
+0052100201,363,PT08M34.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,260
+0052100201,368,PT08M34.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-10,4,1,Made,1,67,61,128,v,Okongwu 1' Layup (2 PTS) (Young 6 AST),Made Shot,Layup Shot,1,2,261
+0052100201,372,PT08M34.00S,3,0,,359,Brown,C. Brown,0,0,0,,0,67,61,128,,Instant Replay3rd Period (9:15 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,262
+0052100201,373,PT08M17.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-5,-2,1,Made,1,69,61,130,h,Allen 1' Alley Oop Layup (10 PTS) (Garland 7 AST),Made Shot,Alley Oop Layup shot,1,2,263
+0052100201,375,PT08M02.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-1,4,0,Made,1,69,63,132,v,Hunter Driving Layup (8 PTS) (Young 7 AST),Made Shot,Driving Layup Shot,1,2,264
+0052100201,377,PT07M45.00S,3,1610612739,CLE,1629636,Garland,D. Garland,60,50,8,Made,1,71,63,134,h,Garland 8' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,265
+0052100201,378,PT07M34.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,-1,8,1,Made,1,71,65,136,v,Huerter 1' Cutting Layup Shot (13 PTS) (Young 8 AST),Made Shot,Cutting Layup Shot,1,2,266
+0052100201,381,PT07M08.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,232,6,0,Missed,1,,,0,h,MISS LeVert 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0052100201,382,PT07M04.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+0052100201,383,PT06M59.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,7,-1,1,Missed,1,,,0,v,MISS Hunter 1' Running Dunk,Missed Shot,Running Dunk Shot,1,2,269
+0052100201,383,PT06M59.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley BLOCK (2 BLK),,,1,2,270
+0052100201,385,PT06M55.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+0052100201,386,PT06M43.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen Offensive Charge Foul (P1) (B.Taylor),Foul,Offensive Charge,1,0,272
+0052100201,388,PT06M43.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,273
+0052100201,389,PT06M27.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,112,27,12,Missed,1,,,0,v,MISS Huerter 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,274
+0052100201,390,PT06M23.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,275
+0052100201,391,PT06M17.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter P.FOUL (P4.T3) (B.Taylor),Foul,Personal,1,0,276
+0052100201,393,PT06M17.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Okoro FOR Allen,Substitution,,0,0,277
+0052100201,394,PT06M17.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Huerter,Substitution,,0,0,278
+0052100201,397,PT06M01.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,279
+0052100201,398,PT05M46.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,11,63,6,Missed,1,,,0,v,MISS Hunter 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,280
+0052100201,399,PT05M43.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,281
+0052100201,400,PT05M23.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,181,260,32,Missed,1,,,0,h,MISS Markkanen 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0052100201,401,PT05M21.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,283
+0052100201,402,PT05M15.00S,3,1610612737,ATL,1629027,Young,T. Young,-203,191,28,Missed,1,,,0,v,MISS Young 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,284
+0052100201,403,PT05M12.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,285
+0052100201,404,PT04M52.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-2,8,1,Made,1,73,65,138,h,Okoro 1' Cutting Dunk Shot (5 PTS) (Mobley 4 AST),Made Shot,Cutting Dunk Shot,1,2,286
+0052100201,406,PT04M52.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu S.FOUL (P3.T4) (B.Taylor),Foul,Shooting,1,0,287
+0052100201,408,PT04M52.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Wright FOR Gallinari,Substitution,,0,0,288
+0052100201,410,PT04M52.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,74,65,139,h,Okoro Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,289
+0052100201,411,PT04M42.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,1,0,290
+0052100201,413,PT04M42.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,74,66,140,v,Bogdanovic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0052100201,414,PT04M42.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Rondo FOR LeVert,Substitution,,0,0,292
+0052100201,416,PT04M42.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,74,67,141,v,Bogdanovic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,293
+0052100201,417,PT04M30.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-134,215,25,Missed,1,,,0,h,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+0052100201,418,PT04M27.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,295
+0052100201,419,PT04M17.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,126,233,26,Missed,1,,,0,v,MISS Hunter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+0052100201,420,PT04M14.00S,3,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+0052100201,421,PT03M51.00S,3,1610612739,CLE,1629636,Garland,D. Garland,223,127,26,Missed,1,,,0,h,MISS Garland 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,298
+0052100201,422,PT03M48.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,299
+0052100201,423,PT03M48.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,Made,1,76,67,143,h,Markkanen Tip Layup Shot (21 PTS),Made Shot,Tip Layup Shot,1,2,300
+0052100201,425,PT03M34.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-1,7,1,Made,1,76,69,145,v,Hunter 1' Driving Layup (10 PTS) (Bogdanovic 2 AST),Made Shot,Driving Layup Shot,1,2,301
+0052100201,427,PT03M21.00S,3,1610612739,CLE,1629636,Garland,D. Garland,5,71,7,Missed,1,,,0,h,MISS Garland 7' Jump Shot,Missed Shot,Jump Shot,1,2,302
+0052100201,428,PT03M21.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,303
+0052100201,429,PT03M21.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen P.FOUL (P3.T2) (B.Taylor),Foul,Personal,1,0,304
+0052100201,431,PT03M21.00S,3,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Love FOR Markkanen,Substitution,,0,0,305
+0052100201,432,PT03M21.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,SUB: Dieng FOR Okongwu,Substitution,,0,0,306
+0052100201,435,PT03M21.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Gallinari FOR Hunter,Substitution,,0,0,307
+0052100201,437,PT03M02.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,141,256,29,Made,1,76,72,148,v,Gallinari 29' 3PT Jump Shot (12 PTS) (Young 9 AST),Made Shot,Jump Shot,1,3,308
+0052100201,439,PT02M32.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,229,104,25,Missed,1,,,0,h,MISS Okoro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0052100201,440,PT02M30.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,310
+0052100201,441,PT02M22.00S,3,1610612737,ATL,203476,Dieng,G. Dieng,-190,197,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0052100201,442,PT02M19.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,312
+0052100201,443,PT02M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Palming Turnover (P3.T7),Turnover,Palming Turnover,1,0,313
+0052100201,444,PT02M09.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,314
+0052100201,445,PT02M09.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,SUB: Allen FOR Love,Substitution,,0,0,315
+0052100201,446,PT02M09.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: LeVert FOR Mobley,Substitution,,0,0,316
+0052100201,449,PT01M58.00S,3,1610612737,ATL,1629027,Young,T. Young,5,5,1,Made,1,76,74,150,v,Young 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,317
+0052100201,450,PT01M50.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Out of Bounds Lost Ball Turnover (P4.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,318
+0052100201,451,PT01M42.00S,3,1610612737,ATL,1629027,Young,T. Young,60,357,36,Made,1,76,77,153,v,Young 36' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,319
+0052100201,452,PT01M24.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-142,113,18,Missed,1,,,0,h,MISS Garland 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,320
+0052100201,453,PT01M24.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,321
+0052100201,454,PT01M15.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-141,214,26,Made,1,79,77,156,h,LeVert 26' 3PT Jump Shot (11 PTS) (Rondo 2 AST),Made Shot,Jump Shot,1,3,322
+0052100201,456,PT00M58.40S,3,1610612737,ATL,1629027,Young,T. Young,175,325,37,Made,1,79,80,159,v,Young 37' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,3,323
+0052100201,457,PT00M46.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-119,232,26,Made,1,82,80,162,h,LeVert 26' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,324
+0052100201,458,PT00M40.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen P.FOUL (P2.T3) (B.Taylor),Foul,Personal,1,0,325
+0052100201,460,PT00M34.90S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen P.FOUL (P3.PN) (Z.Zarba),Foul,Personal,1,0,326
+0052100201,462,PT00M34.90S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,82,81,163,v,Young Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,327
+0052100201,463,PT00M34.90S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,82,82,164,v,Young Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,328
+0052100201,464,PT00M19.50S,3,1610612739,CLE,1629636,Garland,D. Garland,-206,-7,21,Made,1,84,82,166,h,Garland 21' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,329
+0052100201,465,PT00M06.10S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,1,0,330
+0052100201,467,PT00M06.10S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,84,83,167,v,Young Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+0052100201,468,PT00M06.10S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: Markkanen FOR Okoro,Substitution,,0,0,332
+0052100201,470,PT00M06.10S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,84,84,168,v,Young Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,333
+0052100201,471,PT00M00.00S,3,0,,0,,,0,0,0,,0,84,84,168,,End of 3rd Period (9:34 PM EST),period,end,1,0,334
+0052100201,476,PT12M00.00S,4,0,,0,,,0,0,0,,0,84,84,168,,Start of 4th Period (9:38 PM EST),period,start,0,0,335
+0052100201,477,PT11M44.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P3.T1) (E.Lewis),Foul,Shooting,1,0,336
+0052100201,479,PT11M44.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,85,84,169,h,LeVert Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+0052100201,480,PT11M44.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,86,84,170,h,LeVert Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,338
+0052100201,481,PT11M32.00S,4,1610612737,ATL,203476,Dieng,G. Dieng,0,0,0,,0,,,0,v,Dieng OFF.Foul (P1) (E.Lewis),Foul,Offensive,1,0,339
+0052100201,483,PT11M32.00S,4,1610612737,ATL,203476,Dieng,G. Dieng,0,0,0,,0,,,0,v,Dieng Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,340
+0052100201,484,PT11M12.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,341
+0052100201,484,PT11M12.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (3 STL),,,1,0,342
+0052100201,486,PT10M57.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-16,128,13,Missed,1,,,0,v,MISS Bogdanovic 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,343
+0052100201,487,PT10M56.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,344
+0052100201,488,PT10M30.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,185,188,26,Missed,1,,,0,h,MISS Markkanen 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,345
+0052100201,489,PT10M27.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,346
+0052100201,490,PT10M06.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,48,123,13,Missed,1,,,0,v,MISS Gallinari 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,347
+0052100201,491,PT10M04.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,348
+0052100201,493,PT09M53.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: Rondo FOR Garland,Substitution,,0,0,349
+0052100201,494,PT09M53.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Mobley FOR Allen,Substitution,,0,0,350
+0052100201,495,PT09M53.00S,4,1610612737,ATL,203476,Dieng,G. Dieng,0,0,0,,0,,,0,v,SUB: Okongwu FOR Dieng,Substitution,,0,0,351
+0052100201,496,PT09M53.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,SUB: Young FOR Huerter,Substitution,,0,0,352
+0052100201,501,PT09M43.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,353
+0052100201,503,PT09M23.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen S.FOUL (P4.T1) (E.Lewis),Foul,Shooting,1,0,354
+0052100201,505,PT09M23.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,86,85,171,v,Gallinari Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0052100201,506,PT09M23.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,86,86,172,v,Gallinari Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0052100201,507,PT09M02.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,142,215,26,Missed,1,,,0,h,MISS LeVert 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,357
+0052100201,508,PT09M00.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,358
+0052100201,509,PT08M51.00S,4,1610612737,ATL,1629027,Young,T. Young,49,92,10,Made,1,86,88,174,v,Young 10' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,2,359
+0052100201,510,PT08M51.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,360
+0052100201,511,PT08M51.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Garland FOR LeVert,Substitution,,0,0,361
+0052100201,513,PT08M26.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-34,183,19,Missed,1,,,0,h,MISS Garland 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,362
+0052100201,514,PT08M26.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,363
+0052100201,515,PT08M26.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,364
+0052100201,517,PT08M15.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu Traveling Turnover (P1.T11),Turnover,Traveling,1,0,365
+0052100201,518,PT08M03.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Out of Bounds - Bad Pass Turnover Turnover (P5.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,366
+0052100201,519,PT07M47.00S,4,1610612737,ATL,1629027,Young,T. Young,6,11,1,Made,1,86,90,176,v,Young 1' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,367
+0052100201,520,PT07M28.00S,4,1610612739,CLE,1629636,Garland,D. Garland,2,8,1,Missed,1,,,0,h,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0052100201,521,PT07M24.00S,4,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,369
+0052100201,522,PT07M20.00S,4,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,1,0,370
+0052100201,524,PT07M20.00S,4,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,SUB: Allen FOR Rondo,Substitution,,0,0,371
+0052100201,525,PT07M20.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: LeVert FOR Okoro,Substitution,,0,0,372
+0052100201,528,PT07M08.00S,4,1610612737,ATL,1629027,Young,T. Young,-83,211,23,Made,1,86,92,178,v,Young 23' Step Back Jump Shot (28 PTS),Made Shot,Step Back Jump shot,1,2,373
+0052100201,529,PT06M42.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,163,224,28,Missed,1,,,0,h,MISS Markkanen 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0052100201,530,PT06M40.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,375
+0052100201,531,PT06M20.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-2,273,27,Made,1,86,95,181,v,Bogdanovic 27' 3PT Jump Shot (19 PTS) (Gallinari 1 AST),Made Shot,Jump Shot,1,3,376
+0052100201,533,PT06M03.00S,4,1610612739,CLE,1629636,Garland,D. Garland,20,64,7,Made,1,88,95,183,h,Garland 7' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,2,377
+0052100201,534,PT05M39.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-197,244,31,Missed,1,,,0,v,MISS Bogdanovic 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0052100201,535,PT05M35.00S,4,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,379
+0052100201,536,PT05M34.00S,4,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,380
+0052100201,536,PT05M34.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert STEAL (1 STL),,,1,0,381
+0052100201,538,PT05M33.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P4.T2) (Z.Zarba),Foul,Shooting,1,0,382
+0052100201,540,PT05M33.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,89,95,184,h,Mobley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+0052100201,541,PT05M33.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,384
+0052100201,542,PT05M33.00S,4,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Huerter FOR Wright,Substitution,,0,0,385
+0052100201,543,PT05M33.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Hunter FOR Bogdanovic,Substitution,,0,0,386
+0052100201,546,PT05M33.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,387
+0052100201,547,PT05M31.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,388
+0052100201,548,PT05M09.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,-134,6,13,Missed,1,,,0,v,MISS Gallinari 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,389
+0052100201,549,PT05M06.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,390
+0052100201,550,PT05M00.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,-168,205,27,Made,1,92,95,187,h,Markkanen 27' 3PT Jump Shot (24 PTS) (Garland 8 AST),Made Shot,Jump Shot,1,3,391
+0052100201,553,PT04M45.00S,4,1610612737,ATL,1629027,Young,T. Young,-201,184,27,Missed,1,,,0,v,MISS Young 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,392
+0052100201,554,PT04M42.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,393
+0052100201,555,PT04M36.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari P.FOUL (P2.T3) (E.Lewis),Foul,Personal,1,0,394
+0052100201,557,PT04M26.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-164,188,25,Missed,1,,,0,h,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0052100201,558,PT04M21.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,396
+0052100201,559,PT04M04.00S,4,1610612737,ATL,1629027,Young,T. Young,-76,67,10,Made,1,92,97,189,v,Young 10' Driving Floating Jump Shot (30 PTS),Made Shot,Driving Floating Jump Shot,1,2,397
+0052100201,560,PT03M50.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,6,4,1,Made,1,94,97,191,h,Mobley 1' Cutting Dunk Shot (16 PTS) (Garland 9 AST),Made Shot,Cutting Dunk Shot,1,2,398
+0052100201,562,PT03M50.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,399
+0052100201,563,PT03M38.00S,4,1610612737,ATL,1629027,Young,T. Young,21,348,35,Made,1,94,100,194,v,Young 35' 3PT Jump Shot (33 PTS),Made Shot,Jump Shot,1,3,400
+0052100201,564,PT03M21.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu S.FOUL (P4.T4) (B.Taylor),Foul,Shooting,1,0,401
+0052100201,566,PT03M21.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,402
+0052100201,567,PT03M21.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,403
+0052100201,568,PT03M21.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,95,100,195,h,Allen Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+0052100201,569,PT03M05.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,-232,1,0,Missed,1,,,0,v,MISS Gallinari 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0052100201,570,PT03M01.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,406
+0052100201,571,PT02M40.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,43,260,26,Missed,1,,,0,h,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0052100201,572,PT02M40.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,408
+0052100201,573,PT02M40.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,409
+0052100201,575,PT02M20.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,137,328,36,Missed,1,,,0,v,MISS Huerter 36' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0052100201,576,PT02M14.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,411
+0052100201,577,PT02M05.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-10,176,18,Made,1,97,100,197,h,Garland 18' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,412
+0052100201,578,PT01M38.00S,4,1610612737,ATL,1629027,Young,T. Young,49,197,20,Missed,1,,,0,v,MISS Young 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,413
+0052100201,579,PT01M33.00S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,414
+0052100201,580,PT01M27.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,1,0,415
+0052100201,582,PT01M27.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,98,100,198,h,Mobley Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+0052100201,584,PT01M27.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Gallinari FOR Hunter,Substitution,,0,0,417
+0052100201,586,PT01M27.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,99,100,199,h,Mobley Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+0052100201,587,PT01M08.00S,4,1610612737,ATL,1629027,Young,T. Young,-32,86,9,Made,1,99,102,201,v,Young 9' Driving Floating Jump Shot (35 PTS),Made Shot,Driving Floating Jump Shot,1,2,419
+0052100201,588,PT00M53.30S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,420
+0052100201,588,PT00M53.30S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu STEAL (1 STL),,,1,0,421
+0052100201,590,PT00M51.30S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert P.FOUL (P3.T3) (B.Taylor),Foul,Personal,1,0,422
+0052100201,592,PT00M29.30S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,Gallinari Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,423
+0052100201,592,PT00M29.30S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen STEAL (2 STL),,,1,0,424
+0052100201,594,PT00M25.80S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,Markkanen Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,425
+0052100201,594,PT00M25.80S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,v,Huerter STEAL (1 STL),,,1,0,426
+0052100201,596,PT00M23.80S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley Personal Take Foul (P3.PN) (B.Taylor),Foul,Personal Take,1,0,427
+0052100201,598,PT00M23.80S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,99,103,202,v,Young Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,428
+0052100201,599,PT00M23.80S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Hunter FOR Gallinari,Substitution,,0,0,429
+0052100201,601,PT00M23.80S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,99,104,203,v,Young Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,430
+0052100201,602,PT00M23.80S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,431
+0052100201,603,PT00M23.80S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Love FOR Allen,Substitution,,0,0,432
+0052100201,604,PT00M23.80S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Wright FOR Young,Substitution,,0,0,433
+0052100201,607,PT00M23.80S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Luwawu-Cabarrot FOR Bogdanovic,Substitution,,0,0,434
+0052100201,609,PT00M19.70S,4,1610612739,CLE,1629636,Garland,D. Garland,121,264,29,Missed,1,,,0,h,MISS Garland 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0052100201,610,PT00M17.40S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,436
+0052100201,611,PT00M15.50S,4,1610612739,CLE,1630596,Mobley,E. Mobley,24,41,5,Missed,1,,,0,h,MISS Mobley 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,437
+0052100201,612,PT00M13.70S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,438
+0052100201,613,PT00M13.70S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Mobley Personal Take Foul (P4.PN) (E.Lewis),Foul,Personal Take,1,0,439
+0052100201,615,PT00M13.70S,4,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,99,105,204,v,Luwawu-Cabarrot Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+0052100201,616,PT00M13.70S,4,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,99,106,205,v,Luwawu-Cabarrot Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+0052100201,617,PT00M13.70S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,442
+0052100201,618,PT00M12.10S,4,1610612739,CLE,1628374,Markkanen,L. Markkanen,153,16,15,Made,1,101,106,207,h,Markkanen 15' Jump Shot (26 PTS) (Mobley 5 AST),Made Shot,Jump Shot,1,2,443
+0052100201,620,PT00M11.60S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,444
+0052100201,621,PT00M11.60S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,h,SUB: Allen FOR Love,Substitution,,0,0,445
+0052100201,622,PT00M11.60S,4,1610612737,ATL,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Gallinari FOR Wright,Substitution,,0,0,446
+0052100201,623,PT00M11.60S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,SUB: Young FOR Okongwu,Substitution,,0,0,447
+0052100201,624,PT00M11.60S,4,1610612737,ATL,1627789,Luwawu-Cabarrot,T. Luwawu-Cabarrot,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Luwawu-Cabarrot,Substitution,,0,0,448
+0052100201,629,PT00M10.50S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Personal Take Foul (P4.PN) (Z.Zarba),Foul,Personal Take,1,0,449
+0052100201,631,PT00M10.50S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,450
+0052100201,632,PT00M10.50S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,451
+0052100201,633,PT00M10.50S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Love FOR Allen,Substitution,,0,0,452
+0052100201,634,PT00M10.50S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,v,SUB: Wright FOR Gallinari,Substitution,,0,0,453
+0052100201,637,PT00M10.50S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,101,107,208,v,Young Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0052100201,638,PT00M04.30S,4,1610612739,CLE,1630596,Mobley,E. Mobley,184,285,34,Missed,1,,,0,h,MISS Mobley 34' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,455
+0052100201,639,PT00M01.70S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,456
+0052100201,640,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,107,208,,End of 4th Period (10:15 PM EST),period,end,1,0,457

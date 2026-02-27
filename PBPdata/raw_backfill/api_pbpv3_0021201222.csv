@@ -1,0 +1,436 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:07 PM EST),period,start,0,0,1,0021201222
+1,PT12M00.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Jump Ball Mohammed vs. Seraphin: Tip to Boozer,Jump Ball,,0,0,3,0021201222
+2,PT11M36.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-179,184,26,Missed,1,0,0,0,h,MISS Hinrich 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,4,0021201222
+3,PT11M35.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,5,0021201222
+4,PT11M28.00S,1,1610612764,WAS,201858,Martin,C. Martin,0,0,0,,0,0,0,0,v,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,6,0021201222
+5,PT11M11.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,0,7,0021201222
+6,PT11M11.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed Foul Turnover (P1.T1),Turnover,Foul,0,0,8,0021201222
+7,PT10M54.00S,1,1610612764,WAS,202066,Temple,G. Temple,-81,246,26,Missed,1,0,0,0,v,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,9,0021201222
+8,PT10M53.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10,0021201222
+9,PT10M42.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-89,67,11,Made,1,2,0,2,h,Boozer 11' Turnaround Fadeaway (2 PTS) (Butler 1 AST),Made Shot,Turnaround Fadeaway shot,0,2,11,0021201222
+10,PT10M25.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,12,0021201222
+11,PT10M06.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,97,10,Missed,1,0,0,0,h,MISS Boozer 10' Jump Shot,Missed Shot,Jump Shot,0,2,13,0021201222
+12,PT10M04.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,-2,12,1,Made,1,4,0,4,h,Butler 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,15,0021201222
+13,PT10M04.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,14,0021201222
+14,PT09M52.00S,1,1610612764,WAS,202066,Temple,G. Temple,12,25,3,Missed,1,0,0,0,v,MISS Temple 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,16,0021201222
+14,PT09M52.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler BLOCK (1 BLK),,,0,2,17,0021201222
+15,PT09M52.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,18,0021201222
+16,PT09M47.00S,1,1610612764,WAS,202344,Booker,T. Booker,124,118,17,Missed,1,0,0,0,v,MISS Booker 17' Jump Shot,Missed Shot,Jump Shot,0,2,19,0021201222
+17,PT09M45.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,20,0021201222
+18,PT09M30.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-32,85,9,Made,1,6,0,6,h,Boozer 9' Hook Shot (4 PTS),Made Shot,Hook Shot,0,2,21,0021201222
+19,PT09M18.00S,1,1610612764,WAS,202322,Wall,J. Wall,111,99,15,Missed,1,0,0,0,v,MISS Wall 15' Jump Shot,Missed Shot,Jump Shot,0,2,22,0021201222
+20,PT09M16.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,23,0021201222
+21,PT08M58.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,110,37,12,Made,1,8,0,8,h,Mohammed 12' Turnaround Jump Shot (2 PTS) (Hinrich 1 AST),Made Shot,Turnaround Jump Shot,0,2,24,0021201222
+22,PT08M39.00S,1,1610612764,WAS,201858,Martin,C. Martin,-48,209,21,Missed,1,0,0,0,v,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,0,2,25,0021201222
+23,PT08M39.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0,26,0021201222
+24,PT08M30.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker P.FOUL (P1.T1),Foul,Personal,0,0,27,0021201222
+25,PT08M17.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,37,102,11,Made,1,10,0,10,h,Hinrich 11' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,28,0021201222
+26,PT07M59.00S,1,1610612764,WAS,202322,Wall,J. Wall,12,74,7,Missed,1,0,0,0,v,MISS Wall 7' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,29,0021201222
+27,PT07M56.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,30,0021201222
+28,PT07M48.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,18,11,2,Missed,1,0,0,0,h,MISS Butler 2' Layup,Missed Shot,Layup Shot,0,2,31,0021201222
+29,PT07M46.00S,1,1610612764,WAS,201858,Martin,C. Martin,0,0,0,,0,0,0,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,32,0021201222
+30,PT07M41.00S,1,1610612764,WAS,202344,Booker,T. Booker,7,17,2,Made,1,10,2,12,v,Booker 2' Layup (2 PTS) (Temple 1 AST),Made Shot,Layup Shot,0,2,33,0021201222
+31,PT07M41.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed S.FOUL (P2.T2),Foul,Shooting,0,0,34,0021201222
+32,PT07M41.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,MISS Booker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,35,0021201222
+34,PT07M38.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,36,0021201222
+35,PT07M21.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,4,64,6,Missed,1,0,0,0,h,MISS Boozer 6' Jump Shot,Missed Shot,Jump Shot,0,2,37,0021201222
+36,PT07M20.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,-13,7,1,Missed,1,0,0,0,h,MISS Mohammed 1' Tip Shot,Missed Shot,Tip Shot,0,2,39,0021201222
+37,PT07M20.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,38,0021201222
+38,PT07M17.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,40,0021201222
+39,PT07M12.00S,1,1610612764,WAS,202066,Temple,G. Temple,-235,0,24,Made,1,10,5,15,v,Temple 24' 3PT Jump Shot (3 PTS) (Wall 1 AST),Made Shot,Jump Shot,0,3,41,0021201222
+40,PT06M54.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,144,211,26,Made,1,13,5,18,h,Hinrich 26' 3PT Jump Shot (5 PTS) (Deng 1 AST),Made Shot,Jump Shot,0,3,42,0021201222
+41,PT06M42.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,43,0021201222
+41,PT06M42.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed STEAL (1 STL),,,0,0,44,0021201222
+42,PT06M39.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-8,20,2,Made,1,15,5,20,h,Hinrich 2' Reverse Layup (7 PTS),Made Shot,Reverse Layup Shot,0,2,45,0021201222
+43,PT06M39.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall S.FOUL (P1.T2),Foul,Shooting,0,0,46,0021201222
+44,PT06M39.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,16,5,21,h,Hinrich Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,47,0021201222
+46,PT06M25.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,-19,160,16,Missed,1,0,0,0,v,MISS Seraphin 16' Jump Shot,Missed Shot,Jump Shot,0,2,48,0021201222
+47,PT06M23.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,49,0021201222
+48,PT06M04.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,102,197,22,Missed,1,0,0,0,h,MISS Hinrich 22' Jump Shot,Missed Shot,Jump Shot,0,2,50,0021201222
+49,PT06M03.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,51,0021201222
+50,PT05M46.00S,1,1610612764,WAS,202344,Booker,T. Booker,-24,17,3,Made,1,16,7,23,v,Booker 3' Finger Roll Layup (4 PTS) (Wall 2 AST),Made Shot,Finger Roll Layup Shot,0,2,52,0021201222
+51,PT05M20.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,-7,151,15,Made,1,18,7,25,h,Mohammed 15' Jump Shot (4 PTS) (Deng 2 AST),Made Shot,Jump Shot,0,2,53,0021201222
+52,PT05M05.00S,1,1610612764,WAS,202066,Temple,G. Temple,-112,102,15,Missed,1,0,0,0,v,MISS Temple 15' Jump Shot,Missed Shot,Jump Shot,0,2,54,0021201222
+53,PT05M04.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,55,0021201222
+54,PT04M51.00S,1,1610612741,CHI,2736,Deng,L. Deng,237,48,24,Missed,1,0,0,0,h,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,56,0021201222
+55,PT04M50.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,57,0021201222
+56,PT04M48.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,-7,22,2,Made,1,20,7,27,h,Mohammed 2' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,0,2,58,0021201222
+57,PT04M48.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple S.FOUL (P1.T3),Foul,Shooting,0,0,59,0021201222
+58,PT04M48.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,60,0021201222
+60,PT04M48.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,21,7,28,h,Mohammed Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,61,0021201222
+62,PT04M33.00S,1,1610612764,WAS,201858,Martin,C. Martin,-133,137,19,Missed,1,0,0,0,v,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,0,2,62,0021201222
+63,PT04M32.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,63,0021201222
+64,PT04M16.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,13,22,3,Missed,1,0,0,0,h,MISS Boozer 3' Layup,Missed Shot,Layup Shot,0,2,64,0021201222
+64,PT04M16.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin BLOCK (1 BLK),,,0,2,65,0021201222
+65,PT04M10.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,66,0021201222
+66,PT04M08.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,13,14,2,Made,1,23,7,30,h,Boozer 2' Layup (6 PTS),Made Shot,Layup Shot,0,2,67,0021201222
+67,PT04M02.00S,1,1610612764,WAS,202344,Booker,T. Booker,-179,9,18,Missed,1,0,0,0,v,MISS Booker 18' Jump Shot,Missed Shot,Jump Shot,0,2,68,0021201222
+68,PT03M59.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,69,0021201222
+69,PT03M55.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,-10,20,2,Made,1,25,7,32,h,Mohammed 2' Layup (9 PTS) (Hinrich 2 AST),Made Shot,Layup Shot,0,2,70,0021201222
+70,PT03M40.00S,1,1610612764,WAS,202322,Wall,J. Wall,97,162,19,Missed,1,0,0,0,v,MISS Wall 19' Jump Shot,Missed Shot,Jump Shot,0,2,71,0021201222
+71,PT03M38.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,72,0021201222
+72,PT03M23.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,173,74,19,Made,1,27,7,34,h,Butler 19' Jump Shot (4 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,0,2,73,0021201222
+73,PT03M16.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed P.FOUL (P3.T3),Foul,Personal,0,0,74,0021201222
+74,PT03M16.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Belinelli FOR Deng,Substitution,,0,0,76,0021201222
+75,PT03M16.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,SUB: Noah FOR Mohammed,Substitution,,0,0,75,0021201222
+76,PT03M16.00S,1,1610612764,WAS,201858,Martin,C. Martin,0,0,0,,0,0,0,0,v,SUB: Singleton FOR Martin,Substitution,,0,0,79,0021201222
+77,PT03M16.00S,1,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,SUB: Price FOR Seraphin,Substitution,,0,0,77,0021201222
+78,PT03M16.00S,1,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Collins FOR Temple,Substitution,,0,0,78,0021201222
+79,PT03M09.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli P.FOUL (P1.T4),Foul,Personal,0,0,80,0021201222
+80,PT03M09.00S,1,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,27,8,35,v,Price Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,81,0021201222
+83,PT03M09.00S,1,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,MISS Price Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,82,0021201222
+85,PT03M07.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,83,0021201222
+86,PT02M52.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,84,0021201222
+86,PT02M52.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker STEAL (1 STL),,,0,0,85,0021201222
+87,PT02M38.00S,1,1610612764,WAS,201985,Price,A. Price,-142,217,26,Missed,1,0,0,0,v,MISS Price 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,86,0021201222
+88,PT02M38.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,87,0021201222
+89,PT02M38.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88,0021201222
+92,PT12M00.00S,1,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,2,0021201222
+94,PT02M36.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich P.FOUL (P1.PN),Foul,Personal,0,0,89,0021201222
+95,PT02M26.00S,1,1610612764,WAS,202322,Wall,J. Wall,124,116,17,Missed,1,0,0,0,v,MISS Wall 17' Jump Shot,Missed Shot,Jump Shot,0,2,90,0021201222
+96,PT02M25.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,91,0021201222
+97,PT02M13.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,69,151,17,Made,1,29,8,37,h,Boozer 17' Jump Shot (8 PTS) (Belinelli 1 AST),Made Shot,Jump Shot,0,2,92,0021201222
+98,PT01M59.00S,1,1610612764,WAS,202698,Singleton,C. Singleton,28,175,18,Missed,1,0,0,0,v,MISS Singleton 18' Jump Shot,Missed Shot,Jump Shot,0,2,93,0021201222
+99,PT01M58.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,94,0021201222
+100,PT01M44.00S,1,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler Traveling Turnover (P1.T3),Turnover,Traveling,0,0,95,0021201222
+102,PT01M29.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich P.FOUL (P2.PN),Foul,Personal,0,0,96,0021201222
+103,PT01M29.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,29,9,38,v,Wall Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,97,0021201222
+105,PT01M29.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,29,10,39,v,Wall Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,98,0021201222
+107,PT01M12.00S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,138,213,25,Missed,1,0,0,0,h,MISS Belinelli 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,99,0021201222
+108,PT01M12.00S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,100,0021201222
+109,PT01M02.00S,1,1610612764,WAS,202322,Wall,J. Wall,13,39,4,Missed,1,0,0,0,v,MISS Wall 4' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,101,0021201222
+110,PT01M00.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,102,0021201222
+111,PT01M00.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,15,2,Made,1,29,12,41,v,Booker 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,2,103,0021201222
+112,PT00M46.90S,1,1610612741,CHI,201158,Belinelli,M. Belinelli,-150,63,16,Missed,1,0,0,0,h,MISS Belinelli 16' Jump Shot,Missed Shot,Jump Shot,0,2,104,0021201222
+113,PT00M45.80S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,105,0021201222
+114,PT00M38.10S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer P.FOUL (P1.PN),Foul,Personal,0,0,106,0021201222
+115,PT00M38.10S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,107,0021201222
+116,PT00M38.10S,1,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,108,0021201222
+117,PT00M38.10S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,29,13,42,v,Wall Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,109,0021201222
+119,PT00M23.50S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-142,143,20,Made,1,31,13,44,h,Hinrich 20' Jump Shot (10 PTS) (Boozer 1 AST),Made Shot,Jump Shot,0,2,110,0021201222
+120,PT00M02.20S,1,1610612764,WAS,202698,Singleton,C. Singleton,-8,94,9,Made,1,31,15,46,v,Singleton 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,111,0021201222
+121,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,15,46, ,End of 1st Period (8:32 PM EST),period,end,0,0,112,0021201222
+123,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,15,46, ,Start of 2nd Period (8:34 PM EST),period,start,0,0,113,0021201222
+124,PT11M40.00S,2,1610612764,WAS,201985,Price,A. Price,31,159,16,Made,1,31,17,48,v,Price 16' Jump Shot (3 PTS) (Temple 2 AST),Made Shot,Jump Shot,0,2,114,0021201222
+125,PT11M40.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson S.FOUL (P1.T1),Foul,Shooting,0,0,115,0021201222
+126,PT11M40.00S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,31,18,49,v,Price Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,116,0021201222
+128,PT11M15.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,-11,9,1,Made,1,33,18,51,h,Belinelli 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,0,2,117,0021201222
+129,PT11M02.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,118,0021201222
+129,PT11M02.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson STEAL (1 STL),,,0,0,119,0021201222
+130,PT10M57.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,6,25,3,Made,1,35,18,53,h,Belinelli 3' Running Layup (4 PTS) (Robinson 1 AST),Made Shot,Running Layup Shot,0,2,120,0021201222
+131,PT10M47.00S,2,1610612764,WAS,202066,Temple,G. Temple,-123,78,15,Missed,1,0,0,0,v,MISS Temple 15' Jump Shot,Missed Shot,Jump Shot,0,2,121,0021201222
+132,PT10M45.00S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,Price REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,122,0021201222
+133,PT10M44.00S,2,1610612764,WAS,201985,Price,A. Price,-23,52,6,Missed,1,0,0,0,v,MISS Price 6' Jump Shot,Missed Shot,Jump Shot,0,2,123,0021201222
+134,PT10M44.00S,2,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,124,0021201222
+135,PT10M44.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson P.FOUL (P1.T2),Foul,Personal,0,0,125,0021201222
+137,PT10M34.00S,2,1610612764,WAS,2215,Collins,J. Collins,-13,203,20,Missed,1,0,0,0,v,MISS Collins 20' Jump Shot,Missed Shot,Jump Shot,0,2,126,0021201222
+138,PT10M33.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,127,0021201222
+139,PT10M29.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson P.FOUL (P2.T3),Foul,Personal,0,0,128,0021201222
+140,PT10M21.00S,2,1610612764,WAS,201985,Price,A. Price,94,241,26,Made,1,35,21,56,v,Price 26' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,3,129,0021201222
+141,PT10M07.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton P.FOUL (P1.T1),Foul,Personal,0,0,130,0021201222
+143,PT09M57.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,176,42,18,Missed,1,0,0,0,h,MISS Gibson 18' Jump Shot,Missed Shot,Jump Shot,0,2,131,0021201222
+144,PT09M55.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,132,0021201222
+145,PT09M42.00S,2,1610612764,WAS,202686,Vesely,J. Vesely,-24,88,9,Made,1,35,23,58,v,Vesely 9' Hook Shot (2 PTS) (Price 1 AST),Made Shot,Hook Shot,0,2,133,0021201222
+146,PT09M19.00S,2,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,134,0021201222
+146,PT09M19.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple STEAL (1 STL),,,0,0,135,0021201222
+147,PT09M18.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli P.FOUL (P2.T4),Foul,Personal,0,0,136,0021201222
+148,PT09M09.00S,2,1610612764,WAS,201985,Price,A. Price,-108,145,18,Made,1,35,25,60,v,Price 18' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,137,0021201222
+149,PT08M47.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,138,0021201222
+149,PT08M47.00S,2,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,Vesely STEAL (1 STL),,,0,0,139,0021201222
+150,PT08M34.00S,2,1610612764,WAS,201985,Price,A. Price,223,47,0,Made,1,35,28,63,v,Price  3PT Jump Shot (12 PTS) (Temple 3 AST),Made Shot,Jump Shot,0,3,140,0021201222
+151,PT08M27.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141,0021201222
+155,PT08M13.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,116,143,18,Missed,1,0,0,0,h,MISS Belinelli 18' Jump Shot,Missed Shot,Jump Shot,0,2,142,0021201222
+156,PT08M11.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,143,0021201222
+157,PT07M54.00S,2,1610612764,WAS,201985,Price,A. Price,-90,37,10,Made,1,35,30,65,v,Price 10' Jump Shot (14 PTS),Made Shot,Jump Shot,0,2,144,0021201222
+159,PT07M38.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Noah,Substitution,,0,0,145,0021201222
+160,PT07M38.00S,2,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,SUB: Hamilton FOR Belinelli,Substitution,,0,0,146,0021201222
+161,PT07M38.00S,2,1610612741,CHI,1888,Hamilton,R. Hamilton,0,0,0,,0,0,0,0,h,Hamilton Backcourt Turnover (P1.T6),Turnover,Backcourt Turnover,0,0,147,0021201222
+162,PT07M31.00S,2,1610612764,WAS,201985,Price,A. Price,-117,126,17,Made,1,35,32,67,v,Price 17' Jump Shot (16 PTS),Made Shot,Jump Shot,0,2,148,0021201222
+163,PT07M11.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,149,0021201222
+163,PT07M11.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple STEAL (2 STL),,,0,0,150,0021201222
+164,PT07M08.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer P.FOUL (P2.PN),Foul,Personal,0,0,151,0021201222
+165,PT07M08.00S,2,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,35,33,68,v,Collins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,152,0021201222
+167,PT07M08.00S,2,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,35,34,69,v,Collins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,153,0021201222
+169,PT06M44.00S,2,1610612741,CHI,1888,Hamilton,R. Hamilton,222,112,25,Missed,1,0,0,0,h,MISS Hamilton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,154,0021201222
+170,PT06M40.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,155,0021201222
+171,PT06M38.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,9,30,3,Missed,1,0,0,0,v,MISS Singleton 3' Layup,Missed Shot,Layup Shot,0,2,156,0021201222
+172,PT06M36.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,157,0021201222
+173,PT06M31.00S,2,1610612741,CHI,1888,Hamilton,R. Hamilton,17,14,2,Made,1,37,34,71,h,Hamilton 2' Reverse Layup (2 PTS) (Robinson 2 AST),Made Shot,Reverse Layup Shot,0,2,158,0021201222
+174,PT06M30.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,159,0021201222
+175,PT06M30.00S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,37,35,72,v,Price Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,160,0021201222
+177,PT06M18.00S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,Price Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,161,0021201222
+177,PT06M18.00S,2,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler STEAL (1 STL),,,0,0,162,0021201222
+178,PT06M12.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,-182,175,25,Missed,1,0,0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,163,0021201222
+179,PT06M11.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,164,0021201222
+180,PT05M51.00S,2,1610612764,WAS,202066,Temple,G. Temple,-67,94,12,Missed,1,0,0,0,v,MISS Temple 12' Jump Shot,Missed Shot,Jump Shot,0,2,165,0021201222
+181,PT05M50.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,166,0021201222
+182,PT05M36.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,-100,26,10,Missed,1,0,0,0,h,MISS Boozer 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,167,0021201222
+183,PT05M34.00S,2,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,168,0021201222
+184,PT05M26.00S,2,1610612764,WAS,201985,Price,A. Price,64,164,18,Missed,1,0,0,0,v,MISS Price 18' Jump Shot,Missed Shot,Jump Shot,0,2,169,0021201222
+185,PT05M25.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,170,0021201222
+186,PT05M15.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,17,2,Made,1,39,35,74,h,Gibson 2' Layup (2 PTS) (Butler 2 AST),Made Shot,Layup Shot,0,2,171,0021201222
+187,PT05M15.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple S.FOUL (P2.T2),Foul,Shooting,0,0,172,0021201222
+188,PT05M15.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Regular,Timeout,Regular,0,0,173,0021201222
+190,PT05M15.00S,2,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,SUB: Deng FOR Butler,Substitution,,0,0,174,0021201222
+191,PT05M15.00S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,SUB: Wall FOR Price,Substitution,,0,0,175,0021201222
+192,PT05M15.00S,2,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,SUB: Seraphin FOR Collins,Substitution,,0,0,176,0021201222
+193,PT05M15.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,MISS Gibson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,177,0021201222
+195,PT05M13.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,178,0021201222
+196,PT04M58.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,124,164,21,Missed,1,0,0,0,v,MISS Singleton 21' Jump Shot,Missed Shot,Jump Shot,0,2,179,0021201222
+197,PT04M56.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,180,0021201222
+198,PT04M44.00S,2,1610612741,CHI,2736,Deng,L. Deng,174,184,25,Missed,1,0,0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,181,0021201222
+199,PT04M42.00S,2,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,Vesely REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,182,0021201222
+200,PT04M33.00S,2,1610612764,WAS,202322,Wall,J. Wall,147,88,17,Made,1,39,37,76,v,Wall 17' Jump Shot (5 PTS),Made Shot,Jump Shot,0,2,183,0021201222
+201,PT04M07.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-7,23,2,Missed,1,0,0,0,h,MISS Gibson 2' Layup,Missed Shot,Layup Shot,0,2,184,0021201222
+202,PT04M05.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,10,4,1,Made,1,41,37,78,h,Boozer 1' Tip Shot (10 PTS),Made Shot,Tip Shot,0,2,186,0021201222
+203,PT04M05.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,185,0021201222
+204,PT03M50.00S,2,1610612764,WAS,202686,Vesely,J. Vesely,-45,157,16,Missed,1,0,0,0,v,MISS Vesely 16' Jump Shot,Missed Shot,Jump Shot,0,2,187,0021201222
+205,PT03M48.00S,2,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0,188,0021201222
+206,PT03M36.00S,2,1610612741,CHI,2736,Deng,L. Deng,17,19,3,Made,1,43,37,80,h,Deng 3' Layup (2 PTS) (Boozer 2 AST),Made Shot,Layup Shot,0,2,189,0021201222
+207,PT03M24.00S,2,1610612764,WAS,202322,Wall,J. Wall,113,86,14,Made,1,43,39,82,v,Wall 14' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,0,2,190,0021201222
+208,PT03M02.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-100,26,10,Made,1,45,39,84,h,Gibson 10' Turnaround Jump Shot (4 PTS) (Robinson 3 AST),Made Shot,Turnaround Jump Shot,0,2,191,0021201222
+209,PT02M51.00S,2,1610612764,WAS,202338,Seraphin,K. Seraphin,-123,45,13,Made,1,45,41,86,v,Seraphin 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,192,0021201222
+210,PT02M29.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,154,208,26,Missed,1,0,0,0,h,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,193,0021201222
+211,PT02M27.00S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,194,0021201222
+212,PT02M19.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer P.FOUL (P3.PN),Foul,Personal,0,0,195,0021201222
+213,PT02M19.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,196,0021201222
+215,PT02M19.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Mohammed FOR Boozer,Substitution,,0,0,197,0021201222
+216,PT02M19.00S,2,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,SUB: Price FOR Singleton,Substitution,,0,0,198,0021201222
+217,PT02M19.00S,2,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,SUB: Booker FOR Vesely,Substitution,,0,0,199,0021201222
+218,PT02M19.00S,2,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,45,42,87,v,Seraphin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,200,0021201222
+220,PT02M19.00S,2,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,45,43,88,v,Seraphin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,201,0021201222
+222,PT02M08.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,152,205,26,Made,1,48,43,91,h,Robinson 26' 3PT Jump Shot (3 PTS) (Deng 3 AST),Made Shot,Jump Shot,0,3,202,0021201222
+223,PT01M52.00S,2,1610612764,WAS,201985,Price,A. Price,234,30,24,Missed,1,0,0,0,v,MISS Price 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,203,0021201222
+224,PT01M50.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,204,0021201222
+226,PT01M35.00S,2,1610612741,CHI,1737,Mohammed,N. Mohammed,6,9,1,Made,1,50,43,93,h,Mohammed 1' Layup (11 PTS) (Deng 4 AST),Made Shot,Layup Shot,0,2,205,0021201222
+227,PT01M19.00S,2,1610612764,WAS,202338,Seraphin,K. Seraphin,-5,173,17,Missed,1,0,0,0,v,MISS Seraphin 17' Jump Shot,Missed Shot,Jump Shot,0,2,206,0021201222
+228,PT01M17.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,207,0021201222
+229,PT00M59.80S,2,1610612741,CHI,1737,Mohammed,N. Mohammed,13,22,3,Missed,1,0,0,0,h,MISS Mohammed 3' Layup,Missed Shot,Layup Shot,0,2,208,0021201222
+230,PT00M57.90S,2,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,209,0021201222
+231,PT00M51.50S,2,1610612764,WAS,202344,Booker,T. Booker,7,14,2,Made,1,50,45,95,v,Booker 2' Layup (8 PTS) (Temple 4 AST),Made Shot,Layup Shot,0,2,210,0021201222
+232,PT00M36.90S,2,1610612741,CHI,2736,Deng,L. Deng,95,131,16,Missed,1,0,0,0,h,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,2,211,0021201222
+233,PT00M35.50S,2,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,212,0021201222
+234,PT00M28.40S,2,1610612764,WAS,202322,Wall,J. Wall,121,104,16,Made,1,50,47,97,v,Wall 16' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,213,0021201222
+235,PT00M08.80S,2,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,Price Personal Take Foul (P1.T3),Foul,Personal Take,0,0,214,0021201222
+236,PT00M08.80S,2,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Martin FOR Temple,Substitution,,0,0,215,0021201222
+237,PT00M03.80S,2,1610612741,CHI,1737,Mohammed,N. Mohammed,-19,14,2,Made,1,52,47,99,h,Mohammed 2' Layup (13 PTS) (Hamilton 1 AST),Made Shot,Layup Shot,0,2,216,0021201222
+238,PT00M00.00S,2,1610612764,WAS,202322,Wall,J. Wall,99,143,17,Missed,1,0,0,0,v,MISS Wall 17' Jump Shot,Missed Shot,Jump Shot,0,2,217,0021201222
+239,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,47,99, ,End of 2nd Period (9:00 PM EST),period,end,0,0,219,0021201222
+240,PT00M00.00S,2,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,218,0021201222
+241,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,47,99, ,Start of 3rd Period (9:16 PM EST),period,start,0,0,220,0021201222
+242,PT11M44.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich S.FOUL (P3.T1),Foul,Shooting,0,0,221,0021201222
+243,PT11M44.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,222,0021201222
+244,PT11M44.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,223,0021201222
+245,PT11M44.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,52,48,100,v,Wall Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,224,0021201222
+247,PT11M29.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed OFF.Foul (P4),Foul,Offensive,0,0,225,0021201222
+248,PT11M29.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed Foul Turnover (P2.T8),Turnover,Foul,0,0,226,0021201222
+249,PT11M17.00S,3,1610612764,WAS,2215,Collins,J. Collins,61,167,18,Missed,1,0,0,0,v,MISS Collins 18' Jump Shot,Missed Shot,Jump Shot,0,2,227,0021201222
+250,PT11M15.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,228,0021201222
+251,PT10M58.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-139,108,18,Made,1,54,48,102,h,Hinrich 18' Jump Shot (12 PTS) (Boozer 3 AST),Made Shot,Jump Shot,0,2,229,0021201222
+252,PT10M43.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer P.FOUL (P4.T2),Foul,Personal,0,0,230,0021201222
+253,PT10M36.00S,3,1610612764,WAS,202322,Wall,J. Wall,-43,205,21,Missed,1,0,0,0,v,MISS Wall 21' Jump Shot,Missed Shot,Jump Shot,0,2,231,0021201222
+254,PT10M35.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,232,0021201222
+255,PT10M22.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,114,123,17,Missed,1,0,0,0,h,MISS Mohammed 17' Jump Shot,Missed Shot,Jump Shot,0,2,233,0021201222
+256,PT10M20.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,234,0021201222
+257,PT09M59.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,61,22,6,Missed,1,0,0,0,h,MISS Butler 6' Jump Shot,Missed Shot,Jump Shot,0,2,235,0021201222
+258,PT09M58.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,236,0021201222
+259,PT09M54.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,56,239,25,Made,1,57,48,105,h,Hinrich 25' 3PT Jump Shot (15 PTS) (Butler 3 AST),Made Shot,Jump Shot,0,3,237,0021201222
+260,PT09M38.00S,3,1610612764,WAS,202344,Booker,T. Booker,-23,189,19,Missed,1,0,0,0,v,MISS Booker 19' Jump Shot,Missed Shot,Jump Shot,0,2,238,0021201222
+261,PT09M37.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,239,0021201222
+262,PT09M30.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,10,20,2,Made,1,59,48,107,h,Boozer 2' Layup (12 PTS) (Hinrich 4 AST),Made Shot,Layup Shot,0,2,240,0021201222
+263,PT09M28.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,241,0021201222
+267,PT09M12.00S,3,1610612764,WAS,202698,Singleton,C. Singleton,10,25,3,Made,1,59,50,109,v,Singleton 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,242,0021201222
+268,PT08M54.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,178,18,Made,1,61,50,111,h,Boozer 18' Jump Shot (14 PTS) (Deng 5 AST),Made Shot,Jump Shot,0,2,243,0021201222
+269,PT08M37.00S,3,1610612764,WAS,202066,Temple,G. Temple,-109,172,20,Missed,1,0,0,0,v,MISS Temple 20' Jump Shot,Missed Shot,Jump Shot,0,2,244,0021201222
+270,PT08M36.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,245,0021201222
+271,PT08M23.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,246,0021201222
+272,PT08M06.00S,3,1610612764,WAS,202698,Singleton,C. Singleton,7,20,2,Made,1,61,52,113,v,Singleton 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,247,0021201222
+273,PT07M50.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich Traveling Turnover (P1.T10),Turnover,Traveling,0,0,248,0021201222
+274,PT07M37.00S,3,1610612764,WAS,202322,Wall,J. Wall,-136,116,18,Made,1,61,54,115,v,Wall 18' Jump Shot (12 PTS),Made Shot,Jump Shot,0,2,249,0021201222
+275,PT07M37.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,250,0021201222
+280,PT07M16.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall P.FOUL (P2.T1),Foul,Personal,0,0,251,0021201222
+281,PT07M10.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins Violation:Kicked Ball,Violation,Kicked Ball,0,0,252,0021201222
+282,PT07M02.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,119,45,13,Missed,1,0,0,0,h,MISS Boozer 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,253,0021201222
+283,PT07M00.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,254,0021201222
+284,PT06M55.00S,3,1610612764,WAS,202066,Temple,G. Temple,133,64,15,Missed,1,0,0,0,v,MISS Temple 15' Jump Shot,Missed Shot,Jump Shot,0,2,255,0021201222
+285,PT06M53.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,256,0021201222
+286,PT06M52.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins Backcourt Turnover (P1.T6),Turnover,Backcourt Turnover,0,0,257,0021201222
+287,PT06M35.00S,3,1610612741,CHI,2736,Deng,L. Deng,132,86,16,Missed,1,0,0,0,h,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,2,258,0021201222
+288,PT06M35.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,259,0021201222
+289,PT06M35.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker S.FOUL (P2.T2),Foul,Shooting,0,0,260,0021201222
+290,PT06M35.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,62,54,116,h,Boozer Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,261,0021201222
+292,PT06M35.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,63,54,117,h,Boozer Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,262,0021201222
+294,PT06M22.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,263,0021201222
+294,PT06M22.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler STEAL (2 STL),,,0,0,264,0021201222
+295,PT06M18.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins S.FOUL (P1.T3),Foul,Shooting,0,0,265,0021201222
+296,PT06M18.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,64,54,118,h,Mohammed Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,266,0021201222
+298,PT06M18.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,65,54,119,h,Mohammed Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,267,0021201222
+300,PT05M53.00S,3,1610612764,WAS,202066,Temple,G. Temple,-95,238,26,Missed,1,0,0,0,v,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,268,0021201222
+301,PT05M53.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,269,0021201222
+302,PT05M53.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,270,0021201222
+303,PT05M53.00S,3,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,SUB: Price FOR Temple,Substitution,,0,0,271,0021201222
+304,PT05M39.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,-108,55,12,Missed,1,0,0,0,h,MISS Mohammed 12' Jump Shot,Missed Shot,Jump Shot,0,2,272,0021201222
+305,PT05M38.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,273,0021201222
+306,PT05M30.00S,3,1610612764,WAS,202322,Wall,J. Wall,-10,118,12,Made,1,65,56,121,v,Wall 12' Jump Shot (14 PTS),Made Shot,Jump Shot,0,2,274,0021201222
+307,PT05M05.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,Collins S.FOUL (P2.T4),Foul,Shooting,0,0,275,0021201222
+308,PT05M05.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,276,0021201222
+309,PT05M05.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0,277,0021201222
+310,PT05M05.00S,3,1610612764,WAS,2215,Collins,J. Collins,0,0,0,,0,0,0,0,v,SUB: Seraphin FOR Collins,Substitution,,0,0,278,0021201222
+311,PT05M05.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,66,56,122,h,Butler Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,279,0021201222
+313,PT04M49.00S,3,1610612764,WAS,202698,Singleton,C. Singleton,233,17,0,Missed,1,0,0,0,v,MISS Singleton  3PT Jump Shot,Missed Shot,Jump Shot,0,3,280,0021201222
+314,PT04M48.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,281,0021201222
+315,PT04M48.00S,3,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,Price P.FOUL (P2.PN),Foul,Personal,0,0,282,0021201222
+316,PT04M48.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,67,56,123,h,Butler Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,283,0021201222
+318,PT04M48.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,284,0021201222
+320,PT04M46.00S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,285,0021201222
+321,PT04M37.00S,3,1610612764,WAS,202322,Wall,J. Wall,-19,148,15,Missed,1,0,0,0,v,MISS Wall 15' Jump Shot,Missed Shot,Jump Shot,0,2,286,0021201222
+322,PT04M36.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,287,0021201222
+323,PT04M24.00S,3,1610612764,WAS,202322,Wall,J. Wall,1,19,2,Made,1,67,58,125,v,Wall 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,2,288,0021201222
+324,PT04M05.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,-122,25,12,Made,1,69,58,127,h,Mohammed 12' Jump Shot (17 PTS) (Hinrich 5 AST),Made Shot,Jump Shot,0,2,289,0021201222
+325,PT03M59.00S,3,1610612764,WAS,202698,Singleton,C. Singleton,2,15,2,Made,1,69,60,129,v,Singleton 2' Running Slam Dunk (8 PTS) (Price 2 AST),Made Shot,Running Slam Dunk Shot,0,2,290,0021201222
+326,PT03M55.00S,3,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,291,0021201222
+329,PT03M55.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,SUB: Robinson FOR Hinrich,Substitution,,0,0,292,0021201222
+330,PT03M36.00S,3,1610612741,CHI,2736,Deng,L. Deng,78,241,25,Missed,1,0,0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,293,0021201222
+331,PT03M35.00S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,294,0021201222
+332,PT03M16.00S,3,1610612764,WAS,202344,Booker,T. Booker,147,86,17,Missed,1,0,0,0,v,MISS Booker 17' Jump Shot,Missed Shot,Jump Shot,0,2,295,0021201222
+333,PT03M15.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,296,0021201222
+334,PT03M00.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,20,85,9,Missed,1,0,0,0,h,MISS Boozer 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,297,0021201222
+334,PT03M00.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker BLOCK (1 BLK),,,0,2,298,0021201222
+335,PT02M56.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,Mohammed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,299,0021201222
+336,PT02M52.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,144,126,19,Missed,1,0,0,0,h,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,0,2,300,0021201222
+337,PT02M51.00S,3,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,301,0021201222
+338,PT02M40.00S,3,1610612764,WAS,202322,Wall,J. Wall,34,160,16,Made,1,69,62,131,v,Wall 16' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,0,2,302,0021201222
+339,PT02M12.00S,3,1610612741,CHI,202710,Butler III,J. Butler III,-106,157,19,Missed,1,0,0,0,h,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,0,2,303,0021201222
+340,PT02M11.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,304,0021201222
+341,PT02M03.00S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,-141,15,14,Made,1,69,64,133,v,Seraphin 14' Jump Shot (6 PTS) (Price 3 AST),Made Shot,Jump Shot,0,2,305,0021201222
+342,PT01M38.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,31,53,6,Missed,1,0,0,0,h,MISS Mohammed 6' Hook Shot,Missed Shot,Hook Shot,0,2,306,0021201222
+343,PT01M35.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,307,0021201222
+344,PT01M23.00S,3,1610612764,WAS,202344,Booker,T. Booker,6,17,2,Made,1,69,66,135,v,Booker 2' Dunk (10 PTS) (Seraphin 1 AST),Made Shot,Dunk Shot,0,2,308,0021201222
+346,PT01M03.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,SUB: Belinelli FOR Deng,Substitution,,0,0,309,0021201222
+347,PT01M03.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0,0,0,h,SUB: Noah FOR Mohammed,Substitution,,0,0,310,0021201222
+348,PT00M53.70S,3,1610612741,CHI,101126,Robinson,N. Robinson,130,227,26,Made,1,72,66,138,h,Robinson 26' 3PT Jump Shot (6 PTS) (Belinelli 2 AST),Made Shot,Jump Shot,0,3,311,0021201222
+349,PT00M38.90S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,-11,19,2,Missed,1,0,0,0,v,MISS Seraphin 2' Layup,Missed Shot,Layup Shot,0,2,312,0021201222
+350,PT00M36.30S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,313,0021201222
+351,PT00M36.30S,3,1610612764,WAS,202338,Seraphin,K. Seraphin,2,12,1,Made,1,72,68,140,v,Seraphin 1' Layup (8 PTS),Made Shot,Layup Shot,0,2,314,0021201222
+352,PT00M24.90S,3,1610612741,CHI,201158,Belinelli,M. Belinelli,-119,129,18,Missed,1,0,0,0,h,MISS Belinelli 18' Jump Shot,Missed Shot,Jump Shot,0,2,315,0021201222
+353,PT00M23.90S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,316,0021201222
+354,PT00M21.50S,3,1610612741,CHI,2430,Boozer,C. Boozer,-8,45,5,Made,1,74,68,142,h,Boozer 5' Jump Shot (18 PTS),Made Shot,Jump Shot,0,2,317,0021201222
+355,PT00M00.60S,3,1610612764,WAS,201985,Price,A. Price,45,116,12,Missed,1,0,0,0,v,MISS Price 12' Jump Shot,Missed Shot,Jump Shot,0,2,318,0021201222
+356,PT00M00.00S,3,0,,0,,,0,0,0,,0,74,68,142, ,End of 3rd Period (9:43 PM EST),period,end,0,0,320,0021201222
+357,PT00M00.00S,3,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,319,0021201222
+359,PT12M00.00S,4,0,,0,,,0,0,0,,0,74,68,142, ,Start of 4th Period (9:45 PM EST),period,start,0,0,321,0021201222
+360,PT11M37.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,125,238,27,Missed,1,0,0,0,h,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,322,0021201222
+361,PT11M36.00S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,323,0021201222
+362,PT11M21.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,-193,61,20,Made,1,74,70,144,v,Singleton 20' Jump Shot (10 PTS) (Wall 3 AST),Made Shot,Jump Shot,0,2,324,0021201222
+363,PT11M03.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,231,91,25,Made,1,77,70,147,h,Butler 25' 3PT Jump Shot (9 PTS) (Robinson 4 AST),Made Shot,Jump Shot,0,3,325,0021201222
+364,PT10M47.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,326,0021201222
+364,PT10M47.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah STEAL (1 STL),,,0,0,327,0021201222
+366,PT10M32.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,124,162,20,Missed,1,0,0,0,h,MISS Belinelli 20' Jump Shot,Missed Shot,Jump Shot,0,2,328,0021201222
+367,PT10M30.00S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,329,0021201222
+368,PT10M16.00S,4,1610612764,WAS,202344,Booker,T. Booker,1,91,9,Missed,1,0,0,0,v,MISS Booker 9' Jump Shot,Missed Shot,Jump Shot,0,2,330,0021201222
+369,PT10M15.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,331,0021201222
+370,PT10M07.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,6,11,1,Missed,1,0,0,0,h,MISS Boozer 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,332,0021201222
+370,PT10M07.00S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker BLOCK (2 BLK),,,0,2,333,0021201222
+371,PT10M07.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0,334,0021201222
+372,PT10M07.00S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,SUB: Vesely FOR Booker,Substitution,,0,0,335,0021201222
+373,PT09M59.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin P.FOUL (P1.T1),Foul,Personal,0,0,336,0021201222
+374,PT09M56.00S,4,1610612741,CHI,201149,Noah,J. Noah,6,19,2,Missed,1,0,0,0,h,MISS Noah 2' Dunk,Missed Shot,Dunk Shot,0,2,337,0021201222
+374,PT09M56.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton BLOCK (1 BLK),,,0,2,338,0021201222
+375,PT09M53.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,339,0021201222
+376,PT09M50.00S,4,1610612764,WAS,202322,Wall,J. Wall,-4,22,2,Missed,1,0,0,0,v,MISS Wall 2' Layup,Missed Shot,Layup Shot,0,2,340,0021201222
+377,PT09M48.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,341,0021201222
+378,PT09M27.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,342,0021201222
+378,PT09M27.00S,4,1610612764,WAS,201985,Price,A. Price,0,0,0,,0,0,0,0,v,Price STEAL (1 STL),,,0,0,343,0021201222
+379,PT09M25.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,Belinelli P.FOUL (P3.T1),Foul,Personal,0,0,344,0021201222
+380,PT09M25.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,SUB: Temple FOR Wall,Substitution,,0,0,345,0021201222
+381,PT09M25.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,0,346,0021201222
+382,PT09M20.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson P.FOUL (P2.T2),Foul,Personal,0,0,347,0021201222
+383,PT09M10.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,241,39,24,Made,1,77,73,150,v,Singleton 24' 3PT Jump Shot (13 PTS) (Seraphin 2 AST),Made Shot,Jump Shot,0,3,348,0021201222
+384,PT08M44.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,-152,194,25,Made,1,80,73,153,h,Robinson 25' 3PT Jump Shot (9 PTS) (Noah 1 AST),Made Shot,Jump Shot,0,3,349,0021201222
+385,PT08M33.00S,4,1610612764,WAS,201985,Price,A. Price,-142,216,26,Missed,1,0,0,0,v,MISS Price 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,350,0021201222
+386,PT08M30.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,351,0021201222
+387,PT08M25.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-23,17,3,Missed,1,0,0,0,h,MISS Gibson 3' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,352,0021201222
+387,PT08M25.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin BLOCK (2 BLK),,,0,2,353,0021201222
+388,PT08M21.00S,4,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,Vesely REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,354,0021201222
+389,PT08M10.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,-4,157,16,Made,1,80,75,155,v,Seraphin 16' Jump Shot (10 PTS) (Price 4 AST),Made Shot,Jump Shot,0,2,355,0021201222
+390,PT07M49.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,29,247,25,Missed,1,0,0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,356,0021201222
+391,PT07M48.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,357,0021201222
+392,PT07M48.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,Singleton P.FOUL (P2.T2),Foul,Personal,0,0,358,0021201222
+393,PT07M48.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Regular,Timeout,Regular,0,0,359,0021201222
+396,PT07M39.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,360,0021201222
+397,PT07M21.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,-51,175,18,Missed,1,0,0,0,v,MISS Seraphin 18' Jump Shot,Missed Shot,Jump Shot,0,2,361,0021201222
+398,PT07M20.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0,362,0021201222
+399,PT07M00.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,-240,36,24,Missed,1,0,0,0,h,MISS Belinelli 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,363,0021201222
+400,PT06M59.00S,4,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,Vesely REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,364,0021201222
+401,PT06M44.00S,4,1610612764,WAS,201985,Price,A. Price,-139,82,16,Made,1,80,77,157,v,Price 16' Jump Shot (19 PTS),Made Shot,Jump Shot,0,2,365,0021201222
+402,PT06M20.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin S.FOUL (P2.T3),Foul,Shooting,0,0,366,0021201222
+403,PT06M20.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,81,77,158,h,Butler Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,367,0021201222
+405,PT06M20.00S,4,1610612764,WAS,202698,Singleton,C. Singleton,0,0,0,,0,0,0,0,v,SUB: Wall FOR Singleton,Substitution,,0,0,368,0021201222
+406,PT06M20.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,0,0,0,h,SUB: Boozer FOR Noah,Substitution,,0,0,369,0021201222
+407,PT06M20.00S,4,1610612741,CHI,201158,Belinelli,M. Belinelli,0,0,0,,0,0,0,0,h,SUB: Hamilton FOR Belinelli,Substitution,,0,0,370,0021201222
+408,PT06M20.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,82,77,159,h,Butler Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,371,0021201222
+410,PT06M05.00S,4,1610612764,WAS,202322,Wall,J. Wall,143,162,22,Missed,1,0,0,0,v,MISS Wall 22' Jump Shot,Missed Shot,Jump Shot,0,2,372,0021201222
+411,PT06M01.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,373,0021201222
+412,PT06M00.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson OFF.Foul (P3),Foul,Offensive,0,0,374,0021201222
+413,PT06M00.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson Foul Turnover (P1.T13),Turnover,Foul,0,0,375,0021201222
+414,PT05M36.00S,4,1610612764,WAS,201985,Price,A. Price,102,181,21,Missed,1,0,0,0,v,MISS Price 21' Jump Shot,Missed Shot,Jump Shot,0,2,376,0021201222
+415,PT05M35.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,377,0021201222
+416,PT05M18.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,-136,75,16,Missed,1,0,0,0,h,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,2,378,0021201222
+417,PT05M17.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,379,0021201222
+418,PT05M14.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,108,20,11,Missed,1,0,0,0,h,MISS Robinson 11' Jump Shot,Missed Shot,Jump Shot,0,2,380,0021201222
+419,PT05M12.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,381,0021201222
+420,PT05M12.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,Robinson P.FOUL (P3.T3),Foul,Personal,0,0,382,0021201222
+421,PT05M12.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,383,0021201222
+425,PT05M06.00S,4,1610612764,WAS,202686,Vesely,J. Vesely,10,19,2,Made,1,82,79,161,v,Vesely 2' Alley Oop Dunk (4 PTS) (Wall 4 AST),Made Shot,Alley Oop Dunk Shot,0,2,384,0021201222
+426,PT04M44.00S,4,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,Vesely S.FOUL (P1.T4),Foul,Shooting,0,0,385,0021201222
+427,PT04M44.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,83,79,162,h,Gibson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,386,0021201222
+429,PT04M44.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0,0,0,h,SUB: Hinrich FOR Robinson,Substitution,,0,0,387,0021201222
+430,PT04M44.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,84,79,163,h,Gibson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,388,0021201222
+433,PT04M23.00S,4,1610612764,WAS,202066,Temple,G. Temple,-240,15,24,Made,1,84,82,166,v,Temple 24' 3PT Jump Shot (6 PTS) (Seraphin 3 AST),Made Shot,Jump Shot,0,3,389,0021201222
+434,PT04M02.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,390,0021201222
+434,PT04M02.00S,4,1610612764,WAS,202066,Temple,G. Temple,0,0,0,,0,0,0,0,v,Temple STEAL (3 STL),,,0,0,391,0021201222
+435,PT04M02.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson P.FOUL (P4.T4),Foul,Personal,0,0,392,0021201222
+436,PT03M50.00S,4,1610612764,WAS,202322,Wall,J. Wall,113,134,18,Missed,1,0,0,0,v,MISS Wall 18' Jump Shot,Missed Shot,Jump Shot,0,2,393,0021201222
+437,PT03M49.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,Hinrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,394,0021201222
+438,PT03M38.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin S.FOUL (P3.PN),Foul,Shooting,0,0,395,0021201222
+439,PT03M38.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,85,82,167,h,Boozer Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,396,0021201222
+441,PT03M38.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,MISS Boozer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,397,0021201222
+443,PT03M36.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,398,0021201222
+444,PT03M19.00S,4,1610612764,WAS,201985,Price,A. Price,116,242,27,Made,1,85,85,170,v,Price 27' 3PT Jump Shot (22 PTS) (Temple 5 AST),Made Shot,Jump Shot,0,3,399,0021201222
+445,PT02M59.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,9,22,2,Made,1,87,85,172,h,Butler 2' Alley Oop Dunk (13 PTS) (Hamilton 2 AST),Made Shot,Alley Oop Dunk Shot,0,2,400,0021201222
+446,PT02M52.00S,4,1610612764,WAS,202322,Wall,J. Wall,7,15,2,Missed,1,0,0,0,v,MISS Wall 2' Layup,Missed Shot,Layup Shot,0,2,401,0021201222
+447,PT02M50.00S,4,1610612741,CHI,202710,Butler III,J. Butler III,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,402,0021201222
+448,PT02M41.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-13,20,2,Missed,1,0,0,0,h,MISS Gibson 2' Layup,Missed Shot,Layup Shot,0,2,403,0021201222
+449,PT02M40.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,0,0,0,,0,0,0,0,v,Seraphin REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,404,0021201222
+450,PT02M28.00S,4,1610612764,WAS,202066,Temple,G. Temple,121,228,26,Missed,1,0,0,0,v,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,405,0021201222
+451,PT02M27.00S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Unknown,0,0,406,0021201222
+452,PT02M27.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,407,0021201222
+455,PT02M27.00S,4,1610612741,CHI,1888,Hamilton,R. Hamilton,0,0,0,,0,0,0,0,h,SUB: Deng FOR Hamilton,Substitution,,0,0,408,0021201222
+456,PT02M27.00S,4,1610612764,WAS,202686,Vesely,J. Vesely,0,0,0,,0,0,0,0,v,SUB: Booker FOR Vesely,Substitution,,0,0,409,0021201222
+457,PT02M15.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,86,9,Made,1,89,85,174,h,Hinrich 9' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,0,2,410,0021201222
+458,PT01M58.00S,4,1610612764,WAS,202338,Seraphin,K. Seraphin,-67,132,15,Missed,1,0,0,0,v,MISS Seraphin 15' Jump Shot,Missed Shot,Jump Shot,0,2,411,0021201222
+459,PT01M57.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0,0,0,h,Deng REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,412,0021201222
+460,PT01M42.00S,4,1610612741,CHI,2736,Deng,L. Deng,136,217,26,Made,1,92,85,177,h,Deng 26' 3PT Jump Shot (5 PTS) (Boozer 4 AST),Made Shot,Jump Shot,0,3,413,0021201222
+461,PT01M38.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer S.FOUL (P5.PN),Foul,Shooting,0,0,414,0021201222
+462,PT01M38.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,92,86,178,v,Wall Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,415,0021201222
+464,PT01M38.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,92,87,179,v,Wall Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,416,0021201222
+466,PT01M16.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-10,22,2,Made,1,94,87,181,h,Gibson 2' Finger Roll Layup (8 PTS),Made Shot,Finger Roll Layup Shot,0,2,417,0021201222
+467,PT01M05.00S,4,1610612764,WAS,202322,Wall,J. Wall,116,228,26,Made,1,94,90,184,v,Wall 26' 3PT Jump Shot (23 PTS) (Booker 1 AST),Made Shot,Jump Shot,0,3,418,0021201222
+468,PT00M41.90S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,Boozer Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,419,0021201222
+468,PT00M41.90S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0,0,0,v,Booker STEAL (2 STL),,,0,0,420,0021201222
+470,PT00M38.60S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,421,0021201222
+475,PT00M26.10S,4,1610612764,WAS,201985,Price,A. Price,28,50,6,Made,1,94,92,186,v,Price 6' Floating Jump Shot (24 PTS),Made Shot,Floating Jump shot,0,2,422,0021201222
+476,PT00M17.10S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0,0,0,v,Wall P.FOUL (P3.PN),Foul,Personal,0,0,423,0021201222
+478,PT00M17.10S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0,0,0,h,MISS Hinrich Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,424,0021201222
+479,PT00M17.10S,4,0,,1610612741,,,0,0,0,,0,0,0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0,425,0021201222
+480,PT00M17.10S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,95,92,187,h,Hinrich Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,426,0021201222
+482,PT00M17.10S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Timeout: Short (Reg.5 Short 1),Timeout,Short,0,0,427,0021201222
+483,PT00M17.10S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0,0,0,h,SUB: Cook FOR Boozer,Substitution,,0,0,428,0021201222
+485,PT00M10.10S,4,1610612764,WAS,201985,Price,A. Price,-166,194,26,Missed,1,0,0,0,v,MISS Price 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,429,0021201222
+485,PT00M10.10S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0,0,0,h,Gibson BLOCK (1 BLK),,,0,3,430,0021201222
+486,PT00M10.10S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,431,0021201222
+487,PT00M10.10S,4,0,,486,,,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,432,0021201222
+490,PT00M00.30S,4,1610612764,WAS,202322,Wall,J. Wall,-125,224,26,Missed,1,0,0,0,v,MISS Wall 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,433,0021201222
+491,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,92,187, ,End of 4th Period (10:20 PM EST),period,end,0,0,435,0021201222
+492,PT00M00.00S,4,0,,1610612764,,,0,0,0,,0,0,0,0,v,Wizards Rebound,Rebound,Unknown,0,0,434,0021201222

@@ -1,0 +1,444 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:15 PM EST),period,start,0,0,1,0021201220
+1,PT12M00.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Jump Ball Haslem vs. Vucevic: Tip to Moore,Jump Ball,,0,0,2,0021201220
+2,PT11M41.00S,1,1610612753,ORL,202699,Harris,T. Harris,95,137,17,Made,1,0,2,2,v,Harris 17' Jump Shot (2 PTS) (Udrih 1 AST),Made Shot,Jump Shot,0,2,3,0021201220
+3,PT11M24.00S,1,1610612748,MIA,2034,Miller,M. Miller,174,176,25,Made,1,3,2,5,h,Miller 25' 3PT Jump Shot (3 PTS) (Cole 1 AST),Made Shot,Jump Shot,0,3,4,0021201220
+4,PT11M11.00S,1,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T1),Foul,Shooting,0,0,5,0021201220
+5,PT11M11.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,6,0021201220
+6,PT11M11.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,7,0021201220
+7,PT11M11.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,8,0021201220
+9,PT11M10.00S,1,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,9,0021201220
+10,PT11M05.00S,1,1610612748,MIA,2548,Wade,D. Wade,18,6,2,Made,1,5,2,7,h,Wade 2' Layup (2 PTS) (Cole 2 AST),Made Shot,Layup Shot,0,2,10,0021201220
+11,PT10M45.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,11,0021201220
+11,PT10M45.00S,1,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole STEAL (1 STL),,,0,0,12,0021201220
+12,PT10M44.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih P.FOUL (P1.T1),Foul,Personal,0,0,13,0021201220
+13,PT10M36.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P1.T2),Foul,Personal,0,0,14,0021201220
+14,PT10M27.00S,1,1610612748,MIA,202708,Cole,N. Cole,-123,222,25,Missed,1,0,0,0,h,MISS Cole 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,15,0021201220
+15,PT10M26.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,16,0021201220
+16,PT10M18.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,17,0021201220
+16,PT10M18.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem STEAL (1 STL),,,0,0,18,0021201220
+17,PT09M57.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,-157,15,16,Made,1,7,2,9,h,Haslem 16' Jump Shot (2 PTS) (Wade 1 AST),Made Shot,Jump Shot,0,2,19,0021201220
+18,PT09M38.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,-11,4,1,Made,1,7,4,11,v,Vucevic 1' Layup (2 PTS) (Udrih 2 AST),Made Shot,Layup Shot,0,2,20,0021201220
+19,PT09M20.00S,1,1610612748,MIA,436,Howard,J. Howard,-79,148,17,Missed,1,0,0,0,h,MISS Howard 17' Jump Shot,Missed Shot,Jump Shot,0,2,21,0021201220
+20,PT09M19.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,22,0021201220
+21,PT09M12.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem S.FOUL (P1.T2),Foul,Shooting,0,0,23,0021201220
+23,PT09M12.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,24,0021201220
+24,PT09M12.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,25,0021201220
+25,PT09M12.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,7,5,12,v,Harris Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,26,0021201220
+27,PT08M50.00S,1,1610612748,MIA,2548,Wade,D. Wade,-160,102,19,Missed,1,0,0,0,h,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,2,27,0021201220
+28,PT08M49.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,28,0021201220
+29,PT08M49.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic L.B.FOUL (P1.T3),Foul,Loose Ball,0,0,29,0021201220
+30,PT08M37.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,30,0021201220
+30,PT08M37.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic STEAL (1 STL),,,0,0,31,0021201220
+31,PT08M33.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Offensive Charge Foul (P1.T4),Foul,Offensive Charge,0,0,32,0021201220
+32,PT08M33.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Foul Turnover (P2.T3),Turnover,Foul,0,0,33,0021201220
+33,PT08M20.00S,1,1610612748,MIA,436,Howard,J. Howard,10,4,1,Missed,1,0,0,0,h,MISS Howard 1' Layup,Missed Shot,Layup Shot,0,2,34,0021201220
+34,PT08M19.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,35,0021201220
+35,PT08M13.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,4,61,6,Made,1,7,7,14,v,Udrih 6' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,36,0021201220
+36,PT07M47.00S,1,1610612748,MIA,436,Howard,J. Howard,32,77,8,Made,1,9,7,16,h,Howard 8' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,2,37,0021201220
+37,PT07M28.00S,1,1610612753,ORL,202699,Harris,T. Harris,61,116,13,Missed,1,0,0,0,v,MISS Harris 13' Jump Shot,Missed Shot,Jump Shot,0,2,38,0021201220
+38,PT07M27.00S,1,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,39,0021201220
+39,PT07M14.00S,1,1610612748,MIA,2548,Wade,D. Wade,42,17,5,Made,1,11,7,18,h,Wade 5' Jump Shot (4 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,2,40,0021201220
+40,PT07M09.00S,1,1610612753,ORL,202734,Moore,E. Moore,4,7,1,Made,1,11,9,20,v,Moore 1' Layup (2 PTS) (Udrih 3 AST),Made Shot,Layup Shot,0,2,41,0021201220
+41,PT06M53.00S,1,1610612748,MIA,2034,Miller,M. Miller,-237,17,24,Missed,1,0,0,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,42,0021201220
+42,PT06M53.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,43,0021201220
+43,PT06M53.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic L.B.FOUL (P2.PN),Foul,Loose Ball,0,0,44,0021201220
+45,PT06M53.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: Lamb FOR Harkless,Substitution,,0,0,45,0021201220
+46,PT06M53.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Vucevic,Substitution,,0,0,46,0021201220
+47,PT06M39.00S,1,1610612748,MIA,2034,Miller,M. Miller,236,15,24,Made,1,14,9,23,h,Miller 24' 3PT Jump Shot (6 PTS) (Wade 2 AST),Made Shot,Jump Shot,0,3,47,0021201220
+48,PT06M33.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,48,0021201220
+53,PT06M19.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,-136,104,17,Missed,1,0,0,0,v,MISS Udrih 17' Jump Shot,Missed Shot,Jump Shot,0,2,52,0021201220
+54,PT06M18.00S,1,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,53,0021201220
+55,PT06M13.00S,1,1610612748,MIA,2548,Wade,D. Wade,-38,23,4,Made,1,16,9,25,h,Wade 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,54,0021201220
+56,PT06M13.00S,1,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb S.FOUL (P1.PN),Foul,Shooting,0,0,55,0021201220
+57,PT06M13.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,56,0021201220
+59,PT06M12.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,57,0021201220
+60,PT06M03.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,-158,1,16,Missed,1,0,0,0,h,MISS Haslem 16' Jump Shot,Missed Shot,Jump Shot,0,2,58,0021201220
+61,PT06M02.00S,1,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,59,0021201220
+63,PT06M27.00S,1,1610612753,ORL,202699,Harris,T. Harris,-1,55,6,Missed,1,0,0,0,v,MISS Harris 6' Jump Shot,Missed Shot,Jump Shot,0,2,49,0021201220
+63,PT06M27.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (1 BLK),,,0,2,50,0021201220
+64,PT05M43.00S,1,1610612753,ORL,202734,Moore,E. Moore,95,172,20,Made,1,16,11,27,v,Moore 20' Jump Shot (4 PTS) (Udrih 4 AST),Made Shot,Jump Shot,0,2,60,0021201220
+65,PT05M24.00S,1,1610612748,MIA,436,Howard,J. Howard,58,66,9,Made,1,18,11,29,h,Howard 9' Turnaround Hook Shot (4 PTS) (Wade 3 AST),Made Shot,Turnaround Hook Shot,0,2,61,0021201220
+66,PT05M08.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,36,4,Made,1,18,13,31,v,Harris 4' Jump Shot (5 PTS) (Udrih 5 AST),Made Shot,Jump Shot,0,2,62,0021201220
+68,PT05M08.00S,1,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P1.T3),Foul,Shooting,0,0,63,0021201220
+69,PT05M08.00S,1,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,SUB: Harkless FOR Moore,Substitution,,0,0,64,0021201220
+70,PT05M08.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,SUB: Jones FOR Udrih,Substitution,,0,0,65,0021201220
+71,PT05M08.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,66,0021201220
+72,PT06M24.00S,1,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,51,0021201220
+74,PT05M07.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,67,0021201220
+75,PT04M55.00S,1,1610612748,MIA,436,Howard,J. Howard,0,85,9,Made,1,20,13,33,h,Howard 9' Jump Shot (6 PTS) (Wade 4 AST),Made Shot,Jump Shot,0,2,68,0021201220
+76,PT04M40.00S,1,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P2.T4),Foul,Shooting,0,0,69,0021201220
+77,PT04M40.00S,1,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,20,14,34,v,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,70,0021201220
+79,PT04M40.00S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: O'Quinn FOR Harris,Substitution,,0,0,71,0021201220
+81,PT04M40.00S,1,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,0,0,0,v,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,72,0021201220
+83,PT04M39.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,73,0021201220
+85,PT04M20.00S,1,1610612748,MIA,2548,Wade,D. Wade,-4,0,0,Made,1,22,14,36,h,Wade  Driving Dunk (8 PTS) (Miller 2 AST),Made Shot,Driving Dunk Shot,0,2,74,0021201220
+86,PT04M03.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,75,0021201220
+86,PT04M03.00S,1,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole STEAL (2 STL),,,0,0,76,0021201220
+87,PT03M57.00S,1,1610612748,MIA,202708,Cole,N. Cole,-43,121,13,Made,1,24,14,38,h,Cole 13' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,77,0021201220
+88,PT03M34.00S,1,1610612753,ORL,203094,Nicholson,A. Nicholson,0,97,10,Made,1,24,16,40,v,Nicholson 10' Turnaround Hook Shot (2 PTS) (O'Quinn 1 AST),Made Shot,Turnaround Hook Shot,0,2,78,0021201220
+89,PT03M20.00S,1,1610612748,MIA,436,Howard,J. Howard,9,12,2,Missed,1,0,0,0,h,MISS Howard 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,2,79,0021201220
+90,PT03M19.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,80,0021201220
+91,PT03M15.00S,1,1610612753,ORL,203117,Lamb,D. Lamb,-198,143,24,Missed,1,0,0,0,v,MISS Lamb 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,81,0021201220
+92,PT03M14.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,82,0021201220
+93,PT03M10.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,36,53,6,Missed,1,0,0,0,v,MISS O'Quinn 6' Jump Shot,Missed Shot,Jump Shot,0,2,83,0021201220
+94,PT03M08.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,84,0021201220
+95,PT03M08.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,85,0021201220
+98,PT03M08.00S,1,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,SUB: Allen FOR Howard,Substitution,,0,0,86,0021201220
+99,PT03M08.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,SUB: Battier FOR Haslem,Substitution,,0,0,87,0021201220
+100,PT03M08.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Wade,Substitution,,0,0,88,0021201220
+101,PT02M58.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,9,3,1,Missed,1,0,0,0,v,MISS Harkless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,89,0021201220
+102,PT02M57.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,90,0021201220
+103,PT02M36.00S,1,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb S.FOUL (P2.PN),Foul,Shooting,0,0,91,0021201220
+104,PT02M36.00S,1,0,,103,Day,T. Day,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,92,0021201220
+105,PT02M36.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,25,16,41,h,Battier Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,93,0021201220
+107,PT02M36.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,26,16,42,h,Battier Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,94,0021201220
+109,PT02M36.00S,1,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,SUB: Vucevic FOR Nicholson,Substitution,,0,0,95,0021201220
+110,PT02M36.00S,1,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,SUB: Harris FOR O'Quinn,Substitution,,0,0,96,0021201220
+111,PT02M36.00S,1,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,SUB: Lewis FOR Miller,Substitution,,0,0,97,0021201220
+112,PT02M36.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,MISS Battier Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,98,0021201220
+114,PT02M35.00S,1,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,99,0021201220
+115,PT02M13.00S,1,1610612753,ORL,203199,Jones,D. Jones,-124,153,20,Made,1,26,18,44,v,Jones 20' Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,0,2,100,0021201220
+116,PT01M55.00S,1,1610612748,MIA,951,Allen,R. Allen,189,42,19,Missed,1,0,0,0,h,MISS Allen 19' Jump Shot,Missed Shot,Jump Shot,0,2,101,0021201220
+117,PT01M54.00S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,102,0021201220
+118,PT01M47.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,103,0021201220
+118,PT01M47.00S,1,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen STEAL (1 STL),,,0,0,104,0021201220
+119,PT01M37.00S,1,1610612748,MIA,1740,Lewis,R. Lewis,-187,164,25,Made,1,29,18,47,h,Lewis 25' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,0,3,105,0021201220
+120,PT01M17.00S,1,1610612753,ORL,203090,Harkless,M. Harkless,231,12,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,0,3,106,0021201220
+121,PT01M16.00S,1,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,107,0021201220
+122,PT00M54.90S,1,1610612748,MIA,202708,Cole,N. Cole,-19,257,26,Missed,1,0,0,0,h,MISS Cole 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,108,0021201220
+123,PT00M53.70S,1,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,109,0021201220
+124,PT00M39.90S,1,1610612753,ORL,203117,Lamb,D. Lamb,12,7,1,Made,1,29,20,49,v,Lamb 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,110,0021201220
+125,PT00M24.90S,1,1610612748,MIA,1740,Lewis,R. Lewis,-32,25,4,Missed,1,0,0,0,h,MISS Lewis 4' Jump Shot,Missed Shot,Jump Shot,0,2,111,0021201220
+126,PT00M23.80S,1,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,112,0021201220
+128,PT00M01.70S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,113,0021201220
+129,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,20,49, ,End of 1st Period (8:43 PM EST),period,end,0,0,116,0021201220
+131,PT00M01.00S,1,1610612748,MIA,951,Allen,R. Allen,-189,293,35,Missed,1,0,0,0,h,MISS Allen 35' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,114,0021201220
+132,PT00M00.00S,1,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,115,0021201220
+133,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,20,49, ,Start of 2nd Period (8:45 PM EST),period,start,0,0,117,0021201220
+135,PT11M44.00S,2,1610612748,MIA,951,Allen,R. Allen,-243,6,24,Missed,1,0,0,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,118,0021201220
+136,PT11M43.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,119,0021201220
+137,PT11M20.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,-108,151,19,Made,1,31,20,51,h,Lewis 19' Jump Shot (5 PTS),Made Shot,Jump Shot,0,2,120,0021201220
+138,PT11M07.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,100,124,16,Made,1,31,22,53,v,Vucevic 16' Jump Shot (4 PTS) (Udrih 6 AST),Made Shot,Jump Shot,0,2,121,0021201220
+139,PT10M39.00S,2,1610612748,MIA,202708,Cole,N. Cole,-147,228,27,Missed,1,0,0,0,h,MISS Cole 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,122,0021201220
+140,PT10M38.00S,2,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,Moore REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,123,0021201220
+141,PT10M33.00S,2,1610612753,ORL,202699,Harris,T. Harris,4,3,1,Missed,1,0,0,0,v,MISS Harris 1' Layup,Missed Shot,Layup Shot,0,2,124,0021201220
+141,PT10M33.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier BLOCK (1 BLK),,,0,2,125,0021201220
+142,PT10M32.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,126,0021201220
+143,PT10M26.00S,2,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,Moore P.FOUL (P1.T1),Foul,Personal,0,0,127,0021201220
+144,PT10M15.00S,2,1610612748,MIA,2203,Battier,S. Battier,-232,20,0,Missed,1,0,0,0,h,MISS Battier  3PT Jump Shot,Missed Shot,Jump Shot,0,3,128,0021201220
+145,PT10M14.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,129,0021201220
+146,PT10M06.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,-48,55,7,Missed,1,0,0,0,v,MISS Vucevic 7' Hook Shot,Missed Shot,Hook Shot,0,2,130,0021201220
+146,PT10M06.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (1 BLK),,,0,2,131,0021201220
+147,PT10M05.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,132,0021201220
+148,PT09M55.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,10,3,1,Made,1,31,24,55,v,Harkless 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,133,0021201220
+149,PT09M38.00S,2,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,Moore P.FOUL (P2.T2),Foul,Personal,0,0,134,0021201220
+150,PT09M22.00S,2,1610612748,MIA,202708,Cole,N. Cole,168,94,19,Missed,1,0,0,0,h,MISS Cole 19' Jump Shot,Missed Shot,Jump Shot,0,2,135,0021201220
+151,PT09M21.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,136,0021201220
+152,PT09M13.00S,2,1610612753,ORL,202699,Harris,T. Harris,187,167,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,137,0021201220
+155,PT09M11.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,138,0021201220
+156,PT09M00.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,139,0021201220
+156,PT09M00.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih STEAL (1 STL),,,0,0,140,0021201220
+157,PT08M54.00S,2,1610612753,ORL,202734,Moore,E. Moore,-48,74,9,Missed,1,0,0,0,v,MISS Moore 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,141,0021201220
+158,PT08M52.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,142,0021201220
+159,PT08M45.00S,2,1610612748,MIA,202708,Cole,N. Cole,4,9,1,Made,1,33,24,57,h,Cole 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,143,0021201220
+160,PT08M45.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,144,0021201220
+163,PT08M45.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,SUB: Wade FOR Cole,Substitution,,0,0,145,0021201220
+164,PT08M24.00S,2,1610612753,ORL,202734,Moore,E. Moore,-147,131,20,Missed,1,0,0,0,v,MISS Moore 20' Jump Shot,Missed Shot,Jump Shot,0,2,146,0021201220
+165,PT08M23.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,147,0021201220
+166,PT08M10.00S,2,1610612748,MIA,2548,Wade,D. Wade,-21,7,2,Made,1,35,24,59,h,Wade 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,148,0021201220
+167,PT07M56.00S,2,1610612753,ORL,202699,Harris,T. Harris,-95,9,10,Made,1,35,26,61,v,Harris 10' Turnaround Jump Shot (7 PTS) (Udrih 7 AST),Made Shot,Turnaround Jump Shot,0,2,149,0021201220
+168,PT07M56.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier S.FOUL (P1.T1),Foul,Shooting,0,0,150,0021201220
+169,PT07M56.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,151,0021201220
+171,PT07M55.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,152,0021201220
+172,PT07M41.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,-163,184,25,Made,1,38,26,64,h,Lewis 25' 3PT Jump Shot (8 PTS) (Wade 5 AST),Made Shot,Jump Shot,0,3,153,0021201220
+173,PT07M33.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0,154,0021201220
+177,PT07M17.00S,2,1610612753,ORL,202699,Harris,T. Harris,-70,72,10,Missed,1,0,0,0,v,MISS Harris 10' Jump Shot,Missed Shot,Jump Shot,0,2,155,0021201220
+177,PT07M17.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier BLOCK (2 BLK),,,0,2,156,0021201220
+178,PT07M16.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,157,0021201220
+179,PT07M11.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,4,14,1,Made,1,40,26,66,h,Lewis 1' Driving Finger Roll Layup (10 PTS) (Wade 6 AST),Made Shot,Driving Finger Roll Layup Shot,0,2,158,0021201220
+180,PT06M57.00S,2,1610612753,ORL,202734,Moore,E. Moore,-231,0,0,Made,1,40,29,69,v,Moore  3PT Jump Shot (7 PTS) (Udrih 8 AST),Made Shot,Jump Shot,0,3,159,0021201220
+181,PT06M36.00S,2,1610612748,MIA,2548,Wade,D. Wade,174,20,18,Made,1,42,29,71,h,Wade 18' Jump Shot (12 PTS) (Andersen 1 AST),Made Shot,Jump Shot,0,2,160,0021201220
+182,PT06M24.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,7,154,15,Made,1,42,31,73,v,Vucevic 15' Jump Shot (6 PTS) (Udrih 9 AST),Made Shot,Jump Shot,0,2,161,0021201220
+183,PT06M00.00S,2,1610612748,MIA,2203,Battier,S. Battier,-46,93,10,Missed,1,0,0,0,h,MISS Battier 10' Hook Shot,Missed Shot,Hook Shot,0,2,162,0021201220
+184,PT05M59.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,163,0021201220
+185,PT05M51.00S,2,1610612748,MIA,951,Allen,R. Allen,97,58,11,Made,1,44,31,75,h,Allen 11' Running Bank Shot (2 PTS),Made Shot,Running Bank shot,0,2,164,0021201220
+186,PT05M43.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,233,23,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,0,3,165,0021201220
+187,PT05M42.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,166,0021201220
+188,PT05M42.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen L.B.FOUL (P1.T2),Foul,Loose Ball,0,0,167,0021201220
+189,PT05M42.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,168,0021201220
+192,PT05M42.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,SUB: Miller FOR Andersen,Substitution,,0,0,169,0021201220
+193,PT05M42.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,SUB: Haslem FOR Battier,Substitution,,0,0,170,0021201220
+194,PT05M32.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,-163,88,19,Made,1,44,33,77,v,Vucevic 19' Jump Shot (8 PTS) (Moore 1 AST),Made Shot,Jump Shot,0,2,171,0021201220
+195,PT05M09.00S,2,1610612748,MIA,2548,Wade,D. Wade,-105,64,12,Missed,1,0,0,0,h,MISS Wade 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,172,0021201220
+196,PT05M08.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,173,0021201220
+197,PT04M56.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,86,236,25,Made,1,44,36,80,v,Udrih 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,0,3,174,0021201220
+198,PT04M40.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless P.FOUL (P2.T3),Foul,Personal,0,0,175,0021201220
+199,PT04M35.00S,2,1610612748,MIA,2034,Miller,M. Miller,-103,184,21,Made,1,46,36,82,h,Miller 21' Jump Shot (8 PTS) (Wade 7 AST),Made Shot,Jump Shot,0,2,176,0021201220
+200,PT04M14.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen S.FOUL (P1.T3),Foul,Shooting,0,0,177,0021201220
+201,PT04M14.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,46,37,83,v,Udrih Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,178,0021201220
+202,PT04M14.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,MISS Udrih Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,179,0021201220
+204,PT04M13.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,180,0021201220
+205,PT04M07.00S,2,1610612748,MIA,2548,Wade,D. Wade,-5,20,2,Missed,1,0,0,0,h,MISS Wade 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,181,0021201220
+206,PT04M06.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,182,0021201220
+207,PT04M05.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,9,1,Made,1,48,37,85,h,Wade 1' Layup (14 PTS),Made Shot,Layup Shot,0,2,183,0021201220
+208,PT03M45.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,225,30,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,0,3,184,0021201220
+209,PT03M44.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,185,0021201220
+210,PT03M43.00S,2,1610612753,ORL,202699,Harris,T. Harris,81,6,8,Made,1,48,39,87,v,Harris 8' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,186,0021201220
+211,PT03M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,2,6,1,Made,1,50,39,89,h,Wade 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,187,0021201220
+212,PT03M21.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P2.T4),Foul,Shooting,0,0,188,0021201220
+213,PT03M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,189,0021201220
+215,PT03M20.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,190,0021201220
+217,PT03M06.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic Traveling Turnover (P1.T7),Turnover,Traveling,0,0,191,0021201220
+219,PT02M56.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,7,1,Made,1,52,39,91,h,Haslem 1' Layup (4 PTS) (Wade 8 AST),Made Shot,Layup Shot,0,2,192,0021201220
+220,PT02M37.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,20,4,2,Made,1,52,41,93,v,Harkless 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,193,0021201220
+221,PT02M17.00S,2,1610612748,MIA,2548,Wade,D. Wade,15,4,2,Missed,1,0,0,0,h,MISS Wade 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,194,0021201220
+222,PT02M16.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,195,0021201220
+223,PT02M13.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,196,0021201220
+224,PT02M13.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,197,0021201220
+227,PT02M13.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,SUB: Cole FOR Allen,Substitution,,0,0,198,0021201220
+228,PT02M01.00S,2,1610612748,MIA,2034,Miller,M. Miller,231,74,24,Missed,1,0,0,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,199,0021201220
+229,PT02M00.00S,2,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,200,0021201220
+230,PT01M45.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,-35,48,6,Made,1,52,43,95,v,Vucevic 6' Jump Shot (10 PTS) (Udrih 10 AST),Made Shot,Jump Shot,0,2,201,0021201220
+231,PT01M45.00S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis S.FOUL (P1.T4),Foul,Shooting,0,0,202,0021201220
+232,PT01M45.00S,2,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,SUB: Lamb FOR Moore,Substitution,,0,0,203,0021201220
+233,PT01M45.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,52,44,96,v,Vucevic Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,204,0021201220
+234,PT01M38.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Magic T.Foul (Def. 3 Sec Vucevic ),Foul,Defense 3 Second,0,0,205,0021201220
+235,PT01M38.00S,2,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,53,44,97,h,Miller Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0,206,0021201220
+237,PT01M30.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,207,0021201220
+239,PT01M15.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole P.FOUL (P1.PN),Foul,Personal,0,0,208,0021201220
+240,PT01M15.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,MISS Udrih Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,209,0021201220
+241,PT01M15.00S,2,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,210,0021201220
+242,PT01M15.00S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,53,45,98,v,Udrih Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,211,0021201220
+244,PT01M01.00S,2,1610612748,MIA,202708,Cole,N. Cole,7,14,2,Missed,1,0,0,0,h,MISS Cole 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,212,0021201220
+244,PT01M01.00S,2,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless BLOCK (1 BLK),,,0,2,213,0021201220
+245,PT00M59.00S,2,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,214,0021201220
+246,PT00M53.80S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih Traveling Turnover (P3.T9),Turnover,Traveling,0,0,215,0021201220
+247,PT00M38.90S,2,1610612748,MIA,2548,Wade,D. Wade,-15,187,19,Missed,1,0,0,0,h,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,2,216,0021201220
+248,PT00M37.90S,2,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,217,0021201220
+249,PT00M28.50S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih Lost Ball Turnover (P4.T10),Turnover,Lost Ball,0,0,218,0021201220
+249,PT00M28.50S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis STEAL (1 STL),,,0,0,219,0021201220
+250,PT00M28.50S,2,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih P.FOUL (P2.PN),Foul,Personal,0,0,220,0021201220
+251,PT00M28.50S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,MISS Lewis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,221,0021201220
+252,PT00M28.50S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,222,0021201220
+253,PT00M28.50S,2,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,54,45,99,h,Lewis Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,223,0021201220
+255,PT00M08.00S,2,1610612753,ORL,202696,Vučević,N. Vučević,92,1,9,Made,1,54,47,101,v,Vucevic 9' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,0,2,224,0021201220
+256,PT00M00.40S,2,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb P.FOUL (P3.PN),Foul,Personal,0,0,225,0021201220
+257,PT00M00.40S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,55,47,102,h,Wade Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,226,0021201220
+259,PT00M00.40S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,227,0021201220
+261,PT00M00.00S,2,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,228,0021201220
+262,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,47,102, ,End of 2nd Period (9:15 PM EST),period,end,0,0,229,0021201220
+264,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,47,102, ,Start of 3rd Period (9:31 PM EST),period,start,0,0,230,0021201220
+265,PT11M43.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,0,0,231,0021201220
+266,PT11M27.00S,3,1610612753,ORL,202699,Harris,T. Harris,89,238,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,232,0021201220
+267,PT11M26.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,233,0021201220
+268,PT11M18.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Turnover: Backcourt (T#5),Turnover,Backcourt Turnover,0,0,234,0021201220
+269,PT11M08.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,130,138,19,Made,1,55,49,104,v,Vucevic 19' Jump Shot (15 PTS) (Udrih 11 AST),Made Shot,Jump Shot,0,2,235,0021201220
+270,PT10M45.00S,3,1610612748,MIA,436,Howard,J. Howard,-57,17,6,Made,1,57,49,106,h,Howard 6' Turnaround Hook Shot (8 PTS) (Wade 9 AST),Made Shot,Turnaround Hook Shot,0,2,236,0021201220
+271,PT10M29.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,28,53,6,Made,1,57,51,108,v,Vucevic 6' Driving Hook Shot (17 PTS),Made Shot,Driving Hook Shot,0,2,237,0021201220
+272,PT10M22.00S,3,1610612748,MIA,2548,Wade,D. Wade,-109,157,19,Missed,1,0,0,0,h,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,2,238,0021201220
+273,PT10M21.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,239,0021201220
+274,PT10M12.00S,3,1610612753,ORL,203090,Harkless,M. Harkless,234,4,0,Missed,1,0,0,0,v,MISS Harkless  3PT Jump Shot,Missed Shot,Jump Shot,0,3,240,0021201220
+275,PT10M11.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,241,0021201220
+276,PT10M03.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,242,0021201220
+277,PT09M50.00S,3,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P2.T1),Foul,Shooting,0,0,243,0021201220
+278,PT09M50.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,MISS Vucevic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,244,0021201220
+279,PT09M50.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,245,0021201220
+280,PT09M50.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,57,52,109,v,Vucevic Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,246,0021201220
+282,PT09M38.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,247,0021201220
+283,PT09M37.00S,3,1610612753,ORL,2757,Udrih,B. Udrih,168,14,17,Made,1,57,54,111,v,Udrih 17' Jump Shot (9 PTS) (Moore 2 AST),Made Shot,Jump Shot,0,2,248,0021201220
+285,PT09M20.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic S.FOUL (P3.T1),Foul,Shooting,0,0,249,0021201220
+286,PT09M20.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,58,54,112,h,Wade Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,250,0021201220
+288,PT09M20.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,251,0021201220
+290,PT09M18.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,252,0021201220
+291,PT09M06.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,12,14,2,Missed,1,0,0,0,v,MISS Vucevic 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,253,0021201220
+291,PT09M06.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem BLOCK (1 BLK),,,0,2,254,0021201220
+292,PT09M02.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,255,0021201220
+293,PT09M01.00S,3,1610612753,ORL,202699,Harris,T. Harris,12,12,2,Made,1,58,56,114,v,Harris 2' Layup (11 PTS),Made Shot,Layup Shot,0,2,256,0021201220
+294,PT08M50.00S,3,1610612748,MIA,436,Howard,J. Howard,31,26,4,Made,1,60,56,116,h,Howard 4' Hook Shot (10 PTS) (Wade 10 AST),Made Shot,Hook Shot,0,2,257,0021201220
+295,PT08M32.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,12,6,1,Missed,1,0,0,0,v,MISS Vucevic 1' Layup,Missed Shot,Layup Shot,0,2,258,0021201220
+295,PT08M32.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,Wade BLOCK (2 BLK),,,0,2,259,0021201220
+296,PT08M31.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,260,0021201220
+297,PT08M21.00S,3,1610612748,MIA,202708,Cole,N. Cole,-234,0,0,Missed,1,0,0,0,h,MISS Cole  3PT Jump Shot,Missed Shot,Jump Shot,0,3,261,0021201220
+298,PT08M20.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,262,0021201220
+299,PT08M08.00S,3,1610612753,ORL,202734,Moore,E. Moore,-122,211,24,Missed,1,0,0,0,v,MISS Moore 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,263,0021201220
+300,PT08M07.00S,3,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,Moore REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,264,0021201220
+301,PT08M05.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard P.FOUL (P3.T2),Foul,Personal,0,0,265,0021201220
+302,PT07M54.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,-78,14,8,Made,1,60,58,118,v,Vucevic 8' Fadeaway Jumper (20 PTS) (Harkless 1 AST),Made Shot,Fadeaway Jump Shot,0,2,266,0021201220
+305,PT07M31.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris S.FOUL (P3.T2),Foul,Shooting,0,0,267,0021201220
+306,PT07M31.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,61,58,119,h,Wade Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,268,0021201220
+308,PT07M31.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,269,0021201220
+310,PT07M30.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,270,0021201220
+314,PT07M09.00S,3,1610612753,ORL,2757,Udrih,B. Udrih,4,131,13,Made,1,61,60,121,v,Udrih 13' Jump Shot (11 PTS),Made Shot,Jump Shot,0,2,271,0021201220
+315,PT06M45.00S,3,1610612748,MIA,2548,Wade,D. Wade,10,3,1,Made,1,63,60,123,h,Wade 1' Driving Reverse Layup (21 PTS) (Miller 3 AST),Made Shot,Driving Reverse Layup Shot,0,2,272,0021201220
+316,PT06M25.00S,3,1610612753,ORL,202734,Moore,E. Moore,6,6,1,Made,1,63,62,125,v,Moore 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,2,273,0021201220
+317,PT06M24.00S,3,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,274,0021201220
+319,PT06M24.00S,3,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,SUB: Lamb FOR Moore,Substitution,,0,0,275,0021201220
+320,PT06M24.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0,0,0,h,SUB: Allen FOR Wade,Substitution,,0,0,276,0021201220
+321,PT06M05.00S,3,1610612748,MIA,951,Allen,R. Allen,-239,34,24,Made,1,66,62,128,h,Allen 24' 3PT Jump Shot (5 PTS) (Miller 4 AST),Made Shot,Jump Shot,0,3,277,0021201220
+322,PT05M53.00S,3,1610612753,ORL,202699,Harris,T. Harris,-128,216,25,Missed,1,0,0,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,278,0021201220
+323,PT05M52.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,Haslem REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,279,0021201220
+324,PT05M43.00S,3,1610612748,MIA,2034,Miller,M. Miller,-242,41,25,Made,1,69,62,131,h,Miller 25' 3PT Jump Shot (12 PTS) (Cole 3 AST),Made Shot,Jump Shot,0,3,280,0021201220
+325,PT05M43.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0,281,0021201220
+329,PT05M33.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P4.T3),Foul,Shooting,0,0,282,0021201220
+330,PT05M33.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,69,63,132,v,Harris Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,283,0021201220
+332,PT05M33.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,284,0021201220
+334,PT05M32.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,285,0021201220
+335,PT05M05.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,-141,91,17,Missed,1,0,0,0,h,MISS Haslem 17' Jump Shot,Missed Shot,Jump Shot,0,2,286,0021201220
+336,PT05M04.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,287,0021201220
+337,PT04M53.00S,3,1610612753,ORL,202699,Harris,T. Harris,-40,7,4,Made,1,69,65,134,v,Harris 4' Jump Shot (14 PTS) (Udrih 12 AST),Made Shot,Jump Shot,0,2,288,0021201220
+338,PT04M39.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic P.FOUL (P4.T3),Foul,Personal,0,0,289,0021201220
+339,PT04M26.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,Howard Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,290,0021201220
+339,PT04M26.00S,3,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless STEAL (1 STL),,,0,0,291,0021201220
+340,PT04M20.00S,3,1610612753,ORL,203090,Harkless,M. Harkless,7,15,2,Made,1,69,67,136,v,Harkless 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,292,0021201220
+341,PT04M03.00S,3,1610612748,MIA,436,Howard,J. Howard,2,36,4,Made,1,71,67,138,h,Howard 4' Jump Shot (12 PTS) (Cole 4 AST),Made Shot,Jump Shot,0,2,293,0021201220
+342,PT03M40.00S,3,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P3.T4),Foul,Shooting,0,0,294,0021201220
+343,PT03M40.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,295,0021201220
+344,PT03M40.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,296,0021201220
+345,PT03M40.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0,0,0,h,SUB: Andersen FOR Haslem,Substitution,,0,0,297,0021201220
+346,PT03M40.00S,3,1610612748,MIA,436,Howard,J. Howard,0,0,0,,0,0,0,0,h,SUB: Battier FOR Howard,Substitution,,0,0,298,0021201220
+347,PT03M40.00S,3,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,SUB: Jones FOR Harkless,Substitution,,0,0,299,0021201220
+348,PT03M40.00S,3,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Vucevic,Substitution,,0,0,300,0021201220
+349,PT03M40.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,71,68,139,v,Harris Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,301,0021201220
+351,PT03M26.00S,3,1610612748,MIA,2034,Miller,M. Miller,-232,72,24,Made,1,74,68,142,h,Miller 24' 3PT Jump Shot (15 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,3,302,0021201220
+352,PT03M09.00S,3,1610612753,ORL,203094,Nicholson,A. Nicholson,-60,194,20,Made,1,74,70,144,v,Nicholson 20' Jump Shot (4 PTS) (Udrih 13 AST),Made Shot,Jump Shot,0,2,303,0021201220
+353,PT02M54.00S,3,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,Allen Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,304,0021201220
+353,PT02M54.00S,3,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones STEAL (1 STL),,,0,0,305,0021201220
+354,PT02M50.00S,3,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole S.FOUL (P2.PN),Foul,Shooting,0,0,306,0021201220
+355,PT02M50.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,307,0021201220
+356,PT02M50.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,308,0021201220
+357,PT02M50.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,74,71,145,v,Harris Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,309,0021201220
+359,PT02M38.00S,3,1610612748,MIA,951,Allen,R. Allen,-201,135,24,Made,1,77,71,148,h,Allen 24' 3PT Jump Shot (8 PTS) (Cole 5 AST),Made Shot,Jump Shot,0,3,310,0021201220
+360,PT02M22.00S,3,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,311,0021201220
+361,PT02M09.00S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P4.T4),Foul,Personal,0,0,312,0021201220
+362,PT02M09.00S,3,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,SUB: Lewis FOR Miller,Substitution,,0,0,313,0021201220
+363,PT02M03.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,24,17,3,Made,1,79,71,150,h,Andersen 3' Driving Layup (2 PTS) (Battier 1 AST),Made Shot,Driving Layup Shot,0,2,314,0021201220
+364,PT01M39.00S,3,1610612753,ORL,2757,Udrih,B. Udrih,10,137,14,Missed,1,0,0,0,v,MISS Udrih 14' Jump Shot,Missed Shot,Jump Shot,0,2,315,0021201220
+365,PT01M38.00S,3,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,316,0021201220
+366,PT01M23.00S,3,1610612748,MIA,1740,Lewis,R. Lewis,201,137,24,Missed,1,0,0,0,h,MISS Lewis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,317,0021201220
+367,PT01M22.00S,3,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,318,0021201220
+368,PT01M18.00S,3,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,319,0021201220
+368,PT01M18.00S,3,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier STEAL (1 STL),,,0,0,320,0021201220
+369,PT01M14.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,3,0,Made,1,81,71,152,h,Andersen  Running Dunk (4 PTS) (Cole 6 AST),Made Shot,Running Dunk Shot,0,2,321,0021201220
+370,PT00M53.70S,3,1610612753,ORL,203199,Jones,D. Jones,-12,17,2,Made,1,81,73,154,v,Jones 2' Layup (5 PTS) (Harris 2 AST),Made Shot,Layup Shot,0,2,322,0021201220
+371,PT00M53.70S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen S.FOUL (P2.PN),Foul,Shooting,0,0,323,0021201220
+372,PT00M53.70S,3,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: Moore FOR Harris,Substitution,,0,0,324,0021201220
+373,PT00M53.70S,3,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,81,74,155,v,Jones Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,325,0021201220
+374,PT00M45.20S,3,1610612748,MIA,202708,Cole,N. Cole,20,3,2,Made,1,83,74,157,h,Cole 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,326,0021201220
+375,PT00M45.20S,3,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih S.FOUL (P3.PN),Foul,Shooting,0,0,327,0021201220
+376,PT00M45.20S,3,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,MISS Cole Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,328,0021201220
+378,PT00M43.90S,3,1610612753,ORL,203199,Jones,D. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,329,0021201220
+379,PT00M26.80S,3,1610612753,ORL,203094,Nicholson,A. Nicholson,-32,25,4,Missed,1,0,0,0,v,MISS Nicholson 4' Hook Shot,Missed Shot,Hook Shot,0,2,330,0021201220
+380,PT00M25.90S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,331,0021201220
+381,PT00M02.90S,3,1610612748,MIA,951,Allen,R. Allen,173,15,17,Made,1,85,74,159,h,Allen 17' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,0,2,332,0021201220
+382,PT00M00.70S,3,1610612753,ORL,203117,Lamb,D. Lamb,-76,392,40,Missed,1,0,0,0,v,MISS Lamb 40' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,333,0021201220
+383,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,334,0021201220
+384,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,74,159, ,End of 3rd Period (9:59 PM EST),period,end,0,0,335,0021201220
+386,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,74,159, ,Start of 4th Period (10:02 PM EST),period,start,0,0,336,0021201220
+387,PT11M42.00S,4,1610612753,ORL,203117,Lamb,D. Lamb,-136,94,17,Missed,1,0,0,0,v,MISS Lamb 17' Jump Shot,Missed Shot,Jump Shot,0,2,337,0021201220
+388,PT11M41.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,338,0021201220
+389,PT11M33.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,-226,94,24,Missed,1,0,0,0,h,MISS Lewis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,339,0021201220
+390,PT11M32.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,340,0021201220
+391,PT11M18.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,6,9,1,Missed,1,0,0,0,v,MISS Harkless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,341,0021201220
+391,PT11M18.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (2 BLK),,,0,2,342,0021201220
+392,PT11M17.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,343,0021201220
+393,PT11M10.00S,4,1610612753,ORL,202734,Moore,E. Moore,91,145,17,Missed,1,0,0,0,v,MISS Moore 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,344,0021201220
+393,PT11M10.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier BLOCK (3 BLK),,,0,2,345,0021201220
+394,PT11M09.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,346,0021201220
+395,PT11M09.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,347,0021201220
+396,PT10M54.00S,4,1610612748,MIA,951,Allen,R. Allen,94,235,25,Missed,1,0,0,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,348,0021201220
+397,PT10M53.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,349,0021201220
+398,PT10M44.00S,4,1610612753,ORL,202734,Moore,E. Moore,64,105,12,Made,1,85,76,161,v,Moore 12' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,2,350,0021201220
+399,PT10M17.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,-155,22,16,Missed,1,0,0,0,h,MISS Lewis 16' Jump Shot,Missed Shot,Jump Shot,0,2,351,0021201220
+400,PT10M16.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,352,0021201220
+401,PT10M05.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,108,160,19,Missed,1,0,0,0,v,MISS Vucevic 19' Jump Shot,Missed Shot,Jump Shot,0,2,353,0021201220
+402,PT10M04.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,354,0021201220
+403,PT09M40.00S,4,1610612748,MIA,2203,Battier,S. Battier,39,247,25,Made,1,88,76,164,h,Battier 25' 3PT Jump Shot (5 PTS) (Lewis 1 AST),Made Shot,Jump Shot,0,3,355,0021201220
+404,PT09M24.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,12,4,1,Missed,1,0,0,0,v,MISS Harkless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,356,0021201220
+405,PT09M23.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,357,0021201220
+406,PT09M13.00S,4,1610612753,ORL,203117,Lamb,D. Lamb,2,14,1,Missed,1,0,0,0,v,MISS Lamb 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,358,0021201220
+406,PT09M13.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (3 BLK),,,0,2,359,0021201220
+407,PT09M12.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,360,0021201220
+408,PT09M03.00S,4,1610612748,MIA,951,Allen,R. Allen,6,9,1,Missed,1,0,0,0,h,MISS Allen 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,361,0021201220
+409,PT09M02.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,362,0021201220
+410,PT09M02.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,O'Quinn S.FOUL (P1.T1),Foul,Shooting,0,0,363,0021201220
+411,PT09M02.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,89,76,165,h,Andersen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,364,0021201220
+413,PT09M02.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,MISS Andersen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,365,0021201220
+415,PT09M01.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:0 Def:12),Rebound,Unknown,0,0,366,0021201220
+416,PT08M44.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,4,0,0,Made,1,89,78,167,v,Harkless  Driving Dunk (8 PTS) (Moore 3 AST),Made Shot,Driving Dunk Shot,0,2,367,0021201220
+417,PT08M23.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,-41,82,9,Made,1,91,78,169,h,Lewis 9' Hook Shot (13 PTS) (Cole 7 AST),Made Shot,Hook Shot,0,2,368,0021201220
+418,PT08M05.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic Traveling Turnover (P2.T14),Turnover,Traveling,0,0,369,0021201220
+419,PT08M05.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,370,0021201220
+421,PT08M05.00S,4,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,SUB: Harris FOR Moore,Substitution,,0,0,371,0021201220
+422,PT08M05.00S,4,1610612753,ORL,203124,O'Quinn,K. O'Quinn,0,0,0,,0,0,0,0,v,SUB: Udrih FOR O'Quinn,Substitution,,0,0,372,0021201220
+425,PT07M42.00S,4,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,Udrih S.FOUL (P4.T2),Foul,Shooting,0,0,373,0021201220
+426,PT07M42.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,MISS Cole Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,374,0021201220
+427,PT07M42.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0,375,0021201220
+428,PT07M42.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,92,78,170,h,Cole Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,376,0021201220
+430,PT07M25.00S,4,1610612753,ORL,2757,Udrih,B. Udrih,6,11,1,Made,1,92,80,172,v,Udrih 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,377,0021201220
+431,PT07M06.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0,0,0,h,Cole Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,378,0021201220
+432,PT06M44.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,9,9,1,Missed,1,0,0,0,v,MISS Harkless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,379,0021201220
+432,PT06M44.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,Battier BLOCK (4 BLK),,,0,2,380,0021201220
+433,PT06M43.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,381,0021201220
+434,PT06M28.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,-240,1,24,Made,1,95,80,175,h,Lewis 24' 3PT Jump Shot (16 PTS) (Allen 3 AST),Made Shot,Jump Shot,0,3,382,0021201220
+435,PT06M12.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,10,9,1,Missed,1,0,0,0,v,MISS Harkless 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,383,0021201220
+435,PT06M12.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen BLOCK (4 BLK),,,0,2,384,0021201220
+436,PT06M11.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,385,0021201220
+437,PT05M54.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,-4,60,6,Missed,1,0,0,0,h,MISS Andersen 6' Jump Shot,Missed Shot,Jump Shot,0,2,386,0021201220
+438,PT05M53.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Rebound,Rebound,Unknown,0,0,387,0021201220
+439,PT05M53.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic L.B.FOUL (P5.T3),Foul,Loose Ball,0,0,388,0021201220
+440,PT05M53.00S,4,0,,1610612748,,,0,0,0,,0,0,0,0,h,HEAT Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,389,0021201220
+443,PT05M53.00S,4,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0,0,0,h,SUB: Jones FOR Allen,Substitution,,0,0,390,0021201220
+444,PT05M53.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0,0,0,h,SUB: Miller FOR Battier,Substitution,,0,0,391,0021201220
+445,PT05M38.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris P.FOUL (P5.T4),Foul,Personal,0,0,392,0021201220
+446,PT05M26.00S,4,1610612748,MIA,2034,Miller,M. Miller,118,227,26,Made,1,98,80,178,h,Miller 26' 3PT Jump Shot (18 PTS) (Lewis 2 AST),Made Shot,Jump Shot,0,3,393,0021201220
+447,PT05M04.00S,4,1610612753,ORL,2757,Udrih,B. Udrih,24,252,25,Missed,1,0,0,0,v,MISS Udrih 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,394,0021201220
+448,PT05M03.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,395,0021201220
+449,PT04M51.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,233,9,0,Missed,1,0,0,0,h,MISS Lewis  3PT Jump Shot,Missed Shot,Jump Shot,0,3,396,0021201220
+450,PT04M50.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,397,0021201220
+451,PT04M48.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,Andersen Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,398,0021201220
+451,PT04M48.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,Harris STEAL (1 STL),,,0,0,399,0021201220
+452,PT04M45.00S,4,1610612753,ORL,202699,Harris,T. Harris,-10,12,2,Made,1,98,82,180,v,Harris 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,2,400,0021201220
+453,PT04M45.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller S.FOUL (P4.T1),Foul,Shooting,0,0,401,0021201220
+454,PT04M45.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0,0,0,h,SUB: Varnado FOR Andersen,Substitution,,0,0,402,0021201220
+455,PT04M45.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,98,83,181,v,Harris Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,403,0021201220
+457,PT04M35.00S,4,1610612748,MIA,202363,Varnado,J. Varnado,0,0,0,,0,0,0,0,h,Varnado OFF.Foul (P1),Foul,Offensive,0,0,404,0021201220
+458,PT04M35.00S,4,1610612748,MIA,202363,Varnado,J. Varnado,0,0,0,,0,0,0,0,h,Varnado Foul Turnover (P1.T12),Turnover,Foul,0,0,405,0021201220
+459,PT04M21.00S,4,1610612753,ORL,203117,Lamb,D. Lamb,-226,9,0,Missed,1,0,0,0,v,MISS Lamb  3PT Jump Shot,Missed Shot,Jump Shot,0,3,406,0021201220
+460,PT04M20.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,Vucevic REBOUND (Off:1 Def:12),Rebound,Unknown,0,0,407,0021201220
+461,PT04M17.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,Harkless Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,408,0021201220
+461,PT04M17.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0,0,0,h,Miller STEAL (1 STL),,,0,0,409,0021201220
+462,PT04M12.00S,4,1610612748,MIA,202708,Cole,N. Cole,-4,4,1,Made,1,100,83,183,h,Cole 1' Layup (9 PTS) (Miller 5 AST),Made Shot,Layup Shot,0,2,410,0021201220
+463,PT03M51.00S,4,1610612753,ORL,202699,Harris,T. Harris,21,52,6,Missed,1,0,0,0,v,MISS Harris 6' Hook Shot,Missed Shot,Hook Shot,0,2,411,0021201220
+464,PT03M50.00S,4,1610612748,MIA,202363,Varnado,J. Varnado,0,0,0,,0,0,0,0,h,Varnado REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,412,0021201220
+465,PT03M38.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,-237,4,24,Missed,1,0,0,0,h,MISS Lewis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,413,0021201220
+466,PT03M37.00S,4,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,414,0021201220
+467,PT03M28.00S,4,1610612753,ORL,202699,Harris,T. Harris,18,3,2,Missed,1,0,0,0,v,MISS Harris 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,415,0021201220
+467,PT03M28.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,Lewis BLOCK (1 BLK),,,0,2,416,0021201220
+468,PT03M27.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,417,0021201220
+469,PT03M27.00S,4,1610612748,MIA,1740,Lewis,R. Lewis,0,0,0,,0,0,0,0,h,SUB: Anthony FOR Lewis,Substitution,,0,0,418,0021201220
+470,PT03M27.00S,4,1610612753,ORL,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,v,SUB: O'Quinn FOR Vucevic,Substitution,,0,0,419,0021201220
+471,PT03M18.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,-57,6,6,Made,1,100,85,185,v,Harkless 6' Hook Shot (10 PTS) (Udrih 14 AST),Made Shot,Hook Shot,0,2,420,0021201220
+472,PT02M59.00S,4,1610612748,MIA,2034,Miller,M. Miller,-196,159,25,Made,1,103,85,188,h,Miller 25' 3PT Jump Shot (21 PTS) (Varnado 1 AST),Made Shot,Jump Shot,0,3,421,0021201220
+473,PT02M54.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0,422,0021201220
+475,PT02M54.00S,4,1610612753,ORL,202699,Harris,T. Harris,0,0,0,,0,0,0,0,v,SUB: Nicholson FOR Harris,Substitution,,0,0,423,0021201220
+476,PT02M54.00S,4,1610612753,ORL,2757,Udrih,B. Udrih,0,0,0,,0,0,0,0,v,SUB: Moore FOR Udrih,Substitution,,0,0,424,0021201220
+478,PT02M50.00S,4,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0,0,0,h,Anthony S.FOUL (P1.T2),Foul,Shooting,0,0,425,0021201220
+479,PT02M50.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,426,0021201220
+480,PT02M50.00S,4,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,0,0,427,0021201220
+481,PT02M50.00S,4,1610612753,ORL,203090,Harkless,M. Harkless,0,0,0,,0,0,0,0,v,MISS Harkless Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,428,0021201220
+483,PT02M49.00S,4,1610612748,MIA,202363,Varnado,J. Varnado,0,0,0,,0,0,0,0,h,Varnado REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,429,0021201220
+484,PT02M30.00S,4,1610612748,MIA,2034,Miller,M. Miller,-136,217,26,Missed,1,0,0,0,h,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,430,0021201220
+485,PT02M29.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,431,0021201220
+486,PT02M17.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,10,4,1,Missed,1,0,0,0,v,MISS Nicholson 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,432,0021201220
+487,PT02M14.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,0,0,0,,0,0,0,0,v,Nicholson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,433,0021201220
+488,PT02M10.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,36,23,4,Made,1,103,87,190,v,Nicholson 4' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,2,434,0021201220
+489,PT01M50.00S,4,1610612748,MIA,2592,Jones,J. Jones,163,190,25,Missed,1,0,0,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,435,0021201220
+490,PT01M49.00S,4,1610612753,ORL,202734,Moore,E. Moore,0,0,0,,0,0,0,0,v,Moore REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,436,0021201220
+491,PT01M36.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,-133,118,18,Made,1,103,89,192,v,Nicholson 18' Jump Shot (8 PTS) (Lamb 1 AST),Made Shot,Jump Shot,0,2,437,0021201220
+492,PT01M13.00S,4,1610612748,MIA,201202,Anthony,J. Anthony,0,12,1,Made,1,105,89,194,h,Anthony 1' Layup (2 PTS) (Miller 6 AST),Made Shot,Layup Shot,0,2,438,0021201220
+493,PT00M57.00S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,-141,121,19,Made,1,105,91,196,v,Nicholson 19' Jump Shot (10 PTS) (Moore 4 AST),Made Shot,Jump Shot,0,2,439,0021201220
+494,PT00M30.80S,4,1610612748,MIA,2592,Jones,J. Jones,-198,197,28,Missed,1,0,0,0,h,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,440,0021201220
+495,PT00M29.60S,4,1610612753,ORL,203117,Lamb,D. Lamb,0,0,0,,0,0,0,0,v,Lamb REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,441,0021201220
+496,PT00M13.30S,4,1610612753,ORL,203094,Nicholson,A. Nicholson,-116,15,12,Made,1,105,93,198,v,Nicholson 12' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,0,2,442,0021201220
+497,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,93,198, ,End of 4th Period (10:28 PM EST),period,end,0,0,443,0021201220

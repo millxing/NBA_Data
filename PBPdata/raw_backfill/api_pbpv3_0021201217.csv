@@ -1,0 +1,495 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:14 PM EST),period,start,0,0,1,0021201217
+1,PT12M00.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Jump Ball Lopez vs. Drummond: Tip to Singler,Jump Ball,,0,0,2,0021201217
+2,PT11M39.00S,1,1610612765,DET,202688,Knight,B. Knight,4,85,9,Made,1,0,2,2,v,Knight 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,3,0021201217
+3,PT11M24.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,-2,217,22,Missed,1,0,0,0,h,MISS Johnson 22' Jump Shot,Missed Shot,Jump Shot,0,2,4,0021201217
+4,PT11M23.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,5,0021201217
+5,PT11M18.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,17,19,3,Made,1,0,4,4,v,Stuckey 3' Layup (2 PTS) (Singler 1 AST),Made Shot,Layup Shot,0,2,6,0021201217
+6,PT11M02.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,-87,189,21,Missed,1,0,0,0,h,MISS Lopez 21' Jump Shot,Missed Shot,Jump Shot,0,2,7,0021201217
+7,PT11M00.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,8,0021201217
+9,PT10M46.00S,1,1610612765,DET,202688,Knight,B. Knight,-86,145,17,Missed,1,0,0,0,v,MISS Knight 17' Jump Shot,Missed Shot,Jump Shot,0,2,9,0021201217
+10,PT10M46.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10,0021201217
+11,PT10M34.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,29,11,3,Missed,1,0,0,0,h,MISS Lopez 3' Hook Shot,Missed Shot,Hook Shot,0,2,11,0021201217
+12,PT10M33.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,12,0021201217
+13,PT10M28.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond Traveling Turnover (P1.T1),Turnover,Traveling,0,0,13,0021201217
+14,PT10M06.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,56,88,10,Made,1,2,4,6,h,Johnson 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,14,0021201217
+15,PT09M42.00S,1,1610612765,DET,202328,Monroe,G. Monroe,17,55,6,Missed,1,0,0,0,v,MISS Monroe 6' Hook Shot,Missed Shot,Hook Shot,0,2,15,0021201217
+16,PT09M41.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,16,0021201217
+17,PT09M32.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,6,9,1,Made,1,4,4,8,h,Lopez 1' Slam Dunk (2 PTS) (Johnson 1 AST),Made Shot,Slam Dunk Shot,0,2,17,0021201217
+18,PT09M17.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,-133,220,26,Missed,1,0,0,0,v,MISS Stuckey 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,18,0021201217
+19,PT09M16.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,19,0021201217
+20,PT09M07.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,-204,19,20,Missed,1,0,0,0,h,MISS Wallace 20' Jump Shot,Missed Shot,Jump Shot,0,2,20,0021201217
+21,PT09M06.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,21,0021201217
+22,PT09M01.00S,1,1610612765,DET,202713,Singler,K. Singler,-34,0,3,Made,1,4,6,10,v,Singler 3' Reverse Layup (2 PTS) (Monroe 1 AST),Made Shot,Reverse Layup Shot,0,2,22,0021201217
+23,PT08M45.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,7,11,1,Missed,1,0,0,0,h,MISS Lopez 1' Dunk,Missed Shot,Dunk Shot,0,2,23,0021201217
+23,PT08M45.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond BLOCK (1 BLK),,,0,2,24,0021201217
+24,PT08M44.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,25,0021201217
+25,PT08M32.00S,1,1610612765,DET,202328,Monroe,G. Monroe,7,97,10,Made,1,4,8,12,v,Monroe 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,26,0021201217
+26,PT08M16.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,-234,11,0,Made,1,7,8,15,h,Johnson  3PT Jump Shot (5 PTS) (D. Williams 1 AST),Made Shot,Jump Shot,0,3,27,0021201217
+27,PT07M53.00S,1,1610612765,DET,202688,Knight,B. Knight,10,6,1,Missed,1,0,0,0,v,MISS Knight 1' Layup,Missed Shot,Layup Shot,0,2,28,0021201217
+28,PT07M52.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,29,0021201217
+29,PT07M44.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,119,216,25,Missed,1,0,0,0,h,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,30,0021201217
+30,PT07M44.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,31,0021201217
+31,PT07M41.00S,1,1610612751,BKN,2501,Evans,R. Evans,13,11,2,Missed,1,0,0,0,h,MISS Evans 2' Layup,Missed Shot,Layup Shot,0,2,32,0021201217
+32,PT07M39.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,33,0021201217
+33,PT07M30.00S,1,1610612765,DET,202328,Monroe,G. Monroe,-169,26,17,Made,1,7,10,17,v,Monroe 17' Jump Shot (4 PTS) (Singler 2 AST),Made Shot,Jump Shot,0,2,34,0021201217
+35,PT07M16.00S,1,1610612751,BKN,101114,Williams,D. Williams,9,0,1,Made,1,9,10,19,h,D. Williams 1' Layup (2 PTS),Made Shot,Layup Shot,0,2,36,0021201217
+36,PT07M16.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,35,0021201217
+37,PT07M03.00S,1,1610612765,DET,202328,Monroe,G. Monroe,-93,160,19,Missed,1,0,0,0,v,MISS Monroe 19' Jump Shot,Missed Shot,Jump Shot,0,2,37,0021201217
+38,PT07M02.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,38,0021201217
+39,PT06M52.00S,1,1610612751,BKN,101114,Williams,D. Williams,206,138,25,Missed,1,0,0,0,h,MISS D. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,39,0021201217
+40,PT06M51.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,40,0021201217
+41,PT06M31.00S,1,1610612765,DET,202688,Knight,B. Knight,28,17,3,Missed,1,0,0,0,v,MISS Knight 3' Jump Shot,Missed Shot,Jump Shot,0,2,41,0021201217
+42,PT06M30.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,42,0021201217
+43,PT06M29.00S,1,1610612765,DET,202328,Monroe,G. Monroe,13,6,1,Made,1,9,12,21,v,Monroe 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,2,43,0021201217
+44,PT06M07.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,97,55,11,Missed,1,0,0,0,h,MISS Lopez 11' Jump Shot,Missed Shot,Jump Shot,0,2,44,0021201217
+45,PT06M06.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,45,0021201217
+46,PT06M04.00S,1,1610612751,BKN,2501,Evans,R. Evans,18,23,3,Missed,1,0,0,0,h,MISS Evans 3' Tip Shot,Missed Shot,Tip Shot,0,2,46,0021201217
+47,PT06M02.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,47,0021201217
+48,PT05M44.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,48,0021201217
+48,PT05M44.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez STEAL (1 STL),,,0,0,49,0021201217
+50,PT05M36.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond S.FOUL (P1.T1),Foul,Shooting,0,0,50,0021201217
+51,PT05M36.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0, ,"Double Technical - Evans, Drummond",Foul,Double Technical,0,0,51,0021201217
+52,PT05M36.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52,0021201217
+54,PT05M36.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,10,12,22,h,Lopez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,53,0021201217
+56,PT05M36.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,11,12,23,h,Lopez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,54,0021201217
+59,PT05M24.00S,1,1610612765,DET,203083,Drummond,A. Drummond,12,15,2,Made,1,11,14,25,v,Drummond 2' Alley Oop Dunk (2 PTS) (Stuckey 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,55,0021201217
+60,PT05M13.00S,1,1610612751,BKN,2501,Evans,R. Evans,-18,-6,2,Made,1,13,14,27,h,Evans 2' Layup (2 PTS) (Wallace 1 AST),Made Shot,Layup Shot,0,2,56,0021201217
+61,PT04M52.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace S.FOUL (P1.T1),Foul,Shooting,0,0,57,0021201217
+62,PT04M52.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,13,15,28,v,Drummond Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,58,0021201217
+64,PT04M52.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,13,16,29,v,Drummond Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,59,0021201217
+67,PT04M41.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,20,0,2,Made,1,15,16,31,h,Lopez 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,60,0021201217
+68,PT04M19.00S,1,1610612765,DET,202713,Singler,K. Singler,222,50,0,Missed,1,0,0,0,v,MISS Singler  3PT Jump Shot,Missed Shot,Jump Shot,0,3,61,0021201217
+69,PT04M18.00S,1,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,62,0021201217
+70,PT04M07.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,63,0021201217
+70,PT04M07.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe STEAL (1 STL),,,0,0,64,0021201217
+71,PT04M02.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,-13,-10,2,Missed,1,0,0,0,v,MISS Stuckey 2' Layup,Missed Shot,Layup Shot,0,2,65,0021201217
+72,PT04M01.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,66,0021201217
+73,PT03M55.00S,1,1610612751,BKN,2501,Evans,R. Evans,-19,-2,2,Made,1,17,16,33,h,Evans 2' Layup (4 PTS) (D. Williams 2 AST),Made Shot,Layup Shot,0,2,67,0021201217
+74,PT03M55.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe S.FOUL (P1.T2),Foul,Shooting,0,0,68,0021201217
+76,PT03M55.00S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,18,16,34,h,Evans Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,69,0021201217
+79,PT03M34.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,10,0,1,Made,1,18,18,36,v,Stuckey 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,70,0021201217
+80,PT03M17.00S,1,1610612751,BKN,101114,Williams,D. Williams,110,20,11,Missed,1,0,0,0,h,MISS D. Williams 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,71,0021201217
+81,PT03M17.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,72,0021201217
+82,PT03M06.00S,1,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,73,0021201217
+82,PT03M06.00S,1,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,h,D. Williams STEAL (1 STL),,,0,0,74,0021201217
+83,PT03M00.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,-29,-14,3,Made,1,20,18,38,h,Wallace 3' Alley Oop Dunk (2 PTS) (D. Williams 3 AST),Made Shot,Alley Oop Dunk Shot,0,2,75,0021201217
+84,PT02M39.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,76,0021201217
+84,PT02M39.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace STEAL (1 STL),,,0,0,77,0021201217
+85,PT02M35.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,12,12,2,Made,1,22,18,40,h,Wallace 2' Driving Slam Dunk (4 PTS),Made Shot,Driving Slam Dunk Shot,0,2,78,0021201217
+86,PT02M27.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,79,0021201217
+88,PT02M13.00S,1,1610612765,DET,203083,Drummond,A. Drummond,18,0,2,Missed,1,0,0,0,v,MISS Drummond 2' Layup,Missed Shot,Layup Shot,0,2,80,0021201217
+88,PT02M13.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace BLOCK (1 BLK),,,0,2,81,0021201217
+89,PT02M12.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,82,0021201217
+90,PT02M12.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,SUB: Middleton FOR Singler,Substitution,,0,0,83,0021201217
+91,PT02M06.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,7,261,26,Missed,1,0,0,0,v,MISS Stuckey 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,84,0021201217
+92,PT02M06.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,85,0021201217
+93,PT02M05.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,86,0021201217
+94,PT01M50.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,43,33,5,Made,1,24,18,42,h,Lopez 5' Jump Shot (8 PTS) (Wallace 2 AST),Made Shot,Jump Shot,0,2,87,0021201217
+95,PT01M37.00S,1,1610612765,DET,202688,Knight,B. Knight,-112,222,25,Missed,1,0,0,0,v,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,88,0021201217
+96,PT01M36.00S,1,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,89,0021201217
+97,PT01M36.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,SUB: Jerebko FOR Drummond,Substitution,,0,0,90,0021201217
+98,PT01M36.00S,1,1610612765,DET,201155,Stuckey,R. Stuckey,0,0,0,,0,0,0,0,v,SUB: Bynum FOR Stuckey,Substitution,,0,0,91,0021201217
+99,PT01M29.00S,1,1610612765,DET,101198,Bynum,W. Bynum,203,151,25,Missed,1,0,0,0,v,MISS Bynum 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,92,0021201217
+100,PT01M28.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,93,0021201217
+101,PT01M23.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,94,0021201217
+101,PT01M23.00S,1,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko STEAL (1 STL),,,0,0,95,0021201217
+102,PT01M19.00S,1,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,96,0021201217
+102,PT01M19.00S,1,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace STEAL (2 STL),,,0,0,97,0021201217
+103,PT01M15.00S,1,1610612751,BKN,101114,Williams,D. Williams,100,231,25,Made,1,27,18,45,h,D. Williams 25' 3PT Jump Shot (5 PTS) (Wallace 3 AST),Made Shot,Jump Shot,0,3,98,0021201217
+105,PT00M49.90S,1,1610612765,DET,202328,Monroe,G. Monroe,42,34,5,Missed,1,0,0,0,v,MISS Monroe 5' Hook Shot,Missed Shot,Hook Shot,0,2,99,0021201217
+106,PT00M48.90S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,100,0021201217
+108,PT00M41.80S,1,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko P.FOUL (P1.T3),Foul,Personal,0,0,101,0021201217
+109,PT00M32.90S,1,1610612751,BKN,2222,Wallace,G. Wallace,45,44,6,Missed,1,0,0,0,h,MISS Wallace 6' Jump Shot,Missed Shot,Jump Shot,0,2,102,0021201217
+110,PT00M31.90S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,103,0021201217
+111,PT00M30.90S,1,1610612751,BKN,201572,Lopez,B. Lopez,7,19,2,Missed,1,0,0,0,h,MISS Lopez 2' Layup,Missed Shot,Layup Shot,0,2,104,0021201217
+112,PT00M29.40S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,105,0021201217
+113,PT00M27.80S,1,1610612751,BKN,201572,Lopez,B. Lopez,7,7,1,Made,1,29,18,47,h,Lopez 1' Tip Shot (10 PTS),Made Shot,Tip Shot,0,2,106,0021201217
+114,PT00M16.90S,1,1610612765,DET,101198,Bynum,W. Bynum,-70,238,25,Missed,1,0,0,0,v,MISS Bynum 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,107,0021201217
+115,PT00M16.70S,1,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,108,0021201217
+116,PT00M01.40S,1,1610612751,BKN,2207,Johnson,J. Johnson,-180,220,28,Missed,1,0,0,0,h,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,109,0021201217
+117,PT00M00.00S,1,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,110,0021201217
+119,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,18,47, ,End of 1st Period (8:37 PM EST),period,end,0,0,111,0021201217
+121,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,18,47, ,Start of 2nd Period (8:39 PM EST),period,start,0,0,112,0021201217
+122,PT11M40.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,10,4,1,Made,1,31,18,49,h,Blatche 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,2,113,0021201217
+123,PT11M26.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,Stackhouse S.FOUL (P1.T1),Foul,Shooting,0,0,114,0021201217
+124,PT11M26.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,31,19,50,v,Jerebko Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,115,0021201217
+126,PT11M26.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,SUB: Villanueva FOR Monroe,Substitution,,0,0,116,0021201217
+127,PT11M26.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,31,20,51,v,Jerebko Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,117,0021201217
+129,PT11M10.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva S.FOUL (P1.T1),Foul,Shooting,0,0,118,0021201217
+130,PT11M10.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,32,20,52,h,Blatche Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,119,0021201217
+132,PT11M10.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,33,20,53,h,Blatche Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,120,0021201217
+134,PT10M58.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson P.FOUL (P1.T2),Foul,Personal,0,0,121,0021201217
+136,PT10M47.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,122,0021201217
+137,PT10M33.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,123,0021201217
+137,PT10M33.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva STEAL (1 STL),,,0,0,124,0021201217
+138,PT10M31.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries P.FOUL (P1.T3),Foul,Personal,0,0,125,0021201217
+139,PT10M18.00S,2,1610612765,DET,101198,Bynum,W. Bynum,15,41,4,Made,1,33,22,55,v,Bynum 4' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,126,0021201217
+140,PT10M18.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche S.FOUL (P1.T4),Foul,Shooting,0,0,127,0021201217
+141,PT10M18.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,MISS Bynum Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,128,0021201217
+143,PT10M17.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,129,0021201217
+144,PT09M56.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,77,126,15,Missed,1,0,0,0,h,MISS Stackhouse 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,130,0021201217
+145,PT09M55.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,131,0021201217
+146,PT09M44.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,7,22,2,Made,1,35,22,57,h,Blatche 2' Finger Roll Layup (6 PTS) (Bogans 1 AST),Made Shot,Finger Roll Layup Shot,0,2,132,0021201217
+148,PT09M31.00S,2,1610612765,DET,203114,Middleton,K. Middleton,13,-2,1,Missed,1,0,0,0,v,MISS Middleton 1' Layup,Missed Shot,Layup Shot,0,2,133,0021201217
+149,PT09M30.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,134,0021201217
+150,PT09M25.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,Stackhouse OFF.Foul (P2),Foul,Offensive,0,0,135,0021201217
+151,PT09M25.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,Stackhouse Foul Turnover (P1.T4),Turnover,Foul,0,0,136,0021201217
+152,PT09M14.00S,2,1610612765,DET,101198,Bynum,W. Bynum,-18,0,2,Made,1,35,24,59,v,Bynum 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,0,2,137,0021201217
+153,PT09M01.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,12,80,8,Made,1,37,24,61,h,Blatche 8' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,0,2,138,0021201217
+154,PT08M48.00S,2,1610612765,DET,203119,English,K. English,231,102,25,Missed,1,0,0,0,v,MISS English 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,139,0021201217
+155,PT08M47.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,140,0021201217
+156,PT08M39.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,141,0021201217
+156,PT08M39.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum STEAL (1 STL),,,0,0,142,0021201217
+157,PT08M33.00S,2,1610612765,DET,203119,English,K. English,-16,3,2,Made,1,37,26,63,v,English 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,143,0021201217
+158,PT08M19.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,20,1,2,Made,1,39,26,65,h,Humphries 2' Layup (2 PTS) (Stackhouse 1 AST),Made Shot,Layup Shot,0,2,144,0021201217
+159,PT08M03.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,145,0021201217
+159,PT08M03.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson STEAL (1 STL),,,0,0,146,0021201217
+160,PT07M57.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,163,194,25,Missed,1,0,0,0,h,MISS Stackhouse 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,147,0021201217
+161,PT07M56.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,148,0021201217
+162,PT07M56.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva L.B.FOUL (P2.T2),Foul,Loose Ball,0,0,149,0021201217
+163,PT07M56.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,150,0021201217
+165,PT07M46.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,-29,55,6,Made,1,41,26,67,h,Humphries 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,2,151,0021201217
+166,PT07M30.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,15,1,2,Made,1,41,28,69,v,Jerebko 2' Reverse Layup (4 PTS) (English 1 AST),Made Shot,Reverse Layup Shot,0,2,152,0021201217
+167,PT07M17.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,Villanueva P.FOUL (P3.T3),Foul,Personal,0,0,153,0021201217
+168,PT07M14.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,21,-5,2,Made,1,43,28,71,h,Bogans 2' Layup (2 PTS) (Watson 1 AST),Made Shot,Layup Shot,0,2,154,0021201217
+169,PT07M14.00S,2,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English S.FOUL (P1.T4),Foul,Shooting,0,0,155,0021201217
+170,PT07M14.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,44,28,72,h,Bogans Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,156,0021201217
+172,PT07M04.00S,2,1610612765,DET,203119,English,K. English,-117,194,23,Missed,1,0,0,0,v,MISS English 23' Jump Shot,Missed Shot,Jump Shot,0,2,157,0021201217
+173,PT07M03.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,158,0021201217
+174,PT06M55.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko Personal Block Foul (P2.PN),Foul,Personal Block,0,0,159,0021201217
+175,PT06M55.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,45,28,73,h,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,160,0021201217
+177,PT06M55.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,46,28,74,h,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,161,0021201217
+179,PT06M45.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche S.FOUL (P2.PN),Foul,Shooting,0,0,162,0021201217
+180,PT06M45.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,46,29,75,v,Bynum Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,163,0021201217
+182,PT06M45.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,46,30,76,v,Bynum Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,164,0021201217
+184,PT06M25.00S,2,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English P.FOUL (P2.PN),Foul,Personal,0,0,165,0021201217
+185,PT06M25.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,MISS Bogans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,166,0021201217
+186,PT06M25.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,167,0021201217
+187,PT06M25.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,MISS Bogans Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,168,0021201217
+189,PT06M23.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,169,0021201217
+190,PT06M17.00S,2,1610612765,DET,101198,Bynum,W. Bynum,-23,7,2,Made,1,46,32,78,v,Bynum 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,170,0021201217
+191,PT06M01.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,Stackhouse Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,171,0021201217
+191,PT06M01.00S,2,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton STEAL (1 STL),,,0,0,172,0021201217
+192,PT05M56.00S,2,1610612765,DET,101198,Bynum,W. Bynum,-27,0,3,Made,1,46,34,80,v,Bynum 3' Layup (10 PTS),Made Shot,Layup Shot,0,2,173,0021201217
+193,PT05M49.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,-243,22,24,Missed,1,0,0,0,h,MISS Bogans 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,174,0021201217
+194,PT05M47.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,175,0021201217
+195,PT05M43.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,1,0,0,Made,1,48,34,82,h,Humphries  Dunk (6 PTS) (Blatche 1 AST),Made Shot,Dunk Shot,0,2,176,0021201217
+196,PT05M37.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177,0021201217
+198,PT05M37.00S,2,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Brooks FOR Bogans,Substitution,,0,0,178,0021201217
+199,PT05M37.00S,2,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,SUB: Teletovic FOR Blatche,Substitution,,0,0,179,0021201217
+200,PT05M37.00S,2,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,SUB: Taylor FOR Stackhouse,Substitution,,0,0,180,0021201217
+201,PT05M37.00S,2,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Wallace FOR Watson,Substitution,,0,0,181,0021201217
+202,PT05M29.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,62,249,26,Missed,1,0,0,0,v,MISS Jerebko 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,183,0021201217
+203,PT05M27.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,184,0021201217
+204,PT05M37.00S,2,1610612765,DET,101111,Villanueva,C. Villanueva,0,0,0,,0,0,0,0,v,SUB: Drummond FOR Villanueva,Substitution,,0,0,182,0021201217
+205,PT05M14.00S,2,1610612751,BKN,202705,Brooks,M. Brooks,12,77,8,Made,1,50,34,84,h,Brooks 8' Floating Jump Shot (2 PTS) (Taylor 1 AST),Made Shot,Floating Jump shot,0,2,185,0021201217
+208,PT05M05.00S,2,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor S.FOUL (P1.PN),Foul,Shooting,0,0,186,0021201217
+210,PT05M05.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,MISS Bynum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,187,0021201217
+211,PT05M05.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,0,188,0021201217
+212,PT05M05.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,50,35,85,v,Bynum Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,189,0021201217
+214,PT04M52.00S,2,1610612751,BKN,203116,Taylor,T. Taylor,-23,4,2,Made,1,52,35,87,h,Taylor 2' Driving Dunk (2 PTS) (Humphries 1 AST),Made Shot,Driving Dunk Shot,0,2,190,0021201217
+215,PT04M40.00S,2,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,191,0021201217
+216,PT04M40.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,SUB: Monroe FOR Jerebko,Substitution,,0,0,192,0021201217
+217,PT04M20.00S,2,1610612751,BKN,203116,Taylor,T. Taylor,17,-2,2,Missed,1,0,0,0,h,MISS Taylor 2' Layup,Missed Shot,Layup Shot,0,2,193,0021201217
+217,PT04M20.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond BLOCK (2 BLK),,,0,2,194,0021201217
+218,PT04M17.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,195,0021201217
+219,PT04M15.00S,2,1610612765,DET,203119,English,K. English,-16,1,2,Made,1,52,37,89,v,English 2' Layup (4 PTS) (Drummond 1 AST),Made Shot,Layup Shot,0,2,196,0021201217
+220,PT04M15.00S,2,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks S.FOUL (P1.PN),Foul,Shooting,0,0,197,0021201217
+221,PT04M15.00S,2,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,SUB: Stuckey FOR Middleton,Substitution,,0,0,198,0021201217
+222,PT04M15.00S,2,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,MISS English Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,199,0021201217
+224,PT04M10.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,200,0021201217
+225,PT04M09.00S,2,1610612765,DET,203083,Drummond,A. Drummond,2,7,1,Made,1,52,39,91,v,Drummond 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,2,201,0021201217
+226,PT03M54.00S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,202,0021201217
+226,PT03M54.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond STEAL (1 STL),,,0,0,203,0021201217
+227,PT03M52.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Palming Turnover (P2.T10),Turnover,Palming Turnover,0,0,204,0021201217
+228,PT03M52.00S,2,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,SUB: Knight FOR English,Substitution,,0,0,205,0021201217
+229,PT03M43.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,0,0,0,,0,0,0,0,h,Teletovic Traveling Turnover (P1.T8),Turnover,Traveling,0,0,206,0021201217
+230,PT03M23.00S,2,1610612765,DET,202328,Monroe,G. Monroe,-59,25,6,Made,1,52,41,93,v,Monroe 6' Hook Shot (8 PTS),Made Shot,Hook Shot,0,2,207,0021201217
+231,PT03M08.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,-32,-2,3,Missed,1,0,0,0,h,MISS Teletovic 3' Jump Shot,Missed Shot,Jump Shot,0,2,208,0021201217
+231,PT03M08.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond BLOCK (3 BLK),,,0,2,209,0021201217
+232,PT03M06.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,210,0021201217
+233,PT03M03.00S,2,1610612765,DET,101198,Bynum,W. Bynum,28,34,4,Made,1,52,43,95,v,Bynum 4' Running Bank Shot (13 PTS),Made Shot,Running Bank shot,0,2,211,0021201217
+234,PT02M55.00S,2,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,212,0021201217
+236,PT02M55.00S,2,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,SUB: Singler FOR Bynum,Substitution,,0,0,213,0021201217
+237,PT02M41.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,124,211,24,Missed,1,0,0,0,h,MISS Teletovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,214,0021201217
+238,PT02M40.00S,2,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,215,0021201217
+239,PT02M19.00S,2,1610612765,DET,202688,Knight,B. Knight,80,121,15,Made,1,52,45,97,v,Knight 15' Jump Shot (4 PTS),Made Shot,Jump Shot,0,2,216,0021201217
+240,PT02M07.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,149,190,24,Made,1,55,45,100,h,Teletovic 24' 3PT Jump Shot (3 PTS) (Brooks 1 AST),Made Shot,Jump Shot,0,3,217,0021201217
+241,PT02M00.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe OFF.Foul (P2),Foul,Offensive,0,0,218,0021201217
+242,PT02M00.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Foul Turnover (P3.T11),Turnover,Foul,0,0,219,0021201217
+243,PT01M46.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,-86,246,26,Made,1,58,45,103,h,Teletovic 26' 3PT Jump Shot (6 PTS) (Brooks 2 AST),Made Shot,Jump Shot,0,3,220,0021201217
+245,PT01M21.00S,2,1610612765,DET,203083,Drummond,A. Drummond,17,0,2,Made,1,58,47,105,v,Drummond 2' Dunk (8 PTS) (Knight 1 AST),Made Shot,Dunk Shot,0,2,221,0021201217
+246,PT01M01.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,70,20,7,Made,1,60,47,107,h,Teletovic 7' Step Back Jump Shot (8 PTS) (Brooks 3 AST),Made Shot,Step Back Jump shot,0,2,222,0021201217
+247,PT00M46.90S,2,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,223,0021201217
+247,PT00M46.90S,2,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries STEAL (1 STL),,,0,0,224,0021201217
+248,PT00M40.90S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,-174,181,25,Missed,1,0,0,0,h,MISS Teletovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,225,0021201217
+249,PT00M40.50S,2,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,226,0021201217
+250,PT00M35.90S,2,1610612765,DET,202688,Knight,B. Knight,-35,200,20,Missed,1,0,0,0,v,MISS Knight 20' Jump Shot,Missed Shot,Jump Shot,0,2,227,0021201217
+251,PT00M33.70S,2,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,228,0021201217
+252,PT00M30.00S,2,1610612751,BKN,203141,Teletovic,M. Teletovic,0,0,0,,0,0,0,0,h,Teletovic S.FOUL (P1.PN),Foul,Shooting,0,0,229,0021201217
+253,PT00M30.00S,2,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,230,0021201217
+254,PT00M30.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,SUB: Jerebko FOR Monroe,Substitution,,0,0,232,0021201217
+255,PT00M30.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,231,0021201217
+256,PT00M30.00S,2,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,60,48,108,v,Knight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,233,0021201217
+258,PT00M10.90S,2,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,234,0021201217
+258,PT00M10.90S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond STEAL (2 STL),,,0,0,235,0021201217
+259,PT00M01.80S,2,1610612765,DET,201973,Jerebko,J. Jerebko,201,20,20,Missed,1,0,0,0,v,MISS Jerebko 20' Jump Shot,Missed Shot,Jump Shot,0,2,236,0021201217
+260,PT00M00.00S,2,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,237,0021201217
+261,PT00M00.00S,2,0,,0,,,0,0,0,,0,60,48,108, ,End of 2nd Period (9:09 PM EST),period,end,0,0,238,0021201217
+263,PT12M00.00S,3,0,,0,,,0,0,0,,0,60,48,108, ,Start of 3rd Period (9:25 PM EST),period,start,0,0,239,0021201217
+264,PT11M46.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond P.FOUL (P2.T1),Foul,Personal,0,0,240,0021201217
+265,PT11M36.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,-174,7,17,Missed,1,0,0,0,h,MISS Lopez 17' Jump Shot,Missed Shot,Jump Shot,0,2,241,0021201217
+266,PT11M35.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,242,0021201217
+267,PT11M29.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,9,1,Missed,1,0,0,0,h,MISS Lopez 1' Layup,Missed Shot,Layup Shot,0,2,243,0021201217
+267,PT11M29.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler BLOCK (1 BLK),,,0,2,244,0021201217
+268,PT11M27.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,245,0021201217
+269,PT11M23.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,19,2,Missed,1,0,0,0,h,MISS Lopez 2' Layup,Missed Shot,Layup Shot,0,2,246,0021201217
+270,PT11M21.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,247,0021201217
+271,PT11M06.00S,3,1610612765,DET,202713,Singler,K. Singler,18,220,22,Made,1,60,50,110,v,Singler 22' Jump Shot (4 PTS) (Stuckey 2 AST),Made Shot,Jump Shot,0,2,248,0021201217
+272,PT10M58.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,-23,7,2,Made,1,62,50,112,h,Lopez 2' Layup (12 PTS) (D. Williams 4 AST),Made Shot,Layup Shot,0,2,249,0021201217
+273,PT10M34.00S,3,1610612765,DET,202713,Singler,K. Singler,106,213,24,Missed,1,0,0,0,v,MISS Singler 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,250,0021201217
+274,PT10M33.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,h,D. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,251,0021201217
+275,PT10M24.00S,3,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight S.FOUL (P1.T2),Foul,Shooting,0,0,252,0021201217
+276,PT10M24.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,63,50,113,h,D. Williams Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,253,0021201217
+278,PT10M24.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,64,50,114,h,D. Williams Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,254,0021201217
+280,PT10M24.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,65,50,115,h,D. Williams Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,255,0021201217
+282,PT09M44.00S,3,1610612765,DET,203083,Drummond,A. Drummond,-138,22,14,Missed,1,0,0,0,v,MISS Drummond 14' Jump Shot,Missed Shot,Jump Shot,0,2,260,0021201217
+283,PT09M43.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,261,0021201217
+284,PT09M42.00S,3,1610612765,DET,202328,Monroe,G. Monroe,-19,1,2,Made,1,65,52,117,v,Monroe 2' Tip Shot (10 PTS),Made Shot,Tip Shot,0,2,262,0021201217
+285,PT09M23.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,-8,9,1,Made,1,67,52,119,h,Lopez 1' Dunk (14 PTS) (D. Williams 5 AST),Made Shot,Dunk Shot,0,2,263,0021201217
+286,PT09M05.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,23,3,2,Made,1,67,54,121,v,Stuckey 2' Layup (6 PTS),Made Shot,Layup Shot,0,2,264,0021201217
+287,PT10M05.00S,3,1610612765,DET,202688,Knight,B. Knight,-93,160,19,Missed,1,0,0,0,v,MISS Knight 19' Jump Shot,Missed Shot,Jump Shot,0,2,256,0021201217
+288,PT08M49.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,0,0,0,,0,0,0,0,v,Stuckey P.FOUL (P1.T3),Foul,Personal,0,0,265,0021201217
+289,PT08M38.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-109,183,21,Made,1,69,54,123,h,Johnson 21' Jump Shot (7 PTS),Made Shot,Jump Shot,0,2,266,0021201217
+291,PT08M16.00S,3,1610612765,DET,202328,Monroe,G. Monroe,125,71,14,Missed,1,0,0,0,v,MISS Monroe 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,267,0021201217
+292,PT08M15.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,268,0021201217
+293,PT10M03.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,257,0021201217
+294,PT07M55.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,189,164,25,Made,1,72,54,126,h,Johnson 25' 3PT Jump Shot (10 PTS) (Lopez 1 AST),Made Shot,Jump Shot,0,3,269,0021201217
+295,PT07M53.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,270,0021201217
+296,PT09M53.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,h,D. Williams Poss Lost Ball Turnover (P1.T10),Turnover,Poss Lost Ball Turnover,0,0,258,0021201217
+296,PT09M53.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler STEAL (1 STL),,,0,0,259,0021201217
+298,PT07M37.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,0,0,0,,0,0,0,0,v,Stuckey Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,271,0021201217
+298,PT07M37.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace STEAL (3 STL),,,0,0,272,0021201217
+300,PT07M22.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,-172,200,26,Missed,1,0,0,0,h,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,273,0021201217
+301,PT07M22.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,274,0021201217
+302,PT07M16.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond P.FOUL (P3.T4),Foul,Personal,0,0,275,0021201217
+304,PT07M01.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,133,206,25,Missed,1,0,0,0,h,MISS Wallace 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,276,0021201217
+305,PT07M00.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,277,0021201217
+306,PT06M59.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe S.FOUL (P3.PN),Foul,Shooting,0,0,278,0021201217
+307,PT06M59.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,73,54,127,h,Lopez Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,279,0021201217
+309,PT06M59.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,74,54,128,h,Lopez Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,280,0021201217
+311,PT06M50.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,0,0,0,,0,0,0,0,v,Stuckey Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,281,0021201217
+311,PT06M50.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,Wallace STEAL (4 STL),,,0,0,282,0021201217
+312,PT06M47.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond S.FOUL (P4.PN),Foul,Shooting,0,0,283,0021201217
+313,PT06M47.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,MISS Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,284,0021201217
+314,PT06M47.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,285,0021201217
+315,PT06M47.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,75,54,129,h,Wallace Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,286,0021201217
+317,PT06M26.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,23,9,2,Made,1,75,56,131,v,Stuckey 2' Layup (8 PTS) (Monroe 2 AST),Made Shot,Layup Shot,0,2,287,0021201217
+318,PT06M12.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,288,0021201217
+318,PT06M12.00S,3,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight STEAL (1 STL),,,0,0,289,0021201217
+319,PT06M12.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans P.FOUL (P1.T1),Foul,Personal,0,0,290,0021201217
+320,PT05M58.00S,3,1610612765,DET,202713,Singler,K. Singler,-21,107,11,Missed,1,0,0,0,v,MISS Singler 11' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,291,0021201217
+321,PT05M57.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,292,0021201217
+322,PT05M50.00S,3,1610612751,BKN,101114,Williams,D. Williams,-122,222,25,Missed,1,0,0,0,h,MISS D. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,293,0021201217
+323,PT05M49.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,294,0021201217
+326,PT05M49.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler L.B.FOUL (P1.PN),Foul,Loose Ball,0,0,295,0021201217
+327,PT05M49.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,MISS Evans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,296,0021201217
+328,PT05M49.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,297,0021201217
+329,PT05M49.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,MISS Evans Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,298,0021201217
+331,PT05M48.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,299,0021201217
+332,PT05M35.00S,3,1610612765,DET,202328,Monroe,G. Monroe,-92,184,21,Missed,1,0,0,0,v,MISS Monroe 21' Jump Shot,Missed Shot,Jump Shot,0,2,300,0021201217
+333,PT05M34.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,301,0021201217
+334,PT05M25.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,h,D. Williams Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,302,0021201217
+334,PT05M25.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,Drummond STEAL (3 STL),,,0,0,303,0021201217
+335,PT05M05.00S,3,1610612765,DET,201155,Stuckey,R. Stuckey,-150,195,25,Made,1,75,59,134,v,Stuckey 25' 3PT Jump Shot (11 PTS) (Knight 2 AST),Made Shot,Jump Shot,0,3,304,0021201217
+336,PT04M50.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans 3 Second Violation Turnover (P2.T13),Turnover,3 Second Violation,0,0,305,0021201217
+337,PT04M37.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe OFF.Foul (P4),Foul,Offensive,0,0,306,0021201217
+338,PT04M37.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Foul Turnover (P4.T15),Turnover,Foul,0,0,307,0021201217
+339,PT04M29.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,Singler S.FOUL (P2.PN),Foul,Shooting,0,0,308,0021201217
+340,PT04M29.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,76,59,135,h,Lopez Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,309,0021201217
+342,PT04M29.00S,3,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,SUB: Bynum FOR Knight,Substitution,,0,0,310,0021201217
+343,PT04M29.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,77,59,136,h,Lopez Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,311,0021201217
+345,PT04M11.00S,3,1610612765,DET,203083,Drummond,A. Drummond,-29,1,3,Made,1,77,61,138,v,Drummond 3' Dunk (10 PTS) (Monroe 3 AST),Made Shot,Dunk Shot,0,2,312,0021201217
+346,PT04M11.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Lopez S.FOUL (P1.T2),Foul,Shooting,0,0,313,0021201217
+347,PT04M11.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,77,62,139,v,Drummond Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,314,0021201217
+349,PT03M59.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,13,6,1,Made,1,79,62,141,h,Lopez 1' Slam Dunk (20 PTS) (D. Williams 6 AST),Made Shot,Slam Dunk Shot,0,2,315,0021201217
+351,PT03M29.00S,3,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,316,0021201217
+351,PT03M29.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans STEAL (1 STL),,,0,0,317,0021201217
+352,PT03M17.00S,3,1610612751,BKN,2501,Evans,R. Evans,10,11,1,Made,1,81,62,143,h,Evans 1' Layup (7 PTS) (Johnson 2 AST),Made Shot,Layup Shot,0,2,318,0021201217
+353,PT03M04.00S,3,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,319,0021201217
+354,PT03M04.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,320,0021201217
+357,PT03M04.00S,3,1610612751,BKN,2222,Wallace,G. Wallace,0,0,0,,0,0,0,0,h,SUB: Blatche FOR Wallace,Substitution,,0,0,321,0021201217
+358,PT03M04.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,SUB: Watson FOR Lopez,Substitution,,0,0,322,0021201217
+359,PT03M04.00S,3,1610612751,BKN,2207,Johnson,J. Johnson,0,0,0,,0,0,0,0,h,SUB: Bogans FOR Johnson,Substitution,,0,0,323,0021201217
+360,PT03M04.00S,3,1610612751,BKN,101114,Williams,D. Williams,0,0,0,,0,0,0,0,h,SUB: Stackhouse FOR D. Williams,Substitution,,0,0,324,0021201217
+361,PT03M04.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0,0,0,v,SUB: Middleton FOR Singler,Substitution,,0,0,325,0021201217
+362,PT03M04.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,SUB: Jerebko FOR Drummond,Substitution,,0,0,326,0021201217
+363,PT02M48.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans Traveling Turnover (P3.T14),Turnover,Traveling,0,0,327,0021201217
+364,PT02M40.00S,3,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Violation:Kicked Ball,Violation,Kicked Ball,0,0,328,0021201217
+365,PT02M35.00S,3,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,0,329,0021201217
+365,PT02M35.00S,3,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche STEAL (1 STL),,,0,0,330,0021201217
+366,PT02M33.00S,3,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,331,0021201217
+366,PT02M33.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe STEAL (2 STL),,,0,0,332,0021201217
+367,PT02M33.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans S.FOUL (P2.T3),Foul,Shooting,0,0,333,0021201217
+368,PT02M33.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,81,63,144,v,Monroe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,334,0021201217
+370,PT02M33.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,MISS Monroe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,335,0021201217
+372,PT02M32.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,336,0021201217
+373,PT02M21.00S,3,1610612751,BKN,201228,Watson,C. Watson,-29,-5,3,Made,1,83,63,146,h,Watson 3' Layup (4 PTS) (Stackhouse 2 AST),Made Shot,Layup Shot,0,2,337,0021201217
+374,PT02M01.00S,3,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche S.FOUL (P3.T4),Foul,Shooting,0,0,338,0021201217
+375,PT02M01.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,MISS Monroe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,339,0021201217
+376,PT02M01.00S,3,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,0,340,0021201217
+377,PT02M01.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,83,64,147,v,Monroe Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,341,0021201217
+379,PT01M41.00S,3,1610612751,BKN,201228,Watson,C. Watson,-149,200,25,Missed,1,0,0,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,342,0021201217
+380,PT01M40.00S,3,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,343,0021201217
+381,PT01M26.00S,3,1610612765,DET,203114,Middleton,K. Middleton,-120,231,26,Missed,1,0,0,0,v,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,344,0021201217
+382,PT01M25.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,345,0021201217
+383,PT01M20.00S,3,1610612765,DET,203114,Middleton,K. Middleton,23,9,2,Missed,1,0,0,0,v,MISS Middleton 2' Layup,Missed Shot,Layup Shot,0,2,346,0021201217
+384,PT01M19.00S,3,1610612751,BKN,2501,Evans,R. Evans,0,0,0,,0,0,0,0,h,Evans REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,347,0021201217
+385,PT01M15.00S,3,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,348,0021201217
+385,PT01M15.00S,3,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum STEAL (2 STL),,,0,0,349,0021201217
+386,PT01M13.00S,3,1610612765,DET,101198,Bynum,W. Bynum,-11,0,1,Made,1,83,66,149,v,Bynum 1' Layup (15 PTS),Made Shot,Layup Shot,0,2,350,0021201217
+387,PT00M50.90S,3,1610612751,BKN,2501,Evans,R. Evans,-37,15,4,Missed,1,0,0,0,h,MISS Evans 4' Jump Shot,Missed Shot,Jump Shot,0,2,351,0021201217
+388,PT00M49.90S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,352,0021201217
+389,PT00M45.80S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko Offensive Charge Foul (P3.PN),Foul,Offensive Charge,0,0,353,0021201217
+390,PT00M45.80S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko Foul Turnover (P1.T19),Turnover,Foul,0,0,354,0021201217
+391,PT00M28.90S,3,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,0,355,0021201217
+391,PT00M28.90S,3,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton STEAL (2 STL),,,0,0,356,0021201217
+392,PT00M22.20S,3,1610612765,DET,203114,Middleton,K. Middleton,2,22,2,Missed,1,0,0,0,v,MISS Middleton 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,0,2,357,0021201217
+393,PT00M21.60S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,358,0021201217
+394,PT00M06.90S,3,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,359,0021201217
+394,PT00M06.90S,3,1610612765,DET,201155,Stuckey,R. Stuckey,0,0,0,,0,0,0,0,v,Stuckey STEAL (1 STL),,,0,0,360,0021201217
+395,PT00M01.20S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0,0,0,v,Monroe Out of Bounds Lost Ball Turnover (P5.T20),Turnover,Out of Bounds Lost Ball Turnover,0,0,361,0021201217
+396,PT00M00.40S,3,1610612751,BKN,2586,Bogans,K. Bogans,26,477,48,Missed,1,0,0,0,h,MISS Bogans 48' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,362,0021201217
+397,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,363,0021201217
+398,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,66,149, ,End of 3rd Period (9:53 PM EST),period,end,0,0,364,0021201217
+400,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,66,149, ,Start of 4th Period (9:55 PM EST),period,start,0,0,365,0021201217
+401,PT11M47.00S,4,1610612765,DET,101198,Bynum,W. Bynum,13,126,13,Missed,1,0,0,0,v,MISS Bynum 13' Jump Shot,Missed Shot,Jump Shot,0,2,366,0021201217
+402,PT11M45.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,367,0021201217
+403,PT11M28.00S,4,1610612751,BKN,201228,Watson,C. Watson,-120,219,25,Missed,1,0,0,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,368,0021201217
+404,PT11M26.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,369,0021201217
+405,PT11M16.00S,4,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans S.FOUL (P1.T1),Foul,Shooting,0,0,370,0021201217
+406,PT11M16.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,83,67,150,v,Jerebko Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,371,0021201217
+408,PT11M16.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,83,68,151,v,Jerebko Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,372,0021201217
+410,PT11M01.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,17,-5,2,Made,1,85,68,153,h,Blatche 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,0,2,373,0021201217
+411,PT10M47.00S,4,1610612765,DET,203083,Drummond,A. Drummond,-34,6,3,Made,1,85,70,155,v,Drummond 3' Alley Oop Dunk (13 PTS) (Bynum 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,374,0021201217
+412,PT10M23.00S,4,1610612751,BKN,2586,Bogans,K. Bogans,193,148,24,Missed,1,0,0,0,h,MISS Bogans 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,375,0021201217
+413,PT10M22.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,376,0021201217
+414,PT10M11.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,-160,19,16,Missed,1,0,0,0,h,MISS Blatche 16' Jump Shot,Missed Shot,Jump Shot,0,2,377,0021201217
+415,PT10M10.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,378,0021201217
+416,PT10M04.00S,4,1610612765,DET,203114,Middleton,K. Middleton,-93,94,13,Made,1,85,72,157,v,Middleton 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,379,0021201217
+417,PT09M46.00S,4,1610612751,BKN,711,Stackhouse,J. Stackhouse,170,201,26,Made,1,88,72,160,h,Stackhouse 26' 3PT Jump Shot (3 PTS) (Humphries 2 AST),Made Shot,Jump Shot,0,3,380,0021201217
+418,PT09M36.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson P.FOUL (P2.T2),Foul,Personal,0,0,381,0021201217
+419,PT09M24.00S,4,1610612765,DET,203114,Middleton,K. Middleton,58,112,13,Missed,1,0,0,0,v,MISS Middleton 13' Jump Shot,Missed Shot,Jump Shot,0,2,382,0021201217
+420,PT09M23.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,383,0021201217
+421,PT09M23.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,384,0021201217
+422,PT09M14.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries S.FOUL (P3.T4),Foul,Shooting,0,0,385,0021201217
+423,PT09M14.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,88,73,161,v,Bynum Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,386,0021201217
+425,PT09M14.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,88,74,162,v,Bynum Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,387,0021201217
+427,PT09M11.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum P.FOUL (P1.T1),Foul,Personal,0,0,388,0021201217
+428,PT08M58.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,0,389,0021201217
+428,PT08M58.00S,4,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,Knight STEAL (2 STL),,,0,0,390,0021201217
+429,PT08M54.00S,4,1610612765,DET,101198,Bynum,W. Bynum,1,15,2,Made,1,88,76,164,v,Bynum 2' Slam Dunk (19 PTS) (Knight 3 AST),Made Shot,Slam Dunk Shot,0,2,391,0021201217
+430,PT08M34.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,0,17,2,Made,1,90,76,166,h,Blatche 2' Layup (12 PTS),Made Shot,Layup Shot,0,2,392,0021201217
+431,PT08M26.00S,4,1610612765,DET,203114,Middleton,K. Middleton,29,14,3,Made,1,90,78,168,v,Middleton 3' Layup (4 PTS) (Knight 4 AST),Made Shot,Layup Shot,0,2,393,0021201217
+432,PT08M14.00S,4,1610612751,BKN,711,Stackhouse,J. Stackhouse,226,4,0,Made,1,93,78,171,h,Stackhouse  3PT Jump Shot (6 PTS) (Watson 2 AST),Made Shot,Jump Shot,0,3,394,0021201217
+433,PT07M53.00S,4,1610612765,DET,202688,Knight,B. Knight,28,75,8,Missed,1,0,0,0,v,MISS Knight 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,395,0021201217
+434,PT07M52.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,396,0021201217
+435,PT07M33.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,138,53,15,Missed,1,0,0,0,h,MISS Humphries 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,397,0021201217
+436,PT07M32.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,398,0021201217
+437,PT07M27.00S,4,1610612765,DET,202688,Knight,B. Knight,34,30,5,Missed,1,0,0,0,v,MISS Knight 5' Jump Shot,Missed Shot,Jump Shot,0,2,399,0021201217
+437,PT07M27.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries BLOCK (1 BLK),,,0,2,400,0021201217
+438,PT07M26.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,401,0021201217
+439,PT07M26.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko L.B.FOUL (P4.T2),Foul,Loose Ball,0,0,402,0021201217
+441,PT07M26.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,403,0021201217
+442,PT07M26.00S,4,1610612751,BKN,711,Stackhouse,J. Stackhouse,0,0,0,,0,0,0,0,h,SUB: Brooks FOR Stackhouse,Substitution,,0,0,404,0021201217
+443,PT07M10.00S,4,1610612751,BKN,201228,Watson,C. Watson,20,0,2,Made,1,95,78,173,h,Watson 2' Reverse Layup (6 PTS) (Blatche 2 AST),Made Shot,Reverse Layup Shot,0,2,405,0021201217
+444,PT06M51.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko Bad Pass Turnover (P2.T21),Turnover,Bad Pass,0,0,406,0021201217
+444,PT06M51.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche STEAL (2 STL),,,0,0,407,0021201217
+445,PT06M48.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson Bad Pass Turnover (P3.T20),Turnover,Bad Pass,0,0,408,0021201217
+446,PT06M43.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,Watson S.FOUL (P3.PN),Foul,Shooting,0,0,409,0021201217
+447,PT06M43.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,95,79,174,v,Bynum Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,410,0021201217
+449,PT06M43.00S,4,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,v,SUB: Kravtsov FOR Drummond,Substitution,,0,0,411,0021201217
+450,PT06M43.00S,4,1610612751,BKN,201228,Watson,C. Watson,0,0,0,,0,0,0,0,h,SUB: Taylor FOR Watson,Substitution,,0,0,412,0021201217
+451,PT06M43.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,95,80,175,v,Bynum Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,413,0021201217
+453,PT06M29.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,12,17,2,Made,1,97,80,177,h,Humphries 2' Dunk (8 PTS) (Blatche 3 AST),Made Shot,Dunk Shot,0,2,414,0021201217
+454,PT06M18.00S,4,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor S.FOUL (P2.PN),Foul,Shooting,0,0,415,0021201217
+455,PT06M18.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,97,81,178,v,Bynum Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,416,0021201217
+457,PT06M18.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,97,82,179,v,Bynum Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,417,0021201217
+459,PT06M03.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries Bad Pass Turnover (P4.T21),Turnover,Bad Pass,0,0,418,0021201217
+460,PT05M49.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Lost Ball Turnover (P5.T22),Turnover,Lost Ball,0,0,419,0021201217
+460,PT05M49.00S,4,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,Bogans STEAL (1 STL),,,0,0,420,0021201217
+461,PT05M45.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,-2,0,Made,1,99,82,181,h,Humphries  Dunk (10 PTS) (Taylor 2 AST),Made Shot,Dunk Shot,0,2,421,0021201217
+462,PT05M32.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,Bynum Bad Pass Turnover (P6.T23),Turnover,Bad Pass,0,0,422,0021201217
+462,PT05M32.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,0,0,0,,0,0,0,0,h,Blatche STEAL (3 STL),,,0,0,423,0021201217
+463,PT05M16.00S,4,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor Lost Ball Turnover (P2.T22),Turnover,Lost Ball,0,0,424,0021201217
+463,PT05M16.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov STEAL (1 STL),,,0,0,425,0021201217
+464,PT05M13.00S,4,1610612765,DET,202688,Knight,B. Knight,26,15,3,Made,1,99,84,183,v,Knight 3' Layup (7 PTS) (Middleton 1 AST),Made Shot,Layup Shot,0,2,426,0021201217
+465,PT05M13.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,Humphries S.FOUL (P4.PN),Foul,Shooting,0,0,427,0021201217
+466,PT05M13.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,428,0021201217
+468,PT05M13.00S,4,1610612765,DET,101198,Bynum,W. Bynum,0,0,0,,0,0,0,0,v,SUB: English FOR Bynum,Substitution,,0,0,429,0021201217
+469,PT05M13.00S,4,1610612751,BKN,2586,Bogans,K. Bogans,0,0,0,,0,0,0,0,h,SUB: Teletovic FOR Bogans,Substitution,,0,0,430,0021201217
+470,PT05M13.00S,4,1610612765,DET,202688,Knight,B. Knight,0,0,0,,0,0,0,0,v,MISS Knight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,431,0021201217
+472,PT05M11.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,432,0021201217
+473,PT05M08.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,17,1,2,Missed,1,0,0,0,v,MISS Kravtsov 2' Tip Shot,Missed Shot,Tip Shot,0,2,433,0021201217
+474,PT05M06.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,434,0021201217
+475,PT05M04.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,15,-8,2,Made,1,99,86,185,v,Kravtsov 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,435,0021201217
+476,PT04M44.00S,4,1610612751,BKN,203141,Teletovic,M. Teletovic,144,203,25,Missed,1,0,0,0,h,MISS Teletovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,436,0021201217
+477,PT04M43.00S,4,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Rebound,Rebound,Unknown,0,0,437,0021201217
+478,PT04M39.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov S.FOUL (P1.T3),Foul,Shooting,0,0,438,0021201217
+479,PT04M39.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,100,86,186,h,Humphries Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,439,0021201217
+481,PT04M39.00S,4,1610612751,BKN,2743,Humphries,K. Humphries,0,0,0,,0,0,0,0,h,MISS Humphries Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,440,0021201217
+483,PT04M37.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,441,0021201217
+484,PT04M19.00S,4,1610612765,DET,203114,Middleton,K. Middleton,118,14,12,Made,1,100,88,188,v,Middleton 12' Floating Jump Shot (6 PTS) (Knight 5 AST),Made Shot,Floating Jump shot,0,2,442,0021201217
+485,PT03M52.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,237,-2,24,Made,1,103,88,191,h,Blatche 24' 3PT Jump Shot (15 PTS) (Taylor 3 AST),Made Shot,Jump Shot,0,3,443,0021201217
+486,PT03M41.00S,4,1610612765,DET,202688,Knight,B. Knight,1,25,3,Missed,1,0,0,0,v,MISS Knight 3' Layup,Missed Shot,Layup Shot,0,2,444,0021201217
+487,PT03M40.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,445,0021201217
+488,PT03M38.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,1,9,1,Missed,1,0,0,0,v,MISS Kravtsov 1' Layup,Missed Shot,Layup Shot,0,2,446,0021201217
+489,PT03M37.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,447,0021201217
+490,PT03M36.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,20,12,2,Made,1,103,90,193,v,Kravtsov 2' Layup (4 PTS),Made Shot,Layup Shot,0,2,448,0021201217
+491,PT03M26.00S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English P.FOUL (P3.T4),Foul,Personal,0,0,449,0021201217
+492,PT03M20.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,28,19,3,Missed,1,0,0,0,h,MISS Blatche 3' Jump Shot,Missed Shot,Jump Shot,0,2,450,0021201217
+493,PT03M19.00S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,451,0021201217
+494,PT03M17.00S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English Out of Bounds Lost Ball Turnover (P2.T24),Turnover,Out of Bounds Lost Ball Turnover,0,0,452,0021201217
+495,PT03M08.00S,4,1610612751,BKN,203116,Taylor,T. Taylor,-34,3,3,Missed,1,0,0,0,h,MISS Taylor 3' Layup,Missed Shot,Layup Shot,0,2,453,0021201217
+496,PT03M06.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,454,0021201217
+497,PT03M00.00S,4,1610612765,DET,203119,English,K. English,-19,0,2,Made,1,103,92,195,v,English 2' Jump Shot (6 PTS) (Middleton 2 AST),Made Shot,Jump Shot,0,2,455,0021201217
+498,PT02M41.00S,4,1610612751,BKN,202705,Brooks,M. Brooks,111,228,25,Missed,1,0,0,0,h,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,456,0021201217
+499,PT02M40.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,457,0021201217
+500,PT02M19.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,122,22,12,Missed,1,0,0,0,v,MISS Jerebko 12' Jump Shot,Missed Shot,Jump Shot,0,2,458,0021201217
+501,PT02M18.00S,4,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,459,0021201217
+502,PT02M05.00S,4,1610612751,BKN,101154,Blatche,A. Blatche,78,82,11,Missed,1,0,0,0,h,MISS Blatche 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,460,0021201217
+503,PT02M04.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,461,0021201217
+504,PT02M00.00S,4,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks S.FOUL (P2.PN),Foul,Shooting,0,0,462,0021201217
+506,PT02M00.00S,4,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,463,0021201217
+507,PT02M00.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,103,93,196,v,Middleton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,464,0021201217
+509,PT02M00.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,103,94,197,v,Middleton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,465,0021201217
+511,PT01M36.00S,4,1610612751,BKN,202705,Brooks,M. Brooks,-71,143,16,Missed,1,0,0,0,h,MISS Brooks 16' Jump Shot,Missed Shot,Jump Shot,0,2,466,0021201217
+512,PT01M35.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,467,0021201217
+513,PT01M31.00S,4,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor P.FOUL (P3.PN),Foul,Personal,0,0,468,0021201217
+514,PT01M31.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,103,95,198,v,Middleton Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,469,0021201217
+516,PT01M31.00S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,103,96,199,v,Middleton Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,470,0021201217
+518,PT01M11.00S,4,1610612751,BKN,203116,Taylor,T. Taylor,-11,53,5,Missed,1,0,0,0,h,MISS Taylor 5' Jump Shot,Missed Shot,Jump Shot,0,2,471,0021201217
+518,PT01M11.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov BLOCK (1 BLK),,,0,2,472,0021201217
+519,PT01M09.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0,0,0,v,Jerebko REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,473,0021201217
+520,PT01M07.00S,4,1610612765,DET,203119,English,K. English,47,44,6,Missed,1,0,0,0,v,MISS English 6' Jump Shot,Missed Shot,Jump Shot,0,2,474,0021201217
+521,PT01M06.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0,0,0,v,Kravtsov REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,475,0021201217
+522,PT01M05.00S,4,1610612765,DET,203139,Kravtsov,V. Kravtsov,-13,7,1,Made,1,103,98,201,v,Kravtsov 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,2,476,0021201217
+523,PT00M55.90S,4,1610612751,BKN,203116,Taylor,T. Taylor,0,0,0,,0,0,0,0,h,Taylor Bad Pass Turnover (P3.T23),Turnover,Bad Pass,0,0,477,0021201217
+523,PT00M55.90S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,English STEAL (1 STL),,,0,0,478,0021201217
+524,PT00M53.20S,4,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks Shooting Block Foul (P3.PN),Foul,Shooting Block,0,0,479,0021201217
+525,PT00M53.20S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,0,0,0,v,MISS English Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,480,0021201217
+526,PT00M53.20S,4,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,0,481,0021201217
+527,PT00M53.20S,4,1610612765,DET,203119,English,K. English,0,0,0,,0,103,99,202,v,English Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,482,0021201217
+530,PT00M45.20S,4,0,,1610612751,,,0,0,0,,0,0,0,0,h,NETS Turnover: 8 Second Violation (T#24),Turnover,8 Second Violation,0,0,483,0021201217
+531,PT00M45.20S,4,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0,484,0021201217
+534,PT00M38.90S,4,1610612765,DET,203114,Middleton,K. Middleton,-161,85,18,Missed,1,0,0,0,v,MISS Middleton 18' Jump Shot,Missed Shot,Jump Shot,0,2,485,0021201217
+534,PT00M38.90S,4,1610612751,BKN,203141,Teletovic,M. Teletovic,0,0,0,,0,0,0,0,h,Teletovic BLOCK (1 BLK),,,0,2,486,0021201217
+535,PT00M37.50S,4,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,487,0021201217
+536,PT00M16.90S,4,1610612751,BKN,203116,Taylor,T. Taylor,-19,96,10,Missed,1,0,0,0,h,MISS Taylor 10' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,488,0021201217
+537,PT00M15.90S,4,1610612765,DET,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,v,Middleton REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,489,0021201217
+538,PT00M08.80S,4,1610612765,DET,202688,Knight,B. Knight,-190,211,28,Missed,1,0,0,0,v,MISS Knight 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,490,0021201217
+539,PT00M08.10S,4,0,,1610612765,,,0,0,0,,0,0,0,0,v,Pistons Rebound,Rebound,Unknown,0,0,491,0021201217
+540,PT00M04.20S,4,1610612765,DET,202688,Knight,B. Knight,-218,129,25,Missed,1,0,0,0,v,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,492,0021201217
+541,PT00M03.60S,4,1610612751,BKN,202705,Brooks,M. Brooks,0,0,0,,0,0,0,0,h,Brooks REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,493,0021201217
+542,PT00M00.00S,4,0,,0,,,0,0,0,,0,103,99,202, ,End of 4th Period (10:24 PM EST),period,end,0,0,494,0021201217

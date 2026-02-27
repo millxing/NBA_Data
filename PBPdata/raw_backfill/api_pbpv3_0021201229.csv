@@ -1,0 +1,469 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (10:42 PM EST),period,start,0,0,1,0021201229
+1,PT12M00.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Jump Ball Thompson vs. Jordan: Tip to Paul,Jump Ball,,0,0,2,0021201229
+2,PT11M53.00S,1,1610612746,LAC,101108,Paul,C. Paul,20,173,17,Missed,1,0,0,0,v,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,0,2,3,0021201229
+3,PT11M52.00S,1,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,4,0021201229
+5,PT11M29.00S,1,1610612758,SAC,201977,Thornton,M. Thornton,-120,217,25,Missed,1,0,0,0,h,MISS Thornton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,5,0021201229
+6,PT11M29.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,6,0021201229
+7,PT11M12.00S,1,1610612746,LAC,1497,Billups,C. Billups,162,45,17,Made,1,0,2,2,v,Billups 17' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,2,7,0021201229
+8,PT11M01.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,209,132,25,Missed,1,0,0,0,h,MISS Salmons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,8,0021201229
+9,PT11M01.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,9,0021201229
+10,PT10M52.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,77,9,8,Missed,1,0,0,0,v,MISS Jordan 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,10,0021201229
+11,PT10M51.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,11,0021201229
+12,PT10M43.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,-79,187,20,Made,1,2,2,4,h,Cousins 20' Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,2,12,0021201229
+13,PT10M16.00S,1,1610612746,LAC,2406,Butler,C. Butler,56,246,25,Missed,1,0,0,0,v,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,13,0021201229
+14,PT10M15.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,14,0021201229
+15,PT10M03.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,6,225,23,Missed,1,0,0,0,h,MISS Cousins 23' Jump Shot,Missed Shot,Jump Shot,0,2,15,0021201229
+16,PT10M03.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,16,0021201229
+17,PT09M48.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson P.FOUL (P1.T1),Foul,Personal,0,0,17,0021201229
+18,PT09M39.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-46,19,5,Missed,1,0,0,0,v,MISS Griffin 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,18,0021201229
+19,PT09M38.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,19,0021201229
+20,PT09M30.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,20,0021201229
+20,PT09M30.00S,1,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler STEAL (1 STL),,,0,0,21,0021201229
+21,PT09M25.00S,1,1610612746,LAC,101108,Paul,C. Paul,22,11,2,Made,1,2,4,6,v,Paul 2' Layup (2 PTS) (Griffin 1 AST),Made Shot,Layup Shot,0,2,22,0021201229
+22,PT09M07.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,-92,94,13,Missed,1,0,0,0,h,MISS Thompson 13' Jump Shot,Missed Shot,Jump Shot,0,2,23,0021201229
+22,PT09M07.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan BLOCK (1 BLK),,,0,2,24,0021201229
+23,PT09M06.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,25,0021201229
+24,PT09M02.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,12,0,1,Made,1,2,6,8,v,Jordan 1' Slam Dunk (2 PTS) (Paul 1 AST),Made Shot,Slam Dunk Shot,0,2,26,0021201229
+25,PT08M49.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,37,20,4,Missed,1,0,0,0,h,MISS Thomas 4' Jump Shot,Missed Shot,Jump Shot,0,2,27,0021201229
+26,PT08M47.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,28,0021201229
+27,PT08M43.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,-229,6,0,Made,1,5,6,11,h,Thomas  3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,3,29,0021201229
+28,PT08M35.00S,1,1610612746,LAC,2406,Butler,C. Butler,42,254,26,Made,1,5,9,14,v,Butler 26' 3PT Jump Shot (3 PTS) (Paul 2 AST),Made Shot,Jump Shot,0,3,30,0021201229
+29,PT08M22.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,92,12,9,Made,1,7,9,16,h,Thompson 9' Jump Hook Shot (2 PTS) (Thomas 2 AST),Made Shot,Jump Hook Shot,0,2,31,0021201229
+30,PT08M16.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,0,32,0021201229
+31,PT08M16.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Foul Turnover (P1.T1),Turnover,Foul,0,0,33,0021201229
+32,PT08M00.00S,1,1610612758,SAC,201977,Thornton,M. Thornton,-157,135,21,Missed,1,0,0,0,h,MISS Thornton 21' Jump Shot,Missed Shot,Jump Shot,0,2,34,0021201229
+33,PT07M59.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,35,0021201229
+34,PT07M46.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,36,0021201229
+34,PT07M46.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson STEAL (1 STL),,,0,0,37,0021201229
+35,PT07M42.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,-19,15,2,Missed,1,0,0,0,h,MISS Thomas 2' Layup,Missed Shot,Layup Shot,0,2,38,0021201229
+36,PT07M40.00S,1,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,39,0021201229
+37,PT07M33.00S,1,1610612746,LAC,1497,Billups,C. Billups,165,190,25,Made,1,7,12,19,v,Billups 25' 3PT Jump Shot (5 PTS) (Paul 3 AST),Made Shot,Jump Shot,0,3,40,0021201229
+38,PT07M26.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41,0021201229
+41,PT07M09.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,189,168,25,Made,1,10,12,22,h,Thomas 25' 3PT Jump Shot (6 PTS) (Cousins 1 AST),Made Shot,Jump Shot,0,3,42,0021201229
+42,PT06M51.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-71,7,7,Made,1,10,14,24,v,Griffin 7' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,43,0021201229
+43,PT06M36.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,88,7,9,Missed,1,0,0,0,h,MISS Thompson 9' Jump Shot,Missed Shot,Jump Shot,0,2,44,0021201229
+44,PT06M35.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,45,0021201229
+45,PT06M34.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,-10,7,1,Made,1,12,14,26,h,Cousins 1' Dunk (4 PTS),Made Shot,Dunk Shot,0,2,46,0021201229
+46,PT06M01.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,201,25,20,Missed,1,0,0,0,v,MISS Jordan 20' Jump Shot,Missed Shot,Jump Shot,0,2,47,0021201229
+47,PT06M00.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,48,0021201229
+48,PT05M59.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins P.FOUL (P1.T2),Foul,Personal,0,0,49,0021201229
+49,PT05M59.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Billups,Substitution,,0,0,50,0021201229
+50,PT05M53.00S,1,1610612746,LAC,101108,Paul,C. Paul,2,198,20,Missed,1,0,0,0,v,MISS Paul 20' Jump Shot,Missed Shot,Jump Shot,0,2,51,0021201229
+51,PT05M53.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,52,0021201229
+52,PT05M48.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan S.FOUL (P1.T2),Foul,Shooting,0,0,53,0021201229
+53,PT05M48.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,13,14,27,h,Cousins Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,54,0021201229
+55,PT05M48.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,14,14,28,h,Cousins Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,55,0021201229
+57,PT05M37.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,36,15,4,Missed,1,0,0,0,v,MISS Griffin 4' Jump Shot,Missed Shot,Jump Shot,0,2,56,0021201229
+58,PT05M37.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,57,0021201229
+59,PT05M29.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,65,209,22,Missed,1,0,0,0,h,MISS Cousins 22' Jump Shot,Missed Shot,Jump Shot,0,2,58,0021201229
+60,PT05M28.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,59,0021201229
+61,PT05M26.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,4,9,1,Made,1,16,14,30,h,Cousins 1' Slam Dunk (8 PTS),Made Shot,Slam Dunk Shot,0,2,60,0021201229
+62,PT05M05.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,15,19,2,Made,1,16,16,32,v,Jordan 2' Slam Dunk (4 PTS) (Crawford 1 AST),Made Shot,Slam Dunk Shot,0,2,61,0021201229
+63,PT04M52.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,45,39,6,Missed,1,0,0,0,h,MISS Thompson 6' Jump Shot,Missed Shot,Jump Shot,0,2,62,0021201229
+64,PT04M52.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,63,0021201229
+65,PT04M44.00S,1,1610612746,LAC,2406,Butler,C. Butler,-155,4,16,Missed,1,0,0,0,v,MISS Butler 16' Jump Shot,Missed Shot,Jump Shot,0,2,64,0021201229
+66,PT04M42.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,65,0021201229
+67,PT04M32.00S,1,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P1.T3),Foul,Personal,0,0,66,0021201229
+68,PT04M32.00S,1,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Butler,Substitution,,0,0,67,0021201229
+69,PT04M19.00S,1,1610612758,SAC,201977,Thornton,M. Thornton,-116,19,12,Made,1,18,16,34,h,Thornton 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,2,68,0021201229
+70,PT04M03.00S,1,1610612746,LAC,101108,Paul,C. Paul,-21,63,7,Made,1,18,18,36,v,Paul 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,0,2,69,0021201229
+71,PT03M49.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,-62,205,21,Missed,1,0,0,0,h,MISS Cousins 21' Jump Shot,Missed Shot,Jump Shot,0,2,70,0021201229
+72,PT03M49.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,71,0021201229
+73,PT03M41.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,113,227,25,Made,1,18,21,39,v,Crawford 25' 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,0,3,72,0021201229
+75,PT03M19.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,51,252,26,Missed,1,0,0,0,h,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,73,0021201229
+76,PT03M17.00S,1,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0,74,0021201229
+77,PT03M17.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Hollins FOR Jordan,Substitution,,0,0,75,0021201229
+78,PT03M12.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,-2,47,5,Made,1,20,21,41,h,Cousins 5' Jump Shot (10 PTS),Made Shot,Jump Shot,0,2,76,0021201229
+79,PT03M12.00S,1,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins S.FOUL (P1.T4),Foul,Shooting,0,0,77,0021201229
+80,PT03M12.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,MISS Cousins Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,78,0021201229
+82,PT03M10.00S,1,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,79,0021201229
+83,PT03M03.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P1.T3),Foul,Personal,0,0,80,0021201229
+84,PT02M55.00S,1,1610612746,LAC,101108,Paul,C. Paul,-152,88,18,Made,1,20,23,43,v,Paul 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,81,0021201229
+85,PT02M40.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,10,53,5,Made,1,22,23,45,h,Cousins 5' Jump Bank Shot (12 PTS) (Thomas 3 AST),Made Shot,Jump Bank Shot,0,2,82,0021201229
+86,PT02M29.00S,1,1610612746,LAC,2440,Barnes,M. Barnes,17,244,24,Missed,1,0,0,0,v,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,83,0021201229
+87,PT02M27.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,84,0021201229
+88,PT02M19.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,0,22,2,Made,1,24,23,47,h,Thomas 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,85,0021201229
+89,PT02M09.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,86,0021201229
+91,PT02M09.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,SUB: Bledsoe FOR Griffin,Substitution,,0,0,88,0021201229
+92,PT02M09.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,SUB: Odom FOR Paul,Substitution,,0,0,87,0021201229
+94,PT02M03.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-34,192,19,Missed,1,0,0,0,v,MISS Crawford 19' Jump Shot,Missed Shot,Jump Shot,0,2,89,0021201229
+95,PT02M02.00S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,90,0021201229
+96,PT01M45.00S,1,1610612758,SAC,201977,Thornton,M. Thornton,24,15,3,Missed,1,0,0,0,h,MISS Thornton 3' Layup,Missed Shot,Layup Shot,0,2,91,0021201229
+97,PT01M44.00S,1,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,92,0021201229
+98,PT01M39.00S,1,1610612746,LAC,2440,Barnes,M. Barnes,-18,4,2,Made,1,24,25,49,v,Barnes 2' Slam Dunk (2 PTS) (Odom 1 AST),Made Shot,Slam Dunk Shot,0,2,93,0021201229
+99,PT01M17.00S,1,1610612758,SAC,201574,Thompson,J. Thompson,67,30,7,Made,1,26,25,51,h,Thompson 7' Jump Shot (4 PTS) (Thomas 4 AST),Made Shot,Jump Shot,0,2,94,0021201229
+100,PT00M59.00S,1,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0,95,0021201229
+101,PT00M59.00S,1,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Outlaw FOR Salmons,Substitution,,0,0,96,0021201229
+102,PT00M46.90S,1,1610612758,SAC,201977,Thornton,M. Thornton,201,154,25,Missed,1,0,0,0,h,MISS Thornton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,97,0021201229
+103,PT00M45.90S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,98,0021201229
+104,PT00M37.60S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,99,0021201229
+105,PT00M32.90S,1,1610612746,LAC,202339,Bledsoe,E. Bledsoe,-108,219,24,Missed,1,0,0,0,v,MISS Bledsoe 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,100,0021201229
+106,PT00M31.90S,1,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,101,0021201229
+107,PT00M09.90S,1,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,102,0021201229
+107,PT00M09.90S,1,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom STEAL (1 STL),,,0,0,103,0021201229
+108,PT00M07.20S,1,1610612746,LAC,2440,Barnes,M. Barnes,-8,7,1,Made,1,26,27,53,v,Barnes 1' Slam Dunk (4 PTS) (Odom 2 AST),Made Shot,Slam Dunk Shot,0,2,104,0021201229
+110,PT00M01.00S,1,1610612758,SAC,202738,Thomas,I. Thomas,0,56,6,Missed,1,0,0,0,h,MISS Thomas 6' Jump Shot,Missed Shot,Jump Shot,0,2,105,0021201229
+111,PT00M00.30S,1,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,106,0021201229
+112,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,27,53, ,End of 1st Period (11:04 PM EST),period,end,0,0,107,0021201229
+114,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,27,53, ,Start of 2nd Period (11:08 PM EST),period,start,0,0,108,0021201229
+115,PT11M39.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,40,192,20,Missed,1,0,0,0,h,MISS Cousins 20' Jump Shot,Missed Shot,Jump Shot,0,2,109,0021201229
+116,PT11M37.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,110,0021201229
+117,PT11M25.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins S.FOUL (P2.T1),Foul,Shooting,0,0,111,0021201229
+118,PT11M25.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,MISS Cousins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,112,0021201229
+119,PT11M25.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,113,0021201229
+120,PT11M25.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,MISS Cousins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,114,0021201229
+122,PT11M24.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,115,0021201229
+123,PT11M08.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,143,201,25,Missed,1,0,0,0,v,MISS Crawford 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,116,0021201229
+124,PT11M06.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,117,0021201229
+125,PT11M03.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins S.FOUL (P2.T1),Foul,Shooting,0,0,118,0021201229
+126,PT11M03.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,26,28,54,v,Hollins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,119,0021201229
+128,PT11M03.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,SUB: Fredette FOR Cousins,Substitution,,0,0,120,0021201229
+129,PT11M03.00S,2,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,SUB: Aldrich FOR Thornton,Substitution,,0,0,121,0021201229
+130,PT11M03.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,26,29,55,v,Hollins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,122,0021201229
+132,PT10M49.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes S.FOUL (P1.T2),Foul,Shooting,0,0,123,0021201229
+133,PT10M49.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,27,29,56,h,Outlaw Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,124,0021201229
+135,PT10M49.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,125,0021201229
+137,PT10M49.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,126,0021201229
+139,PT10M33.00S,2,1610612746,LAC,1885,Odom,L. Odom,-19,75,8,Missed,1,0,0,0,v,MISS Odom 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,127,0021201229
+140,PT10M30.00S,2,1610612746,LAC,1885,Odom,L. Odom,-4,3,1,Made,1,27,31,58,v,Odom 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,131,0021201229
+141,PT10M30.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,130,0021201229
+142,PT10M09.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,-231,11,0,Missed,1,0,0,0,h,MISS Thomas  3PT Jump Shot,Missed Shot,Jump Shot,0,3,132,0021201229
+143,PT10M08.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,133,0021201229
+144,PT10M03.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,-16,11,2,Made,1,27,33,60,v,Barnes 2' Layup (6 PTS) (Bledsoe 1 AST),Made Shot,Layup Shot,0,2,134,0021201229
+145,PT09M57.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas Poss Lost Ball Turnover (P2.T4),Turnover,Poss Lost Ball Turnover,0,0,135,0021201229
+146,PT09M43.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,-5,48,5,Missed,1,0,0,0,v,MISS Barnes 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,136,0021201229
+147,PT09M43.00S,2,1610612758,SAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,137,0021201229
+148,PT10M30.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,21,19,3,Missed,1,0,0,0,v,MISS Barnes 3' Tip Shot,Missed Shot,Tip Shot,0,2,129,0021201229
+149,PT09M33.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,-147,208,25,Missed,1,0,0,0,h,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,138,0021201229
+151,PT09M31.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,139,0021201229
+152,PT09M22.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,217,124,25,Made,1,27,36,63,v,Crawford 25' 3PT Jump Shot (6 PTS) (Barnes 1 AST),Made Shot,Jump Shot,0,3,140,0021201229
+154,PT09M10.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141,0021201229
+155,PT10M30.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,128,0021201229
+156,PT09M10.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe T.FOUL (P0.T2),Foul,Technical,0,0,142,0021201229
+159,PT09M10.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,SUB: Salmons FOR Thomas,Substitution,,0,0,143,0021201229
+160,PT09M10.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,0,0,0,,0,0,0,0,h,MISS Fredette Free Throw Technical,Free Throw,Free Throw Technical,0,0,144,0021201229
+161,PT09M10.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,145,0021201229
+162,PT08M58.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,105,227,25,Missed,1,0,0,0,h,MISS Salmons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,146,0021201229
+163,PT08M58.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,147,0021201229
+164,PT08M53.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,62,15,6,Missed,1,0,0,0,v,MISS Crawford 6' Jump Shot,Missed Shot,Jump Shot,0,2,148,0021201229
+165,PT08M52.00S,2,1610612758,SAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,Aldrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,149,0021201229
+166,PT08M43.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,0,0,0,,0,0,0,0,h,Fredette Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,150,0021201229
+166,PT08M43.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford STEAL (1 STL),,,0,0,151,0021201229
+167,PT08M40.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,-10,-2,1,Made,1,27,38,65,v,Barnes 1' Dunk (8 PTS) (Crawford 2 AST),Made Shot,Dunk Shot,0,2,152,0021201229
+168,PT08M18.00S,2,1610612758,SAC,202332,Aldrich,C. Aldrich,42,20,5,Missed,1,0,0,0,h,MISS Aldrich 5' Jump Shot,Missed Shot,Jump Shot,0,2,153,0021201229
+168,PT08M18.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom BLOCK (1 BLK),,,0,2,154,0021201229
+169,PT08M18.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0,155,0021201229
+170,PT08M10.00S,2,1610612758,SAC,202335,Patterson,P. Patterson,-134,82,16,Missed,1,0,0,0,h,MISS Patterson 16' Jump Shot,Missed Shot,Jump Shot,0,2,156,0021201229
+171,PT08M10.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,157,0021201229
+172,PT08M01.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe Palming Turnover (P1.T4),Turnover,Palming Turnover,0,0,158,0021201229
+173,PT07M42.00S,2,1610612758,SAC,202332,Aldrich,C. Aldrich,0,63,6,Made,1,29,38,67,h,Aldrich 6' Jump Hook Shot (2 PTS) (Patterson 1 AST),Made Shot,Jump Hook Shot,0,2,159,0021201229
+174,PT07M22.00S,2,1610612746,LAC,1885,Odom,L. Odom,43,56,7,Missed,1,0,0,0,v,MISS Odom 7' Jump Shot,Missed Shot,Jump Shot,0,2,160,0021201229
+175,PT07M21.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,161,0021201229
+176,PT07M21.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,SUB: Paul FOR Hollins,Substitution,,0,0,162,0021201229
+177,PT07M21.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Bledsoe,Substitution,,0,0,163,0021201229
+178,PT07M21.00S,2,1610612758,SAC,202332,Aldrich,C. Aldrich,0,0,0,,0,0,0,0,h,SUB: Cousins FOR Aldrich,Substitution,,0,0,164,0021201229
+179,PT07M04.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,-49,22,5,Missed,1,0,0,0,v,MISS Jordan 5' Jump Shot,Missed Shot,Jump Shot,0,2,165,0021201229
+180,PT07M03.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,166,0021201229
+181,PT06M47.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,70,39,8,Made,1,31,38,69,h,Outlaw 8' Jump Shot (3 PTS) (Cousins 2 AST),Made Shot,Jump Shot,0,2,167,0021201229
+182,PT06M20.00S,2,1610612746,LAC,101108,Paul,C. Paul,29,258,26,Missed,1,0,0,0,v,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,168,0021201229
+183,PT06M19.00S,2,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,169,0021201229
+184,PT06M13.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,181,190,26,Missed,1,0,0,0,h,MISS Fredette 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,170,0021201229
+185,PT06M12.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,171,0021201229
+186,PT06M00.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,6,149,15,Missed,1,0,0,0,v,MISS Crawford 15' Jump Shot,Missed Shot,Jump Shot,0,2,172,0021201229
+187,PT05M59.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,173,0021201229
+188,PT05M39.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,-68,11,7,Made,1,33,38,71,h,Outlaw 7' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,0,2,174,0021201229
+189,PT05M30.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,175,0021201229
+192,PT05M30.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,SUB: Butler FOR Barnes,Substitution,,0,0,176,0021201229
+193,PT05M30.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,SUB: Griffin FOR Odom,Substitution,,0,0,177,0021201229
+194,PT05M20.00S,2,1610612746,LAC,2406,Butler,C. Butler,59,82,10,Made,1,33,40,73,v,Butler 10' Jump Shot (5 PTS),Made Shot,Jump Shot,0,2,178,0021201229
+195,PT04M59.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,144,115,18,Made,1,35,40,75,h,Outlaw 18' Jump Shot (7 PTS) (Cousins 3 AST),Made Shot,Jump Shot,0,2,179,0021201229
+196,PT04M47.00S,2,1610612746,LAC,101108,Paul,C. Paul,31,6,3,Made,1,35,42,77,v,Paul 3' Layup (8 PTS),Made Shot,Layup Shot,0,2,180,0021201229
+197,PT04M37.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,61,25,7,Made,1,37,42,79,h,Fredette 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,181,0021201229
+198,PT04M11.00S,2,1610612746,LAC,101108,Paul,C. Paul,-7,83,8,Made,1,37,44,81,v,Paul 8' Jump Shot (10 PTS),Made Shot,Jump Shot,0,2,182,0021201229
+199,PT04M11.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,0,0,0,,0,0,0,0,h,Fredette S.FOUL (P1.T2),Foul,Shooting,0,0,183,0021201229
+200,PT04M11.00S,2,1610612758,SAC,202690,Fredette,J. Fredette,0,0,0,,0,0,0,0,h,SUB: Thomas FOR Fredette,Substitution,,0,0,184,0021201229
+202,PT04M11.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Billups FOR Crawford,Substitution,,0,0,185,0021201229
+203,PT04M11.00S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,MISS Paul Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,186,0021201229
+205,PT04M11.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,187,0021201229
+206,PT04M00.00S,2,1610612746,LAC,1497,Billups,C. Billups,111,217,24,Made,1,37,47,84,v,Billups 24' 3PT Jump Shot (8 PTS) (Paul 5 AST),Made Shot,Jump Shot,0,3,188,0021201229
+207,PT03M50.00S,2,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P2.T3),Foul,Personal,0,0,189,0021201229
+208,PT03M37.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,-24,85,9,Made,1,39,47,86,h,Outlaw 9' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,0,2,190,0021201229
+209,PT03M25.00S,2,1610612746,LAC,101108,Paul,C. Paul,-182,167,25,Missed,1,0,0,0,v,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,191,0021201229
+210,PT03M24.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,192,0021201229
+211,PT03M08.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,-146,22,15,Missed,1,0,0,0,h,MISS Outlaw 15' Jump Shot,Missed Shot,Jump Shot,0,2,193,0021201229
+212,PT03M08.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,194,0021201229
+213,PT03M03.00S,2,1610612746,LAC,2406,Butler,C. Butler,40,36,5,Missed,1,0,0,0,v,MISS Butler 5' Jump Shot,Missed Shot,Jump Shot,0,2,195,0021201229
+213,PT03M03.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins BLOCK (1 BLK),,,0,2,196,0021201229
+214,PT03M01.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,197,0021201229
+215,PT02M55.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins OFF.Foul (P3),Foul,Offensive,0,0,198,0021201229
+216,PT02M55.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins Foul Turnover (P2.T6),Turnover,Foul,0,0,199,0021201229
+217,PT02M55.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,200,0021201229
+220,PT02M55.00S,2,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,SUB: Thompson FOR Cousins,Substitution,,0,0,201,0021201229
+221,PT02M47.00S,2,1610612746,LAC,1497,Billups,C. Billups,61,244,25,Made,1,39,50,89,v,Billups 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,3,202,0021201229
+222,PT02M22.00S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,124,94,16,Made,1,41,50,91,h,Outlaw 16' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,0,2,203,0021201229
+223,PT02M04.00S,2,1610612746,LAC,101108,Paul,C. Paul,67,6,7,Made,1,41,52,93,v,Paul 7' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,2,204,0021201229
+224,PT01M46.00S,2,1610612758,SAC,201574,Thompson,J. Thompson,0,140,14,Made,1,43,52,95,h,Thompson 14' Jump Shot (6 PTS) (Outlaw 1 AST),Made Shot,Jump Shot,0,2,205,0021201229
+225,PT01M27.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P2.T3),Foul,Personal,0,0,206,0021201229
+227,PT01M16.00S,2,1610612746,LAC,101108,Paul,C. Paul,-131,15,13,Made,1,43,54,97,v,Paul 13' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,0,2,207,0021201229
+229,PT01M03.00S,2,1610612758,SAC,202738,Thomas,I. Thomas,-24,242,24,Made,1,46,54,100,h,Thomas 24' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,3,208,0021201229
+230,PT00M43.90S,2,1610612746,LAC,101108,Paul,C. Paul,-139,124,19,Missed,1,0,0,0,v,MISS Paul 19' Jump Shot,Missed Shot,Jump Shot,0,2,209,0021201229
+231,PT00M42.90S,2,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,210,0021201229
+232,PT00M35.60S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas Palming Turnover (P3.T7),Turnover,Palming Turnover,0,0,211,0021201229
+233,PT00M32.20S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups OFF.Foul (P1),Foul,Offensive,0,0,212,0021201229
+234,PT00M32.20S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups Foul Turnover (P1.T5),Turnover,Foul,0,0,213,0021201229
+235,PT00M16.90S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,-40,247,25,Missed,1,0,0,0,h,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,214,0021201229
+236,PT00M16.80S,2,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,215,0021201229
+237,PT00M03.60S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw OFF.Foul (P1),Foul,Offensive,0,0,216,0021201229
+238,PT00M03.60S,2,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw Foul Turnover (P1.T8),Turnover,Foul,0,0,217,0021201229
+239,PT00M03.60S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Jordan,Substitution,,0,0,218,0021201229
+240,PT00M03.60S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Griffin,Substitution,,0,0,219,0021201229
+241,PT00M03.60S,2,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,SUB: Thornton FOR Thomas,Substitution,,0,0,220,0021201229
+242,PT00M00.30S,2,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler Traveling Turnover (P1.T6),Turnover,Traveling,0,0,221,0021201229
+244,PT00M00.00S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Billups,Substitution,,0,0,222,0021201229
+245,PT00M00.00S,2,1610612758,SAC,201977,Thornton,M. Thornton,-130,336,36,Missed,1,0,0,0,h,MISS Thornton 36' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,223,0021201229
+246,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,54,100, ,End of 2nd Period (11:36 PM EST),period,end,0,0,225,0021201229
+247,PT00M00.00S,2,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0,224,0021201229
+249,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,54,100, ,Start of 3rd Period (11:53 PM EST),period,start,0,0,226,0021201229
+250,PT11M45.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,1,184,18,Missed,1,0,0,0,h,MISS Salmons 18' Jump Shot,Missed Shot,Jump Shot,0,2,227,0021201229
+251,PT11M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,228,0021201229
+252,PT11M24.00S,3,1610612746,LAC,101108,Paul,C. Paul,-248,25,25,Missed,1,0,0,0,v,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,229,0021201229
+253,PT11M21.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,230,0021201229
+254,PT11M11.00S,3,1610612746,LAC,2406,Butler,C. Butler,233,17,0,Made,1,46,57,103,v,Butler  3PT Jump Shot (8 PTS) (Griffin 2 AST),Made Shot,Jump Shot,0,3,231,0021201229
+255,PT10M57.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,-41,26,5,Made,1,48,57,105,h,Cousins 5' Jump Shot (14 PTS),Made Shot,Jump Shot,0,2,232,0021201229
+256,PT10M33.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-81,176,19,Missed,1,0,0,0,v,MISS Griffin 19' Jump Shot,Missed Shot,Jump Shot,0,2,233,0021201229
+257,PT10M32.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,234,0021201229
+258,PT10M27.00S,3,1610612746,LAC,1497,Billups,C. Billups,-149,206,25,Missed,1,0,0,0,v,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,235,0021201229
+259,PT10M26.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,236,0021201229
+260,PT10M15.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,185,36,19,Missed,1,0,0,0,h,MISS Thompson 19' Jump Shot,Missed Shot,Jump Shot,0,2,237,0021201229
+261,PT10M15.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,238,0021201229
+262,PT10M00.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,239,0021201229
+262,PT10M00.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,Thornton STEAL (1 STL),,,0,0,240,0021201229
+263,PT09M59.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,75,83,11,Made,1,50,57,107,h,Thornton 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,2,241,0021201229
+264,PT09M39.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,242,0021201229
+265,PT09M22.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,45,220,22,Missed,1,0,0,0,h,MISS Thomas 22' Jump Shot,Missed Shot,Jump Shot,0,2,243,0021201229
+266,PT09M22.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,244,0021201229
+267,PT09M14.00S,3,1610612746,LAC,1497,Billups,C. Billups,-10,175,18,Made,1,50,59,109,v,Billups 18' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,0,2,245,0021201229
+268,PT08M42.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,-180,159,24,Made,1,53,59,112,h,Thornton 24' 3PT Jump Shot (7 PTS) (Salmons 1 AST),Made Shot,Jump Shot,0,3,246,0021201229
+269,PT08M18.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,247,0021201229
+269,PT08M18.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson STEAL (2 STL),,,0,0,248,0021201229
+270,PT08M13.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,20,0,2,Missed,1,0,0,0,h,MISS Thornton 2' Layup,Missed Shot,Layup Shot,0,2,249,0021201229
+271,PT08M13.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,Thornton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,250,0021201229
+273,PT08M13.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,Jump Ball Thornton vs. Butler: Tip to Cousins,Jump Ball,,0,0,251,0021201229
+275,PT08M02.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul P.FOUL (P1.T1),Foul,Personal,0,0,252,0021201229
+276,PT07M49.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,4,85,9,Made,1,55,59,114,h,Salmons 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,253,0021201229
+277,PT07M35.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-34,19,4,Missed,1,0,0,0,v,MISS Griffin 4' Jump Shot,Missed Shot,Jump Shot,0,2,254,0021201229
+278,PT07M35.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,255,0021201229
+279,PT07M20.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,114,190,22,Missed,1,0,0,0,h,MISS Cousins 22' Jump Shot,Missed Shot,Jump Shot,0,2,256,0021201229
+280,PT07M19.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,257,0021201229
+281,PT07M09.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-10,14,2,Missed,1,0,0,0,v,MISS Griffin 2' Dunk,Missed Shot,Dunk Shot,0,2,258,0021201229
+281,PT07M09.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins BLOCK (2 BLK),,,0,2,259,0021201229
+282,PT07M08.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,260,0021201229
+283,PT07M06.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups S.FOUL (P2.T2),Foul,Shooting,0,0,261,0021201229
+284,PT07M06.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,56,59,115,h,Thomas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,262,0021201229
+286,PT07M06.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,57,59,116,h,Thomas Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,263,0021201229
+288,PT06M56.00S,3,1610612746,LAC,1497,Billups,C. Billups,-218,104,24,Missed,1,0,0,0,v,MISS Billups 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,264,0021201229
+289,PT06M56.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,265,0021201229
+290,PT06M51.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,218,110,24,Made,1,60,59,119,h,Thornton 24' 3PT Jump Shot (10 PTS) (Thomas 5 AST),Made Shot,Jump Shot,0,3,266,0021201229
+291,PT06M50.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,267,0021201229
+293,PT06M36.00S,3,1610612746,LAC,1497,Billups,C. Billups,129,213,25,Missed,1,0,0,0,v,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,268,0021201229
+294,PT06M35.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0,269,0021201229
+296,PT06M22.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin S.FOUL (P2.T3),Foul,Shooting,0,0,270,0021201229
+297,PT06M22.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,61,59,120,h,Cousins Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,271,0021201229
+299,PT06M22.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,62,59,121,h,Cousins Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,272,0021201229
+301,PT06M09.00S,3,1610612746,LAC,101108,Paul,C. Paul,-8,77,8,Made,1,62,61,123,v,Paul 8' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,0,2,273,0021201229
+302,PT05M55.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,-57,41,7,Missed,1,0,0,0,h,MISS Thomas 7' Jump Shot,Missed Shot,Jump Shot,0,2,274,0021201229
+303,PT05M53.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,12,1,Missed,1,0,0,0,h,MISS Cousins 1' Tip Shot,Missed Shot,Tip Shot,0,2,276,0021201229
+304,PT05M53.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,275,0021201229
+305,PT05M52.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,277,0021201229
+306,PT05M39.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,75,172,19,Missed,1,0,0,0,v,MISS Griffin 19' Jump Shot,Missed Shot,Jump Shot,0,2,278,0021201229
+307,PT05M38.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:12),Rebound,Unknown,0,0,279,0021201229
+308,PT05M22.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,9,6,1,Made,1,64,61,125,h,Cousins 1' Layup (18 PTS) (Thornton 1 AST),Made Shot,Layup Shot,0,2,280,0021201229
+309,PT05M02.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson S.FOUL (P2.T1),Foul,Shooting,0,0,281,0021201229
+310,PT05M02.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,64,62,126,v,Griffin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,282,0021201229
+312,PT05M02.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Billups,Substitution,,0,0,283,0021201229
+313,PT05M02.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,284,0021201229
+315,PT04M57.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:13),Rebound,Unknown,0,0,285,0021201229
+316,PT04M46.00S,3,1610612746,LAC,2406,Butler,C. Butler,-185,85,20,Missed,1,0,0,0,v,MISS Butler 20' Jump Shot,Missed Shot,Jump Shot,0,2,287,0021201229
+317,PT04M45.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,288,0021201229
+318,PT04M45.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson L.B.FOUL (P3.T2),Foul,Loose Ball,0,0,289,0021201229
+319,PT04M45.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0,290,0021201229
+320,PT04M57.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,286,0021201229
+323,PT04M27.00S,3,1610612746,LAC,2406,Butler,C. Butler,234,9,0,Made,1,64,65,129,v,Butler  3PT Jump Shot (11 PTS) (Crawford 3 AST),Made Shot,Jump Shot,0,3,291,0021201229
+324,PT04M08.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,-13,14,2,Made,1,66,65,131,h,Cousins 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,2,292,0021201229
+325,PT03M50.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-232,15,0,Made,1,66,68,134,v,Crawford  3PT Jump Shot (9 PTS) (Paul 6 AST),Made Shot,Jump Shot,0,3,293,0021201229
+326,PT03M35.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,-2,33,3,Missed,1,0,0,0,h,MISS Cousins 3' Jump Shot,Missed Shot,Jump Shot,0,2,294,0021201229
+326,PT03M35.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,Jordan BLOCK (2 BLK),,,0,2,295,0021201229
+327,PT03M35.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Unknown,0,0,296,0021201229
+329,PT03M34.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler P.FOUL (P3.T4),Foul,Personal,0,0,297,0021201229
+330,PT03M22.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,-168,231,29,Missed,1,0,0,0,h,MISS Thomas 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,298,0021201229
+331,PT03M21.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,299,0021201229
+332,PT03M11.00S,3,1610612746,LAC,101108,Paul,C. Paul,91,148,17,Made,1,66,70,136,v,Paul 17' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,0,2,300,0021201229
+333,PT02M59.00S,3,1610612758,SAC,201977,Thornton,M. Thornton,-87,252,27,Missed,1,0,0,0,h,MISS Thornton 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,301,0021201229
+334,PT02M58.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,302,0021201229
+335,PT02M55.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,303,0021201229
+335,PT02M55.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul STEAL (1 STL),,,0,0,304,0021201229
+336,PT02M49.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,241,23,24,Missed,1,0,0,0,v,MISS Crawford 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,305,0021201229
+337,PT02M48.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,306,0021201229
+338,PT02M39.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,80,-2,8,Missed,1,0,0,0,v,MISS Griffin 8' Jump Shot,Missed Shot,Jump Shot,0,2,307,0021201229
+338,PT02M39.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,Salmons BLOCK (1 BLK),,,0,2,308,0021201229
+339,PT02M39.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,309,0021201229
+340,PT02M39.00S,3,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0,310,0021201229
+342,PT02M39.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Butler,Substitution,,0,0,311,0021201229
+344,PT02M28.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,15,15,2,Made,1,66,72,138,v,Jordan 2' Layup (6 PTS) (Paul 7 AST),Made Shot,Layup Shot,0,2,312,0021201229
+345,PT02M11.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul S.FOUL (P2.PN),Foul,Shooting,0,0,313,0021201229
+346,PT02M11.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,67,72,139,h,Thompson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,314,0021201229
+348,PT02M11.00S,3,1610612758,SAC,2422,Salmons,J. Salmons,0,0,0,,0,0,0,0,h,SUB: Outlaw FOR Salmons,Substitution,,0,0,315,0021201229
+349,PT02M11.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,SUB: Odom FOR Griffin,Substitution,,0,0,316,0021201229
+350,PT02M11.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Hollins FOR Jordan,Substitution,,0,0,317,0021201229
+351,PT02M11.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,68,72,140,h,Thompson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,318,0021201229
+353,PT01M58.00S,3,1610612746,LAC,101108,Paul,C. Paul,84,143,17,Missed,1,0,0,0,v,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,0,2,319,0021201229
+354,PT01M55.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:14),Rebound,Unknown,0,0,320,0021201229
+355,PT01M55.00S,3,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom P.FOUL (P1.PN),Foul,Personal,0,0,321,0021201229
+356,PT01M55.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,69,72,141,h,Cousins Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,322,0021201229
+358,PT01M55.00S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,70,72,142,h,Cousins Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,323,0021201229
+360,PT01M46.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P3.T3),Foul,Personal,0,0,324,0021201229
+361,PT01M40.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,-57,123,14,Made,1,70,74,144,v,Crawford 14' Pullup Jump Shot (11 PTS) (Paul 8 AST),Made Shot,Pullup Jump shot,0,2,325,0021201229
+362,PT01M21.00S,3,1610612758,SAC,202738,Thomas,I. Thomas,1,72,7,Missed,1,0,0,0,h,MISS Thomas 7' Jump Shot,Missed Shot,Jump Shot,0,2,326,0021201229
+363,PT01M21.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,327,0021201229
+364,PT01M21.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,Thompson P.FOUL (P4.PN),Foul,Personal,0,0,328,0021201229
+365,PT01M21.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,70,75,145,v,Paul Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,329,0021201229
+367,PT01M21.00S,3,1610612758,SAC,201574,Thompson,J. Thompson,0,0,0,,0,0,0,0,h,SUB: Patterson FOR Thompson,Substitution,,0,0,330,0021201229
+368,PT01M21.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,70,76,146,v,Paul Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,331,0021201229
+370,PT01M12.00S,3,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,332,0021201229
+370,PT01M12.00S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford STEAL (2 STL),,,0,0,333,0021201229
+371,PT01M05.00S,3,1610612746,LAC,101108,Paul,C. Paul,-95,0,10,Made,1,70,78,148,v,Paul 10' Jump Shot (22 PTS) (Crawford 4 AST),Made Shot,Jump Shot,0,2,334,0021201229
+373,PT00M46.90S,3,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Jump Ball Cousins vs. Barnes: Tip to Thornton,Jump Ball,,0,0,335,0021201229
+375,PT00M37.90S,3,1610612758,SAC,202326,Cousins,D. Cousins,-86,189,21,Missed,1,0,0,0,h,MISS Cousins 21' Jump Shot,Missed Shot,Jump Shot,0,2,336,0021201229
+376,PT00M36.90S,3,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,337,0021201229
+377,PT00M27.90S,3,1610612746,LAC,101108,Paul,C. Paul,171,12,17,Missed,1,0,0,0,v,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,0,2,338,0021201229
+378,PT00M26.90S,3,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,339,0021201229
+379,PT00M01.90S,3,1610612758,SAC,201977,Thornton,M. Thornton,-82,197,21,Missed,1,0,0,0,h,MISS Thornton 21' Jump Shot,Missed Shot,Jump Shot,0,2,340,0021201229
+380,PT00M00.90S,3,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,341,0021201229
+381,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,78,148, ,End of 3rd Period (12:22 AM EST),period,end,0,0,342,0021201229
+383,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,78,148, ,Start of 4th Period (12:25 AM EST),period,start,0,0,343,0021201229
+384,PT11M39.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,146,208,25,Made,1,70,81,151,v,Crawford 25' 3PT Jump Shot (14 PTS) (Bledsoe 2 AST),Made Shot,Jump Shot,0,3,344,0021201229
+385,PT11M22.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom S.FOUL (P2.T1),Foul,Shooting,0,0,345,0021201229
+386,PT11M22.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,71,81,152,h,Outlaw Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,346,0021201229
+388,PT11M22.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,72,81,153,h,Outlaw Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,347,0021201229
+390,PT11M05.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,214,126,25,Missed,1,0,0,0,v,MISS Barnes 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,348,0021201229
+391,PT11M02.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:15),Rebound,Unknown,0,0,349,0021201229
+392,PT10M57.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,-220,124,25,Made,1,75,81,156,h,Thornton 25' 3PT Jump Shot (13 PTS) (Thomas 6 AST),Made Shot,Jump Shot,0,3,350,0021201229
+393,PT10M57.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,351,0021201229
+397,PT10M45.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,0,0,0,,0,0,0,0,h,Thornton P.FOUL (P1.T1),Foul,Personal,0,0,352,0021201229
+398,PT10M39.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,353,0021201229
+398,PT10M39.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas STEAL (1 STL),,,0,0,354,0021201229
+399,PT10M32.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,81,187,20,Missed,1,0,0,0,h,MISS Outlaw 20' Jump Shot,Missed Shot,Jump Shot,0,2,355,0021201229
+400,PT10M31.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,356,0021201229
+401,PT10M25.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,45,15,5,Missed,1,0,0,0,v,MISS Barnes 5' Jump Shot,Missed Shot,Jump Shot,0,2,357,0021201229
+402,PT10M24.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,-11,14,2,Made,1,75,83,158,v,Barnes 2' Tip Shot (10 PTS),Made Shot,Tip Shot,0,2,359,0021201229
+403,PT10M24.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,358,0021201229
+404,PT10M09.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,-35,17,4,Missed,1,0,0,0,h,MISS Thomas 4' Jump Shot,Missed Shot,Jump Shot,0,2,360,0021201229
+405,PT10M09.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,361,0021201229
+406,PT10M00.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,Bledsoe Poss Lost Ball Turnover (P3.T11),Turnover,Poss Lost Ball Turnover,0,0,362,0021201229
+407,PT09M52.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins P.FOUL (P3.T2),Foul,Personal,0,0,363,0021201229
+408,PT09M46.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,Barnes P.FOUL (P2.T3),Foul,Personal,0,0,364,0021201229
+409,PT09M46.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,76,83,159,h,Outlaw Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,365,0021201229
+411,PT09M46.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,77,83,160,h,Outlaw Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,366,0021201229
+413,PT09M35.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,122,116,17,Missed,1,0,0,0,v,MISS Crawford 17' Jump Shot,Missed Shot,Jump Shot,0,2,367,0021201229
+414,PT09M33.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:16),Rebound,Unknown,0,0,368,0021201229
+415,PT09M20.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,-75,28,8,Made,1,79,83,162,h,Patterson 8' Jump Shot (2 PTS) (Thornton 2 AST),Made Shot,Jump Shot,0,2,369,0021201229
+416,PT09M01.00S,4,1610612746,LAC,1885,Odom,L. Odom,-21,172,17,Made,1,79,85,164,v,Odom 17' Jump Shot (4 PTS) (Bledsoe 3 AST),Made Shot,Jump Shot,0,2,370,0021201229
+417,PT08M39.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,88,235,25,Missed,1,0,0,0,h,MISS Outlaw 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,371,0021201229
+418,PT08M38.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,372,0021201229
+419,PT08M35.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,-23,157,16,Made,1,81,85,166,h,Thomas 16' Jump Shot (15 PTS),Made Shot,Jump Shot,0,2,373,0021201229
+420,PT08M13.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,160,154,22,Made,1,81,87,168,v,Crawford 22' Jump Shot (16 PTS),Made Shot,Jump Shot,0,2,374,0021201229
+421,PT08M03.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,18,25,3,Missed,1,0,0,0,h,MISS Thornton 3' Jump Shot,Missed Shot,Jump Shot,0,2,375,0021201229
+422,PT08M03.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,376,0021201229
+423,PT08M03.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson L.B.FOUL (P1.T2),Foul,Loose Ball,0,0,377,0021201229
+424,PT07M53.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson S.FOUL (P2.T3),Foul,Shooting,0,0,378,0021201229
+425,PT07M53.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,81,88,169,v,Hollins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,379,0021201229
+427,PT07M53.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,81,89,170,v,Hollins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,380,0021201229
+429,PT07M28.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,-24,14,3,Made,1,83,89,172,h,Thornton 3' Layup (15 PTS) (Outlaw 2 AST),Made Shot,Layup Shot,0,2,381,0021201229
+430,PT07M09.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,45,19,5,Made,1,83,91,174,v,Barnes 5' Driving Layup (12 PTS) (Crawford 5 AST),Made Shot,Driving Layup Shot,0,2,382,0021201229
+431,PT06M51.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,-70,186,20,Made,1,85,91,176,h,Cousins 20' Jump Shot (24 PTS) (Thomas 7 AST),Made Shot,Jump Shot,0,2,383,0021201229
+432,PT06M35.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-27,170,17,Missed,1,0,0,0,v,MISS Crawford 17' Jump Shot,Missed Shot,Jump Shot,0,2,384,0021201229
+433,PT06M33.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,-10,1,Missed,1,0,0,0,v,MISS Hollins 1' Tip Shot,Missed Shot,Tip Shot,0,2,386,0021201229
+434,PT06M33.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,385,0021201229
+435,PT06M32.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,387,0021201229
+436,PT06M28.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,126,223,26,Made,1,88,91,179,h,Thornton 26' 3PT Jump Shot (18 PTS) (Thomas 8 AST),Made Shot,Jump Shot,0,3,388,0021201229
+437,PT06M08.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,389,0021201229
+438,PT06M08.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,SUB: Paul FOR Hollins,Substitution,,0,0,390,0021201229
+439,PT06M08.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,v,SUB: Jordan FOR Bledsoe,Substitution,,0,0,391,0021201229
+440,PT05M50.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,236,52,24,Missed,1,0,0,0,h,MISS Thornton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,392,0021201229
+441,PT05M49.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,Odom REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,393,0021201229
+442,PT05M31.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,56,26,6,Missed,1,0,0,0,v,MISS Barnes 6' Jump Shot,Missed Shot,Jump Shot,0,2,394,0021201229
+442,PT05M31.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins BLOCK (3 BLK),,,0,2,395,0021201229
+443,PT05M31.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Unknown,0,0,396,0021201229
+444,PT05M31.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,397,0021201229
+445,PT05M31.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,v,SUB: Griffin FOR Odom,Substitution,,0,0,398,0021201229
+447,PT05M28.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,131,40,14,Made,1,88,93,181,v,Crawford 14' Jump Shot (18 PTS) (Paul 9 AST),Made Shot,Jump Shot,0,2,399,0021201229
+448,PT05M08.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,78,96,12,Made,1,90,93,183,h,Cousins 12' Fadeaway Jumper (26 PTS) (Patterson 2 AST),Made Shot,Fadeaway Jump Shot,0,2,400,0021201229
+449,PT04M48.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,-10,1,1,Made,1,90,95,185,v,Jordan 1' Slam Dunk (8 PTS) (Crawford 6 AST),Made Shot,Slam Dunk Shot,0,2,401,0021201229
+450,PT04M24.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,129,85,15,Missed,1,0,0,0,h,MISS Cousins 15' Jump Shot,Missed Shot,Jump Shot,0,2,402,0021201229
+451,PT04M24.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,403,0021201229
+452,PT04M12.00S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0,404,0021201229
+452,PT04M12.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas STEAL (2 STL),,,0,0,405,0021201229
+453,PT04M08.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,92,230,25,Made,1,93,95,188,h,Thornton 25' 3PT Jump Shot (21 PTS) (Thomas 9 AST),Made Shot,Jump Shot,0,3,406,0021201229
+454,PT03M50.00S,4,1610612746,LAC,101108,Paul,C. Paul,37,127,13,Missed,1,0,0,0,v,MISS Paul 13' Jump Shot,Missed Shot,Jump Shot,0,2,407,0021201229
+455,PT03M49.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,408,0021201229
+456,PT03M28.00S,4,1610612758,SAC,202738,Thomas,I. Thomas,4,250,25,Missed,1,0,0,0,h,MISS Thomas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,409,0021201229
+457,PT03M28.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,410,0021201229
+458,PT03M24.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,182,179,26,Missed,1,0,0,0,h,MISS Thornton 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,411,0021201229
+459,PT03M24.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,412,0021201229
+460,PT03M10.00S,4,1610612746,LAC,101108,Paul,C. Paul,9,80,8,Made,1,93,97,190,v,Paul 8' Jump Shot (24 PTS),Made Shot,Jump Shot,0,2,413,0021201229
+461,PT03M10.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson AWAY.FROM.PLAY.FOUL (P3.T4),Foul,Away From Play,0,0,414,0021201229
+462,PT03M10.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,MISS Jordan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,415,0021201229
+464,PT03M08.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:17),Rebound,Unknown,0,0,416,0021201229
+465,PT02M59.00S,4,1610612758,SAC,201977,Thornton,M. Thornton,-130,235,27,Missed,1,0,0,0,h,MISS Thornton 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,417,0021201229
+466,PT02M59.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,418,0021201229
+467,PT02M55.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,-23,7,2,Made,1,95,97,192,h,Cousins 2' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,0,2,419,0021201229
+468,PT02M51.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,0,0,0,,0,0,0,0,h,Patterson Personal Take Foul (P4.PN),Foul,Personal Take,0,0,420,0021201229
+469,PT02M51.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0,421,0021201229
+473,PT02M51.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,422,0021201229
+474,PT02M51.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0,423,0021201229
+475,PT02M51.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,MISS Jordan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,424,0021201229
+477,PT02M50.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins REBOUND (Off:4 Def:18),Rebound,Unknown,0,0,425,0021201229
+479,PT02M31.00S,4,1610612758,SAC,202335,Patterson,P. Patterson,-229,20,0,Made,1,98,97,195,h,Patterson  3PT Jump Shot (5 PTS) (Outlaw 3 AST),Made Shot,Jump Shot,0,3,426,0021201229
+480,PT02M31.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0,427,0021201229
+482,PT02M31.00S,4,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,v,SUB: Hollins FOR Jordan,Substitution,,0,0,428,0021201229
+483,PT02M08.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,136,228,27,Made,1,98,100,198,v,Crawford 27' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,3,429,0021201229
+484,PT01M43.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,28,15,3,Missed,1,0,0,0,h,MISS Cousins 3' Jump Shot,Missed Shot,Jump Shot,0,2,430,0021201229
+485,PT01M42.00S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,431,0021201229
+486,PT01M37.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-221,14,0,Made,1,98,103,201,v,Crawford  3PT Jump Shot (24 PTS) (Paul 10 AST),Made Shot,Jump Shot,0,3,432,0021201229
+487,PT01M22.00S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins P.FOUL (P4.T4),Foul,Personal,0,0,433,0021201229
+488,PT01M22.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,v,SUB: Billups FOR Barnes,Substitution,,0,0,434,0021201229
+489,PT01M17.00S,4,1610612758,SAC,202326,Cousins,D. Cousins,-2,11,1,Made,1,100,103,203,h,Cousins 1' Dunk (30 PTS) (Thomas 10 AST),Made Shot,Dunk Shot,0,2,435,0021201229
+491,PT00M58.80S,4,1610612746,LAC,201933,Griffin,B. Griffin,-15,7,2,Made,1,100,105,205,v,Griffin 2' Dunk (5 PTS) (Paul 11 AST),Made Shot,Dunk Shot,0,2,436,0021201229
+492,PT00M48.70S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins S.FOUL (P5.PN),Foul,Shooting,0,0,437,0021201229
+493,PT00M48.70S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,101,105,206,h,Cousins Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0,438,0021201229
+495,PT00M48.70S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,102,105,207,h,Cousins Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,439,0021201229
+497,PT00M24.90S,4,1610612746,LAC,200797,Hollins,R. Hollins,-128,25,13,Missed,1,0,0,0,v,MISS Hollins 13' Jump Shot,Missed Shot,Jump Shot,0,2,440,0021201229
+498,PT00M23.80S,4,1610612746,LAC,201933,Griffin,B. Griffin,12,3,1,Made,1,102,107,209,v,Griffin 1' Tip Shot (7 PTS),Made Shot,Tip Shot,0,2,442,0021201229
+499,PT00M23.80S,4,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,v,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,441,0021201229
+500,PT00M23.80S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,0,443,0021201229
+502,PT00M23.80S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Barnes FOR Crawford,Substitution,,0,0,444,0021201229
+503,PT00M19.20S,4,1610612758,SAC,202326,Cousins,D. Cousins,6,112,11,Made,1,104,107,211,h,Cousins 11' Jump Shot (34 PTS) (Thornton 3 AST),Made Shot,Jump Shot,0,2,445,0021201229
+504,PT00M15.60S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,Outlaw Personal Take Foul (P2.PN),Foul,Personal Take,0,0,446,0021201229
+505,PT00M15.60S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,104,108,212,v,Billups Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,447,0021201229
+507,PT00M15.60S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,104,109,213,v,Billups Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,448,0021201229
+509,PT00M15.60S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Timeout: Short (Full 5 Short 2),Timeout,Short,0,0,449,0021201229
+512,PT00M12.60S,4,1610612758,SAC,202326,Cousins,D. Cousins,15,9,2,Made,1,106,109,215,h,Cousins 2' Layup (36 PTS) (Outlaw 4 AST),Made Shot,Layup Shot,0,2,450,0021201229
+513,PT00M12.20S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins Personal Take Foul (P4.PN),Foul,Personal Take,0,0,451,0021201229
+514,PT00M12.20S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,106,110,216,v,Billups Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,452,0021201229
+516,PT00M12.20S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,106,111,217,v,Billups Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,453,0021201229
+518,PT00M08.00S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups S.FOUL (P3.PN),Foul,Shooting,0,0,454,0021201229
+519,PT00M08.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,0,0,0,h,MISS Outlaw Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,455,0021201229
+520,PT00M08.00S,4,0,,1610612758,,,0,0,0,,0,0,0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,456,0021201229
+521,PT00M08.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,107,111,218,h,Outlaw Free Throw 2 of 3 (16 PTS),Free Throw,Free Throw 2 of 3,0,0,457,0021201229
+524,PT00M08.00S,4,1610612758,SAC,2566,Outlaw,T. Outlaw,0,0,0,,0,108,111,219,h,Outlaw Free Throw 3 of 3 (17 PTS),Free Throw,Free Throw 3 of 3,0,0,458,0021201229
+526,PT00M07.30S,4,1610612758,SAC,202738,Thomas,I. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P4.PN),Foul,Personal,0,0,459,0021201229
+529,PT00M07.30S,4,1610612758,SAC,202326,Cousins,D. Cousins,0,0,0,,0,0,0,0,h,Cousins T.FOUL (P4.PN),Foul,Technical,0,0,460,0021201229
+530,PT00M07.30S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,v,MISS Paul Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,462,0021201229
+531,PT00M07.30S,4,0,,1610612746,,,0,0,0,,0,0,0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0,463,0021201229
+532,PT00M07.30S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,SUB: Odom FOR Hollins,Substitution,,0,0,464,0021201229
+533,PT00M07.30S,4,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,108,112,220,v,Paul Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,465,0021201229
+534,PT00M07.30S,4,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,v,Hollins T.FOUL (P5.PN),Foul,Technical,0,0,461,0021201229
+536,PT00M00.90S,4,1610612758,SAC,202738,Thomas,I. Thomas,29,183,19,Missed,1,0,0,0,h,MISS Thomas 19' Jump Shot,Missed Shot,Jump Shot,0,2,466,0021201229
+537,PT00M00.70S,4,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,v,Billups REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,467,0021201229
+539,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,112,220, ,End of 4th Period (1:04 AM EST),period,end,0,0,468,0021201229

@@ -1,0 +1,451 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:10 PM EST),period,start,0,0,1,0021201225
+1,PT12M00.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Jump Ball Duncan vs. Stiemsma: Tip to Kirilenko,Jump Ball,,0,0,2,0021201225
+2,PT11M40.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-5,194,19,Missed,1,0,0,0,v,MISS Rubio 19' Jump Shot,Missed Shot,Jump Shot,0,2,3,0021201225
+3,PT11M39.00S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,4,0021201225
+4,PT11M28.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,-136,123,18,Made,1,2,0,2,h,Bonner 18' Jump Shot (2 PTS) (Parker 1 AST),Made Shot,Jump Shot,0,2,5,0021201225
+5,PT11M13.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,6,0021201225
+5,PT11M13.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,Parker STEAL (1 STL),,,0,0,7,0021201225
+6,PT11M07.00S,1,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0,0,0,h,Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,8,0021201225
+6,PT11M07.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio STEAL (1 STL),,,0,0,9,0021201225
+7,PT11M02.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,-16,244,24,Missed,1,0,0,0,v,MISS Ridnour 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,10,0021201225
+8,PT10M58.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,11,0021201225
+9,PT10M56.00S,1,1610612750,MIN,202682,Williams,D. Williams,241,20,24,Made,1,2,3,5,v,Williams 24' 3PT Jump Shot (3 PTS) (Kirilenko 1 AST),Made Shot,Jump Shot,0,3,12,0021201225
+10,PT10M40.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-172,89,19,Missed,1,0,0,0,h,MISS Duncan 19' Jump Shot,Missed Shot,Jump Shot,0,2,13,0021201225
+11,PT10M39.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,14,0021201225
+12,PT10M31.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,163,52,17,Made,1,2,5,7,v,Ridnour 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,15,0021201225
+13,PT10M09.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,4,20,2,Missed,1,0,0,0,h,MISS Duncan 2' Layup,Missed Shot,Layup Shot,0,2,16,0021201225
+14,PT10M08.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,17,0021201225
+15,PT10M04.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard P.FOUL (P1.T1),Foul,Personal,0,0,18,0021201225
+16,PT10M00.00S,1,1610612750,MIN,202682,Williams,D. Williams,215,4,22,Missed,1,0,0,0,v,MISS Williams 22' Jump Shot,Missed Shot,Jump Shot,0,2,19,0021201225
+17,PT09M58.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,20,0021201225
+18,PT09M54.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour S.FOUL (P1.T1),Foul,Shooting,0,0,21,0021201225
+19,PT09M54.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,3,5,8,h,Parker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,22,0021201225
+21,PT09M54.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,4,5,9,h,Parker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,23,0021201225
+23,PT09M41.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,-163,34,17,Missed,1,0,0,0,v,MISS Kirilenko 17' Jump Shot,Missed Shot,Jump Shot,0,2,24,0021201225
+24,PT09M40.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,25,0021201225
+25,PT09M38.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,26,0021201225
+25,PT09M38.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma STEAL (1 STL),,,0,0,27,0021201225
+26,PT09M32.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-119,216,25,Made,1,4,8,12,v,Rubio 25' 3PT Jump Shot (3 PTS) (Ridnour 1 AST),Made Shot,Jump Shot,0,3,28,0021201225
+27,PT09M30.00S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,29,0021201225
+29,PT09M13.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,30,0021201225
+29,PT09M13.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma STEAL (2 STL),,,0,0,31,0021201225
+30,PT09M07.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,159,0,16,Missed,1,0,0,0,v,MISS Ridnour 16' Jump Shot,Missed Shot,Jump Shot,0,2,32,0021201225
+31,PT09M03.00S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,33,0021201225
+32,PT09M02.00S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Timeout: Short (Full 1 Short 1),Timeout,Short,0,0,34,0021201225
+33,PT08M53.00S,1,1610612759,SAS,2225,Parker,T. Parker,-92,157,18,Missed,1,0,0,0,h,MISS Parker 18' Jump Shot,Missed Shot,Jump Shot,0,2,35,0021201225
+34,PT08M50.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,36,0021201225
+35,PT08M31.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-166,178,24,Made,1,4,11,15,v,Rubio 24' 3PT Jump Shot (6 PTS) (Ridnour 2 AST),Made Shot,Jump Shot,0,3,37,0021201225
+36,PT08M14.00S,1,1610612759,SAS,201980,Green,D. Green,193,148,24,Missed,1,0,0,0,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,38,0021201225
+37,PT08M13.00S,1,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,39,0021201225
+38,PT07M56.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-89,36,10,Missed,1,0,0,0,v,MISS Rubio 10' Jump Shot,Missed Shot,Jump Shot,0,2,40,0021201225
+39,PT07M55.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,41,0021201225
+40,PT07M50.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,-11,1,Missed,1,0,0,0,h,MISS Leonard 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,42,0021201225
+41,PT07M49.00S,1,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,43,0021201225
+42,PT07M38.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,Parker P.FOUL (P1.T2),Foul,Personal,0,0,44,0021201225
+43,PT07M38.00S,1,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0,0,0,h,SUB: Neal FOR Green,Substitution,,0,0,45,0021201225
+44,PT07M29.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-112,227,25,Missed,1,0,0,0,v,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,46,0021201225
+45,PT07M27.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,47,0021201225
+46,PT07M19.00S,1,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P1.T2),Foul,Shooting,0,0,48,0021201225
+47,PT07M19.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,5,11,16,h,Duncan Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,49,0021201225
+49,PT07M19.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,6,11,17,h,Duncan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,50,0021201225
+51,PT07M11.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,-4,15,2,Made,1,6,13,19,v,Kirilenko 2' Layup (2 PTS) (Ridnour 3 AST),Made Shot,Layup Shot,0,2,51,0021201225
+52,PT07M11.00S,1,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal S.FOUL (P1.T3),Foul,Shooting,0,0,52,0021201225
+53,PT07M11.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,6,14,20,v,Kirilenko Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,53,0021201225
+56,PT06M56.00S,1,1610612759,SAS,202390,Neal,G. Neal,-234,86,25,Made,1,9,14,23,h,Neal 25' 3PT Jump Shot (3 PTS) (Parker 2 AST),Made Shot,Jump Shot,0,3,54,0021201225
+57,PT06M42.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,-16,187,19,Made,1,9,16,25,v,Ridnour 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,2,55,0021201225
+58,PT06M26.00S,1,1610612759,SAS,2225,Parker,T. Parker,6,89,9,Missed,1,0,0,0,h,MISS Parker 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,56,0021201225
+59,PT06M24.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,1,7,1,Made,1,11,16,27,h,Duncan 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,2,58,0021201225
+60,PT06M24.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,57,0021201225
+61,PT06M08.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,11,1,Made,1,11,18,29,v,Stiemsma 1' Dunk (2 PTS) (Ridnour 4 AST),Made Shot,Dunk Shot,0,2,59,0021201225
+62,PT05M54.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,59,184,19,Missed,1,0,0,0,h,MISS Leonard 19' Jump Shot,Missed Shot,Jump Shot,0,2,60,0021201225
+63,PT05M52.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,61,0021201225
+64,PT05M48.00S,1,1610612750,MIN,202682,Williams,D. Williams,0,7,1,Made,1,11,20,31,v,Williams 1' Alley Oop Layup (5 PTS) (Rubio 1 AST),Made Shot,Alley Oop Layup shot,0,2,62,0021201225
+65,PT05M32.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma S.FOUL (P1.T3),Foul,Shooting,0,0,63,0021201225
+66,PT05M32.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,12,20,32,h,Duncan Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,64,0021201225
+68,PT05M32.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,SUB: Ginobili FOR Leonard,Substitution,,0,0,65,0021201225
+69,PT05M32.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,SUB: Blair FOR Bonner,Substitution,,0,0,66,0021201225
+70,PT05M32.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,13,20,33,h,Duncan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,67,0021201225
+72,PT05M15.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,-133,101,17,Missed,1,0,0,0,v,MISS Ridnour 17' Jump Shot,Missed Shot,Jump Shot,0,2,68,0021201225
+73,PT05M13.00S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,69,0021201225
+74,PT05M07.00S,1,1610612759,SAS,202390,Neal,G. Neal,-240,63,25,Made,1,16,20,36,h,Neal 25' 3PT Jump Shot (6 PTS) (Ginobili 1 AST),Made Shot,Jump Shot,0,3,70,0021201225
+75,PT04M37.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-157,187,24,Missed,1,0,0,0,v,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,71,0021201225
+76,PT04M35.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,72,0021201225
+77,PT04M27.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,141,132,19,Made,1,16,22,38,v,Rubio 19' Jump Shot (8 PTS),Made Shot,Jump Shot,0,2,73,0021201225
+78,PT04M13.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour S.FOUL (P2.T4),Foul,Shooting,0,0,74,0021201225
+79,PT04M13.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,17,22,39,h,Parker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,75,0021201225
+81,PT04M13.00S,1,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,SUB: Barea FOR Ridnour,Substitution,,0,0,76,0021201225
+82,PT04M13.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,18,22,40,h,Parker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,77,0021201225
+84,PT03M56.00S,1,1610612750,MIN,202682,Williams,D. Williams,-76,151,17,Made,1,18,24,42,v,Williams 17' Jump Shot (7 PTS) (Kirilenko 2 AST),Made Shot,Jump Shot,0,2,78,0021201225
+85,PT03M40.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,75,8,Missed,1,0,0,0,h,MISS Duncan 8' Jump Shot,Missed Shot,Jump Shot,0,2,79,0021201225
+86,PT03M38.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,80,0021201225
+87,PT03M30.00S,1,1610612750,MIN,200826,Barea,J. Barea,-2,0,0,Missed,1,0,0,0,v,MISS Barea  Layup,Missed Shot,Layup Shot,0,2,81,0021201225
+88,PT03M29.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,82,0021201225
+89,PT03M22.00S,1,1610612759,SAS,2225,Parker,T. Parker,146,23,15,Missed,1,0,0,0,h,MISS Parker 15' Jump Shot,Missed Shot,Jump Shot,0,2,83,0021201225
+90,PT03M18.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,84,0021201225
+91,PT03M02.00S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,-117,116,16,Missed,1,0,0,0,v,MISS Stiemsma 16' Jump Shot,Missed Shot,Jump Shot,0,2,85,0021201225
+92,PT03M01.00S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,86,0021201225
+93,PT02M56.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio S.FOUL (P1.PN),Foul,Shooting,0,0,87,0021201225
+94,PT02M56.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88,0021201225
+96,PT02M56.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,SUB: Joseph FOR Parker,Substitution,,0,0,89,0021201225
+97,PT02M56.00S,1,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,SUB: Budinger FOR Kirilenko,Substitution,,0,0,90,0021201225
+98,PT02M56.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,19,24,43,h,Duncan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,91,0021201225
+100,PT02M56.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,20,24,44,h,Duncan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,92,0021201225
+102,PT02M39.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,228,1,0,Missed,1,0,0,0,v,MISS Budinger  3PT Jump Shot,Missed Shot,Jump Shot,0,3,93,0021201225
+103,PT02M38.00S,1,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,94,0021201225
+104,PT02M24.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,-213,132,25,Missed,1,0,0,0,h,MISS Ginobili 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,95,0021201225
+105,PT02M22.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,96,0021201225
+106,PT02M17.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-11,6,1,Missed,1,0,0,0,v,MISS Rubio 1' Layup,Missed Shot,Layup Shot,0,2,97,0021201225
+106,PT02M17.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan BLOCK (1 BLK),,,0,2,98,0021201225
+107,PT02M14.00S,1,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,Joseph REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,99,0021201225
+108,PT02M05.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,4,67,7,Made,1,22,24,46,h,Duncan 7' Jump Shot (10 PTS),Made Shot,Jump Shot,0,2,100,0021201225
+109,PT01M34.00S,1,1610612750,MIN,200826,Barea,J. Barea,-32,64,7,Missed,1,0,0,0,v,MISS Barea 7' Jump Shot,Missed Shot,Jump Shot,0,2,101,0021201225
+110,PT01M32.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,102,0021201225
+111,PT01M29.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-7,14,2,Made,1,24,24,48,h,Duncan 2' Finger Roll Layup (12 PTS) (Joseph 1 AST),Made Shot,Finger Roll Layup Shot,0,2,103,0021201225
+112,PT01M08.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-139,211,25,Made,1,24,27,51,v,Rubio 25' 3PT Jump Shot (11 PTS) (Budinger 1 AST),Made Shot,Jump Shot,0,3,104,0021201225
+113,PT00M52.90S,1,1610612759,SAS,202390,Neal,G. Neal,-231,-13,0,Missed,1,0,0,0,h,MISS Neal  3PT Jump Shot,Missed Shot,Jump Shot,0,3,105,0021201225
+114,PT00M50.90S,1,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,106,0021201225
+115,PT00M43.90S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,107,0021201225
+115,PT00M43.90S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair STEAL (1 STL),,,0,0,108,0021201225
+116,PT00M37.90S,1,1610612759,SAS,201971,Blair,D. Blair,0,-3,0,Missed,1,0,0,0,h,MISS Blair  Layup,Missed Shot,Layup Shot,0,2,109,0021201225
+117,PT00M35.90S,1,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,110,0021201225
+118,PT00M31.90S,1,1610612750,MIN,200826,Barea,J. Barea,135,206,25,Missed,1,0,0,0,v,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,111,0021201225
+119,PT00M30.10S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,112,0021201225
+120,PT00M30.10S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,SUB: Shved FOR Rubio,Substitution,,0,0,113,0021201225
+121,PT00M30.10S,1,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Cunningham FOR Williams,Substitution,,0,0,114,0021201225
+122,PT00M09.90S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,-2,0,Missed,1,0,0,0,h,MISS Ginobili  Layup,Missed Shot,Layup Shot,0,2,115,0021201225
+123,PT00M07.90S,1,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,116,0021201225
+124,PT00M01.90S,1,1610612750,MIN,201978,Budinger,C. Budinger,-231,4,0,Made,1,24,30,54,v,Budinger  3PT Jump Shot (3 PTS) (Shved 1 AST),Made Shot,Jump Shot,0,3,117,0021201225
+125,PT00M00.20S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,165,455,48,Missed,1,0,0,0,h,MISS Ginobili 48' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,118,0021201225
+126,PT00M00.00S,1,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,119,0021201225
+127,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,30,54, ,End of 1st Period (8:33 PM EST),period,end,0,0,120,0021201225
+129,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,30,54, ,Start of 2nd Period (8:35 PM EST),period,start,0,0,121,0021201225
+130,PT11M40.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,-10,41,4,Made,1,26,30,56,h,Baynes 4' Hook Shot (2 PTS),Made Shot,Hook Shot,0,2,122,0021201225
+131,PT11M20.00S,2,1610612750,MIN,200826,Barea,J. Barea,231,-3,0,Missed,1,0,0,0,v,MISS Barea  3PT Jump Shot,Missed Shot,Jump Shot,0,3,123,0021201225
+132,PT11M18.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,124,0021201225
+133,PT11M16.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,61,36,7,Missed,1,0,0,0,v,MISS Budinger 7' Jump Shot,Missed Shot,Jump Shot,0,2,125,0021201225
+133,PT11M16.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair BLOCK (1 BLK),,,0,2,126,0021201225
+134,PT11M13.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,127,0021201225
+135,PT11M08.00S,2,1610612759,SAS,202390,Neal,G. Neal,-75,37,8,Made,1,28,30,58,h,Neal 8' Running Jump Shot (8 PTS) (Green 1 AST),Made Shot,Running Jump Shot,0,2,128,0021201225
+136,PT10M57.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,2,1,0,Made,1,28,32,60,v,Johnson  Reverse Dunk (2 PTS),Made Shot,Reverse Dunk Shot,0,2,129,0021201225
+137,PT10M43.00S,2,1610612759,SAS,202390,Neal,G. Neal,75,127,15,Made,1,30,32,62,h,Neal 15' Jump Shot (10 PTS),Made Shot,Jump Shot,0,2,130,0021201225
+138,PT10M23.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,1,176,18,Made,1,30,34,64,v,Cunningham 18' Jump Shot (2 PTS) (Shved 2 AST),Made Shot,Jump Shot,0,2,131,0021201225
+140,PT10M09.00S,2,1610612759,SAS,202709,Joseph,C. Joseph,189,30,19,Missed,1,0,0,0,h,MISS Joseph 19' Jump Shot,Missed Shot,Jump Shot,0,2,132,0021201225
+141,PT10M07.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,133,0021201225
+142,PT09M58.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,241,3,24,Missed,1,0,0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,134,0021201225
+143,PT09M58.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,135,0021201225
+144,PT09M58.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair L.B.FOUL (P1.T1),Foul,Loose Ball,0,0,136,0021201225
+145,PT09M47.00S,2,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,137,0021201225
+145,PT09M47.00S,2,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0,0,0,h,Green STEAL (1 STL),,,0,0,138,0021201225
+146,PT09M44.00S,2,1610612759,SAS,202709,Joseph,C. Joseph,1,-2,0,Made,1,32,34,66,h,Joseph  Layup (2 PTS),Made Shot,Layup Shot,0,2,139,0021201225
+147,PT09M29.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SPURS T.Foul (Def. 3 Sec Baynes ),Foul,Defense 3 Second,0,0,140,0021201225
+148,PT09M29.00S,2,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,32,35,67,v,Barea Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,141,0021201225
+150,PT09M22.00S,2,1610612750,MIN,203144,Shved,A. Shved,-108,222,25,Made,1,32,38,70,v,Shved 25' 3PT Jump Shot (3 PTS) (Barea 1 AST),Made Shot,Jump Shot,0,3,142,0021201225
+151,PT09M14.00S,2,1610612759,SAS,202390,Neal,G. Neal,160,194,25,Missed,1,0,0,0,h,MISS Neal 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,143,0021201225
+152,PT09M11.00S,2,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,Joseph REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,144,0021201225
+153,PT08M55.00S,2,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,Shved S.FOUL (P1.T1),Foul,Shooting,0,0,145,0021201225
+154,PT08M55.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,146,0021201225
+156,PT08M55.00S,2,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,33,38,71,h,Neal Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,147,0021201225
+158,PT08M55.00S,2,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,34,38,72,h,Neal Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,148,0021201225
+160,PT08M41.00S,2,1610612750,MIN,200826,Barea,J. Barea,-223,-2,0,Missed,1,0,0,0,v,MISS Barea  3PT Jump Shot,Missed Shot,Jump Shot,0,3,149,0021201225
+161,PT08M39.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,150,0021201225
+162,PT08M34.00S,2,1610612759,SAS,201980,Green,D. Green,204,148,25,Missed,1,0,0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,151,0021201225
+163,PT08M33.00S,2,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,Shved REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,152,0021201225
+164,PT08M15.00S,2,1610612750,MIN,200826,Barea,J. Barea,15,0,2,Made,1,34,40,74,v,Barea 2' Layup (3 PTS),Made Shot,Layup Shot,0,2,153,0021201225
+165,PT07M59.00S,2,1610612759,SAS,202390,Neal,G. Neal,140,209,25,Missed,1,0,0,0,h,MISS Neal 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,154,0021201225
+166,PT07M57.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,155,0021201225
+167,PT07M53.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham OFF.Foul (P1),Foul,Offensive,0,0,156,0021201225
+168,PT07M53.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham Foul Turnover (P1.T4),Turnover,Foul,0,0,157,0021201225
+169,PT07M53.00S,2,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,SUB: Parker FOR Joseph,Substitution,,0,0,158,0021201225
+170,PT07M53.00S,2,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,SUB: Leonard FOR Neal,Substitution,,0,0,159,0021201225
+171,PT07M43.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson S.FOUL (P1.T2),Foul,Shooting,0,0,160,0021201225
+172,PT07M43.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,35,40,75,h,Baynes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,161,0021201225
+174,PT07M43.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,36,40,76,h,Baynes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,162,0021201225
+176,PT07M31.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,163,0021201225
+177,PT07M10.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,6,1,Made,1,38,40,78,h,Leonard 1' Driving Dunk (2 PTS) (Green 2 AST),Made Shot,Driving Dunk Shot,0,2,164,0021201225
+178,PT07M02.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes Personal Block Foul (P1.T2),Foul,Personal Block,0,0,165,0021201225
+179,PT06M58.00S,2,1610612750,MIN,203144,Shved,A. Shved,-114,137,18,Missed,1,0,0,0,v,MISS Shved 18' Jump Shot,Missed Shot,Jump Shot,0,2,166,0021201225
+180,PT06M55.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,-4,17,2,Made,1,38,42,80,v,Johnson 2' Layup (4 PTS),Made Shot,Layup Shot,0,2,168,0021201225
+181,PT06M56.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,167,0021201225
+182,PT06M42.00S,2,1610612759,SAS,2225,Parker,T. Parker,10,-5,1,Missed,1,0,0,0,h,MISS Parker 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,169,0021201225
+183,PT06M41.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,170,0021201225
+184,PT06M32.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,-136,44,14,Missed,1,0,0,0,v,MISS Johnson 14' Jump Shot,Missed Shot,Jump Shot,0,2,171,0021201225
+185,PT06M31.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,172,0021201225
+187,PT06M16.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,-11,53,5,Missed,1,0,0,0,h,MISS Baynes 5' Jump Shot,Missed Shot,Jump Shot,0,2,173,0021201225
+188,PT06M15.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,174,0021201225
+189,PT06M14.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,175,0021201225
+190,PT06M14.00S,2,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0,0,0,h,SUB: Ginobili FOR Green,Substitution,,0,0,176,0021201225
+191,PT06M14.00S,2,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SUB: Bonner FOR Baynes,Substitution,,0,0,177,0021201225
+192,PT06M14.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,SUB: Duncan FOR Blair,Substitution,,0,0,178,0021201225
+193,PT05M53.00S,2,1610612750,MIN,200826,Barea,J. Barea,-139,30,14,Made,1,38,44,82,v,Barea 14' Running Jump Shot (5 PTS) (Shved 3 AST),Made Shot,Running Jump Shot,0,2,179,0021201225
+194,PT05M35.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,6,0,1,Made,1,40,44,84,h,Ginobili 1' Layup (2 PTS) (Parker 3 AST),Made Shot,Layup Shot,0,2,180,0021201225
+195,PT05M22.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,1,165,17,Missed,1,0,0,0,v,MISS Cunningham 17' Jump Shot,Missed Shot,Jump Shot,0,2,181,0021201225
+196,PT05M21.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,182,0021201225
+197,PT05M14.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0,0,0,h,Ginobili Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,183,0021201225
+197,PT05M14.00S,2,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,Shved STEAL (1 STL),,,0,0,184,0021201225
+198,PT05M08.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,-32,1,3,Made,1,40,46,86,v,Budinger 3' Alley Oop Layup (5 PTS) (Barea 2 AST),Made Shot,Alley Oop Layup shot,0,2,185,0021201225
+199,PT04M52.00S,2,1610612759,SAS,2225,Parker,T. Parker,110,153,19,Missed,1,0,0,0,h,MISS Parker 19' Jump Shot,Missed Shot,Jump Shot,0,2,186,0021201225
+200,PT04M50.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,187,0021201225
+201,PT04M42.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,233,-2,0,Missed,1,0,0,0,h,MISS Leonard  3PT Jump Shot,Missed Shot,Jump Shot,0,3,188,0021201225
+202,PT04M41.00S,2,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,189,0021201225
+203,PT04M41.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,190,0021201225
+204,PT04M41.00S,2,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,0,191,0021201225
+206,PT04M34.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,29,55,6,Made,1,42,46,88,h,Bonner 6' Running Jump Shot (4 PTS) (Parker 4 AST),Made Shot,Running Jump Shot,0,2,192,0021201225
+207,PT04M16.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,-78,167,18,Missed,1,0,0,0,v,MISS Cunningham 18' Jump Shot,Missed Shot,Jump Shot,0,2,193,0021201225
+208,PT04M14.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,194,0021201225
+209,PT04M11.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,4,0,Made,1,44,46,90,h,Duncan  Layup (14 PTS) (Ginobili 2 AST),Made Shot,Layup Shot,0,2,195,0021201225
+210,PT04M11.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson S.FOUL (P2.T4),Foul,Shooting,0,0,196,0021201225
+211,PT04M11.00S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,SUB: Stiemsma FOR Johnson,Substitution,,0,0,197,0021201225
+212,PT04M11.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,45,46,91,h,Duncan Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,198,0021201225
+214,PT03M58.00S,2,1610612750,MIN,200826,Barea,J. Barea,192,179,26,Missed,1,0,0,0,v,MISS Barea 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,199,0021201225
+215,PT03M56.00S,2,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,200,0021201225
+216,PT03M56.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,SUB: Gelabale FOR Budinger,Substitution,,0,0,201,0021201225
+217,PT03M42.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,146,203,25,Made,1,48,46,94,h,Bonner 25' 3PT Jump Shot (7 PTS) (Parker 5 AST),Made Shot,Jump Shot,0,3,202,0021201225
+218,PT03M28.00S,2,1610612750,MIN,101153,Gelabale,M. Gelabale,0,0,0,,0,0,0,0,v,Gelabale Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,203,0021201225
+218,PT03M28.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard STEAL (1 STL),,,0,0,204,0021201225
+219,PT03M23.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,-2,1,0,Made,1,50,46,96,h,Leonard  Dunk (4 PTS) (Parker 6 AST),Made Shot,Dunk Shot,0,2,205,0021201225
+220,PT03M12.00S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206,0021201225
+222,PT03M12.00S,2,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,SUB: Ridnour FOR Barea,Substitution,,0,0,207,0021201225
+223,PT03M12.00S,2,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,SUB: Williams FOR Shved,Substitution,,0,0,208,0021201225
+224,PT03M12.00S,2,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,SUB: Rubio FOR Cunningham,Substitution,,0,0,209,0021201225
+225,PT02M57.00S,2,1610612750,MIN,202682,Williams,D. Williams,-134,31,14,Missed,1,0,0,0,v,MISS Williams 14' Jump Shot,Missed Shot,Jump Shot,0,2,210,0021201225
+226,PT02M55.00S,2,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,211,0021201225
+227,PT02M45.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,-5,6,1,Missed,1,0,0,0,v,MISS Rubio 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,212,0021201225
+228,PT02M43.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0,0,0,h,Ginobili REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,213,0021201225
+229,PT02M37.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,Parker Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,214,0021201225
+229,PT02M37.00S,2,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,0,0,215,0021201225
+230,PT02M35.00S,2,1610612750,MIN,202682,Williams,D. Williams,-7,6,1,Made,1,50,48,98,v,Williams 1' Layup (9 PTS),Made Shot,Layup Shot,0,2,216,0021201225
+231,PT02M35.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner S.FOUL (P1.T4),Foul,Shooting,0,0,217,0021201225
+232,PT02M35.00S,2,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,50,49,99,v,Williams Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,218,0021201225
+234,PT02M26.00S,2,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma P.FOUL (P2.PN),Foul,Personal,0,0,219,0021201225
+235,PT02M26.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,51,49,100,h,Parker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,220,0021201225
+237,PT02M26.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,52,49,101,h,Parker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,221,0021201225
+239,PT02M16.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard P.FOUL (P2.PN),Foul,Personal,0,0,222,0021201225
+240,PT02M16.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,52,50,102,v,Rubio Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,223,0021201225
+242,PT02M16.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,MISS Rubio Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,224,0021201225
+244,PT02M15.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,225,0021201225
+245,PT02M03.00S,2,1610612759,SAS,2225,Parker,T. Parker,-4,110,11,Made,1,54,50,104,h,Parker 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,2,226,0021201225
+246,PT01M45.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner S.FOUL (P2.PN),Foul,Shooting,0,0,227,0021201225
+247,PT01M45.00S,2,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,54,51,105,v,Williams Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,228,0021201225
+249,PT01M45.00S,2,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,54,52,106,v,Williams Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,229,0021201225
+251,PT01M28.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,-45,183,19,Missed,1,0,0,0,h,MISS Duncan 19' Jump Shot,Missed Shot,Jump Shot,0,2,230,0021201225
+252,PT01M26.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,231,0021201225
+253,PT01M20.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,232,0021201225
+253,PT01M20.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard STEAL (2 STL),,,0,0,233,0021201225
+254,PT01M17.00S,2,1610612759,SAS,2225,Parker,T. Parker,-7,0,1,Made,1,56,52,108,h,Parker 1' Layup (10 PTS) (Leonard 1 AST),Made Shot,Layup Shot,0,2,234,0021201225
+255,PT01M17.00S,2,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma S.FOUL (P3.PN),Foul,Shooting,0,0,235,0021201225
+256,PT01M17.00S,2,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,SUB: Johnson FOR Stiemsma,Substitution,,0,0,236,0021201225
+257,PT01M17.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,57,52,109,h,Parker Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,237,0021201225
+259,PT01M04.00S,2,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,238,0021201225
+260,PT00M56.90S,2,1610612759,SAS,2225,Parker,T. Parker,119,108,16,Made,1,59,52,111,h,Parker 16' Jump Shot (13 PTS),Made Shot,Jump Shot,0,2,239,0021201225
+261,PT00M39.90S,2,1610612750,MIN,101153,Gelabale,M. Gelabale,237,9,24,Made,1,59,55,114,v,Gelabale 24' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,3,240,0021201225
+262,PT00M29.80S,2,1610612759,SAS,2225,Parker,T. Parker,-141,93,17,Missed,1,0,0,0,h,MISS Parker 17' Jump Shot,Missed Shot,Jump Shot,0,2,241,0021201225
+263,PT00M27.80S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,242,0021201225
+264,PT00M27.30S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0,0,0,h,Ginobili P.FOUL (P1.PN),Foul,Personal,0,0,243,0021201225
+265,PT00M27.30S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,0,0,0,v,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,244,0021201225
+267,PT00M27.30S,2,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,245,0021201225
+268,PT00M27.30S,2,1610612750,MIN,202419,Johnson,C. Johnson,0,0,0,,0,59,56,115,v,Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,246,0021201225
+270,PT00M11.90S,2,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour Personal Block Foul (P3.PN),Foul,Personal Block,0,0,247,0021201225
+271,PT00M11.90S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,60,56,116,h,Parker Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,248,0021201225
+273,PT00M11.90S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,61,56,117,h,Parker Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,249,0021201225
+275,PT00M01.30S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,250,0021201225
+276,PT00M00.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0,0,0,h,Ginobili Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,251,0021201225
+276,PT00M00.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio STEAL (2 STL),,,0,0,252,0021201225
+277,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,56,117, ,End of 2nd Period (9:05 PM EST),period,end,0,0,253,0021201225
+279,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,56,117, ,Start of 3rd Period (9:20 PM EST),period,start,0,0,254,0021201225
+280,PT11M44.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,Parker Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,255,0021201225
+280,PT11M44.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma STEAL (3 STL),,,0,0,256,0021201225
+282,PT11M23.00S,3,0,,283,Hunter,L. Hunter,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,258,0021201225
+283,PT11M23.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner S.FOUL (P3.T1),Foul,Shooting,0,0,257,0021201225
+284,PT11M23.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,61,57,118,v,Williams Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,0,0,259,0021201225
+286,PT11M23.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,MISS Williams Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,260,0021201225
+287,PT11M23.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,261,0021201225
+288,PT11M23.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,61,58,119,v,Williams Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0,262,0021201225
+290,PT11M04.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,-191,66,20,Missed,1,0,0,0,h,MISS Leonard 20' Jump Shot,Missed Shot,Jump Shot,0,2,263,0021201225
+291,PT11M03.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,264,0021201225
+292,PT10M54.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,80,137,16,Made,1,61,60,121,v,Stiemsma 16' Jump Shot (4 PTS) (Rubio 2 AST),Made Shot,Jump Shot,0,2,265,0021201225
+293,PT10M35.00S,3,1610612759,SAS,201980,Green,D. Green,64,246,25,Missed,1,0,0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,266,0021201225
+294,PT10M34.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,267,0021201225
+295,PT10M20.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,-127,143,19,Made,1,61,62,123,v,Stiemsma 19' Jump Shot (6 PTS) (Ridnour 5 AST),Made Shot,Jump Shot,0,2,268,0021201225
+296,PT10M01.00S,3,1610612759,SAS,201980,Green,D. Green,18,0,2,Made,1,63,62,125,h,Green 2' Reverse Layup (2 PTS) (Duncan 1 AST),Made Shot,Reverse Layup Shot,0,2,269,0021201225
+297,PT09M45.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,102,53,11,Missed,1,0,0,0,v,MISS Kirilenko 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,270,0021201225
+298,PT09M44.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,271,0021201225
+299,PT09M31.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,272,0021201225
+299,PT09M31.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko STEAL (1 STL),,,0,0,273,0021201225
+300,PT09M18.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,-48,250,25,Made,1,63,65,128,v,Ridnour 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,3,274,0021201225
+301,PT09M08.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams P.FOUL (P2.T1),Foul,Personal,0,0,275,0021201225
+302,PT09M00.00S,3,1610612759,SAS,201980,Green,D. Green,-130,143,19,Made,1,65,65,130,h,Green 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,2,276,0021201225
+303,PT08M40.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio Step Out of Bounds Turnover (P4.T10),Turnover,Step Out of Bounds Turnover,0,0,277,0021201225
+304,PT08M25.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,2,0,0,Made,1,67,65,132,h,Duncan  Dunk (17 PTS) (Parker 7 AST),Made Shot,Dunk Shot,0,2,278,0021201225
+305,PT08M07.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,-125,153,20,Made,1,67,67,134,v,Ridnour 20' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,279,0021201225
+306,PT07M54.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,-21,15,3,Missed,1,0,0,0,h,MISS Bonner 3' Layup,Missed Shot,Layup Shot,0,2,280,0021201225
+306,PT07M54.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma BLOCK (1 BLK),,,0,2,281,0021201225
+307,PT07M52.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,282,0021201225
+308,PT07M43.00S,3,1610612750,MIN,202682,Williams,D. Williams,-157,-2,16,Missed,1,0,0,0,v,MISS Williams 16' Jump Shot,Missed Shot,Jump Shot,0,2,283,0021201225
+309,PT07M42.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,284,0021201225
+310,PT07M18.00S,3,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,285,0021201225
+311,PT07M06.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams Traveling Turnover (P1.T11),Turnover,Traveling,0,0,286,0021201225
+312,PT06M57.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,287,0021201225
+312,PT06M57.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma STEAL (4 STL),,,0,0,288,0021201225
+313,PT06M51.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,56,250,26,Missed,1,0,0,0,v,MISS Ridnour 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,289,0021201225
+314,PT06M50.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,-4,-3,1,Made,1,67,69,136,v,Kirilenko 1' Tip Shot (5 PTS),Made Shot,Tip Shot,0,2,291,0021201225
+315,PT06M50.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,290,0021201225
+316,PT06M31.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-134,56,15,Missed,1,0,0,0,h,MISS Duncan 15' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,0,2,292,0021201225
+317,PT06M30.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,Ridnour REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,293,0021201225
+318,PT06M24.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,160,121,20,Missed,1,0,0,0,v,MISS Kirilenko 20' Jump Shot,Missed Shot,Jump Shot,0,2,294,0021201225
+319,PT06M23.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,295,0021201225
+320,PT06M18.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,296,0021201225
+320,PT06M18.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko STEAL (2 STL),,,0,0,297,0021201225
+321,PT06M15.00S,3,1610612750,MIN,202682,Williams,D. Williams,2,0,0,Made,1,67,71,138,v,Williams  Dunk (16 PTS) (Kirilenko 3 AST),Made Shot,Dunk Shot,0,2,298,0021201225
+322,PT06M15.00S,3,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0,299,0021201225
+324,PT06M15.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,SUB: Blair FOR Bonner,Substitution,,0,0,300,0021201225
+326,PT05M58.00S,3,1610612759,SAS,201971,Blair,D. Blair,7,0,1,Made,1,69,71,140,h,Blair 1' Layup (2 PTS) (Duncan 2 AST),Made Shot,Layup Shot,0,2,302,0021201225
+327,PT05M40.00S,3,1610612750,MIN,202682,Williams,D. Williams,176,110,21,Missed,1,0,0,0,v,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,0,2,303,0021201225
+328,PT05M39.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,304,0021201225
+329,PT05M22.00S,3,1610612759,SAS,201971,Blair,D. Blair,-13,-2,1,Made,1,71,71,142,h,Blair 1' Layup (4 PTS) (Duncan 3 AST),Made Shot,Layup Shot,0,2,305,0021201225
+330,PT06M15.00S,3,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0,0,0,h,SUB: Neal FOR Green,Substitution,,0,0,301,0021201225
+331,PT04M59.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,-52,11,5,Missed,1,0,0,0,v,MISS Ridnour 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,306,0021201225
+332,PT04M58.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,307,0021201225
+333,PT04M52.00S,3,1610612759,SAS,2225,Parker,T. Parker,94,102,14,Missed,1,0,0,0,h,MISS Parker 14' Jump Shot,Missed Shot,Jump Shot,0,2,308,0021201225
+334,PT04M51.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,309,0021201225
+336,PT04M31.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,157,94,18,Made,1,71,73,144,v,Stiemsma 18' Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,2,310,0021201225
+337,PT04M18.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan Lost Ball Turnover (P5.T12),Turnover,Lost Ball,0,0,311,0021201225
+337,PT04M18.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma STEAL (5 STL),,,0,0,312,0021201225
+338,PT04M17.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan P.FOUL (P1.T2),Foul,Personal,0,0,313,0021201225
+339,PT03M59.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,149,129,20,Made,1,71,75,146,v,Stiemsma 20' Jump Shot (10 PTS) (Ridnour 6 AST),Made Shot,Jump Shot,0,2,314,0021201225
+340,PT03M39.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-108,142,18,Missed,1,0,0,0,h,MISS Duncan 18' Jump Shot,Missed Shot,Jump Shot,0,2,315,0021201225
+341,PT03M38.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,316,0021201225
+342,PT03M35.00S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,21,7,2,Missed,1,0,0,0,v,MISS Ridnour 2' Layup,Missed Shot,Layup Shot,0,2,317,0021201225
+343,PT03M34.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,Duncan REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,318,0021201225
+344,PT03M20.00S,3,1610612759,SAS,202390,Neal,G. Neal,4,252,25,Made,1,74,75,149,h,Neal 25' 3PT Jump Shot (15 PTS) (Parker 8 AST),Made Shot,Jump Shot,0,3,319,0021201225
+345,PT02M59.00S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,-5,11,1,Made,1,74,77,151,v,Stiemsma 1' Slam Dunk (12 PTS) (Rubio 3 AST),Made Shot,Slam Dunk Shot,0,2,320,0021201225
+349,PT02M49.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard OFF.Foul (P3),Foul,Offensive,0,0,321,0021201225
+350,PT02M49.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard Foul Turnover (P1.T13),Turnover,Foul,0,0,322,0021201225
+351,PT02M49.00S,3,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,323,0021201225
+352,PT02M49.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Duncan,Substitution,,0,0,324,0021201225
+353,PT02M35.00S,3,1610612750,MIN,202682,Williams,D. Williams,-235,-14,24,Made,1,74,80,154,v,Williams 24' 3PT Jump Shot (19 PTS) (Kirilenko 4 AST),Made Shot,Jump Shot,0,3,325,0021201225
+355,PT02M15.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0,0,0,h,SUB: Joseph FOR Parker,Substitution,,0,0,326,0021201225
+356,PT02M10.00S,3,1610612759,SAS,202390,Neal,G. Neal,-51,66,8,Made,1,76,80,156,h,Neal 8' Running Jump Shot (17 PTS),Made Shot,Running Jump Shot,0,2,327,0021201225
+357,PT01M51.00S,3,1610612750,MIN,202682,Williams,D. Williams,143,206,25,Missed,1,0,0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,328,0021201225
+358,PT01M50.00S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,329,0021201225
+359,PT01M37.00S,3,1610612759,SAS,202709,Joseph,C. Joseph,-95,165,19,Missed,1,0,0,0,h,MISS Joseph 19' Jump Shot,Missed Shot,Jump Shot,0,2,330,0021201225
+360,PT01M36.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,Kirilenko REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,331,0021201225
+361,PT01M21.00S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,-71,19,7,Missed,1,0,0,0,v,MISS Kirilenko 7' Running Bank Shot,Missed Shot,Running Bank shot,0,2,332,0021201225
+362,PT01M20.00S,3,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,Joseph REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,333,0021201225
+363,PT01M10.00S,3,1610612759,SAS,202390,Neal,G. Neal,166,28,17,Missed,1,0,0,0,h,MISS Neal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,334,0021201225
+364,PT01M09.00S,3,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,335,0021201225
+365,PT00M59.90S,3,1610612750,MIN,202682,Williams,D. Williams,40,78,9,Missed,1,0,0,0,v,MISS Williams 9' Jump Shot,Missed Shot,Jump Shot,0,2,336,0021201225
+366,PT00M58.80S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,337,0021201225
+367,PT00M42.70S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes OFF.Foul (P3),Foul,Offensive,0,0,338,0021201225
+368,PT00M42.70S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes Foul Turnover (P1.T14),Turnover,Foul,0,0,339,0021201225
+369,PT00M42.70S,3,1610612750,MIN,2557,Ridnour,L. Ridnour,0,0,0,,0,0,0,0,v,SUB: Shved FOR Ridnour,Substitution,,0,0,340,0021201225
+370,PT00M42.70S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0,0,0,v,SUB: Barea FOR Rubio,Substitution,,0,0,341,0021201225
+371,PT00M42.70S,3,1610612750,MIN,1905,Kirilenko,A. Kirilenko,0,0,0,,0,0,0,0,v,SUB: Budinger FOR Kirilenko,Substitution,,0,0,342,0021201225
+372,PT00M31.90S,3,1610612750,MIN,203144,Shved,A. Shved,-123,96,16,Missed,1,0,0,0,v,MISS Shved 16' Jump Shot,Missed Shot,Jump Shot,0,2,343,0021201225
+373,PT00M30.60S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0,0,0,h,Leonard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,344,0021201225
+374,PT00M13.60S,3,1610612759,SAS,202709,Joseph,C. Joseph,-13,-3,1,Missed,1,0,0,0,h,MISS Joseph 1' Layup,Missed Shot,Layup Shot,0,2,345,0021201225
+375,PT00M11.80S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,346,0021201225
+376,PT00M08.50S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes OFF.Foul (P4),Foul,Offensive,0,0,347,0021201225
+377,PT00M08.50S,3,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes Foul Turnover (P2.T15),Turnover,Foul,0,0,348,0021201225
+378,PT00M08.50S,3,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,SUB: Cunningham FOR Stiemsma,Substitution,,0,0,349,0021201225
+379,PT00M00.30S,3,1610612750,MIN,201967,Cunningham,D. Cunningham,-146,50,15,Missed,1,0,0,0,v,MISS Cunningham 15' Jump Shot,Missed Shot,Jump Shot,0,2,350,0021201225
+380,PT00M00.10S,3,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,Joseph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,351,0021201225
+381,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,80,156, ,End of 3rd Period (9:42 PM EST),period,end,0,0,352,0021201225
+383,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,80,156, ,Start of 4th Period (9:44 PM EST),period,start,0,0,353,0021201225
+384,PT11M46.00S,4,1610612750,MIN,202682,Williams,D. Williams,-18,9,2,Made,1,76,82,158,v,Williams 2' Layup (21 PTS),Made Shot,Layup Shot,0,2,355,0021201225
+385,PT11M46.00S,4,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,354,0021201225
+386,PT11M32.00S,4,1610612759,SAS,201971,Blair,D. Blair,36,190,19,Missed,1,0,0,0,h,MISS Blair 19' Jump Shot,Missed Shot,Jump Shot,0,2,356,0021201225
+387,PT11M30.00S,4,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,357,0021201225
+389,PT11M21.00S,4,1610612759,SAS,203382,Baynes,A. Baynes,136,0,14,Missed,1,0,0,0,h,MISS Baynes 14' Jump Shot,Missed Shot,Jump Shot,0,2,358,0021201225
+390,PT11M20.00S,4,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,Shved REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,359,0021201225
+391,PT11M14.00S,4,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams Offensive Charge Foul (P3.T1),Foul,Offensive Charge,0,0,360,0021201225
+392,PT11M14.00S,4,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams Foul Turnover (P2.T12),Turnover,Foul,0,0,361,0021201225
+393,PT11M03.00S,4,1610612759,SAS,201971,Blair,D. Blair,0,58,6,Made,1,78,82,160,h,Blair 6' Jump Hook Shot (6 PTS),Made Shot,Jump Hook Shot,0,2,362,0021201225
+394,PT10M46.00S,4,1610612750,MIN,200826,Barea,J. Barea,233,11,0,Made,1,78,85,163,v,Barea  3PT Jump Shot (8 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,3,363,0021201225
+395,PT10M24.00S,4,1610612759,SAS,202390,Neal,G. Neal,143,145,20,Missed,1,0,0,0,h,MISS Neal 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,364,0021201225
+396,PT10M23.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,365,0021201225
+397,PT10M14.00S,4,1610612750,MIN,203144,Shved,A. Shved,-188,164,25,Missed,1,0,0,0,v,MISS Shved 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,366,0021201225
+398,PT10M12.00S,4,1610612759,SAS,202709,Joseph,C. Joseph,0,0,0,,0,0,0,0,h,Joseph REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,367,0021201225
+399,PT10M02.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal OFF.Foul (P2),Foul,Offensive,0,0,368,0021201225
+400,PT10M02.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal Foul Turnover (P1.T16),Turnover,Foul,0,0,369,0021201225
+401,PT09M47.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,12,213,21,Missed,1,0,0,0,v,MISS Budinger 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,370,0021201225
+402,PT09M46.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,371,0021201225
+403,PT09M31.00S,4,1610612759,SAS,201971,Blair,D. Blair,13,47,5,Made,1,80,85,165,h,Blair 5' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,0,2,372,0021201225
+404,PT09M08.00S,4,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,Baynes Shooting Block Foul (P5.T1),Foul,Shooting Block,0,0,373,0021201225
+405,PT09M08.00S,4,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,MISS Shved Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,374,0021201225
+406,PT09M08.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,375,0021201225
+407,PT09M08.00S,4,1610612759,SAS,203382,Baynes,A. Baynes,0,0,0,,0,0,0,0,h,SUB: Bonner FOR Baynes,Substitution,,0,0,376,0021201225
+408,PT09M08.00S,4,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,80,86,166,v,Shved Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,377,0021201225
+410,PT08M56.00S,4,1610612759,SAS,202390,Neal,G. Neal,-116,186,22,Missed,1,0,0,0,h,MISS Neal 22' Jump Shot,Missed Shot,Jump Shot,0,2,378,0021201225
+411,PT08M55.00S,4,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,379,0021201225
+412,PT08M46.00S,4,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair Shooting Block Foul (P2.T2),Foul,Shooting Block,0,0,380,0021201225
+413,PT08M46.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,381,0021201225
+415,PT08M46.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,80,87,167,v,Cunningham Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,382,0021201225
+417,PT08M46.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,80,88,168,v,Cunningham Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,383,0021201225
+419,PT08M36.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger S.FOUL (P1.T2),Foul,Shooting,0,0,384,0021201225
+420,PT08M36.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,81,88,169,h,De Colo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,385,0021201225
+423,PT08M36.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0,0,0,h,SUB: Mills FOR Neal,Substitution,,0,0,386,0021201225
+424,PT08M36.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,82,88,170,h,De Colo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,387,0021201225
+426,PT08M25.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,-13,17,2,Missed,1,0,0,0,v,MISS Budinger 2' Layup,Missed Shot,Layup Shot,0,2,388,0021201225
+427,PT08M24.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,-8,17,2,Made,1,82,90,172,v,Budinger 2' Tip Shot (7 PTS),Made Shot,Tip Shot,0,2,390,0021201225
+428,PT08M24.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,389,0021201225
+429,PT08M13.00S,4,1610612759,SAS,201971,Blair,D. Blair,-127,47,14,Made,1,84,90,174,h,Blair 14' Jump Bank Shot (10 PTS),Made Shot,Jump Bank Shot,0,2,391,0021201225
+430,PT07M51.00S,4,1610612750,MIN,202682,Williams,D. Williams,-43,12,4,Missed,1,0,0,0,v,MISS Williams 4' Running Bank Shot,Missed Shot,Running Bank shot,0,2,392,0021201225
+431,PT07M50.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,15,-5,2,Made,1,84,92,176,v,Cunningham 2' Tip Shot (6 PTS),Made Shot,Tip Shot,0,2,394,0021201225
+432,PT07M50.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,393,0021201225
+434,PT07M26.00S,4,1610612759,SAS,201971,Blair,D. Blair,-5,77,8,Missed,1,0,0,0,h,MISS Blair 8' Jump Shot,Missed Shot,Jump Shot,0,2,395,0021201225
+435,PT07M25.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,396,0021201225
+436,PT07M17.00S,4,1610612750,MIN,200826,Barea,J. Barea,-11,7,1,Made,1,84,94,178,v,Barea 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,397,0021201225
+437,PT06M56.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,159,105,19,Missed,1,0,0,0,h,MISS De Colo 19' Jump Shot,Missed Shot,Jump Shot,0,2,398,0021201225
+438,PT06M55.00S,4,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,399,0021201225
+439,PT06M44.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,-212,123,25,Made,1,84,97,181,v,Budinger 25' 3PT Jump Shot (10 PTS) (Williams 4 AST),Made Shot,Jump Shot,0,3,400,0021201225
+440,PT06M18.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,190,159,25,Missed,1,0,0,0,h,MISS De Colo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,401,0021201225
+441,PT06M17.00S,4,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,402,0021201225
+442,PT06M03.00S,4,1610612750,MIN,202682,Williams,D. Williams,190,170,25,Missed,1,0,0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,403,0021201225
+443,PT06M02.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,0,0,0,h,De Colo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,404,0021201225
+444,PT05M55.00S,4,1610612759,SAS,201988,Mills,P. Mills,-237,-10,24,Made,1,87,97,184,h,Mills 24' 3PT Jump Shot (3 PTS) (De Colo 1 AST),Made Shot,Jump Shot,0,3,405,0021201225
+445,PT05M45.00S,4,0,,1610612750,,,0,0,0,,0,0,0,0,v,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,406,0021201225
+447,PT05M45.00S,4,1610612750,MIN,202682,Williams,D. Williams,0,0,0,,0,0,0,0,v,SUB: Stiemsma FOR Williams,Substitution,,0,0,407,0021201225
+448,PT05M34.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,201,165,26,Missed,1,0,0,0,v,MISS Budinger 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,408,0021201225
+449,PT05M33.00S,4,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,Bonner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,409,0021201225
+450,PT05M33.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,0,0,0,h,De Colo Offensive Charge Foul (P1.T3),Foul,Offensive Charge,0,0,410,0021201225
+451,PT05M33.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,0,0,0,h,De Colo Foul Turnover (P1.T17),Turnover,Foul,0,0,411,0021201225
+452,PT05M19.00S,4,1610612750,MIN,203144,Shved,A. Shved,143,-16,14,Made,1,87,99,186,v,Shved 14' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,0,2,412,0021201225
+454,PT05M06.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,28,4,3,Made,1,89,99,188,h,De Colo 3' Layup (4 PTS),Made Shot,Layup Shot,0,2,413,0021201225
+456,PT04M51.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,-243,-8,24,Missed,1,0,0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,414,0021201225
+457,PT04M50.00S,4,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,415,0021201225
+458,PT04M45.00S,4,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea P.FOUL (P1.T3),Foul,Personal,0,0,416,0021201225
+459,PT04M35.00S,4,1610612759,SAS,201971,Blair,D. Blair,140,131,19,Missed,1,0,0,0,h,MISS Blair 19' Jump Shot,Missed Shot,Jump Shot,0,2,417,0021201225
+460,PT04M34.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,418,0021201225
+461,PT04M26.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,162,112,20,Made,1,89,101,190,v,Cunningham 20' Jump Shot (8 PTS) (Barea 3 AST),Made Shot,Jump Shot,0,2,419,0021201225
+462,PT04M05.00S,4,1610612759,SAS,202709,Joseph,C. Joseph,80,4,8,Missed,1,0,0,0,h,MISS Joseph 8' Jump Shot,Missed Shot,Jump Shot,0,2,420,0021201225
+463,PT04M04.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,0,0,0,,0,0,0,0,v,Cunningham REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,421,0021201225
+464,PT03M52.00S,4,1610612750,MIN,201967,Cunningham,D. Cunningham,18,194,19,Made,1,89,103,192,v,Cunningham 19' Jump Shot (10 PTS) (Barea 4 AST),Made Shot,Jump Shot,0,2,422,0021201225
+465,PT03M35.00S,4,1610612759,SAS,201988,Mills,P. Mills,-242,-6,24,Made,1,92,103,195,h,Mills 24' 3PT Jump Shot (6 PTS) (Bonner 1 AST),Made Shot,Jump Shot,0,3,423,0021201225
+466,PT03M24.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0,0,0,h,Mills Personal Block Foul (P1.T4),Foul,Personal Block,0,0,424,0021201225
+467,PT03M12.00S,4,1610612750,MIN,200826,Barea,J. Barea,-147,203,25,Missed,1,0,0,0,v,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,425,0021201225
+468,PT03M11.00S,4,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Rebound,Rebound,Unknown,0,0,426,0021201225
+469,PT02M56.00S,4,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair Offensive Charge Foul (P3.PN),Foul,Offensive Charge,0,0,427,0021201225
+470,PT02M56.00S,4,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair Foul Turnover (P1.T18),Turnover,Foul,0,0,428,0021201225
+472,PT02M56.00S,4,0,,1610612759,,,0,0,0,,0,0,0,0,h,SPURS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0,429,0021201225
+473,PT02M37.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,-10,11,1,Made,1,92,105,197,v,Budinger 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,2,430,0021201225
+474,PT02M25.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,-136,220,26,Missed,1,0,0,0,h,MISS De Colo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,431,0021201225
+475,PT02M24.00S,4,1610612750,MIN,200826,Barea,J. Barea,0,0,0,,0,0,0,0,v,Barea REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,432,0021201225
+476,PT02M18.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,157,198,25,Made,1,92,108,200,v,Budinger 25' 3PT Jump Shot (15 PTS) (Barea 5 AST),Made Shot,Jump Shot,0,3,433,0021201225
+477,PT02M02.00S,4,1610612759,SAS,201988,Mills,P. Mills,9,41,4,Missed,1,0,0,0,h,MISS Mills 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,434,0021201225
+478,PT02M01.00S,4,1610612750,MIN,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0,0,0,v,Stiemsma REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,435,0021201225
+479,PT01M45.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,0,0,0,h,De Colo Personal Take Foul (P2.PN),Foul,Personal Take,0,0,436,0021201225
+480,PT01M45.00S,4,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0,0,0,h,SUB: Baynes FOR Bonner,Substitution,,0,0,437,0021201225
+481,PT01M32.00S,4,1610612750,MIN,200826,Barea,J. Barea,200,17,20,Missed,1,0,0,0,v,MISS Barea 20' Jump Shot,Missed Shot,Jump Shot,0,2,438,0021201225
+482,PT01M31.00S,4,1610612759,SAS,201986,De Colo,N. De Colo,0,0,0,,0,0,0,0,h,De Colo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,439,0021201225
+483,PT01M14.00S,4,1610612759,SAS,203382,Baynes,A. Baynes,-70,33,8,Missed,1,0,0,0,h,MISS Baynes 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,440,0021201225
+484,PT01M13.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,441,0021201225
+485,PT00M56.90S,4,1610612750,MIN,201880,Stiemsma,G. Stiemsma,10,-5,1,Missed,1,0,0,0,v,MISS Stiemsma 1' Dunk,Missed Shot,Dunk Shot,0,2,442,0021201225
+486,PT00M55.30S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0,0,0,h,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,443,0021201225
+487,PT00M53.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,12,1,Missed,1,0,0,0,h,MISS Mills 1' Layup,Missed Shot,Layup Shot,0,2,444,0021201225
+487,PT00M53.00S,4,1610612750,MIN,203144,Shved,A. Shved,0,0,0,,0,0,0,0,v,Shved BLOCK (1 BLK),,,0,2,445,0021201225
+488,PT00M52.20S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0,0,0,v,Budinger REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,446,0021201225
+489,PT00M27.80S,4,1610612750,MIN,200826,Barea,J. Barea,89,233,25,Missed,1,0,0,0,v,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,447,0021201225
+490,PT00M26.90S,4,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0,0,0,h,Blair REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,448,0021201225
+491,PT00M14.70S,4,1610612759,SAS,201988,Mills,P. Mills,236,14,24,Made,1,95,108,203,h,Mills 24' 3PT Jump Shot (9 PTS) (De Colo 2 AST),Made Shot,Jump Shot,0,3,449,0021201225
+492,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,108,203, ,End of 4th Period (10:08 PM EST),period,end,0,0,450,0021201225

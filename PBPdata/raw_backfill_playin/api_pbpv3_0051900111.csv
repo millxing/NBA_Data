@@ -1,0 +1,511 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0051900111,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (2:41 PM EST),period,start,0,0,1
+0051900111,17,PT12M00.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Jump Ball Nurkic vs. Valanciunas: Tip to Collins,Jump Ball,,1,0,2
+0051900111,4,PT11M45.00S,1,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver S.FOUL (P1.T1) (T.Brown),Foul,Shooting,1,0,3
+0051900111,6,PT11M45.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,1,0,1,h,McCollum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,4
+0051900111,7,PT11M45.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,2,0,2,h,McCollum Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,5
+0051900111,8,PT11M32.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,87,78,12,Missed,1,0,0,0,v,MISS Brooks 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,6
+0051900111,9,PT11M30.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0051900111,10,PT11M22.00S,1,1610612757,POR,203081,Lillard,D. Lillard,22,278,28,Missed,1,0,0,0,h,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,8
+0051900111,11,PT11M20.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0051900111,12,PT11M12.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-44,105,11,Missed,1,0,0,0,v,MISS Morant 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,10
+0051900111,13,PT11M10.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,11
+0051900111,14,PT11M10.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,-6,1,Missed,1,0,0,0,v,MISS Valanciunas 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,12
+0051900111,15,PT11M09.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,13
+0051900111,20,PT10M57.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic OFF.Foul (P1) (J.Capers),Foul,Offensive,1,0,14
+0051900111,22,PT10M57.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,15
+0051900111,23,PT10M40.00S,1,1610612763,MEM,1629630,Morant,J. Morant,122,233,26,Missed,1,0,0,0,v,MISS Morant 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,16
+0051900111,24,PT10M38.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0051900111,25,PT10M30.00S,1,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,18
+0051900111,27,PT10M30.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,3,0,3,h,Anthony Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,19
+0051900111,28,PT10M30.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,4,0,4,h,Anthony Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,20
+0051900111,29,PT10M14.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,5,2,1,Missed,1,0,0,0,v,MISS Brooks 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,21
+0051900111,30,PT10M12.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0051900111,31,PT10M03.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,23
+0051900111,31,PT10M03.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks STEAL (1 STL),,,1,0,24
+0051900111,33,PT09M59.00S,1,1610612763,MEM,1629630,Morant,J. Morant,6,7,1,Made,1,4,2,6,v,Morant 1' Running Layup (2 PTS) (Anderson 1 AST),Made Shot,Running Layup Shot,1,2,25
+0051900111,35,PT09M47.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Traveling Turnover (P1.T3),Turnover,Traveling,1,0,26
+0051900111,36,PT09M31.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,22,21,3,Made,1,4,4,8,v,Brooks 3' Driving Bank Hook Shot (2 PTS) (Valanciunas 1 AST),Made Shot,Driving Bank Hook Shot,1,2,27
+0051900111,38,PT09M15.00S,1,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver S.FOUL (P2.T3) (T.Brown),Foul,Shooting,1,0,28
+0051900111,40,PT09M15.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,5,4,9,h,Lillard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,29
+0051900111,41,PT09M15.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,6,4,10,h,Lillard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,30
+0051900111,42,PT08M58.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-49,54,7,Made,1,6,6,12,v,Morant 7' Fadeaway Jumper (4 PTS) (Brooks 1 AST),Made Shot,Fadeaway Jump Shot,1,2,31
+0051900111,44,PT08M34.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-92,243,26,Missed,1,0,0,0,h,MISS Lillard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,32
+0051900111,45,PT08M31.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0051900111,46,PT08M10.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-5,70,7,Made,1,6,8,14,v,Valanciunas 7' Turnaround Fadeaway (2 PTS) (Anderson 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,34
+0051900111,48,PT08M03.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas S.FOUL (P1.T4) (J.Capers),Foul,Shooting,1,0,35
+0051900111,50,PT08M03.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,7,8,15,h,McCollum Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,36
+0051900111,51,PT08M03.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,8,8,16,h,McCollum Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,37
+0051900111,52,PT07M49.00S,1,1610612763,MEM,203937,Anderson,K. Anderson,230,-6,0,Made,1,8,11,19,v,Anderson  3PT Jump Shot (3 PTS) (Brooks 2 AST),Made Shot,Jump Shot,1,3,38
+0051900111,54,PT07M33.00S,1,1610612757,POR,1628380,Collins,Z. Collins,235,24,24,Missed,1,0,0,0,h,MISS Collins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0051900111,55,PT07M32.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,40
+0051900111,57,PT07M32.00S,1,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Clarke FOR Tolliver,Substitution,,0,0,41
+0051900111,59,PT07M15.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,227,125,26,Missed,1,0,0,0,v,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0051900111,60,PT07M11.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,43
+0051900111,61,PT07M05.00S,1,1610612757,POR,203081,Lillard,D. Lillard,180,184,26,Made,1,11,11,22,h,Lillard 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,44
+0051900111,62,PT06M54.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-13,258,26,Missed,1,0,0,0,v,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0051900111,63,PT06M52.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,46
+0051900111,64,PT06M43.00S,1,1610612757,POR,1628380,Collins,Z. Collins,234,32,24,Made,1,14,11,25,h,Collins 24' 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,3,47
+0051900111,66,PT06M42.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,48
+0051900111,67,PT06M32.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,-11,4,1,Missed,1,0,0,0,v,MISS Clarke 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,49
+0051900111,68,PT06M30.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,50
+0051900111,69,PT06M21.00S,1,1610612757,POR,2546,Anthony,C. Anthony,218,131,25,Missed,1,0,0,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0051900111,70,PT06M19.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,52
+0051900111,71,PT06M15.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,0,0,0,h,Collins S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,53
+0051900111,73,PT06M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,54
+0051900111,74,PT06M15.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,55
+0051900111,75,PT06M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,14,12,26,v,Morant Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,56
+0051900111,76,PT05M57.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,-21,68,7,Missed,1,0,0,0,h,MISS Nurkic 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,57
+0051900111,76,PT05M57.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke BLOCK (1 BLK),,,1,2,58
+0051900111,78,PT05M55.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,59
+0051900111,80,PT05M52.00S,1,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,60
+0051900111,81,PT05M41.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-127,88,15,Made,1,16,12,28,h,McCollum 15' Fadeaway Jumper (6 PTS) (Lillard 1 AST),Made Shot,Fadeaway Jump Shot,1,2,61
+0051900111,83,PT05M24.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-27,54,6,Missed,1,0,0,0,v,MISS Morant 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,62
+0051900111,84,PT05M22.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,0,0,0,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0051900111,85,PT05M10.00S,1,1610612757,POR,2546,Anthony,C. Anthony,125,35,13,Made,1,18,12,30,h,Anthony 13' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,64
+0051900111,86,PT04M42.00S,1,1610612763,MEM,1629630,Morant,J. Morant,114,191,22,Missed,1,0,0,0,v,MISS Morant 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,65
+0051900111,87,PT04M40.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,66
+0051900111,88,PT04M39.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-16,23,3,Missed,1,0,0,0,v,MISS Valanciunas 3' Hook Shot,Missed Shot,Hook Shot,1,2,67
+0051900111,89,PT04M35.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,68
+0051900111,90,PT04M34.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,69
+0051900111,90,PT04M34.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic STEAL (1 STL),,,1,0,70
+0051900111,92,PT04M32.00S,1,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P2.PN) (J.Capers),Foul,Personal,1,0,71
+0051900111,94,PT04M32.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,19,12,31,h,Anthony Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,72
+0051900111,95,PT04M32.00S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,0,0,0,h,SUB: Trent Jr. FOR Collins,Substitution,,0,0,73
+0051900111,96,PT04M32.00S,1,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,SUB: Allen FOR Anderson,Substitution,,0,0,74
+0051900111,97,PT04M32.00S,1,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,SUB: Dieng FOR Valanciunas,Substitution,,0,0,75
+0051900111,101,PT04M32.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,20,12,32,h,Anthony Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,76
+0051900111,102,PT04M17.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-89,58,11,Missed,1,0,0,0,v,MISS Brooks 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,77
+0051900111,103,PT04M13.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,78
+0051900111,104,PT04M12.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,-1,15,2,Made,1,20,14,34,v,Clarke 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,79
+0051900111,105,PT04M04.00S,1,1610612757,POR,203081,Lillard,D. Lillard,58,252,26,Missed,1,0,0,0,h,MISS Lillard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,80
+0051900111,106,PT04M02.00S,1,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0051900111,107,PT03M50.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0,82
+0051900111,109,PT03M50.00S,1,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Whiteside FOR Anthony,Substitution,,0,0,83
+0051900111,110,PT03M50.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,SUB: Hezonja FOR McCollum,Substitution,,0,0,84
+0051900111,113,PT03M41.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,136,221,26,Missed,1,0,0,0,v,MISS Clarke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0051900111,114,PT03M39.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0051900111,115,PT03M17.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,-143,213,26,Made,1,23,14,37,h,Hezonja 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,87
+0051900111,116,PT03M03.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,88
+0051900111,116,PT03M03.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic STEAL (2 STL),,,1,0,89
+0051900111,118,PT03M00.00S,1,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0,90
+0051900111,120,PT03M00.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,24,14,38,h,Hezonja Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,91
+0051900111,121,PT03M00.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,SUB: Melton FOR Brooks,Substitution,,0,0,92
+0051900111,123,PT03M00.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,25,14,39,h,Hezonja Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,93
+0051900111,124,PT02M38.00S,1,1610612763,MEM,203476,Dieng,G. Dieng,-23,120,12,Missed,1,0,0,0,v,MISS Dieng 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,94
+0051900111,125,PT02M36.00S,1,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0051900111,126,PT02M27.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,132,231,27,Made,1,28,14,42,h,Nurkic 27' 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,1,3,96
+0051900111,128,PT02M26.00S,1,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,97
+0051900111,129,PT02M12.00S,1,1610612763,MEM,1629630,Morant,J. Morant,37,43,6,Missed,1,0,0,0,v,MISS Morant 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,0,2,98
+0051900111,130,PT02M09.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,99
+0051900111,131,PT01M55.00S,1,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,6,156,16,Made,1,30,14,44,h,Trent Jr. 16' Pullup Jump Shot (2 PTS) (Nurkic 1 AST),Made Shot,Pullup Jump shot,1,2,100
+0051900111,133,PT01M39.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,-49,155,16,Made,1,30,16,46,v,Clarke 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,101
+0051900111,134,PT01M22.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,6,271,27,Missed,1,0,0,0,h,MISS Nurkic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0051900111,135,PT01M20.00S,1,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0051900111,136,PT01M08.00S,1,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,104
+0051900111,136,PT01M08.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja STEAL (1 STL),,,1,0,105
+0051900111,138,PT01M05.00S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,106
+0051900111,138,PT01M05.00S,1,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton STEAL (1 STL),,,1,0,107
+0051900111,140,PT00M59.60S,1,1610612763,MEM,1628960,Allen,G. Allen,49,83,10,Missed,1,0,0,0,v,MISS Allen 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,108
+0051900111,141,PT00M56.80S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,109
+0051900111,142,PT00M40.30S,1,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,110
+0051900111,142,PT00M40.30S,1,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton STEAL (2 STL),,,1,0,111
+0051900111,144,PT00M35.90S,1,1610612763,MEM,1629001,Melton,D. Melton,-2,13,1,Missed,1,0,0,0,v,MISS Melton 1' Running Layup,Missed Shot,Running Layup Shot,1,2,112
+0051900111,144,PT00M35.90S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja BLOCK (1 BLK),,,1,2,113
+0051900111,146,PT00M32.90S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0051900111,147,PT00M27.10S,1,1610612757,POR,202355,Whiteside,H. Whiteside,9,14,2,Missed,1,0,0,0,h,MISS Whiteside 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,115
+0051900111,148,PT00M26.10S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,116
+0051900111,149,PT00M26.10S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant S.FOUL (P1.PN) (T.Brown),Foul,Shooting,1,0,117
+0051900111,151,PT00M26.10S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,31,16,47,h,Nurkic Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,118
+0051900111,152,PT00M26.10S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+0051900111,153,PT00M23.60S,1,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0051900111,154,PT00M00.50S,1,1610612763,MEM,1629001,Melton,D. Melton,114,232,26,Made,1,31,19,50,v,Melton 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,121
+0051900111,155,PT00M00.10S,1,1610612757,POR,1626209,Hezonja,M. Hezonja,197,651,68,Missed,1,0,0,0,h,MISS Hezonja 68' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0051900111,156,PT00M00.10S,1,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,123
+0051900111,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,19,50, ,End of 1st Period (3:09 PM EST),period,end,1,0,124
+0051900111,168,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,19,50, ,Start of 2nd Period (3:12 PM EST),period,start,0,0,125
+0051900111,169,PT11M45.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-3,46,5,Made,1,31,21,52,v,Valanciunas 5' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,0,2,126
+0051900111,170,PT11M32.00S,2,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. OFF.Foul (P1) (T.Brown),Foul,Offensive,0,0,127
+0051900111,172,PT11M32.00S,2,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,128
+0051900111,173,PT11M19.00S,2,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,129
+0051900111,175,PT11M19.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,31,22,53,v,Valanciunas Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,130
+0051900111,176,PT11M19.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,31,23,54,v,Valanciunas Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,131
+0051900111,177,PT11M06.00S,2,1610612757,POR,202355,Whiteside,H. Whiteside,103,68,12,Missed,1,0,0,0,h,MISS Whiteside 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,132
+0051900111,178,PT11M04.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,133
+0051900111,179,PT10M51.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-6,6,1,Made,1,31,25,56,v,Valanciunas 1' Reverse Dunk (8 PTS) (Anderson 3 AST),Made Shot,Reverse Dunk Shot,1,2,134
+0051900111,181,PT10M51.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,135
+0051900111,182,PT10M38.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-89,-2,9,Made,1,33,25,58,h,McCollum 9' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,136
+0051900111,183,PT10M24.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,4,6,1,Made,1,33,27,60,v,Valanciunas 1' Cutting Layup Shot (10 PTS) (Anderson 4 AST),Made Shot,Cutting Layup Shot,1,2,137
+0051900111,185,PT10M12.00S,2,1610612757,POR,1626209,Hezonja,M. Hezonja,144,222,26,Missed,1,0,0,0,h,MISS Hezonja 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0051900111,186,PT10M10.00S,2,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0051900111,187,PT09M57.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,-9,5,1,Made,1,33,29,62,v,Anderson 1' Driving Layup (5 PTS) (Valanciunas 2 AST),Made Shot,Driving Layup Shot,1,2,140
+0051900111,189,PT09M57.00S,2,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,0,141
+0051900111,191,PT09M57.00S,2,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Allen,Substitution,,0,0,142
+0051900111,193,PT09M57.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,33,30,63,v,Anderson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,143
+0051900111,194,PT09M48.00S,2,1610612757,POR,1626209,Hezonja,M. Hezonja,154,225,27,Missed,1,0,0,0,h,MISS Hezonja 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0051900111,195,PT09M44.00S,2,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+0051900111,196,PT09M44.00S,2,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,Hezonja S.FOUL (P1.T3) (T.Brown),Foul,Shooting,1,0,146
+0051900111,198,PT09M44.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,33,31,64,v,Tolliver Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,147
+0051900111,199,PT09M44.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,33,32,65,v,Tolliver Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,148
+0051900111,238,PT09M27.00S,2,1610612757,POR,2546,Anthony,C. Anthony,-16,80,8,Missed,1,0,0,0,h,MISS Anthony 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,149
+0051900111,238,PT09M27.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver BLOCK (1 BLK),,,1,2,150
+0051900111,240,PT09M26.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+0051900111,201,PT09M19.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,2,32,3,Missed,1,0,0,0,v,MISS Tolliver 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+0051900111,201,PT09M19.00S,2,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony BLOCK (1 BLK),,,1,2,153
+0051900111,203,PT09M19.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,154
+0051900111,206,PT09M17.00S,2,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,1,0,155
+0051900111,208,PT09M17.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,33,33,66,v,Valanciunas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+0051900111,209,PT09M17.00S,2,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,SUB: Nurkic FOR Whiteside,Substitution,,0,0,157
+0051900111,211,PT09M17.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,33,34,67,v,Valanciunas Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,158
+0051900111,212,PT09M03.00S,2,1610612757,POR,203468,McCollum,C. McCollum,143,222,26,Missed,1,0,0,0,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0051900111,213,PT09M00.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,160
+0051900111,214,PT08M58.00S,2,1610612763,MEM,1629001,Melton,D. Melton,-1,11,1,Missed,1,0,0,0,v,MISS Melton 1' Running Layup,Missed Shot,Running Layup Shot,1,2,161
+0051900111,214,PT08M58.00S,2,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. BLOCK (1 BLK),,,1,2,162
+0051900111,216,PT08M56.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,163
+0051900111,218,PT08M56.00S,2,1610612757,POR,1626209,Hezonja,M. Hezonja,0,0,0,,0,0,0,0,h,SUB: Lillard FOR Hezonja,Substitution,,0,0,164
+0051900111,220,PT08M51.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,49,128,14,Made,1,33,36,69,v,Valanciunas 14' Jump Shot (14 PTS) (Anderson 5 AST),Made Shot,Jump Shot,1,2,165
+0051900111,222,PT08M33.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-10,267,27,Made,1,36,36,72,h,Lillard 27' 3PT Pullup Jump Shot (8 PTS) (Nurkic 2 AST),Made Shot,Pullup Jump shot,1,3,166
+0051900111,224,PT08M21.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-16,274,27,Made,1,36,39,75,v,Brooks 27' 3PT Pullup Jump Shot (5 PTS) (Melton 1 AST),Made Shot,Pullup Jump shot,1,3,167
+0051900111,226,PT08M10.00S,2,1610612757,POR,203081,Lillard,D. Lillard,55,281,29,Made,1,39,39,78,h,Lillard 29' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,168
+0051900111,227,PT07M57.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,69,46,8,Missed,1,0,0,0,v,MISS Anderson 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,169
+0051900111,228,PT07M55.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,170
+0051900111,229,PT07M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-133,218,26,Missed,1,0,0,0,h,MISS Lillard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,171
+0051900111,230,PT07M43.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,172
+0051900111,231,PT07M32.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,125,238,27,Made,1,39,42,81,v,Brooks 27' 3PT Jump Shot (8 PTS) (Valanciunas 3 AST),Made Shot,Jump Shot,1,3,173
+0051900111,233,PT07M15.00S,2,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,174
+0051900111,235,PT07M15.00S,2,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,40,42,82,h,Anthony Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,175
+0051900111,236,PT07M15.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,176
+0051900111,237,PT07M15.00S,2,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,41,42,83,h,Anthony Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,177
+0051900111,241,PT06M58.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,178
+0051900111,241,PT06M58.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum STEAL (1 STL),,,1,0,179
+0051900111,243,PT06M50.00S,2,1610612757,POR,2546,Anthony,C. Anthony,-223,16,0,Missed,1,0,0,0,h,MISS Anthony  3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0051900111,244,PT06M48.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,181
+0051900111,245,PT06M42.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,24,16,3,Made,1,43,42,85,h,Nurkic 3' Turnaround Bank Hook Shot (6 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,182
+0051900111,246,PT06M27.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-16,44,5,Missed,1,0,0,0,v,MISS Brooks 5' Layup,Missed Shot,Layup Shot,1,2,183
+0051900111,247,PT06M25.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,184
+0051900111,248,PT06M18.00S,2,1610612757,POR,2546,Anthony,C. Anthony,8,15,2,Made,1,45,42,87,h,Anthony 2' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,185
+0051900111,249,PT05M58.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,32,28,4,Made,1,45,44,89,v,Valanciunas 4' Turnaround Fadeaway Bank Jump Shot (16 PTS) (Anderson 6 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,186
+0051900111,251,PT05M52.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas P.FOUL (P2.T2) (P.Fraher),Foul,Personal,1,0,187
+0051900111,253,PT05M52.00S,2,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Gabriel FOR Anthony,Substitution,,0,0,188
+0051900111,254,PT05M52.00S,2,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,SUB: Morant FOR Melton,Substitution,,0,0,189
+0051900111,256,PT05M52.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Dieng FOR Tolliver,Substitution,,0,0,190
+0051900111,261,PT05M52.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,SUB: Clarke FOR Valanciunas,Substitution,,0,0,191
+0051900111,262,PT05M43.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,18,14,2,Missed,1,0,0,0,h,MISS Nurkic 2' Layup,Missed Shot,Layup Shot,1,2,192
+0051900111,262,PT05M43.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke BLOCK (2 BLK),,,1,2,193
+0051900111,264,PT05M43.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,194
+0051900111,266,PT05M37.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-225,-1,0,Missed,1,0,0,0,h,MISS McCollum  3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0051900111,267,PT05M37.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,196
+0051900111,268,PT05M26.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,197
+0051900111,269,PT05M15.00S,2,1610612757,POR,1629117,Gabriel,W. Gabriel,1,3,0,Missed,1,0,0,0,h,MISS Gabriel  Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,198
+0051900111,270,PT05M13.00S,2,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,199
+0051900111,271,PT05M13.00S,2,1610612757,POR,1629117,Gabriel,W. Gabriel,8,4,1,Missed,1,0,0,0,h,MISS Gabriel 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,200
+0051900111,271,PT05M13.00S,2,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng BLOCK (1 BLK),,,1,2,201
+0051900111,273,PT05M13.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,202
+0051900111,275,PT05M13.00S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,SUB: Allen FOR Anderson,Substitution,,0,0,203
+0051900111,277,PT05M03.00S,2,1610612757,POR,203468,McCollum,C. McCollum,27,71,8,Made,1,47,44,91,h,McCollum 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,204
+0051900111,278,PT04M49.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,30,89,9,Made,1,47,46,93,v,Clarke 9' Floating Jump Shot (6 PTS) (Morant 1 AST),Made Shot,Floating Jump shot,1,2,205
+0051900111,280,PT04M29.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,84,253,27,Made,1,50,46,96,h,Nurkic 27' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,3,206
+0051900111,282,PT04M10.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,9,20,2,Missed,1,0,0,0,v,MISS Brooks 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,207
+0051900111,283,PT04M07.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,208
+0051900111,284,PT04M00.00S,2,1610612757,POR,203468,McCollum,C. McCollum,45,151,16,Missed,1,0,0,0,h,MISS McCollum 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,209
+0051900111,285,PT03M57.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,210
+0051900111,286,PT03M57.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,-6,1,Missed,1,0,0,0,h,MISS Nurkic 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,211
+0051900111,286,PT03M57.00S,2,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng BLOCK (2 BLK),,,1,2,212
+0051900111,287,PT03M57.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,213
+0051900111,289,PT03M55.00S,2,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng P.FOUL (P2.T3) (T.Brown),Foul,Personal,1,0,214
+0051900111,291,PT03M45.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,30,198,20,Made,1,52,46,98,h,Nurkic 20' Jump Shot (11 PTS),Made Shot,Jump Shot,1,2,215
+0051900111,292,PT03M43.00S,2,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,216
+0051900111,294,PT03M24.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,217
+0051900111,294,PT03M24.00S,2,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. STEAL (1 STL),,,1,0,218
+0051900111,296,PT03M04.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,9,69,7,Made,1,54,46,100,h,Nurkic 7' Turnaround Hook Shot (13 PTS) (Gabriel 1 AST),Made Shot,Turnaround Hook Shot,1,2,219
+0051900111,298,PT02M44.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-67,2,7,Missed,1,0,0,0,v,MISS Brooks 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,220
+0051900111,299,PT02M44.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,1,0,221
+0051900111,300,PT02M44.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks L.B.FOUL (P1.T4) (T.Brown),Foul,Loose Ball,1,0,222
+0051900111,302,PT02M44.00S,2,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,SUB: Valanciunas FOR Dieng,Substitution,,0,0,223
+0051900111,303,PT02M44.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,SUB: Tolliver FOR Clarke,Substitution,,0,0,224
+0051900111,306,PT02M29.00S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver P.FOUL (P3.PN) (J.Capers),Foul,Personal,1,0,225
+0051900111,308,PT02M29.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,MISS Nurkic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,226
+0051900111,309,PT02M29.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,0,227
+0051900111,312,PT02M29.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,228
+0051900111,310,PT02M29.00S,2,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,SUB: Anthony FOR Gabriel,Substitution,,0,0,229
+0051900111,313,PT02M27.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,230
+0051900111,314,PT02M22.00S,2,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony P.FOUL (P1.PN) (T.Brown),Foul,Personal,1,0,231
+0051900111,316,PT02M22.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,54,47,101,v,Morant Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+0051900111,317,PT02M22.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,54,48,102,v,Morant Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,233
+0051900111,318,PT02M07.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,7,11,1,Made,1,56,48,104,h,Nurkic 1' Cutting Dunk Shot (15 PTS) (Lillard 3 AST),Made Shot,Cutting Dunk Shot,1,2,234
+0051900111,320,PT01M54.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-77,246,26,Missed,1,0,0,0,v,MISS Morant 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,235
+0051900111,321,PT01M51.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,236
+0051900111,322,PT01M43.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-37,266,27,Missed,1,0,0,0,h,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,237
+0051900111,323,PT01M40.00S,2,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,238
+0051900111,324,PT01M33.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Traveling Turnover (P3.T8),Turnover,Traveling,1,0,239
+0051900111,352,PT01M20.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Kicked Ball Violation Turnover (P2.T7),Turnover,Kicked Ball Violation,1,0,240
+0051900111,327,PT01M20.00S,2,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Allen,Substitution,,0,0,241
+0051900111,329,PT01M14.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-1,7,1,Made,1,56,50,106,v,Morant 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,242
+0051900111,330,PT00M59.50S,2,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,235,92,25,Missed,1,0,0,0,h,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0051900111,331,PT00M55.80S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,244
+0051900111,332,PT00M46.20S,2,1610612763,MEM,203937,Anderson,K. Anderson,8,8,1,Missed,1,0,0,0,v,MISS Anderson 1' Layup,Missed Shot,Layup Shot,1,2,245
+0051900111,333,PT00M45.90S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,246
+0051900111,347,PT00M44.20S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,247
+0051900111,347,PT00M44.20S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson STEAL (1 STL),,,1,0,248
+0051900111,350,PT00M43.20S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,249
+0051900111,350,PT00M43.20S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard STEAL (1 STL),,,1,0,250
+0051900111,335,PT00M40.90S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson P.FOUL (P3.PN) (J.Capers),Foul,Personal,1,0,251
+0051900111,337,PT00M40.90S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,57,50,107,h,Lillard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+0051900111,338,PT00M40.90S,2,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,SUB: Allen FOR Anderson,Substitution,,0,0,253
+0051900111,340,PT00M40.90S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,58,50,108,h,Lillard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+0051900111,341,PT00M32.30S,2,1610612763,MEM,1629630,Morant,J. Morant,-105,79,13,Made,1,58,52,110,v,Morant 13' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,255
+0051900111,342,PT00M12.20S,2,1610612757,POR,2546,Anthony,C. Anthony,-138,98,17,Missed,1,0,0,0,h,MISS Anthony 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,256
+0051900111,343,PT00M07.90S,2,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,257
+0051900111,344,PT00M01.40S,2,1610612763,MEM,1629630,Morant,J. Morant,-18,260,26,Missed,1,0,0,0,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,258
+0051900111,345,PT00M00.40S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:13),Rebound,Unknown,1,0,259
+0051900111,346,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,52,110, ,End of 2nd Period (3:42 PM EST),period,end,1,0,260
+0051900111,357,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,52,110, ,Start of 3rd Period (3:57 PM EST),period,start,0,0,261
+0051900111,358,PT11M46.00S,3,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,Gabriel S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,262
+0051900111,360,PT11M46.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,MISS Brooks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,263
+0051900111,361,PT11M46.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,264
+0051900111,362,PT11M46.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,58,53,111,v,Brooks Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,265
+0051900111,363,PT11M33.00S,3,1610612757,POR,203468,McCollum,C. McCollum,128,21,13,Made,1,60,53,113,h,McCollum 13' Fadeaway Jumper (12 PTS) (Lillard 4 AST),Made Shot,Fadeaway Jump Shot,1,2,266
+0051900111,365,PT11M15.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-46,64,8,Missed,1,0,0,0,v,MISS Valanciunas 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,267
+0051900111,366,PT11M13.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,268
+0051900111,367,PT11M03.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,269
+0051900111,367,PT11M03.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson STEAL (2 STL),,,1,0,270
+0051900111,369,PT10M49.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,207,74,22,Made,1,60,55,115,v,Anderson 22' Jump Shot (8 PTS) (Morant 2 AST),Made Shot,Jump Shot,1,2,271
+0051900111,371,PT10M36.00S,3,1610612757,POR,2546,Anthony,C. Anthony,-199,48,20,Missed,1,0,0,0,h,MISS Anthony 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,272
+0051900111,372,PT10M35.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,273
+0051900111,373,PT10M25.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-71,243,25,Made,1,60,58,118,v,Morant 25' 3PT Jump Shot (14 PTS) (Valanciunas 4 AST),Made Shot,Jump Shot,1,3,274
+0051900111,375,PT10M14.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,0,275
+0051900111,377,PT10M14.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,61,58,119,h,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0051900111,378,PT10M14.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,62,58,120,h,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+0051900111,379,PT10M03.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-98,198,22,Missed,1,0,0,0,v,MISS Brooks 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,278
+0051900111,380,PT09M58.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:14),Rebound,Unknown,1,0,279
+0051900111,381,PT09M51.00S,3,1610612757,POR,203468,McCollum,C. McCollum,232,11,0,Made,1,65,58,123,h,McCollum  3PT Jump Shot (15 PTS) (Nurkic 3 AST),Made Shot,Jump Shot,1,3,280
+0051900111,383,PT09M33.00S,3,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony P.FOUL (P2.T2) (T.Brown),Foul,Personal,1,0,281
+0051900111,385,PT09M28.00S,3,1610612763,MEM,1629630,Morant,J. Morant,35,26,4,Missed,1,0,0,0,v,MISS Morant 4' Jump Shot,Missed Shot,Jump Shot,0,2,282
+0051900111,385,PT09M28.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic BLOCK (1 BLK),,,0,2,283
+0051900111,387,PT09M28.00S,3,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,284
+0051900111,389,PT09M18.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-40,306,31,Made,1,65,61,126,v,Brooks 31' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,285
+0051900111,390,PT09M10.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks S.FOUL (P3.T2) (T.Brown),Foul,Shooting,1,0,286
+0051900111,392,PT09M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,66,61,127,h,Lillard Free Throw 1 of 3 (16 PTS),Free Throw,Free Throw 1 of 3,1,0,287
+0051900111,393,PT09M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,67,61,128,h,Lillard Free Throw 2 of 3 (17 PTS),Free Throw,Free Throw 2 of 3,1,0,288
+0051900111,394,PT09M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,68,61,129,h,Lillard Free Throw 3 of 3 (18 PTS),Free Throw,Free Throw 3 of 3,1,0,289
+0051900111,395,PT08M55.00S,3,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,Gabriel S.FOUL (P2.T3) (J.Capers),Foul,Shooting,1,0,290
+0051900111,397,PT08M55.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,68,62,130,v,Morant Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0051900111,398,PT08M55.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,68,63,131,v,Morant Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+0051900111,399,PT08M40.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-161,210,26,Made,1,71,63,134,h,Lillard 26' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,3,293
+0051900111,401,PT08M25.00S,3,1610612763,MEM,201229,Tolliver,A. Tolliver,101,287,30,Made,1,71,66,137,v,Tolliver 30' 3PT Jump Shot (5 PTS) (Morant 3 AST),Made Shot,Jump Shot,1,3,294
+0051900111,403,PT08M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-71,274,28,Missed,1,0,0,0,h,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,295
+0051900111,404,PT08M08.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,296
+0051900111,405,PT08M01.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,19,260,26,Missed,1,0,0,0,v,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0051900111,406,PT07M56.00S,3,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,298
+0051900111,407,PT07M45.00S,3,1610612763,MEM,201229,Tolliver,A. Tolliver,6,8,1,Made,1,71,68,139,v,Tolliver 1' Cutting Layup Shot (7 PTS) (Anderson 7 AST),Made Shot,Cutting Layup Shot,1,2,299
+0051900111,409,PT07M28.00S,3,1610612757,POR,1629117,Gabriel,W. Gabriel,-234,-13,0,Made,1,74,68,142,h,Gabriel  3PT Jump Shot (3 PTS) (Nurkic 4 AST),Made Shot,Jump Shot,1,3,300
+0051900111,411,PT07M03.00S,3,1610612763,MEM,1629630,Morant,J. Morant,2,9,1,Made,1,74,70,144,v,Morant 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,301
+0051900111,412,PT06M43.00S,3,1610612757,POR,2546,Anthony,C. Anthony,-148,148,21,Missed,1,0,0,0,h,MISS Anthony 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,302
+0051900111,413,PT06M39.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,303
+0051900111,414,PT06M35.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,9,5,1,Made,1,74,72,146,v,Brooks 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,304
+0051900111,415,PT06M35.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum S.FOUL (P1.T4) (T.Brown),Foul,Shooting,1,0,305
+0051900111,417,PT06M35.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,306
+0051900111,418,PT06M35.00S,3,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Trent Jr. FOR Anthony,Substitution,,0,0,307
+0051900111,419,PT06M35.00S,3,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,SUB: Whiteside FOR Gabriel,Substitution,,0,0,308
+0051900111,422,PT06M35.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,74,73,147,v,Brooks Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,309
+0051900111,423,PT06M23.00S,3,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver P.FOUL (P4.T3) (T.Brown),Foul,Personal,1,0,310
+0051900111,425,PT06M23.00S,3,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Clarke FOR Tolliver,Substitution,,0,0,311
+0051900111,427,PT06M17.00S,3,1610612757,POR,203468,McCollum,C. McCollum,40,20,4,Missed,1,0,0,0,h,MISS McCollum 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,312
+0051900111,428,PT06M14.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,313
+0051900111,429,PT06M14.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,-6,1,Missed,1,0,0,0,h,MISS Whiteside 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,314
+0051900111,430,PT06M14.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,315
+0051900111,431,PT06M06.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside S.FOUL (P4.PN) (T.Brown),Foul,Shooting,1,0,316
+0051900111,433,PT06M06.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,74,74,148,v,Morant Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,317
+0051900111,434,PT06M06.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,318
+0051900111,435,PT06M03.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,319
+0051900111,436,PT05M55.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,-51,106,12,Made,1,76,74,150,h,Nurkic 12' Floating Jump Shot (17 PTS) (Lillard 5 AST),Made Shot,Floating Jump shot,1,2,320
+0051900111,438,PT05M36.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,235,48,24,Made,1,76,77,153,v,Clarke 24' 3PT Jump Shot (9 PTS) (Morant 4 AST),Made Shot,Jump Shot,1,3,321
+0051900111,440,PT05M20.00S,3,1610612757,POR,203468,McCollum,C. McCollum,217,130,25,Missed,1,0,0,0,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0051900111,441,PT05M17.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,323
+0051900111,442,PT05M15.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,7,5,1,Made,1,76,79,155,v,Brooks 1' Running Dunk (17 PTS) (Anderson 8 AST),Made Shot,Running Dunk Shot,1,2,324
+0051900111,444,PT04M57.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,-90,70,11,Missed,1,0,0,0,h,MISS Whiteside 11' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,325
+0051900111,445,PT04M54.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,326
+0051900111,446,PT04M54.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Out of Bounds - Bad Pass Turnover Turnover (P4.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,327
+0051900111,447,PT04M54.00S,3,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,SUB: Allen FOR Anderson,Substitution,,0,0,328
+0051900111,449,PT04M37.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-1,12,1,Made,1,78,79,157,h,Lillard 1' Cutting Dunk Shot (23 PTS) (Nurkic 5 AST),Made Shot,Cutting Dunk Shot,1,2,329
+0051900111,451,PT04M22.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,231,36,0,Made,1,78,82,160,v,Clarke  3PT Jump Shot (12 PTS) (Morant 5 AST),Made Shot,Jump Shot,1,3,330
+0051900111,453,PT04M07.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,-3,2,0,Made,1,80,82,162,h,Whiteside  Alley Oop Dunk (2 PTS) (Nurkic 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,331
+0051900111,455,PT03M52.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,7,21,2,Missed,1,0,0,0,v,MISS Brooks 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,332
+0051900111,455,PT03M52.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic BLOCK (2 BLK),,,1,2,333
+0051900111,457,PT03M52.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,334
+0051900111,458,PT03M52.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard P.FOUL (P2.PN) (J.Capers),Foul,Personal,1,0,335
+0051900111,460,PT03M52.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,80,83,163,v,Valanciunas Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+0051900111,461,PT03M52.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,SUB: Anthony FOR Nurkic,Substitution,,0,0,337
+0051900111,462,PT03M52.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,SUB: Melton FOR Brooks,Substitution,,0,0,338
+0051900111,465,PT03M52.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,80,84,164,v,Valanciunas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,339
+0051900111,466,PT03M40.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-22,249,25,Missed,1,0,0,0,h,MISS Lillard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,340
+0051900111,467,PT03M38.00S,3,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,341
+0051900111,468,PT03M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,2,1,0,Made,1,80,86,166,v,Morant  Running Dunk (21 PTS) (Allen 1 AST),Made Shot,Running Dunk Shot,1,2,342
+0051900111,470,PT03M32.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,343
+0051900111,471,PT03M32.00S,3,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,SUB: Dieng FOR Valanciunas,Substitution,,0,0,344
+0051900111,473,PT03M17.00S,3,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,-3,110,11,Made,1,82,86,168,h,Trent Jr. 11' Driving Floating Jump Shot (4 PTS) (Lillard 6 AST),Made Shot,Driving Floating Jump Shot,1,2,345
+0051900111,475,PT03M08.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,49,85,10,Made,1,82,88,170,v,Clarke 10' Floating Jump Shot (14 PTS) (Morant 6 AST),Made Shot,Floating Jump shot,1,2,346
+0051900111,477,PT02M46.00S,3,1610612757,POR,2546,Anthony,C. Anthony,109,-9,11,Made,1,84,88,172,h,Anthony 11' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,347
+0051900111,478,PT02M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,348
+0051900111,478,PT02M33.00S,3,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. STEAL (2 STL),,,1,0,349
+0051900111,480,PT02M24.00S,3,1610612757,POR,2546,Anthony,C. Anthony,150,212,26,Missed,1,0,0,0,h,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0051900111,481,PT02M22.00S,3,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,351
+0051900111,482,PT02M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,352
+0051900111,482,PT02M15.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside STEAL (1 STL),,,1,0,353
+0051900111,484,PT02M03.00S,3,1610612757,POR,202355,Whiteside,H. Whiteside,71,52,9,Made,1,86,88,174,h,Whiteside 9' Floating Jump Shot (4 PTS) (Lillard 7 AST),Made Shot,Floating Jump shot,1,2,354
+0051900111,486,PT01M45.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,-47,255,26,Made,1,86,91,177,v,Clarke 26' 3PT Jump Shot (17 PTS) (Morant 7 AST),Made Shot,Jump Shot,1,3,355
+0051900111,488,PT01M32.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-181,197,27,Made,1,89,91,180,h,Lillard 27' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,3,356
+0051900111,489,PT01M19.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,9,127,13,Missed,1,0,0,0,v,MISS Clarke 13' Jump Shot,Missed Shot,Jump Shot,1,2,357
+0051900111,490,PT01M17.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,358
+0051900111,491,PT01M09.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-142,257,29,Missed,1,0,0,0,h,MISS Lillard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,359
+0051900111,492,PT01M07.00S,3,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,360
+0051900111,493,PT01M04.00S,3,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,195,162,25,Missed,1,0,0,0,h,MISS Trent Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,361
+0051900111,494,PT01M02.00S,3,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,362
+0051900111,495,PT00M48.40S,3,1610612763,MEM,1628960,Allen,G. Allen,-227,34,0,Missed,1,0,0,0,v,MISS Allen  3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0051900111,496,PT00M45.20S,3,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,Whiteside REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,364
+0051900111,497,PT00M36.80S,3,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,365
+0051900111,498,PT00M18.20S,3,1610612763,MEM,1629630,Morant,J. Morant,0,10,1,Missed,1,0,0,0,v,MISS Morant 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,366
+0051900111,499,PT00M14.80S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,367
+0051900111,502,PT00M14.80S,3,1610612763,MEM,1629634,Clarke,B. Clarke,239,38,24,Made,1,89,94,183,v,Clarke 24' 3PT Jump Shot (20 PTS) (Morant 8 AST),Made Shot,Jump Shot,1,3,368
+0051900111,504,PT00M02.20S,3,1610612757,POR,2546,Anthony,C. Anthony,89,73,12,Missed,1,0,0,0,h,MISS Anthony 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,369
+0051900111,505,PT00M02.20S,3,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,370
+0051900111,506,PT00M00.00S,3,0,,0,,,0,0,0,,0,89,94,183, ,End of 3rd Period (4:24 PM EST),period,end,1,0,371
+0051900111,507,PT12M00.00S,4,0,,0,,,0,0,0,,0,89,94,183, ,Start of 4th Period (4:27 PM EST),period,start,0,0,372
+0051900111,509,PT11M45.00S,4,1610612757,POR,203468,McCollum,C. McCollum,21,48,5,Made,1,91,94,185,h,McCollum 5' Driving Floating Jump Shot (17 PTS) (Lillard 8 AST),Made Shot,Driving Floating Jump Shot,0,2,373
+0051900111,511,PT11M30.00S,4,1610612763,MEM,1628960,Allen,G. Allen,-14,6,2,Made,1,91,96,187,v,Allen 2' Driving Bank Hook Shot (2 PTS) (Clarke 1 AST),Made Shot,Driving Bank Hook Shot,1,2,374
+0051900111,513,PT11M14.00S,4,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng P.FOUL (P3.T1) (T.Brown),Foul,Personal,1,0,375
+0051900111,515,PT11M14.00S,4,1610612757,POR,202355,Whiteside,H. Whiteside,0,0,0,,0,0,0,0,h,SUB: Nurkic FOR Whiteside,Substitution,,0,0,376
+0051900111,517,PT11M07.00S,4,1610612757,POR,2546,Anthony,C. Anthony,228,13,0,Missed,1,0,0,0,h,MISS Anthony  3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0051900111,518,PT11M03.00S,4,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,378
+0051900111,519,PT10M58.00S,4,1610612763,MEM,1629630,Morant,J. Morant,17,48,5,Missed,1,0,0,0,v,MISS Morant 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,379
+0051900111,519,PT10M58.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum BLOCK (1 BLK),,,1,2,380
+0051900111,521,PT10M54.00S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,381
+0051900111,522,PT10M52.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-57,76,10,Missed,1,0,0,0,h,MISS McCollum 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,382
+0051900111,523,PT10M49.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,383
+0051900111,524,PT10M44.00S,4,1610612763,MEM,1629001,Melton,D. Melton,50,213,22,Missed,1,0,0,0,v,MISS Melton 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,384
+0051900111,525,PT10M40.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,385
+0051900111,526,PT10M36.00S,4,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,Melton S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,386
+0051900111,528,PT10M36.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,92,96,188,h,Lillard Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,387
+0051900111,529,PT10M36.00S,4,1610612763,MEM,1629001,Melton,D. Melton,0,0,0,,0,0,0,0,v,SUB: Brooks FOR Melton,Substitution,,0,0,388
+0051900111,531,PT10M36.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,93,96,189,h,Lillard Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,389
+0051900111,532,PT10M22.00S,4,1610612763,MEM,1629630,Morant,J. Morant,170,194,26,Made,1,93,99,192,v,Morant 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,3,390
+0051900111,533,PT10M12.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,391
+0051900111,534,PT09M57.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-40,31,5,Missed,1,0,0,0,v,MISS Morant 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,392
+0051900111,535,PT09M56.00S,4,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,393
+0051900111,536,PT09M55.00S,4,1610612763,MEM,203476,Dieng,G. Dieng,0,-6,1,Made,1,93,101,194,v,Dieng 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,394
+0051900111,537,PT09M40.00S,4,1610612757,POR,203468,McCollum,C. McCollum,42,142,15,Made,1,95,101,196,h,McCollum 15' Pullup Jump Shot (19 PTS) (Lillard 9 AST),Made Shot,Pullup Jump shot,1,2,395
+0051900111,539,PT09M23.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,88,155,18,Missed,1,0,0,0,v,MISS Brooks 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,396
+0051900111,540,PT09M19.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,397
+0051900111,541,PT09M17.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,398
+0051900111,543,PT09M17.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen T.FOUL (P1.T3) (T.Brown),Foul,Technical,1,0,399
+0051900111,544,PT09M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,96,101,197,h,Lillard Free Throw Technical (29 PTS),Free Throw,Free Throw Technical,1,0,400
+0051900111,545,PT09M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,97,101,198,h,Lillard Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0,401
+0051900111,546,PT09M17.00S,4,1610612763,MEM,203476,Dieng,G. Dieng,0,0,0,,0,0,0,0,v,SUB: Valanciunas FOR Dieng,Substitution,,0,0,402
+0051900111,548,PT09M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,98,101,199,h,Lillard Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,403
+0051900111,549,PT09M00.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,404
+0051900111,549,PT09M00.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,0,0,0,h,McCollum STEAL (2 STL),,,1,0,405
+0051900111,551,PT08M50.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic OFF.Foul (P2) (P.Fraher),Foul,Offensive,1,0,406
+0051900111,553,PT08M50.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,1,0,407
+0051900111,554,PT08M50.00S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,SUB: Gabriel FOR Anthony,Substitution,,0,0,408
+0051900111,555,PT08M50.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,SUB: Tolliver FOR Allen,Substitution,,0,0,409
+0051900111,556,PT08M50.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,SUB: Anderson FOR Clarke,Substitution,,0,0,410
+0051900111,560,PT08M42.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic P.FOUL (P3.T1) (T.Brown),Foul,Personal,1,0,411
+0051900111,562,PT08M42.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Out of Bounds - Bad Pass Turnover Turnover (P5.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,412
+0051900111,564,PT08M31.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Offensive Charge Foul (P4.T2) (P.Fraher),Foul,Offensive Charge,1,0,413
+0051900111,566,PT08M31.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic Offensive Foul Turnover (P5.T13),Turnover,Offensive Foul Turnover,1,0,414
+0051900111,567,PT08M31.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,415
+0051900111,568,PT08M31.00S,4,0,,564,,,0,0,0,,0,98,101,199, ,Instant Replay4th Period (4:35 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,416
+0051900111,569,PT08M31.00S,4,1610612757,POR,1629117,Gabriel,W. Gabriel,0,0,0,,0,0,0,0,h,SUB: Anthony FOR Gabriel,Substitution,,0,0,417
+0051900111,571,PT08M16.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson Out of Bounds Lost Ball Turnover (P6.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,418
+0051900111,572,PT07M53.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,-6,37,4,Missed,1,0,0,0,h,MISS Nurkic 4' Hook Shot,Missed Shot,Hook Shot,1,2,419
+0051900111,573,PT07M51.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,420
+0051900111,574,PT07M44.00S,4,1610612763,MEM,1629630,Morant,J. Morant,5,-5,1,Made,1,98,103,201,v,Morant 1' Driving Dunk (26 PTS),Made Shot,Driving Dunk Shot,1,2,421
+0051900111,575,PT07M31.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-34,89,10,Made,1,100,103,203,h,McCollum 10' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,422
+0051900111,576,PT07M13.00S,4,1610612763,MEM,1629630,Morant,J. Morant,12,20,2,Missed,1,0,0,0,v,MISS Morant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+0051900111,577,PT07M09.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,0,0,0,v,Brooks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,424
+0051900111,578,PT07M01.00S,4,1610612763,MEM,201229,Tolliver,A. Tolliver,164,242,29,Missed,1,0,0,0,v,MISS Tolliver 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0051900111,579,PT06M56.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,426
+0051900111,580,PT06M55.00S,4,1610612757,POR,2546,Anthony,C. Anthony,-8,5,1,Made,1,102,103,205,h,Anthony 1' Running Dunk (14 PTS) (Trent Jr. 1 AST),Made Shot,Running Dunk Shot,1,2,427
+0051900111,582,PT06M40.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-227,3,0,Missed,1,0,0,0,v,MISS Valanciunas  3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+0051900111,583,PT06M38.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,429
+0051900111,584,PT06M35.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,7,16,2,Made,1,102,105,207,v,Valanciunas 2' Driving Finger Roll Layup (20 PTS) (Anderson 9 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,430
+0051900111,586,PT06M18.00S,4,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver S.FOUL (P5.T4) (J.Capers),Foul,Shooting,1,0,431
+0051900111,588,PT06M18.00S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,103,105,208,h,Anthony Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+0051900111,589,PT06M18.00S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,104,105,209,h,Anthony Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,433
+0051900111,590,PT06M05.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,11,15,2,Missed,1,0,0,0,v,MISS Valanciunas 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,434
+0051900111,591,PT06M01.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:4 Def:15),Rebound,Unknown,1,0,435
+0051900111,592,PT05M56.00S,4,1610612757,POR,203468,McCollum,C. McCollum,117,7,12,Missed,1,0,0,0,h,MISS McCollum 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,436
+0051900111,593,PT05M53.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,437
+0051900111,594,PT05M46.00S,4,1610612763,MEM,1629630,Morant,J. Morant,7,99,10,Made,1,104,107,211,v,Morant 10' Driving Floating Jump Shot (28 PTS),Made Shot,Driving Floating Jump Shot,1,2,438
+0051900111,595,PT05M25.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,-60,167,18,Missed,1,0,0,0,h,MISS Nurkic 18' Jump Shot,Missed Shot,Jump Shot,1,2,439
+0051900111,596,PT05M23.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,440
+0051900111,597,PT05M02.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,-71,95,12,Made,1,104,109,213,v,Anderson 12' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,441
+0051900111,598,PT04M49.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,442
+0051900111,599,PT04M44.00S,4,1610612757,POR,203081,Lillard,D. Lillard,127,225,26,Missed,1,0,0,0,h,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0051900111,600,PT04M41.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,444
+0051900111,601,PT04M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P6.T16),Turnover,Bad Pass,1,0,445
+0051900111,601,PT04M28.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. STEAL (3 STL),,,1,0,446
+0051900111,603,PT04M24.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,8,36,4,Missed,1,0,0,0,h,MISS Trent Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,447
+0051900111,603,PT04M24.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,Anderson BLOCK (1 BLK),,,1,2,448
+0051900111,605,PT04M24.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,449
+0051900111,607,PT04M24.00S,4,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Clarke FOR Tolliver,Substitution,,0,0,450
+0051900111,609,PT04M12.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,-70,258,27,Made,1,107,109,216,h,Trent Jr. 27' 3PT Jump Shot (7 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,451
+0051900111,611,PT03M50.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,11,263,26,Missed,1,0,0,0,v,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0051900111,612,PT03M48.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,453
+0051900111,613,PT03M46.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P7.T17),Turnover,Bad Pass,1,0,454
+0051900111,613,PT03M46.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. STEAL (4 STL),,,1,0,455
+0051900111,615,PT03M40.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke P.FOUL (P1.PN) (P.Fraher),Foul,Personal,1,0,456
+0051900111,617,PT03M40.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,457
+0051900111,618,PT03M40.00S,4,1610612763,MEM,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,v,SUB: Allen FOR Anderson,Substitution,,0,0,458
+0051900111,620,PT03M40.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,108,109,217,h,Nurkic Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0051900111,621,PT03M40.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,460
+0051900111,622,PT03M37.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,461
+0051900111,623,PT03M21.00S,4,1610612763,MEM,1629630,Morant,J. Morant,7,0,1,Made,1,108,111,219,v,Morant 1' Driving Reverse Layup (30 PTS) (Clarke 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,462
+0051900111,625,PT03M08.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-190,173,26,Made,1,111,111,222,h,McCollum 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,3,463
+0051900111,626,PT02M52.00S,4,1610612763,MEM,1629630,Morant,J. Morant,7,6,1,Missed,1,0,0,0,v,MISS Morant 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,464
+0051900111,627,PT02M50.00S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,0,0,0,h,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,465
+0051900111,628,PT02M41.00S,4,1610612757,POR,2546,Anthony,C. Anthony,227,6,0,Missed,1,0,0,0,h,MISS Anthony  3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0051900111,629,PT02M40.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:5 Def:15),Rebound,Unknown,1,0,467
+0051900111,630,PT02M39.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,-5,10,1,Made,1,113,111,224,h,Nurkic 1' Putback Layup (20 PTS),Made Shot,Putback Layup Shot,1,2,468
+0051900111,631,PT02M39.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas S.FOUL (P3.PN) (T.Brown),Foul,Shooting,1,0,469
+0051900111,633,PT02M39.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,114,111,225,h,Nurkic Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,470
+0051900111,634,PT02M24.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,-25,31,4,Missed,1,0,0,0,v,MISS Brooks 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,471
+0051900111,635,PT02M20.00S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,472
+0051900111,636,PT02M19.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-54,35,6,Missed,1,0,0,0,v,MISS Morant 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,473
+0051900111,637,PT02M17.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,474
+0051900111,639,PT02M05.00S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,-2,3,0,Made,1,114,113,227,v,Valanciunas  Alley Oop Layup (22 PTS) (Clarke 3 AST),Made Shot,Alley Oop Layup shot,1,2,475
+0051900111,641,PT01M50.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-23,253,25,Made,1,117,113,230,h,McCollum 25' 3PT Step Back Jump Shot (27 PTS),Made Shot,Step Back Jump shot,1,3,476
+0051900111,642,PT01M39.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,0,0,v,Morant Bad Pass Turnover (P8.T18),Turnover,Bad Pass,1,0,477
+0051900111,642,PT01M39.00S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. STEAL (5 STL),,,1,0,478
+0051900111,644,PT01M21.00S,4,1610612757,POR,203468,McCollum,C. McCollum,-99,185,21,Made,1,119,113,232,h,McCollum 21' Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,1,2,479
+0051900111,645,PT01M20.00S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,480
+0051900111,646,PT01M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,1,3,0,Made,1,119,115,234,v,Morant  Driving Reverse Layup (32 PTS) (Valanciunas 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,481
+0051900111,648,PT00M56.60S,4,1610612757,POR,203468,McCollum,C. McCollum,102,237,26,Missed,1,0,0,0,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0051900111,649,PT00M52.80S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,483
+0051900111,650,PT00M45.60S,4,1610612763,MEM,1629630,Morant,J. Morant,8,120,12,Missed,1,0,0,0,v,MISS Morant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,484
+0051900111,650,PT00M45.60S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,Trent Jr. BLOCK (2 BLK),,,1,2,485
+0051900111,652,PT00M45.60S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,486
+0051900111,654,PT00M42.80S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic S.FOUL (P5.T3) (J.Capers),Foul,Shooting,1,0,487
+0051900111,656,PT00M42.80S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,119,116,235,v,Allen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,488
+0051900111,657,PT00M42.80S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,489
+0051900111,658,PT00M42.30S,4,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,490
+0051900111,662,PT00M42.30S,4,0,,656,,,0,0,0,,0,119,116,235, ,Instant Replay4th Period (4:58 PM EST),Instant Replay,Support Ruling,0,0,491
+0051900111,663,PT00M21.00S,4,1610612757,POR,2546,Anthony,C. Anthony,230,2,0,Made,1,122,116,238,h,Anthony  3PT Jump Shot (19 PTS) (Lillard 10 AST),Made Shot,Jump Shot,1,3,492
+0051900111,665,PT00M20.20S,4,0,,1610612763,,,0,0,0,,0,0,0,0,v,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,493
+0051900111,666,PT00M16.10S,4,1610612763,MEM,1628415,Brooks,D. Brooks,-120,232,26,Made,1,122,119,241,v,Brooks 26' 3PT Jump Shot (20 PTS) (Valanciunas 6 AST),Made Shot,Jump Shot,1,3,494
+0051900111,668,PT00M09.10S,4,1610612763,MEM,1628960,Allen,G. Allen,0,0,0,,0,0,0,0,v,Allen Personal Take Foul (P2.PN) (P.Fraher),Foul,Personal Take,1,0,495
+0051900111,670,PT00M09.10S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,123,119,242,h,Trent Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,496
+0051900111,673,PT00M09.10S,4,1610612757,POR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,0,0,0,h,MISS Trent Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,497
+0051900111,671,PT00M09.10S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,SUB: Tolliver FOR Valanciunas,Substitution,,0,0,498
+0051900111,674,PT00M07.20S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Nurkic REBOUND (Off:6 Def:15),Rebound,Unknown,1,0,499
+0051900111,675,PT00M06.20S,4,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,Tolliver P.FOUL (P6.PN) (J.Capers),Foul,Personal,1,0,500
+0051900111,677,PT00M06.20S,4,1610612763,MEM,201229,Tolliver,A. Tolliver,0,0,0,,0,0,0,0,v,SUB: Valanciunas FOR Tolliver,Substitution,,0,0,501
+0051900111,679,PT00M06.20S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,124,119,243,h,Anthony Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+0051900111,680,PT00M06.20S,4,1610612757,POR,2546,Anthony,C. Anthony,0,0,0,,0,125,119,244,h,Anthony Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,503
+0051900111,681,PT00M02.10S,4,1610612763,MEM,1629630,Morant,J. Morant,12,245,25,Made,1,125,122,247,v,Morant 25' 3PT Running Pull-Up Jump Shot (35 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,504
+0051900111,683,PT00M01.40S,4,0,,1610612757,,,0,0,0,,0,0,0,0,h,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,505
+0051900111,684,PT00M00.90S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,0,0,0,v,Clarke Personal Take Foul (P2.PN) (P.Fraher),Foul,Personal Take,1,0,506
+0051900111,686,PT00M00.90S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,126,122,248,h,Nurkic Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+0051900111,687,PT00M00.90S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,508
+0051900111,688,PT00M00.40S,4,1610612763,MEM,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:4 Def:13),Rebound,Unknown,1,0,509
+0051900111,689,PT00M00.00S,4,0,,0,,,0,0,0,,0,126,122,248, ,End of 4th Period (5:06 PM EST),period,end,1,0,510

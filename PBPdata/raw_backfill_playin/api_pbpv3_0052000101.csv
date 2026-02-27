@@ -1,0 +1,540 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052000101,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:03 PM EST),period,start,0,0,1
+0052000101,4,PT12M00.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Jump Ball Williams III vs. Len: Tip to Beal,Jump Ball,,1,0,2
+0052000101,7,PT11M48.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,3
+0052000101,8,PT11M39.00S,1,1610612738,BOS,202689,Walker,K. Walker,57,168,18,Missed,1,,,0,h,MISS Walker 18' Jump Shot,Missed Shot,Jump Shot,1,2,4
+0052000101,9,PT11M35.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0052000101,10,PT11M27.00S,1,1610612764,WAS,203458,Len,A. Len,14,43,5,Made,1,0,2,2,v,Len 5' Cutting Finger Roll Layup Shot (2 PTS) (Beal 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,6
+0052000101,12,PT11M11.00S,1,1610612738,BOS,203095,Fournier,E. Fournier,-212,152,26,Made,1,3,2,5,h,Fournier 26' 3PT Jump Shot (3 PTS) (Smart 1 AST),Made Shot,Jump Shot,1,3,7
+0052000101,14,PT10M49.00S,1,1610612764,WAS,203458,Len,A. Len,-112,1,11,Missed,1,,,0,v,MISS Len 11' Jump Shot,Missed Shot,Jump Shot,1,2,8
+0052000101,14,PT10M49.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III BLOCK (1 BLK),,,1,2,9
+0052000101,15,PT10M48.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+0052000101,16,PT10M47.00S,1,1610612764,WAS,203078,Beal,B. Beal,-240,-6,24,Missed,1,,,0,v,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0052000101,17,PT10M46.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+0052000101,18,PT10M46.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,13
+0052000101,20,PT10M46.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,14
+0052000101,21,PT10M46.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,15
+0052000101,22,PT10M46.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,3,3,6,v,Len Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,16
+0052000101,23,PT10M30.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-58,122,14,Missed,1,,,0,h,MISS Tatum 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+0052000101,24,PT10M26.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+0052000101,25,PT10M21.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,101,90,14,Made,1,3,5,8,v,Hachimura 14' Pullup Jump Shot (2 PTS) (Beal 2 AST),Made Shot,Pullup Jump shot,1,2,19
+0052000101,27,PT10M01.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,199,164,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0052000101,28,PT09M58.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0052000101,29,PT09M54.00S,1,1610612764,WAS,203078,Beal,B. Beal,88,164,19,Missed,1,,,0,v,MISS Beal 19' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,22
+0052000101,30,PT09M52.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0052000101,31,PT09M44.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-67,90,11,Missed,1,,,0,h,MISS Tatum 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2,24
+0052000101,32,PT09M41.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,25
+0052000101,33,PT09M40.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura Offensive Charge Foul (P1.T1) (S.Foster),Foul,Offensive Charge,1,0,26
+0052000101,36,PT09M40.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,27
+0052000101,37,PT09M17.00S,1,1610612738,BOS,202689,Walker,K. Walker,-23,32,4,Made,1,5,5,10,h,Walker 4' Driving Finger Roll Layup (2 PTS) (Tatum 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,28
+0052000101,39,PT09M05.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,29
+0052000101,39,PT09M05.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III STEAL (1 STL),,,1,0,30
+0052000101,41,PT08M59.00S,1,1610612738,BOS,203935,Smart,M. Smart,226,49,0,Made,1,8,5,13,h,Smart 3PT Jump Shot (3 PTS) (Walker 1 AST),Made Shot,Jump Shot,1,3,31
+0052000101,43,PT08M33.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,23,197,20,Made,1,8,7,15,v,Westbrook 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,32
+0052000101,44,PT08M17.00S,1,1610612738,BOS,203935,Smart,M. Smart,-232,15,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0052000101,45,PT08M15.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,34
+0052000101,46,PT08M10.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,35
+0052000101,46,PT08M10.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,36
+0052000101,48,PT08M00.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len S.FOUL (P1.T2) (R.Mott),Foul,Shooting,1,0,37
+0052000101,50,PT08M00.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,9,7,16,h,Williams III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,38
+0052000101,51,PT08M00.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,10,7,17,h,Williams III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,39
+0052000101,52,PT07M44.00S,1,1610612764,WAS,203078,Beal,B. Beal,-38,16,4,Missed,1,,,0,v,MISS Beal 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,40
+0052000101,52,PT07M44.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum BLOCK (1 BLK),,,1,2,41
+0052000101,53,PT07M41.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+0052000101,54,PT07M36.00S,1,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,43
+0052000101,54,PT07M36.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook STEAL (1 STL),,,1,0,44
+0052000101,56,PT07M31.00S,1,1610612764,WAS,203458,Len,A. Len,32,15,4,Missed,1,,,0,v,MISS Len 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,45
+0052000101,57,PT07M26.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,46
+0052000101,58,PT07M26.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,Missed,1,,,0,v,MISS Westbrook Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,47
+0052000101,59,PT07M25.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,48
+0052000101,60,PT07M23.00S,1,1610612764,WAS,203458,Len,A. Len,61,32,7,Missed,1,,,0,v,MISS Len 7' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,49
+0052000101,61,PT07M21.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,50
+0052000101,62,PT07M20.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,123,101,16,Missed,1,,,0,v,MISS Westbrook 16' Jump Shot,Missed Shot,Jump Shot,1,2,51
+0052000101,63,PT07M16.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+0052000101,64,PT07M05.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura P.FOUL (P2.T3) (R.Mott),Foul,Personal,1,0,53
+0052000101,66,PT07M05.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,54
+0052000101,69,PT07M05.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Gafford FOR Hachimura,Substitution,,0,0,55
+0052000101,70,PT07M05.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,SUB: Bertans FOR Len,Substitution,,0,0,56
+0052000101,73,PT06M58.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-177,194,26,Made,1,13,7,20,h,Tatum 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,57
+0052000101,74,PT06M40.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,-14,20,2,Made,1,13,9,22,v,Gafford 2' Alley Oop Dunk (2 PTS) (Westbrook 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,58
+0052000101,76,PT06M16.00S,1,1610612738,BOS,203935,Smart,M. Smart,-234,28,24,Missed,1,,,0,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0052000101,77,PT06M14.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,60
+0052000101,78,PT06M10.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,234,13,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0052000101,79,PT06M07.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,62
+0052000101,80,PT05M57.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,16,25,3,Made,1,15,9,24,h,Williams III 3' Turnaround Jump Shot (4 PTS) (Fournier 1 AST),Made Shot,Turnaround Jump Shot,1,2,63
+0052000101,82,PT05M44.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,-21,8,2,Missed,1,,,0,v,MISS Westbrook 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,64
+0052000101,83,PT05M42.00S,1,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0052000101,84,PT05M35.00S,1,1610612738,BOS,203095,Fournier,E. Fournier,-27,44,5,Missed,1,,,0,h,MISS Fournier 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,66
+0052000101,85,PT05M33.00S,1,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,67
+0052000101,86,PT05M31.00S,1,1610612738,BOS,203095,Fournier,E. Fournier,-28,28,4,Missed,1,,,0,h,MISS Fournier 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,68
+0052000101,87,PT05M29.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0052000101,88,PT05M24.00S,1,1610612764,WAS,203526,Neto,R. Neto,234,-2,0,Missed,1,,,0,v,MISS Neto 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0052000101,89,PT05M20.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,71
+0052000101,90,PT05M10.00S,1,1610612738,BOS,202689,Walker,K. Walker,26,28,4,Missed,1,,,0,h,MISS Walker 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,72
+0052000101,91,PT05M07.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,73
+0052000101,92,PT05M03.00S,1,1610612764,WAS,203078,Beal,B. Beal,6,5,1,Made,1,15,11,26,v,Beal 1' Running Dunk (2 PTS) (Neto 1 AST),Made Shot,Running Dunk Shot,1,2,74
+0052000101,94,PT04M47.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-112,111,16,Missed,1,,,0,h,MISS Tatum 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,75
+0052000101,94,PT04M47.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal BLOCK (1 BLK),,,1,2,76
+0052000101,96,PT04M43.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,77
+0052000101,97,PT04M39.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,78
+0052000101,97,PT04M39.00S,1,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker STEAL (1 STL),,,1,0,79
+0052000101,99,PT04M27.00S,1,1610612738,BOS,203935,Smart,M. Smart,8,18,2,Made,1,17,11,28,h,Smart 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,80
+0052000101,100,PT04M27.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0052000101,101,PT04M27.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Nesmith FOR Tatum,Substitution,,0,0,82
+0052000101,102,PT04M27.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Thompson FOR Williams III,Substitution,,0,0,83
+0052000101,103,PT04M27.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,SUB: Smith FOR Westbrook,Substitution,,0,0,84
+0052000101,104,PT04M27.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Hutchison FOR Neto,Substitution,,0,0,85
+0052000101,109,PT04M18.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,-26,10,3,Made,1,17,13,30,v,Gafford 3' Alley Oop Dunk (4 PTS) (Beal 3 AST),Made Shot,Alley Oop Dunk Shot,0,2,86
+0052000101,111,PT03M58.00S,1,1610612738,BOS,202684,Thompson,T. Thompson,-56,69,9,Made,1,19,13,32,h,Thompson 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,87
+0052000101,112,PT03M43.00S,1,1610612764,WAS,203078,Beal,B. Beal,-154,-1,15,Missed,1,,,0,v,MISS Beal 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,88
+0052000101,113,PT03M40.00S,1,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0052000101,114,PT03M24.00S,1,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0,90
+0052000101,116,PT03M24.00S,1,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,91
+0052000101,117,PT03M24.00S,1,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Ojeleye FOR Fournier,Substitution,,0,0,92
+0052000101,119,PT03M14.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0,93
+0052000101,121,PT03M14.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,94
+0052000101,122,PT03M08.00S,1,1610612738,BOS,202689,Walker,K. Walker,35,267,27,Made,1,22,13,35,h,Walker 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,95
+0052000101,123,PT02M48.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,7,20,2,Made,1,22,15,37,v,Gafford 2' Layup (6 PTS) (Smith 1 AST),Made Shot,Layup Shot,1,2,96
+0052000101,125,PT02M39.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford P.FOUL (P2.T4) (J.Williams),Foul,Personal,1,0,97
+0052000101,127,PT02M39.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,SUB: Westbrook FOR Beal,Substitution,,0,0,98
+0052000101,129,PT02M31.00S,1,1610612738,BOS,202689,Walker,K. Walker,65,268,28,Missed,1,,,0,h,MISS Walker 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0052000101,130,PT02M30.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,100
+0052000101,132,PT02M19.00S,1,1610612764,WAS,202397,Smith,I. Smith,29,140,14,Made,1,22,17,39,v,Smith 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,101
+0052000101,133,PT02M08.00S,1,1610612738,BOS,203935,Smart,M. Smart,-41,105,11,Made,1,24,17,41,h,Smart 11' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,102
+0052000101,134,PT01M59.00S,1,1610612764,WAS,202397,Smith,I. Smith,25,5,3,Made,1,24,19,43,v,Smith 3' Driving Finger Roll Layup (4 PTS) (Westbrook 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,103
+0052000101,136,PT01M45.00S,1,1610612738,BOS,203935,Smart,M. Smart,-35,130,13,Missed,1,,,0,h,MISS Smart 13' Jump Shot,Missed Shot,Jump Shot,1,2,104
+0052000101,137,PT01M42.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,105
+0052000101,138,PT01M33.00S,1,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,106
+0052000101,138,PT01M33.00S,1,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker STEAL (2 STL),,,1,0,107
+0052000101,140,PT01M27.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford P.FOUL (P3.PN) (S.Foster),Foul,Personal,1,0,108
+0052000101,142,PT01M27.00S,1,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,SUB: Tatum FOR Walker,Substitution,,0,0,109
+0052000101,143,PT01M27.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Pritchard FOR Smart,Substitution,,0,0,110
+0052000101,144,PT01M27.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,SUB: Lopez FOR Gafford,Substitution,,0,0,111
+0052000101,148,PT01M20.00S,1,1610612738,BOS,1630174,Nesmith,A. Nesmith,-9,265,27,Missed,1,,,0,h,MISS Nesmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0052000101,149,PT01M19.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,113
+0052000101,151,PT01M08.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,148,220,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,114
+0052000101,152,PT01M05.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0052000101,153,PT00M58.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-142,235,27,Made,1,27,19,46,h,Tatum 27' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,3,116
+0052000101,154,PT00M47.70S,1,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0,117
+0052000101,156,PT00M47.70S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,27,20,47,v,Westbrook Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0052000101,157,PT00M47.70S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,27,21,48,v,Westbrook Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,119
+0052000101,158,PT00M30.60S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-25,154,16,Missed,1,,,0,h,MISS Tatum 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,120
+0052000101,159,PT00M26.40S,1,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+0052000101,160,PT00M13.70S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-2,164,16,Missed,1,,,0,h,MISS Tatum 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,122
+0052000101,161,PT00M09.60S,1,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0052000101,162,PT00M00.20S,1,1610612764,WAS,202397,Smith,I. Smith,168,96,19,Missed,1,,,0,v,MISS Smith 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,124
+0052000101,163,PT00M00.20S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,125
+0052000101,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,21,48,,End of 1st Period (9:27 PM EST),period,end,1,0,126
+0052000101,165,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,21,48,,Start of 2nd Period (9:31 PM EST),period,start,0,0,127
+0052000101,166,PT11M39.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson OFF.Foul (P2) (J.Williams),Foul,Offensive,1,0,128
+0052000101,168,PT11M39.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0,129
+0052000101,170,PT11M29.00S,2,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,SUB: Fournier FOR Nesmith,Substitution,,0,0,130
+0052000101,172,PT11M25.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,131
+0052000101,172,PT11M25.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier STEAL (1 STL),,,1,0,132
+0052000101,174,PT11M24.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Personal Take Foul (P1.T1) (J.Williams),Foul,Personal Take,1,0,133
+0052000101,176,PT11M08.00S,2,1610612738,BOS,1628400,Ojeleye,S. Ojeleye,128,43,14,Missed,1,,,0,h,MISS Ojeleye 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,134
+0052000101,177,PT11M05.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0052000101,178,PT11M04.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,6,12,1,Made,1,29,21,50,h,Thompson 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,136
+0052000101,179,PT10M50.00S,2,1610612764,WAS,1628990,Hutchison,C. Hutchison,55,42,7,Made,1,29,23,52,v,Hutchison 7' Driving Hook Shot (2 PTS) (Westbrook 3 AST),Made Shot,Driving Hook Shot,1,2,137
+0052000101,181,PT10M32.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,8,26,3,Made,1,31,23,54,h,Tatum 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,138
+0052000101,182,PT10M21.00S,2,1610612764,WAS,202397,Smith,I. Smith,-21,1,2,Made,1,31,25,56,v,Smith 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,2,139
+0052000101,183,PT10M14.00S,2,1610612738,BOS,1628400,Ojeleye,S. Ojeleye,228,20,0,Missed,1,,,0,h,MISS Ojeleye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0052000101,184,PT10M10.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0052000101,185,PT10M05.00S,2,1610612764,WAS,202397,Smith,I. Smith,95,79,12,Made,1,31,27,58,v,Smith 12' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,142
+0052000101,186,PT09M51.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-172,225,28,Missed,1,,,0,h,MISS Pritchard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,143
+0052000101,187,PT09M48.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+0052000101,188,PT09M40.00S,2,1610612764,WAS,202397,Smith,I. Smith,105,124,16,Missed,1,,,0,v,MISS Smith 16' Jump Shot,Missed Shot,Jump Shot,1,2,145
+0052000101,189,PT09M38.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,146
+0052000101,191,PT09M23.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,147
+0052000101,191,PT09M23.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook STEAL (2 STL),,,0,0,148
+0052000101,193,PT09M17.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,-176,182,25,Missed,1,,,0,v,MISS Westbrook 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,149
+0052000101,194,PT09M14.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,150
+0052000101,195,PT08M59.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,-170,195,26,Missed,1,,,0,h,MISS Fournier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0052000101,196,PT08M55.00S,2,1610612764,WAS,1628990,Hutchison,C. Hutchison,0,0,0,,0,,,0,v,Hutchison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+0052000101,197,PT08M52.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Offensive Charge Foul (P1.T2) (R.Mott),Foul,Offensive Charge,1,0,153
+0052000101,199,PT08M52.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,154
+0052000101,200,PT08M52.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Williams III FOR Pritchard,Substitution,,0,0,155
+0052000101,201,PT08M52.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Walker FOR Thompson,Substitution,,0,0,156
+0052000101,202,PT08M52.00S,2,1610612764,WAS,1628990,Hutchison,C. Hutchison,0,0,0,,0,,,0,v,SUB: Beal FOR Hutchison,Substitution,,0,0,157
+0052000101,206,PT08M40.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,21,49,5,Missed,1,,,0,h,MISS Tatum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,158
+0052000101,207,PT08M39.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,159
+0052000101,208,PT08M26.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,46,79,9,Made,1,31,29,60,v,Lopez 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,160
+0052000101,209,PT08M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+0052000101,210,PT08M15.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,19,21,3,Made,1,33,29,62,h,Fournier 3' Driving Layup (5 PTS) (Williams III 1 AST),Made Shot,Driving Layup Shot,0,2,162
+0052000101,212,PT07M51.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Smart FOR Tatum,Substitution,,0,0,163
+0052000101,214,PT07M49.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Jump Ball Walker vs. Lopez: Tip to Bertans,Jump Ball,,1,0,164
+0052000101,217,PT07M49.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,159,224,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,165
+0052000101,218,PT07M48.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,166
+0052000101,219,PT07M48.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,167
+0052000101,220,PT07M38.00S,2,1610612738,BOS,203935,Smart,M. Smart,127,230,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0052000101,221,PT07M35.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,169
+0052000101,222,PT07M28.00S,2,1610612764,WAS,202397,Smith,I. Smith,23,252,25,Made,1,33,32,65,v,Smith 25' 3PT Jump Shot (11 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,1,3,170
+0052000101,224,PT07M10.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,226,83,24,Missed,1,,,0,h,MISS Fournier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0052000101,225,PT07M08.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,172
+0052000101,226,PT07M01.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,173
+0052000101,228,PT07M01.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,33,33,66,v,Lopez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,174
+0052000101,229,PT07M01.00S,2,1610612738,BOS,1628400,Ojeleye,S. Ojeleye,0,0,0,,0,,,0,h,SUB: Tatum FOR Ojeleye,Substitution,,0,0,175
+0052000101,230,PT07M01.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,SUB: Hachimura FOR Westbrook,Substitution,,0,0,176
+0052000101,231,PT07M01.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Neto FOR Bertans,Substitution,,0,0,177
+0052000101,235,PT07M01.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,MISS Lopez Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,178
+0052000101,236,PT06M59.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+0052000101,237,PT06M51.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,180
+0052000101,239,PT06M51.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,34,33,67,h,Walker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,181
+0052000101,240,PT06M51.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,35,33,68,h,Walker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+0052000101,242,PT06M41.00S,2,1610612764,WAS,203078,Beal,B. Beal,25,22,3,Made,1,35,35,70,v,Beal 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,183
+0052000101,243,PT06M19.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-237,54,24,Missed,1,,,0,h,MISS Tatum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0052000101,243,PT06M19.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith BLOCK (1 BLK),,,1,3,185
+0052000101,245,PT06M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,186
+0052000101,247,PT06M17.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Thompson FOR Williams III,Substitution,,0,0,187
+0052000101,249,PT06M13.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P1.T4) (R.Mott),Foul,Shooting,1,0,188
+0052000101,251,PT06M13.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,36,35,71,h,Tatum Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+0052000101,252,PT06M13.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,37,35,72,h,Tatum Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+0052000101,253,PT05M54.00S,2,1610612764,WAS,203078,Beal,B. Beal,-37,245,25,Missed,1,,,0,v,MISS Beal 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,191
+0052000101,254,PT05M52.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,192
+0052000101,255,PT05M51.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,119,98,15,Made,1,37,37,74,v,Hachimura 15' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,193
+0052000101,256,PT05M35.00S,2,1610612738,BOS,202689,Walker,K. Walker,216,136,26,Missed,1,,,0,h,MISS Walker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,194
+0052000101,257,PT05M32.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,195
+0052000101,258,PT05M27.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,39,69,8,Made,1,37,39,76,v,Hachimura 8' Turnaround Hook Shot (6 PTS) (Beal 4 AST),Made Shot,Turnaround Hook Shot,1,2,196
+0052000101,260,PT05M11.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,-43,104,11,Missed,1,,,0,h,MISS Thompson 11' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,197
+0052000101,261,PT05M09.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,198
+0052000101,262,PT05M02.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,87,9,Made,1,37,41,78,v,Beal 9' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,199
+0052000101,263,PT04M48.00S,2,1610612738,BOS,202689,Walker,K. Walker,-3,49,5,Missed,1,,,0,h,MISS Walker 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,200
+0052000101,263,PT04M48.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal BLOCK (2 BLK),,,1,2,201
+0052000101,265,PT04M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,202
+0052000101,267,PT04M47.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker T.FOUL (P1.T1) (J.Williams),Foul,Technical,1,0,203
+0052000101,268,PT04M47.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,37,42,79,v,Beal Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,0,204
+0052000101,269,PT04M47.00S,2,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,SUB: Westbrook FOR Smith,Substitution,,0,0,205
+0052000101,271,PT04M42.00S,2,1610612738,BOS,202689,Walker,K. Walker,-196,174,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0052000101,272,PT04M40.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,207
+0052000101,273,PT04M30.00S,2,1610612764,WAS,203078,Beal,B. Beal,-155,16,16,Missed,1,,,0,v,MISS Beal 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+0052000101,274,PT04M28.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+0052000101,275,PT04M19.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-204,172,27,Missed,1,,,0,h,MISS Tatum 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,210
+0052000101,276,PT04M15.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,211
+0052000101,277,PT04M11.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,5,134,13,Missed,1,,,0,v,MISS Westbrook 13' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,212
+0052000101,278,PT04M08.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,213
+0052000101,279,PT03M59.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura S.FOUL (P3.PN) (J.Williams),Foul,Shooting,1,0,214
+0052000101,281,PT03M59.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,38,42,80,h,Thompson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+0052000101,282,PT03M59.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Bertans FOR Hachimura,Substitution,,0,0,216
+0052000101,283,PT03M59.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Len FOR Lopez,Substitution,,0,0,217
+0052000101,286,PT03M59.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,218
+0052000101,287,PT03M57.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,219
+0052000101,288,PT03M45.00S,2,1610612764,WAS,203078,Beal,B. Beal,41,22,5,Made,1,38,44,82,v,Beal 5' Driving Finger Roll Layup (9 PTS) (Westbrook 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,220
+0052000101,290,PT03M34.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,221
+0052000101,291,PT03M34.00S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Williams III FOR Thompson,Substitution,,0,0,222
+0052000101,292,PT03M34.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Langford FOR Smart,Substitution,,0,0,223
+0052000101,295,PT03M21.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,-174,196,26,Missed,1,,,0,h,MISS Fournier 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,224
+0052000101,296,PT03M17.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,225
+0052000101,297,PT03M08.00S,2,1610612764,WAS,203458,Len,A. Len,-5,67,7,Made,1,38,46,84,v,Len 7' Floating Jump Shot (5 PTS) (Beal 5 AST),Made Shot,Floating Jump shot,1,2,226
+0052000101,299,PT02M55.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker Traveling Turnover (P2.T5),Turnover,Traveling,1,0,227
+0052000101,301,PT02M46.00S,2,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,SUB: Smart FOR Langford,Substitution,,0,0,228
+0052000101,303,PT02M40.00S,2,1610612764,WAS,203526,Neto,R. Neto,67,90,11,Missed,1,,,0,v,MISS Neto 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,229
+0052000101,304,PT02M34.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,230
+0052000101,305,PT02M32.00S,2,1610612738,BOS,202689,Walker,K. Walker,10,27,3,Made,1,40,46,86,h,Walker 3' Driving Layup (9 PTS) (Fournier 2 AST),Made Shot,Driving Layup Shot,1,2,231
+0052000101,307,PT02M15.00S,2,1610612764,WAS,203078,Beal,B. Beal,121,125,17,Made,1,40,48,88,v,Beal 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,232
+0052000101,308,PT02M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-17,18,2,Made,1,42,48,90,h,Tatum 2' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,1,2,233
+0052000101,309,PT01M50.00S,2,1610612764,WAS,202722,Bertans,D. Bertans,-109,227,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0052000101,310,PT01M47.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,235
+0052000101,311,PT01M46.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,-5,-2,1,Made,1,42,50,92,v,Westbrook 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,236
+0052000101,312,PT01M36.00S,2,1610612738,BOS,202689,Walker,K. Walker,6,20,2,Missed,1,,,0,h,MISS Walker 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,237
+0052000101,313,PT01M35.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,238
+0052000101,314,PT01M34.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,Made,1,44,50,94,h,Walker Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,239
+0052000101,315,PT01M34.00S,2,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0,240
+0052000101,317,PT01M34.00S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,45,50,95,h,Walker Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,241
+0052000101,318,PT01M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,-68,32,8,Made,1,45,52,97,v,Beal 8' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,242
+0052000101,319,PT01M03.00S,2,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,243
+0052000101,321,PT01M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,46,52,98,h,Tatum Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,1,0,244
+0052000101,322,PT01M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,47,52,99,h,Tatum Free Throw 2 of 3 (14 PTS),Free Throw,Free Throw 2 of 3,1,0,245
+0052000101,323,PT01M03.00S,2,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Langford FOR Fournier,Substitution,,0,0,246
+0052000101,325,PT01M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,48,52,100,h,Tatum Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,1,0,247
+0052000101,326,PT00M52.40S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,77,20,8,Missed,1,,,0,v,MISS Westbrook 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,248
+0052000101,326,PT00M52.40S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum BLOCK (2 BLK),,,1,2,249
+0052000101,328,PT00M50.10S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,250
+0052000101,329,PT00M45.40S,2,1610612738,BOS,203935,Smart,M. Smart,118,243,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0052000101,330,PT00M42.20S,2,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,252
+0052000101,331,PT00M40.60S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,253
+0052000101,332,PT00M40.60S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Thompson FOR Williams III,Substitution,,0,0,254
+0052000101,334,PT00M31.30S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-6,147,15,Made,1,50,52,102,h,Tatum 15' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,1,2,255
+0052000101,335,PT00M31.30S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,256
+0052000101,337,PT00M31.30S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,51,52,103,h,Tatum Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,257
+0052000101,338,PT00M26.40S,2,1610612764,WAS,203458,Len,A. Len,39,53,7,Missed,1,,,0,v,MISS Len 7' Hook Shot,Missed Shot,Hook Shot,1,2,258
+0052000101,339,PT00M25.70S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,259
+0052000101,340,PT00M25.70S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,Made,1,51,54,105,v,Westbrook Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,260
+0052000101,341,PT00M04.90S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-191,179,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0052000101,342,PT00M03.20S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,262
+0052000101,343,PT00M03.20S,2,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len L.B.FOUL (P3.PN) (S.Foster),Foul,Loose Ball,1,0,263
+0052000101,345,PT00M03.20S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,264
+0052000101,346,PT00M03.20S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,265
+0052000101,347,PT00M03.20S,2,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,SUB: Lopez FOR Len,Substitution,,0,0,266
+0052000101,349,PT00M03.20S,2,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,52,54,106,h,Thompson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,267
+0052000101,350,PT00M00.30S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Offensive Charge Foul (P2.PN) (J.Williams),Foul,Offensive Charge,1,0,268
+0052000101,352,PT00M00.30S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,269
+0052000101,353,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,54,106,,End of 2nd Period (10:04 PM EST),period,end,1,0,270
+0052000101,362,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,54,106,,Start of 3rd Period (10:21 PM EST),period,start,0,0,271
+0052000101,363,PT11M48.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-49,21,5,Made,1,54,54,108,h,Tatum 5' Driving Layup (20 PTS) (Fournier 3 AST),Made Shot,Driving Layup Shot,1,2,272
+0052000101,364,PT11M48.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto S.FOUL (P2.T1) (R.Mott),Foul,Shooting,1,0,273
+0052000101,366,PT11M48.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,55,54,109,h,Tatum Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,274
+0052000101,367,PT11M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,-24,49,5,Made,1,55,56,111,v,Beal 5' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,275
+0052000101,368,PT11M37.00S,3,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker S.FOUL (P2.T1) (R.Mott),Foul,Shooting,1,0,276
+0052000101,370,PT11M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,MISS Beal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,277
+0052000101,371,PT11M35.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,278
+0052000101,372,PT11M29.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura P.FOUL (P4.T2) (R.Mott),Foul,Personal,1,0,279
+0052000101,374,PT11M29.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Bertans FOR Hachimura,Substitution,,0,0,280
+0052000101,376,PT11M24.00S,3,1610612738,BOS,202689,Walker,K. Walker,-95,229,25,Made,1,58,56,114,h,Walker 25' 3PT Pullup Jump Shot (15 PTS) (Tatum 2 AST),Made Shot,Pullup Jump shot,1,3,281
+0052000101,378,PT11M13.00S,3,1610612764,WAS,203078,Beal,B. Beal,-220,170,28,Missed,1,,,0,v,MISS Beal 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,282
+0052000101,379,PT11M10.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,283
+0052000101,380,PT11M02.00S,3,1610612738,BOS,202689,Walker,K. Walker,34,27,4,Missed,1,,,0,h,MISS Walker 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+0052000101,381,PT10M59.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,285
+0052000101,382,PT10M54.00S,3,1610612764,WAS,202722,Bertans,D. Bertans,-142,235,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+0052000101,383,PT10M52.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,287
+0052000101,384,PT10M50.00S,3,1610612738,BOS,202689,Walker,K. Walker,27,17,3,Missed,1,,,0,h,MISS Walker 3' Running Layup,Missed Shot,Running Layup Shot,1,2,288
+0052000101,384,PT10M50.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook BLOCK (1 BLK),,,1,2,289
+0052000101,386,PT10M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,290
+0052000101,388,PT10M49.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Thompson FOR Williams III,Substitution,,0,0,291
+0052000101,390,PT10M44.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,77,24,8,Missed,1,,,0,h,MISS Thompson 8' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,292
+0052000101,391,PT10M41.00S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,293
+0052000101,392,PT10M30.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,294
+0052000101,392,PT10M30.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (1 STL),,,1,0,295
+0052000101,394,PT10M29.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Personal Take Foul (P2.T3) (R.Mott),Foul,Personal Take,1,0,296
+0052000101,396,PT10M24.00S,3,1610612738,BOS,202689,Walker,K. Walker,-70,242,25,Made,1,61,56,117,h,Walker 25' 3PT Jump Shot (18 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,3,297
+0052000101,398,PT10M22.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,298
+0052000101,400,PT10M07.00S,3,1610612764,WAS,203458,Len,A. Len,48,109,12,Missed,1,,,0,v,MISS Len 12' Driving Layup,Missed Shot,Driving Layup Shot,1,2,299
+0052000101,401,PT10M06.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,Len REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,300
+0052000101,402,PT10M05.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,Missed,1,,,0,v,MISS Len Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,301
+0052000101,403,PT10M01.00S,3,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,302
+0052000101,404,PT09M46.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,23,113,12,Missed,1,,,0,h,MISS Tatum 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,303
+0052000101,405,PT09M42.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,304
+0052000101,406,PT09M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,-132,106,17,Missed,1,,,0,v,MISS Beal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,305
+0052000101,407,PT09M35.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,306
+0052000101,408,PT09M25.00S,3,1610612738,BOS,202689,Walker,K. Walker,123,221,25,Made,1,64,56,120,h,Walker 25' 3PT Jump Shot (21 PTS) (Tatum 4 AST),Made Shot,Jump Shot,1,3,307
+0052000101,410,PT09M12.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P1.T2) (R.Mott),Foul,Personal,1,0,308
+0052000101,412,PT09M12.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Gafford FOR Neto,Substitution,,0,0,309
+0052000101,413,PT09M12.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,v,SUB: Smith FOR Len,Substitution,,0,0,310
+0052000101,416,PT09M06.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,-94,262,28,Missed,1,,,0,v,MISS Westbrook 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0052000101,417,PT09M00.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,312
+0052000101,418,PT08M40.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,159,27,16,Made,1,66,56,122,h,Tatum 16' Turnaround Fadeaway (23 PTS),Made Shot,Turnaround Fadeaway shot,1,2,313
+0052000101,419,PT08M26.00S,3,1610612764,WAS,203078,Beal,B. Beal,116,247,27,Missed,1,,,0,v,MISS Beal 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0052000101,420,PT08M22.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,315
+0052000101,421,PT08M09.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-226,3,0,Made,1,69,56,125,h,Tatum 3PT Jump Shot (26 PTS) (Walker 2 AST),Made Shot,Jump Shot,1,3,316
+0052000101,423,PT08M08.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,317
+0052000101,425,PT07M52.00S,3,1610612764,WAS,203078,Beal,B. Beal,-66,80,10,Missed,1,,,0,v,MISS Beal 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+0052000101,426,PT07M47.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,319
+0052000101,427,PT07M47.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,Made,1,69,58,127,v,Gafford Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,320
+0052000101,428,PT07M38.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-18,10,2,Made,1,71,58,129,h,Tatum 2' Alley Oop Layup (28 PTS) (Smart 2 AST),Made Shot,Alley Oop Layup shot,1,2,321
+0052000101,430,PT07M22.00S,3,1610612764,WAS,203078,Beal,B. Beal,65,123,14,Missed,1,,,0,v,MISS Beal 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,322
+0052000101,431,PT07M18.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,323
+0052000101,432,PT07M13.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-157,187,24,Made,1,74,58,132,h,Tatum 24' 3PT Jump Shot (31 PTS) (Smart 3 AST),Made Shot,Jump Shot,1,3,324
+0052000101,434,PT07M02.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,325
+0052000101,436,PT07M02.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,74,59,133,v,Westbrook Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0052000101,437,PT07M02.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,74,60,134,v,Westbrook Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0052000101,438,PT06M46.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-31,20,4,Missed,1,,,0,h,MISS Tatum 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,328
+0052000101,438,PT06M46.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford BLOCK (1 BLK),,,1,2,329
+0052000101,440,PT06M42.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,330
+0052000101,441,PT06M40.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,-191,167,25,Missed,1,,,0,v,MISS Westbrook 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,331
+0052000101,442,PT06M37.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,332
+0052000101,443,PT06M34.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook OFF.Foul (P3) (R.Mott),Foul,Offensive,1,0,333
+0052000101,445,PT06M34.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,1,0,334
+0052000101,446,PT06M25.00S,3,1610612738,BOS,202689,Walker,K. Walker,70,248,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0052000101,447,PT06M21.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,336
+0052000101,448,PT06M17.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier S.FOUL (P2.T4) (S.Foster),Foul,Shooting,1,0,337
+0052000101,450,PT06M17.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,74,61,135,v,Westbrook Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,338
+0052000101,452,PT06M17.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,74,62,136,v,Westbrook Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,339
+0052000101,453,PT06M01.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,35,16,4,Made,1,76,62,138,h,Thompson 4' Cutting Dunk Shot (8 PTS) (Fournier 4 AST),Made Shot,Cutting Dunk Shot,1,2,340
+0052000101,455,PT05M49.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,24,29,4,Made,1,76,64,140,v,Westbrook 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,341
+0052000101,457,PT05M49.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Violation:Defensive Goaltending (J.Williams),Violation,Defensive Goaltending,1,0,342
+0052000101,458,PT05M42.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal P.FOUL (P3.T4) (S.Foster),Foul,Personal,1,0,343
+0052000101,460,PT05M42.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,SUB: Mathews FOR Westbrook,Substitution,,0,0,344
+0052000101,462,PT05M36.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-131,210,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0052000101,463,PT05M30.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,346
+0052000101,464,PT05M26.00S,3,1610612764,WAS,202722,Bertans,D. Bertans,-98,23,10,Made,1,76,66,142,v,Bertans 10' Jump Shot (2 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,2,347
+0052000101,466,PT05M05.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier OFF.Foul (P3) (R.Mott),Foul,Offensive,1,0,348
+0052000101,468,PT05M05.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,349
+0052000101,469,PT05M05.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Nesmith FOR Tatum,Substitution,,0,0,350
+0052000101,471,PT04M56.00S,3,1610612764,WAS,203078,Beal,B. Beal,10,25,3,Made,1,76,68,144,v,Beal 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,351
+0052000101,472,PT04M35.00S,3,1610612738,BOS,1630174,Nesmith,A. Nesmith,-145,210,26,Made,1,79,68,147,h,Nesmith 26' 3PT Jump Shot (3 PTS) (Smart 4 AST),Made Shot,Jump Shot,1,3,352
+0052000101,474,PT04M17.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,353
+0052000101,474,PT04M17.00S,3,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith STEAL (1 STL),,,1,0,354
+0052000101,476,PT04M05.00S,3,1610612738,BOS,202689,Walker,K. Walker,-133,208,25,Missed,1,,,0,h,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0052000101,477,PT04M03.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,356
+0052000101,478,PT04M03.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith L.B.FOUL (P2.PN) (J.Williams),Foul,Loose Ball,1,0,357
+0052000101,480,PT04M03.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,358
+0052000101,481,PT04M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,359
+0052000101,482,PT04M03.00S,3,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,SUB: Langford FOR Walker,Substitution,,0,0,360
+0052000101,484,PT04M03.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,80,68,148,h,Thompson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0052000101,485,PT03M51.00S,3,1610612764,WAS,203078,Beal,B. Beal,-76,133,15,Missed,1,,,0,v,MISS Beal 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,362
+0052000101,486,PT03M47.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,363
+0052000101,487,PT03M36.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,83,166,19,Missed,1,,,0,h,MISS Fournier 19' Jump Shot,Missed Shot,Jump Shot,1,2,364
+0052000101,488,PT03M31.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,365
+0052000101,489,PT03M31.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,h,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,366
+0052000101,490,PT03M30.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,367
+0052000101,491,PT03M28.00S,3,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,368
+0052000101,493,PT03M28.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,80,69,149,v,Smith Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+0052000101,494,PT03M28.00S,3,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Tatum FOR Fournier,Substitution,,0,0,370
+0052000101,496,PT03M28.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,80,70,150,v,Smith Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+0052000101,497,PT03M10.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,122,138,18,Made,1,82,70,152,h,Tatum 18' Turnaround Fadeaway (33 PTS),Made Shot,Turnaround Fadeaway shot,1,2,372
+0052000101,498,PT02M49.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,373
+0052000101,498,PT02M49.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,374
+0052000101,500,PT02M47.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.PN) (R.Mott),Foul,Shooting,1,0,375
+0052000101,502,PT02M47.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,83,70,153,h,Tatum Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,376
+0052000101,503,PT02M47.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,84,70,154,h,Tatum Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,0,377
+0052000101,504,PT02M25.00S,3,1610612764,WAS,203078,Beal,B. Beal,43,268,27,Made,1,84,73,157,v,Beal 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,378
+0052000101,505,PT02M14.00S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,379
+0052000101,507,PT02M14.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,85,73,158,h,Tatum Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0052000101,508,PT02M14.00S,3,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Kornet FOR Thompson,Substitution,,0,0,381
+0052000101,509,PT02M14.00S,3,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Westbrook FOR Bertans,Substitution,,0,0,382
+0052000101,512,PT02M14.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,86,73,159,h,Tatum Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0052000101,513,PT02M06.00S,3,1610612764,WAS,202397,Smith,I. Smith,120,44,13,Made,1,86,75,161,v,Smith 13' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,384
+0052000101,514,PT01M47.00S,3,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,385
+0052000101,514,PT01M47.00S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith STEAL (1 STL),,,1,0,386
+0052000101,516,PT01M43.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,-43,17,5,Missed,1,,,0,v,MISS Westbrook 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,387
+0052000101,517,PT01M40.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,388
+0052000101,518,PT01M34.00S,3,1610612738,BOS,1630174,Nesmith,A. Nesmith,143,210,25,Missed,1,,,0,h,MISS Nesmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0052000101,519,PT01M30.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,Beal REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,390
+0052000101,520,PT01M21.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,-237,74,25,Made,1,86,78,164,v,Mathews 25' 3PT Jump Shot (3 PTS) (Gafford 1 AST),Made Shot,Jump Shot,1,3,391
+0052000101,522,PT01M02.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,0,392
+0052000101,524,PT01M02.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,87,78,165,h,Tatum Free Throw 1 of 2 (38 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0052000101,525,PT01M02.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Walker FOR Smart,Substitution,,0,0,394
+0052000101,526,PT01M02.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,SUB: Lopez FOR Gafford,Substitution,,0,0,395
+0052000101,529,PT01M02.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,88,78,166,h,Tatum Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,1,0,396
+0052000101,530,PT00M50.90S,3,1610612764,WAS,203078,Beal,B. Beal,25,76,8,Made,1,88,80,168,v,Beal 8' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,397
+0052000101,531,PT00M28.10S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-42,215,22,Made,1,90,80,170,h,Tatum 22' Jump Shot (41 PTS),Made Shot,Jump Shot,1,2,398
+0052000101,532,PT00M09.20S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith Offensive Charge Foul (P3.PN) (S.Foster),Foul,Offensive Charge,1,0,399
+0052000101,534,PT00M09.20S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,400
+0052000101,535,PT00M01.80S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,401
+0052000101,535,PT00M01.80S,3,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,Smith STEAL (2 STL),,,1,0,402
+0052000101,537,PT00M00.30S,3,1610612764,WAS,203078,Beal,B. Beal,70,645,65,Missed,1,,,0,v,MISS Beal 65' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0052000101,538,PT00M00.30S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,404
+0052000101,539,PT00M00.00S,3,0,,0,,,0,0,0,,0,90,80,170,,End of 3rd Period (10:51 PM EST),period,end,1,0,405
+0052000101,544,PT12M00.00S,4,0,,0,,,0,0,0,,0,90,80,170,,Start of 4th Period (10:55 PM EST),period,start,0,0,406
+0052000101,545,PT11M45.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,-38,102,11,Made,1,90,82,172,v,Lopez 11' Driving Hook Shot (5 PTS),Made Shot,Driving Hook Shot,1,2,407
+0052000101,546,PT11M23.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook P.FOUL (P4.T1) (S.Foster),Foul,Personal,1,0,408
+0052000101,548,PT11M19.00S,4,1610612738,BOS,202689,Walker,K. Walker,98,241,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0052000101,549,PT11M14.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,410
+0052000101,550,PT11M11.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,-233,24,0,Missed,1,,,0,h,MISS Nesmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0052000101,551,PT11M10.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,412
+0052000101,552,PT11M10.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum L.B.FOUL (P1.T1) (J.Williams),Foul,Loose Ball,1,0,413
+0052000101,554,PT10M50.00S,4,1610612764,WAS,1629726,Mathews,G. Mathews,-232,33,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0052000101,554,PT10M50.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith BLOCK (1 BLK),,,1,3,415
+0052000101,556,PT10M46.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,416
+0052000101,557,PT10M41.00S,4,1610612738,BOS,202689,Walker,K. Walker,-26,258,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0052000101,558,PT10M37.00S,4,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,418
+0052000101,559,PT10M34.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford P.FOUL (P2.T2) (S.Foster),Foul,Personal,1,0,419
+0052000101,561,PT10M24.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,-11,96,10,Missed,1,,,0,v,MISS Lopez 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,420
+0052000101,562,PT10M23.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,421
+0052000101,563,PT10M23.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P3.T3) (R.Mott),Foul,Loose Ball,1,0,422
+0052000101,565,PT10M23.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,SUB: Fournier FOR Nesmith,Substitution,,0,0,423
+0052000101,567,PT10M17.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,-7,120,12,Missed,1,,,0,v,MISS Lopez 12' Jump Shot,Missed Shot,Jump Shot,1,2,424
+0052000101,567,PT10M17.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker BLOCK (1 BLK),,,1,2,425
+0052000101,569,PT10M13.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,426
+0052000101,570,PT10M13.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura S.FOUL (P5.T2) (J.Williams),Foul,Shooting,1,0,427
+0052000101,572,PT10M13.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,MISS Langford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,428
+0052000101,573,PT10M13.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,429
+0052000101,574,PT10M13.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Bertans FOR Hachimura,Substitution,,0,0,430
+0052000101,576,PT10M13.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,91,82,173,h,Langford Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+0052000101,577,PT10M04.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,62,144,16,Missed,1,,,0,v,MISS Westbrook 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,432
+0052000101,578,PT09M59.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,433
+0052000101,579,PT09M51.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,434
+0052000101,579,PT09M51.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook STEAL (3 STL),,,1,0,435
+0052000101,581,PT09M49.00S,4,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier S.FOUL (P4.T4) (R.Mott),Foul,Shooting,1,0,436
+0052000101,583,PT09M49.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,91,83,174,v,Westbrook Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+0052000101,584,PT09M49.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,91,84,175,v,Westbrook Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+0052000101,585,PT09M37.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,439
+0052000101,587,PT09M37.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,92,84,176,h,Tatum Free Throw 1 of 2 (42 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+0052000101,588,PT09M37.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,93,84,177,h,Tatum Free Throw 2 of 2 (43 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+0052000101,589,PT09M29.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,-17,32,4,Missed,1,,,0,v,MISS Westbrook 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+0052000101,590,PT09M27.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,443
+0052000101,591,PT09M13.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,63,8,6,Missed,1,,,0,h,MISS Tatum 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,444
+0052000101,591,PT09M13.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook BLOCK (2 BLK),,,1,2,445
+0052000101,593,PT09M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,446
+0052000101,595,PT09M11.00S,4,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Beal FOR Mathews,Substitution,,0,0,447
+0052000101,597,PT09M07.00S,4,1610612738,BOS,202689,Walker,K. Walker,79,92,12,Made,1,95,84,179,h,Walker 12' Pullup Jump Shot (23 PTS) (Thompson 1 AST),Made Shot,Pullup Jump shot,1,2,448
+0052000101,599,PT09M01.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker S.FOUL (P3.PN) (R.Mott),Foul,Shooting,1,0,449
+0052000101,601,PT09M01.00S,4,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,95,85,180,v,Smith Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,450
+0052000101,602,PT09M01.00S,4,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,95,86,181,v,Smith Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,451
+0052000101,603,PT08M49.00S,4,1610612738,BOS,203095,Fournier,E. Fournier,232,10,0,Made,1,98,86,184,h,Fournier 3PT Jump Shot (8 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,452
+0052000101,605,PT08M34.00S,4,1610612764,WAS,203078,Beal,B. Beal,-168,71,18,Missed,1,,,0,v,MISS Beal 18' Jump Shot,Missed Shot,Jump Shot,1,2,453
+0052000101,606,PT08M31.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,454
+0052000101,607,PT08M26.00S,4,1610612738,BOS,202689,Walker,K. Walker,-58,235,24,Missed,1,,,0,h,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0052000101,608,PT08M20.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,456
+0052000101,609,PT08M20.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,Missed,1,,,0,h,MISS Tatum Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,457
+0052000101,610,PT08M19.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,458
+0052000101,611,PT08M18.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,Walker S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,0,459
+0052000101,613,PT08M18.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,98,87,185,v,Bertans Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+0052000101,614,PT08M18.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,SUB: Smart FOR Walker,Substitution,,0,0,461
+0052000101,615,PT08M18.00S,4,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,SUB: Hachimura FOR Smith,Substitution,,0,0,462
+0052000101,618,PT08M18.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,98,88,186,v,Bertans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,463
+0052000101,619,PT08M05.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,123,218,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,464
+0052000101,620,PT08M01.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,465
+0052000101,621,PT07M52.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,70,22,7,Missed,1,,,0,h,MISS Tatum 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,466
+0052000101,621,PT07M52.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,2,467
+0052000101,623,PT07M50.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,468
+0052000101,625,PT07M49.00S,4,1610612738,BOS,203095,Fournier,E. Fournier,39,21,4,Missed,1,,,0,h,MISS Fournier 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,469
+0052000101,626,PT07M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,470
+0052000101,627,PT07M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,471
+0052000101,628,PT07M31.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,82,32,9,Missed,1,,,0,v,MISS Lopez 9' Hook Shot,Missed Shot,Hook Shot,1,2,472
+0052000101,629,PT07M29.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,473
+0052000101,630,PT07M15.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-13,-5,1,Made,1,100,88,188,h,Tatum 1' Driving Finger Roll Layup (45 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,474
+0052000101,631,PT07M15.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,475
+0052000101,632,PT07M06.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,190,183,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,476
+0052000101,633,PT07M03.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,477
+0052000101,634,PT06M43.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook S.FOUL (P5.T4) (S.Foster),Foul,Shooting,1,0,478
+0052000101,636,PT06M43.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,101,88,189,h,Thompson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,479
+0052000101,637,PT06M43.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Gafford FOR Lopez,Substitution,,0,0,480
+0052000101,639,PT06M43.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,481
+0052000101,640,PT06M42.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,482
+0052000101,641,PT06M24.00S,4,1610612764,WAS,203078,Beal,B. Beal,-35,26,4,Missed,1,,,0,v,MISS Beal 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,483
+0052000101,642,PT06M21.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,484
+0052000101,643,PT06M07.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,29,24,4,Missed,1,,,0,h,MISS Thompson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,485
+0052000101,643,PT06M07.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford BLOCK (2 BLK),,,1,2,486
+0052000101,644,PT06M05.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,487
+0052000101,645,PT06M02.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,19,26,3,Made,1,103,88,191,h,Thompson 3' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,488
+0052000101,646,PT05M53.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,151,47,16,Missed,1,,,0,v,MISS Hachimura 16' Jump Shot,Missed Shot,Jump Shot,1,2,489
+0052000101,647,PT05M51.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,490
+0052000101,649,PT05M32.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-162,188,25,Made,1,106,88,194,h,Tatum 25' 3PT Step Back Jump Shot (48 PTS),Made Shot,Step Back Jump shot,1,3,491
+0052000101,650,PT05M09.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,-23,25,3,Made,1,106,90,196,v,Gafford 3' Cutting Layup Shot (10 PTS) (Beal 6 AST),Made Shot,Cutting Layup Shot,1,2,492
+0052000101,652,PT04M48.00S,4,1610612738,BOS,1629641,Langford,R. Langford,8,10,1,Made,1,108,90,198,h,Langford 1' Driving Layup (3 PTS) (Smart 5 AST),Made Shot,Driving Layup Shot,1,2,493
+0052000101,654,PT04M39.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,120,233,26,Missed,1,,,0,v,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,494
+0052000101,655,PT04M36.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,Langford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,495
+0052000101,656,PT04M26.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P3.PN) (S.Foster),Foul,Personal,1,0,496
+0052000101,658,PT04M26.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,109,90,199,h,Tatum Free Throw 1 of 2 (49 PTS),Free Throw,Free Throw 1 of 2,1,0,497
+0052000101,659,PT04M26.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,110,90,200,h,Tatum Free Throw 2 of 2 (50 PTS),Free Throw,Free Throw 2 of 2,1,0,498
+0052000101,660,PT04M17.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,-1,50,5,Made,1,110,92,202,v,Westbrook 5' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,499
+0052000101,661,PT03M55.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,-5,5,1,Missed,1,,,0,h,MISS Thompson 1' Dunk,Missed Shot,Dunk Shot,1,2,500
+0052000101,661,PT03M55.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura BLOCK (1 BLK),,,1,2,501
+0052000101,663,PT03M53.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,v,Gafford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,502
+0052000101,664,PT03M46.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,47,33,6,Missed,1,,,0,v,MISS Gafford 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,503
+0052000101,665,PT03M45.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,Westbrook REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,504
+0052000101,666,PT03M45.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,Made,1,110,94,204,v,Westbrook Tip Layup Shot (20 PTS),Made Shot,Tip Layup Shot,1,2,505
+0052000101,667,PT03M45.00S,4,1610612738,BOS,1629641,Langford,R. Langford,0,0,0,,0,,,0,h,SUB: Walker FOR Langford,Substitution,,0,0,506
+0052000101,668,PT03M45.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,v,SUB: Smith FOR Beal,Substitution,,0,0,507
+0052000101,669,PT03M45.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,v,SUB: Mathews FOR Westbrook,Substitution,,0,0,508
+0052000101,673,PT03M27.00S,4,1610612738,BOS,203095,Fournier,E. Fournier,-222,20,0,Missed,1,,,0,h,MISS Fournier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0052000101,674,PT03M23.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,510
+0052000101,675,PT03M16.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-112,226,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,511
+0052000101,676,PT03M13.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,512
+0052000101,677,PT03M02.00S,4,1610612738,BOS,202689,Walker,K. Walker,157,218,27,Made,1,113,94,207,h,Walker 27' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,3,513
+0052000101,678,PT02M46.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,-23,263,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,514
+0052000101,679,PT02M45.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,515
+0052000101,681,PT02M45.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,516
+0052000101,682,PT02M45.00S,4,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Hutchison FOR Bertans,Substitution,,0,0,517
+0052000101,684,PT02M36.00S,4,1610612738,BOS,202689,Walker,K. Walker,-19,251,25,Made,1,116,94,210,h,Walker 25' 3PT Jump Shot (29 PTS) (Smart 6 AST),Made Shot,Jump Shot,1,3,518
+0052000101,686,PT02M18.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,-28,21,4,Made,1,116,96,212,v,Hachimura 4' Driving Layup (8 PTS) (Smith 3 AST),Made Shot,Driving Layup Shot,1,2,519
+0052000101,689,PT01M56.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart 3 Second Violation Turnover (P1.T11),Turnover,3 Second Violation,1,0,520
+0052000101,690,PT01M56.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Waters FOR Tatum,Substitution,,0,0,521
+0052000101,691,PT01M56.00S,4,1610612738,BOS,202689,Walker,K. Walker,0,0,0,,0,,,0,h,SUB: Kornet FOR Walker,Substitution,,0,0,522
+0052000101,692,PT01M56.00S,4,1610612738,BOS,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Nesmith FOR Thompson,Substitution,,0,0,523
+0052000101,693,PT01M56.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,0,524
+0052000101,694,PT01M56.00S,4,1610612738,BOS,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Edwards FOR Fournier,Substitution,,0,0,525
+0052000101,695,PT01M56.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Winston FOR Hachimura,Substitution,,0,0,526
+0052000101,696,PT01M56.00S,4,1610612764,WAS,202397,Smith,I. Smith,0,0,0,,0,,,0,v,SUB: Gill FOR Smith,Substitution,,0,0,527
+0052000101,704,PT01M34.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,-11,31,3,Made,1,116,98,214,v,Gafford 3' Alley Oop Dunk (12 PTS) (Winston 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,528
+0052000101,706,PT01M17.00S,4,1610612738,BOS,1629682,Waters,T. Waters,-25,248,25,Missed,1,,,0,h,MISS Waters 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,529
+0052000101,707,PT01M13.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,530
+0052000101,709,PT01M04.00S,4,1610612738,BOS,1629035,Edwards,C. Edwards,14,1,1,Made,1,118,98,216,h,Edwards 1' Reverse Layup (2 PTS) (Kornet 1 AST),Made Shot,Reverse Layup Shot,1,2,531
+0052000101,711,PT00M57.20S,4,1610612764,WAS,1630216,Winston,C. Winston,-16,133,13,Missed,1,,,0,v,MISS Winston 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,532
+0052000101,712,PT00M54.70S,4,1610612764,WAS,1630216,Winston,C. Winston,0,0,0,,0,,,0,v,Winston REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,533
+0052000101,713,PT00M52.50S,4,1610612764,WAS,1628990,Hutchison,C. Hutchison,-68,31,7,Missed,1,,,0,v,MISS Hutchison 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,534
+0052000101,714,PT00M49.30S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,535
+0052000101,715,PT00M38.70S,4,1610612738,BOS,1629035,Edwards,C. Edwards,-223,31,0,Missed,1,,,0,h,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,1,3,536
+0052000101,716,PT00M36.20S,4,1610612764,WAS,1628990,Hutchison,C. Hutchison,0,0,0,,0,,,0,v,Hutchison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,537
+0052000101,717,PT00M17.70S,4,1610612764,WAS,1630264,Gill,A. Gill,-117,104,16,Made,1,118,100,218,v,Gill 16' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,538
+0052000101,718,PT00M00.00S,4,0,,0,,,0,0,0,,0,118,100,218,,End of 4th Period (11:26 PM EST),period,end,1,0,539

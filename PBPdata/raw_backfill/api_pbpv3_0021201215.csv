@@ -1,0 +1,409 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (10:48 PM EST),period,start,0,0,1,0021201215
+1,PT12M00.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jump Ball Jordan vs. Leonard: Tip to Paul,Jump Ball,,0,0,2,0021201215
+2,PT11M50.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-10,25,3,Made,1,2,0,2,h,Griffin 3' Slam Dunk (2 PTS) (Paul 1 AST),Made Shot,Slam Dunk Shot,0,2,3,0021201215
+3,PT11M30.00S,1,1610612757,POR,201581,Hickson,J. Hickson,118,80,14,Missed,1,0,0,0,v,MISS Hickson 14' Jump Shot,Missed Shot,Jump Shot,0,2,4,0021201215
+4,PT11M27.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,5,0021201215
+5,PT11M18.00S,1,1610612746,LAC,2406,Butler,C. Butler,-185,42,19,Made,1,4,0,4,h,Butler 19' Jump Shot (2 PTS) (Griffin 1 AST),Made Shot,Jump Shot,0,2,6,0021201215
+6,PT10M59.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,7,0021201215
+6,PT10M59.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul STEAL (1 STL),,,0,0,8,0021201215
+7,PT10M55.00S,1,1610612746,LAC,101108,Paul,C. Paul,24,7,3,Made,1,6,0,6,h,Paul 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,9,0021201215
+8,PT10M31.00S,1,1610612757,POR,203115,Barton,W. Barton,2,31,3,Made,1,6,2,8,v,Barton 3' Jump Shot (2 PTS) (Hickson 1 AST),Made Shot,Jump Shot,0,2,10,0021201215
+9,PT10M17.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard S.FOUL (P1.T1),Foul,Shooting,0,0,11,0021201215
+10,PT10M17.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,7,2,9,h,Billups Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,12,0021201215
+12,PT10M17.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,8,2,10,h,Billups Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,13,0021201215
+14,PT10M02.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-59,162,17,Made,1,8,4,12,v,Lillard 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,2,14,0021201215
+15,PT09M53.00S,1,1610612746,LAC,2406,Butler,C. Butler,-220,164,27,Missed,1,0,0,0,h,MISS Butler 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,15,0021201215
+16,PT09M52.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,16,0021201215
+17,PT09M45.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,17,0021201215
+18,PT09M37.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson P.FOUL (P1.T2),Foul,Personal,0,0,18,0021201215
+19,PT09M26.00S,1,1610612746,LAC,101108,Paul,C. Paul,-246,12,25,Missed,1,0,0,0,h,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,19,0021201215
+20,PT09M24.00S,1,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,20,0021201215
+21,PT09M04.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-41,263,27,Missed,1,0,0,0,v,MISS Lillard 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,21,0021201215
+22,PT09M03.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,22,0021201215
+23,PT09M01.00S,1,1610612757,POR,201581,Hickson,J. Hickson,17,23,3,Made,1,8,6,14,v,Hickson 3' Layup (2 PTS),Made Shot,Layup Shot,0,2,23,0021201215
+24,PT08M55.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,29,19,3,Made,1,10,6,16,h,Griffin 3' Layup (4 PTS) (Paul 2 AST),Made Shot,Layup Shot,0,2,24,0021201215
+25,PT08M36.00S,1,1610612757,POR,203086,Leonard,M. Leonard,95,190,21,Made,1,10,8,18,v,Leonard 21' Jump Shot (2 PTS) (Claver 1 AST),Made Shot,Jump Shot,0,2,25,0021201215
+26,PT08M14.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,10,11,1,Made,1,12,8,20,h,Jordan 1' Slam Dunk (2 PTS) (Griffin 2 AST),Made Shot,Slam Dunk Shot,0,2,26,0021201215
+27,PT07M51.00S,1,1610612757,POR,201964,Claver,V. Claver,-164,208,26,Missed,1,0,0,0,v,MISS Claver 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,27,0021201215
+28,PT07M50.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,28,0021201215
+29,PT07M39.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,29,0021201215
+29,PT07M39.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul STEAL (2 STL),,,0,0,30,0021201215
+30,PT07M33.00S,1,1610612746,LAC,1497,Billups,C. Billups,-204,168,26,Missed,1,0,0,0,h,MISS Billups 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,31,0021201215
+31,PT07M31.00S,1,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,32,0021201215
+32,PT07M24.00S,1,1610612757,POR,203115,Barton,W. Barton,37,25,4,Missed,1,0,0,0,v,MISS Barton 4' Jump Shot,Missed Shot,Jump Shot,0,2,33,0021201215
+33,PT07M24.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,34,0021201215
+34,PT07M24.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul S.FOUL (P1.T1),Foul,Shooting,0,0,35,0021201215
+35,PT07M24.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,MISS Barton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,36,0021201215
+36,PT07M24.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,12,9,21,v,Barton Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,38,0021201215
+38,PT07M17.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups Traveling Turnover (P1.T1),Turnover,Traveling,0,0,39,0021201215
+39,PT07M17.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,40,0021201215
+41,PT07M24.00S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0,37,0021201215
+42,PT07M17.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,SUB: Freeland FOR Leonard,Substitution,,0,0,41,0021201215
+43,PT06M59.00S,1,1610612757,POR,203115,Barton,W. Barton,-4,66,7,Made,1,12,11,23,v,Barton 7' Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,0,2,42,0021201215
+44,PT06M48.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-19,14,2,Made,1,14,11,25,h,Griffin 2' Driving Dunk (6 PTS) (Billups 1 AST),Made Shot,Driving Dunk Shot,0,2,43,0021201215
+45,PT06M48.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson S.FOUL (P2.T3),Foul,Shooting,0,0,44,0021201215
+46,PT06M48.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,15,11,26,h,Griffin Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,45,0021201215
+48,PT06M36.00S,1,1610612757,POR,203115,Barton,W. Barton,26,173,17,Made,1,15,13,28,v,Barton 17' Jump Shot (7 PTS) (Lillard 1 AST),Made Shot,Jump Shot,0,2,46,0021201215
+49,PT06M10.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,-108,14,11,Missed,1,0,0,0,h,MISS Griffin 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,2,47,0021201215
+50,PT06M08.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,48,0021201215
+51,PT06M03.00S,1,1610612757,POR,201581,Hickson,J. Hickson,13,31,3,Missed,1,0,0,0,v,MISS Hickson 3' Layup,Missed Shot,Layup Shot,0,2,49,0021201215
+52,PT06M00.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,50,0021201215
+53,PT06M00.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,51,0021201215
+54,PT06M00.00S,1,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Leonard FOR Hickson,Substitution,,0,0,52,0021201215
+55,PT05M48.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,53,0021201215
+55,PT05M48.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul STEAL (3 STL),,,0,0,54,0021201215
+56,PT05M33.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,23,19,3,Made,1,17,13,30,h,Jordan 3' Slam Dunk (4 PTS) (Billups 2 AST),Made Shot,Slam Dunk Shot,0,2,55,0021201215
+57,PT05M19.00S,1,1610612757,POR,200777,Freeland,J. Freeland,24,11,3,Made,1,17,15,32,v,Freeland 3' Layup (2 PTS) (Lillard 2 AST),Made Shot,Layup Shot,0,2,56,0021201215
+58,PT05M00.00S,1,1610612746,LAC,1497,Billups,C. Billups,143,241,28,Missed,1,0,0,0,h,MISS Billups 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,57,0021201215
+59,PT04M59.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,58,0021201215
+60,PT04M49.00S,1,1610612746,LAC,101108,Paul,C. Paul,-190,175,26,Missed,1,0,0,0,h,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,59,0021201215
+61,PT04M48.00S,1,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,60,0021201215
+62,PT04M43.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,61,0021201215
+63,PT04M43.00S,1,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Billups,Substitution,,0,0,62,0021201215
+64,PT04M26.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,245,44,25,Made,1,20,15,35,h,Crawford 25' 3PT Jump Shot (3 PTS) (Paul 3 AST),Made Shot,Jump Shot,0,3,63,0021201215
+65,PT04M09.00S,1,1610612757,POR,201964,Claver,V. Claver,92,242,26,Missed,1,0,0,0,v,MISS Claver 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,64,0021201215
+66,PT04M08.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,65,0021201215
+67,PT04M03.00S,1,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver P.FOUL (P1.T4),Foul,Personal,0,0,66,0021201215
+68,PT04M03.00S,1,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,SUB: Pavlovic FOR Claver,Substitution,,0,0,67,0021201215
+69,PT03M59.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard P.FOUL (P1.PN),Foul,Personal,0,0,68,0021201215
+70,PT03M59.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,21,15,36,h,Paul Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,69,0021201215
+72,PT03M59.00S,1,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,SUB: Maynor FOR Barton,Substitution,,0,0,70,0021201215
+73,PT03M59.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,22,15,37,h,Paul Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,71,0021201215
+75,PT03M45.00S,1,1610612757,POR,203086,Leonard,M. Leonard,28,25,4,Made,1,22,17,39,v,Leonard 4' Slam Dunk (4 PTS) (Pavlovic 1 AST),Made Shot,Slam Dunk Shot,0,2,72,0021201215
+76,PT03M24.00S,1,1610612746,LAC,2406,Butler,C. Butler,36,33,5,Made,1,24,17,41,h,Butler 5' Jump Hook Shot (4 PTS) (Paul 4 AST),Made Shot,Jump Hook Shot,0,2,73,0021201215
+77,PT03M04.00S,1,1610612757,POR,2562,Pavlovic,S. Pavlovic,245,48,25,Made,1,24,20,44,v,Pavlovic 25' 3PT Jump Shot (3 PTS) (Lillard 3 AST),Made Shot,Jump Shot,0,3,74,0021201215
+78,PT02M55.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,12,25,3,Made,1,26,20,46,h,Griffin 3' Driving Layup (9 PTS) (Paul 5 AST),Made Shot,Driving Layup Shot,0,2,75,0021201215
+79,PT02M46.00S,1,1610612757,POR,201953,Maynor,E. Maynor,-49,74,9,Missed,1,0,0,0,v,MISS Maynor 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,76,0021201215
+80,PT02M43.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,77,0021201215
+81,PT02M30.00S,1,1610612746,LAC,2406,Butler,C. Butler,-232,31,0,Missed,1,0,0,0,h,MISS Butler  3PT Jump Shot,Missed Shot,Jump Shot,0,3,78,0021201215
+82,PT02M28.00S,1,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,79,0021201215
+83,PT02M19.00S,1,1610612757,POR,201953,Maynor,E. Maynor,127,220,25,Made,1,26,23,49,v,Maynor 25' 3PT Jump Shot (3 PTS) (Lillard 4 AST),Made Shot,Jump Shot,0,3,80,0021201215
+84,PT02M06.00S,1,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,81,0021201215
+86,PT02M06.00S,1,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Butler,Substitution,,0,0,82,0021201215
+87,PT02M06.00S,1,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,SUB: Bledsoe FOR Paul,Substitution,,0,0,83,0021201215
+88,PT02M06.00S,1,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Hollins FOR Jordan,Substitution,,0,0,84,0021201215
+89,PT01M53.00S,1,1610612746,LAC,2037,Crawford,J. Crawford,-103,255,28,Missed,1,0,0,0,h,MISS Crawford 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,85,0021201215
+90,PT01M52.00S,1,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,86,0021201215
+91,PT01M51.00S,1,1610612746,LAC,200797,Hollins,R. Hollins,-4,17,2,Made,1,28,23,51,h,Hollins 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,87,0021201215
+92,PT01M33.00S,1,1610612757,POR,2562,Pavlovic,S. Pavlovic,-59,26,6,Missed,1,0,0,0,v,MISS Pavlovic 6' Hook Shot,Missed Shot,Hook Shot,0,2,88,0021201215
+93,PT01M29.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,89,0021201215
+94,PT01M24.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0,90,0021201215
+95,PT01M04.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-38,254,26,Missed,1,0,0,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,91,0021201215
+96,PT01M01.00S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,92,0021201215
+97,PT00M48.90S,1,1610612746,LAC,2037,Crawford,J. Crawford,-43,268,27,Missed,1,0,0,0,h,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,93,0021201215
+98,PT00M47.80S,1,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,94,0021201215
+99,PT00M41.90S,1,1610612757,POR,201953,Maynor,E. Maynor,15,30,3,Missed,1,0,0,0,v,MISS Maynor 3' Layup,Missed Shot,Layup Shot,0,2,95,0021201215
+100,PT00M38.80S,1,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,96,0021201215
+101,PT00M26.90S,1,1610612746,LAC,202339,Bledsoe,E. Bledsoe,99,238,26,Missed,1,0,0,0,h,MISS Bledsoe 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,97,0021201215
+102,PT00M22.90S,1,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,Pavlovic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,98,0021201215
+105,PT00M04.60S,1,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins S.FOUL (P1.T2),Foul,Shooting,0,0,99,0021201215
+107,PT00M04.60S,1,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,MISS Freeland Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,100,0021201215
+110,PT00M04.60S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: Barton FOR Lillard,Substitution,,0,0,102,0021201215
+111,PT00M04.60S,1,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0,101,0021201215
+112,PT00M04.60S,1,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,28,24,52,v,Freeland Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,103,0021201215
+114,PT00M01.80S,1,1610612746,LAC,200797,Hollins,R. Hollins,42,58,7,Missed,1,0,0,0,h,MISS Hollins 7' Jump Shot,Missed Shot,Jump Shot,0,2,104,0021201215
+115,PT00M01.00S,1,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,105,0021201215
+116,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,24,52, ,End of 1st Period (11:14 PM EST),period,end,0,0,106,0021201215
+118,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,24,52, ,Start of 2nd Period (11:17 PM EST),period,start,0,0,107,0021201215
+119,PT11M44.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe S.FOUL (P1.T1),Foul,Shooting,0,0,108,0021201215
+120,PT11M44.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,28,25,53,v,Leonard Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,109,0021201215
+122,PT11M44.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,28,26,54,v,Leonard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,110,0021201215
+123,PT11M23.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,21,36,4,Made,1,30,26,56,h,Hollins 4' Slam Dunk (4 PTS) (Barnes 1 AST),Made Shot,Slam Dunk Shot,0,2,111,0021201215
+124,PT11M04.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,CLIPPERS T.Foul (Def. 3 Sec Hollins ),Foul,Defense 3 Second,0,0,112,0021201215
+125,PT11M04.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,30,27,57,v,Leonard Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,113,0021201215
+128,PT11M01.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,114,0021201215
+129,PT10M43.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,115,0021201215
+129,PT10M43.00S,2,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland STEAL (1 STL),,,0,0,116,0021201215
+130,PT10M36.00S,2,1610612757,POR,2562,Pavlovic,S. Pavlovic,7,22,2,Made,1,30,29,59,v,Pavlovic 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,2,117,0021201215
+131,PT10M36.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes S.FOUL (P1.T2),Foul,Shooting,0,0,118,0021201215
+132,PT10M36.00S,2,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,MISS Pavlovic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,119,0021201215
+134,PT10M34.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,120,0021201215
+135,PT10M19.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,9,17,2,Missed,1,0,0,0,h,MISS Bledsoe 2' Layup,Missed Shot,Layup Shot,0,2,121,0021201215
+136,PT10M16.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,4,28,3,Made,1,32,29,61,h,Bledsoe 3' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,123,0021201215
+137,PT10M16.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,122,0021201215
+138,PT10M08.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes P.FOUL (P2.T3),Foul,Personal,0,0,124,0021201215
+139,PT09M52.00S,2,1610612757,POR,203115,Barton,W. Barton,23,36,4,Missed,1,0,0,0,v,MISS Barton 4' Jump Shot,Missed Shot,Jump Shot,0,2,125,0021201215
+140,PT09M50.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,126,0021201215
+141,PT09M44.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,-84,145,17,Missed,1,0,0,0,h,MISS Bledsoe 17' Jump Shot,Missed Shot,Jump Shot,0,2,127,0021201215
+142,PT09M43.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,-4,25,3,Made,1,34,29,63,h,Hollins 3' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,2,129,0021201215
+143,PT09M43.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,128,0021201215
+144,PT09M18.00S,2,1610612757,POR,200777,Freeland,J. Freeland,-27,23,4,Missed,1,0,0,0,v,MISS Freeland 4' Jump Shot,Missed Shot,Jump Shot,0,2,130,0021201215
+145,PT09M17.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,131,0021201215
+146,PT09M04.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,171,200,26,Missed,1,0,0,0,h,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,132,0021201215
+147,PT09M03.00S,2,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,133,0021201215
+148,PT08M49.00S,2,1610612757,POR,200777,Freeland,J. Freeland,181,34,18,Missed,1,0,0,0,v,MISS Freeland 18' Jump Shot,Missed Shot,Jump Shot,0,2,134,0021201215
+149,PT08M47.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,135,0021201215
+150,PT08M34.00S,2,1610612746,LAC,1885,Odom,L. Odom,-95,260,28,Made,1,37,29,66,h,Odom 28' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),Made Shot,Jump Shot,0,3,136,0021201215
+151,PT08M33.00S,2,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,137,0021201215
+153,PT08M33.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,SUB: Lillard FOR Leonard,Substitution,,0,0,138,0021201215
+154,PT08M33.00S,2,1610612757,POR,201953,Maynor,E. Maynor,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Maynor,Substitution,,0,0,139,0021201215
+155,PT08M10.00S,2,1610612757,POR,2562,Pavlovic,S. Pavlovic,-130,241,27,Missed,1,0,0,0,v,MISS Pavlovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,140,0021201215
+156,PT08M09.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,141,0021201215
+157,PT07M53.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,122,119,17,Missed,1,0,0,0,h,MISS Bledsoe 17' Jump Shot,Missed Shot,Jump Shot,0,2,142,0021201215
+158,PT07M51.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,26,3,Missed,1,0,0,0,h,MISS Odom 3' Tip Shot,Missed Shot,Tip Shot,0,2,144,0021201215
+159,PT07M51.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,143,0021201215
+160,PT07M46.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,145,0021201215
+161,PT07M40.00S,2,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson S.FOUL (P3.T1),Foul,Shooting,0,0,146,0021201215
+162,PT07M40.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,38,29,67,h,Barnes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,147,0021201215
+164,PT07M40.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,148,0021201215
+165,PT07M36.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,149,0021201215
+166,PT07M32.00S,2,1610612746,LAC,1885,Odom,L. Odom,17,26,3,Missed,1,0,0,0,h,MISS Odom 3' Layup,Missed Shot,Layup Shot,0,2,150,0021201215
+167,PT07M31.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,17,23,3,Missed,1,0,0,0,h,MISS Bledsoe 3' Tip Shot,Missed Shot,Tip Shot,0,2,152,0021201215
+168,PT07M31.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,151,0021201215
+169,PT07M28.00S,2,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,153,0021201215
+170,PT07M21.00S,2,1610612757,POR,203115,Barton,W. Barton,248,-5,25,Missed,1,0,0,0,v,MISS Barton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,154,0021201215
+171,PT07M20.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,155,0021201215
+172,PT07M07.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 1 Short 1),Timeout,Short,0,0,156,0021201215
+173,PT06M57.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,157,0021201215
+174,PT06M38.00S,2,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,158,0021201215
+174,PT06M38.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom STEAL (1 STL),,,0,0,159,0021201215
+175,PT06M33.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,21,26,3,Made,1,40,29,69,h,Bledsoe 3' Driving Jump Shot (4 PTS) (Odom 1 AST),Made Shot,Driving Jump shot,0,2,160,0021201215
+176,PT06M12.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-131,118,18,Missed,1,0,0,0,v,MISS Lillard 18' Jump Shot,Missed Shot,Jump Shot,0,2,161,0021201215
+177,PT06M11.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,162,0021201215
+178,PT06M06.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,10,31,3,Made,1,42,29,71,h,Hollins 3' Driving Dunk (8 PTS) (Crawford 1 AST),Made Shot,Driving Dunk Shot,0,2,163,0021201215
+179,PT06M06.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Short (Full 1 Short 2),Timeout,Short,0,0,165,0021201215
+181,PT06M06.00S,2,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton S.FOUL (P1.T2),Foul,Shooting,0,0,164,0021201215
+182,PT06M06.00S,2,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,SUB: Babbitt FOR Hickson,Substitution,,0,0,166,0021201215
+183,PT06M06.00S,2,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,SUB: Claver FOR Freeland,Substitution,,0,0,167,0021201215
+184,PT06M06.00S,2,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,SUB: Leonard FOR Pavlovic,Substitution,,0,0,168,0021201215
+185,PT06M06.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,43,29,72,h,Hollins Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,169,0021201215
+188,PT05M43.00S,2,1610612757,POR,201964,Claver,V. Claver,-120,129,18,Missed,1,0,0,0,v,MISS Claver 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,170,0021201215
+189,PT05M40.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,171,0021201215
+190,PT05M29.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,-68,250,26,Missed,1,0,0,0,h,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,172,0021201215
+191,PT05M28.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,173,0021201215
+192,PT05M10.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,-11,276,28,Missed,1,0,0,0,h,MISS Crawford 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,174,0021201215
+193,PT05M08.00S,2,1610612757,POR,202337,Babbitt,L. Babbitt,0,0,0,,0,0,0,0,v,Babbitt REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,175,0021201215
+194,PT05M01.00S,2,1610612757,POR,203081,Lillard,D. Lillard,86,162,18,Missed,1,0,0,0,v,MISS Lillard 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,176,0021201215
+195,PT05M00.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,177,0021201215
+196,PT04M55.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,4,28,3,Made,1,45,29,74,h,Barnes 3' Driving Layup (3 PTS) (Crawford 2 AST),Made Shot,Driving Layup Shot,0,2,178,0021201215
+197,PT04M31.00S,2,1610612757,POR,203115,Barton,W. Barton,58,50,8,Missed,1,0,0,0,v,MISS Barton 8' Jump Shot,Missed Shot,Jump Shot,0,2,179,0021201215
+197,PT04M31.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,Hollins BLOCK (1 BLK),,,0,2,180,0021201215
+198,PT04M29.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,181,0021201215
+199,PT04M26.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,182,0021201215
+199,PT04M26.00S,2,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (1 STL),,,0,0,183,0021201215
+200,PT04M18.00S,2,1610612757,POR,203081,Lillard,D. Lillard,118,233,26,Made,1,45,32,77,v,Lillard 26' 3PT Jump Shot (5 PTS) (Barton 1 AST),Made Shot,Jump Shot,0,3,184,0021201215
+201,PT04M11.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 2),Timeout,Regular,0,0,185,0021201215
+203,PT04M11.00S,2,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,SUB: Maynor FOR Barton,Substitution,,0,0,186,0021201215
+204,PT04M11.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,SUB: Hickson FOR Leonard,Substitution,,0,0,187,0021201215
+205,PT04M11.00S,2,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Butler FOR Crawford,Substitution,,0,0,188,0021201215
+206,PT04M11.00S,2,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,SUB: Griffin FOR Barnes,Substitution,,0,0,189,0021201215
+207,PT04M11.00S,2,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,SUB: Jordan FOR Bledsoe,Substitution,,0,0,190,0021201215
+208,PT04M11.00S,2,1610612746,LAC,200797,Hollins,R. Hollins,0,0,0,,0,0,0,0,h,SUB: Billups FOR Hollins,Substitution,,0,0,191,0021201215
+209,PT04M11.00S,2,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,SUB: Paul FOR Odom,Substitution,,0,0,192,0021201215
+211,PT03M58.00S,2,1610612746,LAC,101108,Paul,C. Paul,129,164,21,Made,1,47,32,79,h,Paul 21' Jump Shot (6 PTS) (Billups 3 AST),Made Shot,Jump Shot,0,2,193,0021201215
+212,PT03M35.00S,2,1610612757,POR,201964,Claver,V. Claver,21,39,4,Missed,1,0,0,0,v,MISS Claver 4' Jump Shot,Missed Shot,Jump Shot,0,2,194,0021201215
+213,PT03M33.00S,2,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,195,0021201215
+214,PT03M27.00S,2,1610612746,LAC,1497,Billups,C. Billups,129,242,27,Missed,1,0,0,0,h,MISS Billups 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,196,0021201215
+215,PT03M25.00S,2,1610612757,POR,202337,Babbitt,L. Babbitt,0,0,0,,0,0,0,0,v,Babbitt REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,197,0021201215
+216,PT03M12.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-139,261,30,Missed,1,0,0,0,v,MISS Lillard 30' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,198,0021201215
+217,PT03M11.00S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,199,0021201215
+218,PT02M52.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,-21,28,4,Made,1,49,32,81,h,Jordan 4' Hook Bank Shot (6 PTS) (Griffin 3 AST),Made Shot,Hook Bank Shot,0,2,200,0021201215
+219,PT02M34.00S,2,1610612757,POR,201964,Claver,V. Claver,42,83,9,Missed,1,0,0,0,v,MISS Claver 9' Jump Shot,Missed Shot,Jump Shot,0,2,201,0021201215
+219,PT02M34.00S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (1 BLK),,,0,2,202,0021201215
+220,PT02M32.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0,203,0021201215
+221,PT02M32.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,204,0021201215
+223,PT02M16.00S,2,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver S.FOUL (P2.T3),Foul,Shooting,0,0,205,0021201215
+224,PT02M16.00S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,50,32,82,h,Billups Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,206,0021201215
+226,PT02M16.00S,2,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,51,32,83,h,Billups Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,207,0021201215
+228,PT02M04.00S,2,1610612757,POR,203081,Lillard,D. Lillard,103,246,27,Missed,1,0,0,0,v,MISS Lillard 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,208,0021201215
+229,PT02M02.00S,2,1610612757,POR,201581,Hickson,J. Hickson,15,19,2,Made,1,51,34,85,v,Hickson 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,2,210,0021201215
+230,PT02M02.00S,2,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,209,0021201215
+231,PT01M41.00S,2,1610612746,LAC,101108,Paul,C. Paul,-158,11,16,Made,1,53,34,87,h,Paul 16' Step Back Jump Shot (8 PTS) (Billups 4 AST),Made Shot,Step Back Jump shot,0,2,211,0021201215
+232,PT01M28.00S,2,1610612757,POR,201964,Claver,V. Claver,53,261,27,Made,1,53,37,90,v,Claver 27' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,0,3,212,0021201215
+233,PT01M01.00S,2,1610612757,POR,202337,Babbitt,L. Babbitt,0,0,0,,0,0,0,0,v,Babbitt S.FOUL (P1.T4),Foul,Shooting,0,0,213,0021201215
+234,PT01M01.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,214,0021201215
+235,PT01M01.00S,2,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0,215,0021201215
+236,PT01M01.00S,2,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,54,37,91,h,Griffin Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,216,0021201215
+238,PT00M39.90S,2,1610612757,POR,201581,Hickson,J. Hickson,-125,67,14,Missed,1,0,0,0,v,MISS Hickson 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,217,0021201215
+238,PT00M39.90S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (2 BLK),,,0,2,218,0021201215
+239,PT00M37.40S,2,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,219,0021201215
+240,PT00M25.90S,2,1610612746,LAC,2406,Butler,C. Butler,-139,22,14,Missed,1,0,0,0,h,MISS Butler 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,220,0021201215
+241,PT00M22.90S,2,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,221,0021201215
+242,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,37,91, ,End of 2nd Period (11:47 PM EST),period,end,0,0,222,0021201215
+244,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,37,91, ,Start of 3rd Period (12:06 AM EST),period,start,0,0,223,0021201215
+245,PT11M49.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler P.FOUL (P1.T1),Foul,Personal,0,0,224,0021201215
+246,PT11M37.00S,3,1610612757,POR,203086,Leonard,M. Leonard,-160,112,20,Missed,1,0,0,0,v,MISS Leonard 20' Jump Shot,Missed Shot,Jump Shot,0,2,225,0021201215
+247,PT11M35.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0,226,0021201215
+248,PT11M25.00S,3,1610612746,LAC,1497,Billups,C. Billups,110,195,22,Missed,1,0,0,0,h,MISS Billups 22' Jump Shot,Missed Shot,Jump Shot,0,2,227,0021201215
+249,PT11M24.00S,3,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,228,0021201215
+250,PT11M15.00S,3,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,0,229,0021201215
+250,PT11M15.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (1 STL),,,0,0,230,0021201215
+251,PT11M11.00S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard S.FOUL (P2.T1),Foul,Shooting,0,0,231,0021201215
+252,PT11M11.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,55,37,92,h,Griffin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,232,0021201215
+253,PT11M11.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,56,37,93,h,Griffin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,233,0021201215
+255,PT10M58.00S,3,1610612757,POR,203115,Barton,W. Barton,106,151,18,Missed,1,0,0,0,v,MISS Barton 18' Jump Shot,Missed Shot,Jump Shot,0,2,234,0021201215
+256,PT10M57.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,235,0021201215
+257,PT10M44.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,36,23,4,Made,1,58,37,95,h,Griffin 4' Driving Slam Dunk (14 PTS) (Billups 5 AST),Made Shot,Driving Slam Dunk Shot,0,2,236,0021201215
+258,PT10M17.00S,3,1610612757,POR,201964,Claver,V. Claver,89,101,13,Missed,1,0,0,0,v,MISS Claver 13' Jump Shot,Missed Shot,Jump Shot,0,2,237,0021201215
+259,PT10M16.00S,3,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,238,0021201215
+260,PT10M15.00S,3,1610612757,POR,201581,Hickson,J. Hickson,2,17,2,Made,1,58,39,97,v,Hickson 2' Layup (6 PTS),Made Shot,Layup Shot,0,2,239,0021201215
+261,PT09M53.00S,3,1610612746,LAC,2406,Butler,C. Butler,-229,30,0,Made,1,61,39,100,h,Butler  3PT Jump Shot (7 PTS) (Paul 6 AST),Made Shot,Jump Shot,0,3,240,0021201215
+262,PT09M36.00S,3,1610612757,POR,201581,Hickson,J. Hickson,-2,162,16,Missed,1,0,0,0,v,MISS Hickson 16' Jump Shot,Missed Shot,Jump Shot,0,2,241,0021201215
+263,PT09M35.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,242,0021201215
+264,PT09M25.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,-196,26,20,Missed,1,0,0,0,h,MISS Griffin 20' Jump Shot,Missed Shot,Jump Shot,0,2,243,0021201215
+265,PT09M23.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,244,0021201215
+266,PT09M21.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,245,0021201215
+266,PT09M21.00S,3,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (2 STL),,,0,0,246,0021201215
+267,PT09M16.00S,3,1610612757,POR,203115,Barton,W. Barton,7,15,2,Made,1,61,41,102,v,Barton 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,2,247,0021201215
+268,PT08M52.00S,3,1610612746,LAC,101108,Paul,C. Paul,70,93,12,Missed,1,0,0,0,h,MISS Paul 12' Jump Shot,Missed Shot,Jump Shot,0,2,248,0021201215
+269,PT08M50.00S,3,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,Hickson REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,249,0021201215
+270,PT08M42.00S,3,1610612757,POR,203081,Lillard,D. Lillard,17,260,26,Missed,1,0,0,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,250,0021201215
+271,PT08M41.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,251,0021201215
+272,PT08M28.00S,3,1610612746,LAC,2406,Butler,C. Butler,-183,-21,18,Missed,1,0,0,0,h,MISS Butler 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,252,0021201215
+273,PT08M25.00S,3,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,253,0021201215
+274,PT08M17.00S,3,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Bad Pass Turnover (P5.T9),Turnover,Bad Pass,0,0,254,0021201215
+274,PT08M17.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,Billups STEAL (1 STL),,,0,0,255,0021201215
+275,PT08M15.00S,3,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton P.FOUL (P2.T2),Foul,Personal,0,0,256,0021201215
+276,PT08M06.00S,3,1610612746,LAC,1497,Billups,C. Billups,65,254,26,Missed,1,0,0,0,h,MISS Billups 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,257,0021201215
+277,PT08M05.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,258,0021201215
+278,PT07M44.00S,3,1610612757,POR,203115,Barton,W. Barton,-7,167,17,Made,1,61,43,104,v,Barton 17' Jump Shot (11 PTS) (Lillard 6 AST),Made Shot,Jump Shot,0,2,259,0021201215
+279,PT07M30.00S,3,1610612746,LAC,2406,Butler,C. Butler,171,50,18,Made,1,63,43,106,h,Butler 18' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,260,0021201215
+280,PT07M10.00S,3,1610612757,POR,201964,Claver,V. Claver,165,198,26,Made,1,63,46,109,v,Claver 26' 3PT Jump Shot (6 PTS) (Barton 2 AST),Made Shot,Jump Shot,0,3,261,0021201215
+281,PT06M58.00S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard P.FOUL (P3.T3),Foul,Personal,0,0,262,0021201215
+282,PT06M52.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,12,28,3,Made,1,65,46,111,h,Griffin 3' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,0,2,263,0021201215
+283,PT06M36.00S,3,1610612757,POR,201964,Claver,V. Claver,-149,227,27,Made,1,65,49,114,v,Claver 27' 3PT Jump Shot (9 PTS) (Lillard 7 AST),Made Shot,Jump Shot,0,3,264,0021201215
+284,PT06M20.00S,3,1610612746,LAC,2406,Butler,C. Butler,-106,19,11,Made,1,67,49,116,h,Butler 11' Jump Shot (11 PTS) (Paul 7 AST),Made Shot,Jump Shot,0,2,265,0021201215
+285,PT06M07.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,266,0021201215
+285,PT06M07.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin STEAL (2 STL),,,0,0,267,0021201215
+286,PT05M54.00S,3,1610612746,LAC,2406,Butler,C. Butler,-194,11,19,Made,1,69,49,118,h,Butler 19' Jump Shot (13 PTS) (Paul 8 AST),Made Shot,Jump Shot,0,2,268,0021201215
+287,PT05M54.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,269,0021201215
+289,PT05M54.00S,3,1610612746,LAC,1497,Billups,C. Billups,0,0,0,,0,0,0,0,h,SUB: Crawford FOR Billups,Substitution,,0,0,270,0021201215
+290,PT05M29.00S,3,1610612757,POR,203086,Leonard,M. Leonard,174,19,18,Missed,1,0,0,0,v,MISS Leonard 18' Jump Shot,Missed Shot,Jump Shot,0,2,271,0021201215
+291,PT05M28.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,272,0021201215
+292,PT05M05.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,21,126,13,Missed,1,0,0,0,h,MISS Griffin 13' Hook Shot,Missed Shot,Hook Shot,0,2,273,0021201215
+293,PT05M04.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,0,274,0021201215
+294,PT05M04.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,275,0021201215
+296,PT04M45.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin S.FOUL (P1.T2),Foul,Shooting,0,0,276,0021201215
+297,PT04M45.00S,3,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,69,50,119,v,Hickson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,277,0021201215
+298,PT04M45.00S,3,1610612757,POR,201581,Hickson,J. Hickson,0,0,0,,0,0,0,0,v,MISS Hickson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,278,0021201215
+300,PT04M43.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,279,0021201215
+301,PT04M23.00S,3,1610612746,LAC,2406,Butler,C. Butler,-141,220,26,Made,1,72,50,122,h,Butler 26' 3PT Jump Shot (16 PTS) (Crawford 3 AST),Made Shot,Jump Shot,0,3,280,0021201215
+302,PT04M05.00S,3,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,281,0021201215
+302,PT04M05.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler STEAL (1 STL),,,0,0,282,0021201215
+303,PT04M00.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,7,22,2,Made,1,74,50,124,h,Jordan 2' Alley Oop Dunk (8 PTS) (Paul 9 AST),Made Shot,Alley Oop Dunk Shot,0,2,283,0021201215
+304,PT03M47.00S,3,1610612757,POR,203081,Lillard,D. Lillard,53,271,28,Made,1,74,53,127,v,Lillard 28' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,3,284,0021201215
+305,PT03M36.00S,3,1610612746,LAC,2406,Butler,C. Butler,50,257,26,Made,1,77,53,130,h,Butler 26' 3PT Jump Shot (19 PTS) (Paul 10 AST),Made Shot,Jump Shot,0,3,285,0021201215
+306,PT03M20.00S,3,1610612757,POR,201581,Hickson,J. Hickson,23,17,3,Missed,1,0,0,0,v,MISS Hickson 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,286,0021201215
+307,PT03M18.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,287,0021201215
+308,PT03M18.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard P.FOUL (P2.T4),Foul,Personal,0,0,288,0021201215
+309,PT03M18.00S,3,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,SUB: Pavlovic FOR Claver,Substitution,,0,0,289,0021201215
+310,PT03M18.00S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,SUB: Freeland FOR Leonard,Substitution,,0,0,290,0021201215
+311,PT03M09.00S,3,1610612746,LAC,101108,Paul,C. Paul,97,101,14,Missed,1,0,0,0,h,MISS Paul 14' Jump Shot,Missed Shot,Jump Shot,0,2,291,0021201215
+312,PT03M08.00S,3,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,Pavlovic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,292,0021201215
+313,PT03M00.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-15,22,3,Missed,1,0,0,0,v,MISS Lillard 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,293,0021201215
+314,PT02M59.00S,3,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0,294,0021201215
+315,PT02M59.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,295,0021201215
+316,PT02M59.00S,3,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 2),Timeout,Regular,0,0,296,0021201215
+317,PT02M53.00S,3,1610612757,POR,203115,Barton,W. Barton,146,137,20,Made,1,77,55,132,v,Barton 20' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,0,2,297,0021201215
+318,PT02M37.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,1,22,2,Made,1,79,55,134,h,Jordan 2' Layup (10 PTS) (Paul 11 AST),Made Shot,Layup Shot,0,2,298,0021201215
+319,PT02M37.00S,3,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland S.FOUL (P1.PN),Foul,Shooting,0,0,299,0021201215
+320,PT02M37.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,MISS Jordan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,300,0021201215
+322,PT02M35.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,301,0021201215
+323,PT02M27.00S,3,1610612746,LAC,2406,Butler,C. Butler,239,3,24,Made,1,82,55,137,h,Butler 24' 3PT Jump Shot (22 PTS) (Griffin 4 AST),Made Shot,Jump Shot,0,3,302,0021201215
+324,PT01M59.00S,3,1610612757,POR,200777,Freeland,J. Freeland,-155,23,16,Missed,1,0,0,0,v,MISS Freeland 16' Jump Shot,Missed Shot,Jump Shot,0,2,303,0021201215
+324,PT01M59.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan BLOCK (3 BLK),,,0,2,304,0021201215
+325,PT01M57.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,305,0021201215
+326,PT01M50.00S,3,1610612746,LAC,2406,Butler,C. Butler,-207,145,25,Missed,1,0,0,0,h,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,306,0021201215
+327,PT01M49.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,307,0021201215
+328,PT01M45.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0,308,0021201215
+328,PT01M45.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,Jordan STEAL (1 STL),,,0,0,309,0021201215
+329,PT01M32.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,310,0021201215
+329,PT01M32.00S,3,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland STEAL (2 STL),,,0,0,311,0021201215
+330,PT01M29.00S,3,1610612757,POR,200777,Freeland,J. Freeland,0,28,3,Made,1,82,57,139,v,Freeland 3' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,0,2,312,0021201215
+331,PT01M06.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,Griffin 3 Second Violation Turnover (P3.T10),Turnover,3 Second Violation,0,0,313,0021201215
+332,PT01M06.00S,3,1610612746,LAC,2406,Butler,C. Butler,0,0,0,,0,0,0,0,h,SUB: Turiaf FOR Butler,Substitution,,0,0,314,0021201215
+333,PT01M06.00S,3,1610612746,LAC,201933,Griffin,B. Griffin,0,0,0,,0,0,0,0,h,SUB: Odom FOR Griffin,Substitution,,0,0,315,0021201215
+334,PT01M06.00S,3,1610612746,LAC,201599,Jordan,D. Jordan,0,0,0,,0,0,0,0,h,SUB: Barnes FOR Jordan,Substitution,,0,0,316,0021201215
+335,PT01M06.00S,3,1610612746,LAC,101108,Paul,C. Paul,0,0,0,,0,0,0,0,h,SUB: Bledsoe FOR Paul,Substitution,,0,0,317,0021201215
+336,PT00M47.90S,3,1610612757,POR,203115,Barton,W. Barton,50,108,12,Missed,1,0,0,0,v,MISS Barton 12' Jump Shot,Missed Shot,Jump Shot,0,2,318,0021201215
+337,PT00M45.90S,3,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,319,0021201215
+338,PT00M38.70S,3,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,320,0021201215
+339,PT00M16.90S,3,1610612757,POR,2562,Pavlovic,S. Pavlovic,-229,77,24,Missed,1,0,0,0,v,MISS Pavlovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,321,0021201215
+340,PT00M15.70S,3,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,322,0021201215
+341,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,57,139, ,End of 3rd Period (12:30 AM EST),period,end,0,0,323,0021201215
+343,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,57,139, ,Start of 4th Period (12:34 AM EST),period,start,0,0,324,0021201215
+344,PT11M38.00S,4,1610612746,LAC,1885,Odom,L. Odom,-101,-6,10,Missed,1,0,0,0,h,MISS Odom 10' Hook Shot,Missed Shot,Hook Shot,0,2,325,0021201215
+345,PT11M35.00S,4,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,326,0021201215
+346,PT11M24.00S,4,1610612757,POR,201964,Claver,V. Claver,24,28,4,Made,1,82,59,141,v,Claver 4' Driving Layup (11 PTS) (Barton 3 AST),Made Shot,Driving Layup Shot,0,2,327,0021201215
+347,PT10M59.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,94,250,27,Missed,1,0,0,0,h,MISS Bledsoe 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,328,0021201215
+348,PT10M58.00S,4,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,Pavlovic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,329,0021201215
+349,PT10M47.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-114,94,15,Made,1,82,61,143,v,Lillard 15' Jump Shot (10 PTS) (Barton 4 AST),Made Shot,Jump Shot,0,2,330,0021201215
+350,PT10M34.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-21,37,4,Made,1,84,61,145,h,Crawford 4' Floating Jump Shot (5 PTS) (Odom 2 AST),Made Shot,Floating Jump shot,0,2,331,0021201215
+351,PT10M11.00S,4,1610612757,POR,201964,Claver,V. Claver,113,233,26,Missed,1,0,0,0,v,MISS Claver 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,332,0021201215
+352,PT10M10.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,333,0021201215
+353,PT09M57.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,334,0021201215
+353,PT09M57.00S,4,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton STEAL (3 STL),,,0,0,335,0021201215
+354,PT09M51.00S,4,1610612757,POR,200777,Freeland,J. Freeland,-18,19,3,Made,1,84,63,147,v,Freeland 3' Reverse Layup (7 PTS) (Barton 5 AST),Made Shot,Reverse Layup Shot,0,2,336,0021201215
+355,PT09M30.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-221,-10,0,Missed,1,0,0,0,h,MISS Crawford  3PT Jump Shot,Missed Shot,Jump Shot,0,3,337,0021201215
+356,PT09M30.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,0,338,0021201215
+358,PT09M14.00S,4,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton Step Out of Bounds Turnover (P6.T13),Turnover,Step Out of Bounds Turnover,0,0,339,0021201215
+359,PT09M06.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,Barnes Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,340,0021201215
+361,PT08M52.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom P.FOUL (P1.T1),Foul,Personal,0,0,341,0021201215
+362,PT08M52.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,342,0021201215
+364,PT08M38.00S,4,1610612757,POR,200777,Freeland,J. Freeland,29,64,7,Made,1,84,65,149,v,Freeland 7' Jump Hook Shot (9 PTS),Made Shot,Jump Hook Shot,0,2,343,0021201215
+365,PT08M19.00S,4,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver P.FOUL (P3.T1),Foul,Personal,0,0,344,0021201215
+366,PT08M19.00S,4,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,SUB: Leonard FOR Pavlovic,Substitution,,0,0,345,0021201215
+368,PT08M14.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,242,25,24,Missed,1,0,0,0,h,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,346,0021201215
+369,PT08M13.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,347,0021201215
+370,PT08M09.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,-221,135,26,Made,1,87,65,152,h,Crawford 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,3,348,0021201215
+371,PT07M41.00S,4,1610612757,POR,201964,Claver,V. Claver,170,222,28,Missed,1,0,0,0,v,MISS Claver 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,349,0021201215
+372,PT07M40.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,350,0021201215
+373,PT07M20.00S,4,1610612746,LAC,1885,Odom,L. Odom,-152,99,18,Missed,1,0,0,0,h,MISS Odom 18' Jump Shot,Missed Shot,Jump Shot,0,2,351,0021201215
+374,PT07M19.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,352,0021201215
+375,PT07M01.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,353,0021201215
+375,PT07M01.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,Crawford STEAL (1 STL),,,0,0,354,0021201215
+376,PT06M48.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,24,26,4,Made,1,89,65,154,h,Barnes 4' Layup (5 PTS) (Odom 3 AST),Made Shot,Layup Shot,0,2,355,0021201215
+377,PT06M27.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom P.FOUL (P2.T2),Foul,Personal,0,0,356,0021201215
+378,PT06M27.00S,4,1610612746,LAC,2037,Crawford,J. Crawford,0,0,0,,0,0,0,0,h,SUB: Green FOR Crawford,Substitution,,0,0,357,0021201215
+379,PT06M27.00S,4,1610612746,LAC,2440,Barnes,M. Barnes,0,0,0,,0,0,0,0,h,SUB: Hill FOR Barnes,Substitution,,0,0,358,0021201215
+380,PT06M20.00S,4,1610612757,POR,200777,Freeland,J. Freeland,-120,154,20,Missed,1,0,0,0,v,MISS Freeland 20' Jump Shot,Missed Shot,Jump Shot,0,2,359,0021201215
+381,PT06M19.00S,4,1610612746,LAC,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,360,0021201215
+382,PT05M59.00S,4,1610612746,LAC,101142,Turiaf,R. Turiaf,26,82,9,Missed,1,0,0,0,h,MISS Turiaf 9' Hook Shot,Missed Shot,Hook Shot,0,2,361,0021201215
+383,PT05M57.00S,4,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,362,0021201215
+384,PT05M52.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe S.FOUL (P2.T3),Foul,Shooting,0,0,363,0021201215
+385,PT05M52.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe T.FOUL (P2.T3),Foul,Technical,0,0,364,0021201215
+387,PT05M52.00S,4,0,,1610612746,,,0,0,0,,0,0,0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,0,365,0021201215
+389,PT05M52.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,MISS Lillard Free Throw Technical,Free Throw,Free Throw Technical,0,0,366,0021201215
+390,PT05M52.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,0,367,0021201215
+391,PT05M52.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,89,66,155,v,Lillard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,368,0021201215
+393,PT05M52.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,89,67,156,v,Lillard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,369,0021201215
+395,PT05M35.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,89,137,16,Missed,1,0,0,0,h,MISS Bledsoe 16' Jump Shot,Missed Shot,Jump Shot,0,2,370,0021201215
+396,PT05M34.00S,4,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,371,0021201215
+397,PT05M20.00S,4,1610612757,POR,203115,Barton,W. Barton,-103,154,19,Made,1,89,69,158,v,Barton 19' Jump Shot (15 PTS) (Lillard 8 AST),Made Shot,Jump Shot,0,2,372,0021201215
+398,PT05M02.00S,4,1610612746,LAC,255,Hill,G. Hill,-243,-8,24,Missed,1,0,0,0,h,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,373,0021201215
+399,PT05M01.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,374,0021201215
+400,PT04M42.00S,4,1610612757,POR,200777,Freeland,J. Freeland,201,-14,20,Missed,1,0,0,0,v,MISS Freeland 20' Jump Shot,Missed Shot,Jump Shot,0,2,375,0021201215
+401,PT04M41.00S,4,1610612746,LAC,101142,Turiaf,R. Turiaf,0,0,0,,0,0,0,0,h,Turiaf REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,376,0021201215
+402,PT04M26.00S,4,1610612746,LAC,2584,Green,W. Green,0,0,0,,0,0,0,0,h,Green Step Out of Bounds Turnover (P1.T14),Turnover,Step Out of Bounds Turnover,0,0,377,0021201215
+403,PT04M26.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,v,SUB: Pavlovic FOR Lillard,Substitution,,0,0,378,0021201215
+408,PT04M04.00S,4,1610612757,POR,2562,Pavlovic,S. Pavlovic,-134,91,16,Missed,1,0,0,0,v,MISS Pavlovic 16' Jump Shot,Missed Shot,Jump Shot,0,2,379,0021201215
+409,PT04M01.00S,4,1610612746,LAC,255,Hill,G. Hill,0,0,0,,0,0,0,0,h,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,380,0021201215
+410,PT03M53.00S,4,1610612746,LAC,2584,Green,W. Green,-229,1,0,Missed,1,0,0,0,h,MISS Green  3PT Jump Shot,Missed Shot,Jump Shot,0,3,381,0021201215
+411,PT03M52.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0,0,0,v,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,382,0021201215
+413,PT03M37.00S,4,1610612757,POR,203086,Leonard,M. Leonard,-18,22,3,Made,1,89,71,160,v,Leonard 3' Reverse Layup (9 PTS) (Claver 2 AST),Made Shot,Reverse Layup Shot,0,2,383,0021201215
+414,PT03M26.00S,4,1610612757,POR,201964,Claver,V. Claver,0,0,0,,0,0,0,0,v,Claver P.FOUL (P4.T2),Foul,Personal,0,0,384,0021201215
+416,PT03M18.00S,4,1610612746,LAC,1885,Odom,L. Odom,77,195,21,Missed,1,0,0,0,h,MISS Odom 21' Jump Shot,Missed Shot,Jump Shot,0,2,385,0021201215
+417,PT03M17.00S,4,1610612757,POR,203115,Barton,W. Barton,0,0,0,,0,0,0,0,v,Barton REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,386,0021201215
+418,PT03M07.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom S.FOUL (P3.T4),Foul,Shooting,0,0,387,0021201215
+419,PT03M07.00S,4,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,89,72,161,v,Freeland Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,388,0021201215
+421,PT03M07.00S,4,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,89,73,162,v,Freeland Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,389,0021201215
+423,PT02M59.00S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0,0,0,h,Bledsoe Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,390,0021201215
+424,PT02M59.00S,4,0,,1610612757,,,0,0,0,,0,0,0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,391,0021201215
+426,PT02M44.00S,4,1610612757,POR,203086,Leonard,M. Leonard,247,4,25,Missed,1,0,0,0,v,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,392,0021201215
+427,PT02M43.00S,4,1610612746,LAC,2584,Green,W. Green,0,0,0,,0,0,0,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,393,0021201215
+428,PT02M22.00S,4,1610612746,LAC,255,Hill,G. Hill,-141,93,17,Missed,1,0,0,0,h,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,0,2,394,0021201215
+429,PT02M21.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,395,0021201215
+430,PT02M05.00S,4,1610612746,LAC,2584,Green,W. Green,24,19,3,Made,1,91,73,164,h,Green 3' Reverse Layup (2 PTS) (Bledsoe 2 AST),Made Shot,Reverse Layup Shot,0,2,396,0021201215
+431,PT01M43.00S,4,1610612757,POR,200777,Freeland,J. Freeland,18,72,7,Made,1,91,75,166,v,Freeland 7' Running Hook Shot (13 PTS) (Claver 3 AST),Made Shot,Running Hook Shot,0,2,397,0021201215
+432,PT01M24.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,398,0021201215
+432,PT01M24.00S,4,1610612757,POR,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0,0,0,v,Pavlovic STEAL (1 STL),,,0,0,399,0021201215
+433,PT01M14.00S,4,1610612757,POR,2562,Pavlovic,S. Pavlovic,244,9,24,Missed,1,0,0,0,v,MISS Pavlovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,400,0021201215
+434,PT01M13.00S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,401,0021201215
+435,PT01M05.00S,4,1610612746,LAC,255,Hill,G. Hill,136,56,15,Made,1,93,75,168,h,Hill 15' Pullup Bank Shot (2 PTS) (Green 1 AST),Made Shot,Pullup Bank shot,0,2,402,0021201215
+436,PT00M45.90S,4,1610612757,POR,203086,Leonard,M. Leonard,151,19,15,Missed,1,0,0,0,v,MISS Leonard 15' Jump Shot,Missed Shot,Jump Shot,0,2,403,0021201215
+437,PT00M44.80S,4,1610612746,LAC,1885,Odom,L. Odom,0,0,0,,0,0,0,0,h,Odom REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,404,0021201215
+439,PT00M30.90S,4,1610612746,LAC,202339,Bledsoe,E. Bledsoe,23,126,13,Missed,1,0,0,0,h,MISS Bledsoe 13' Jump Shot,Missed Shot,Jump Shot,0,2,405,0021201215
+440,PT00M29.70S,4,1610612757,POR,200777,Freeland,J. Freeland,0,0,0,,0,0,0,0,v,Freeland REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,406,0021201215
+441,PT00M17.70S,4,1610612757,POR,203115,Barton,W. Barton,-75,184,20,Made,1,93,77,170,v,Barton 20' Jump Shot (17 PTS),Made Shot,Jump Shot,0,2,407,0021201215
+442,PT00M00.00S,4,0,,0,,,0,0,0,,0,93,77,170, ,End of 4th Period (1:00 AM EST),period,end,0,0,408,0021201215

@@ -1,0 +1,500 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052000121,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:14 PM EST),period,start,0,0,1
+0052000121,4,PT12M00.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Jump Ball Drummond vs. Looney: Tip to James,Jump Ball,,1,0,2
+0052000121,7,PT11M37.00S,1,1610612747,LAL,203076,Davis,A. Davis,-14,152,15,Missed,1,,,0,h,MISS Davis 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,3
+0052000121,8,PT11M34.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0052000121,9,PT11M23.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,18,15,2,Made,1,0,2,2,v,Wiggins 2' Driving Layup (2 PTS) (Green 1 AST),Made Shot,Driving Layup Shot,1,2,5
+0052000121,11,PT11M10.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,-3,7,1,Made,1,2,2,4,h,Drummond 1' Cutting Dunk Shot (2 PTS) (Schroder 1 AST),Made Shot,Cutting Dunk Shot,1,2,6
+0052000121,13,PT10M55.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,-113,242,27,Made,1,2,5,7,v,Bazemore 27' 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,7
+0052000121,15,PT10M35.00S,1,1610612747,LAL,203471,Schröder,D. Schröder,78,86,12,Missed,1,,,0,h,MISS Schroder 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0052000121,16,PT10M31.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0052000121,17,PT10M21.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-133,83,16,Made,1,2,7,9,v,Wiggins 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,10
+0052000121,18,PT10M04.00S,1,1610612747,LAL,203076,Davis,A. Davis,-20,32,4,Missed,1,,,0,h,MISS Davis 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,11
+0052000121,20,PT10M01.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0052000121,21,PT09M43.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,74,127,15,Missed,1,,,0,v,MISS Bazemore 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,13
+0052000121,22,PT09M37.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,14
+0052000121,23,PT09M35.00S,1,1610612744,GSW,1626172,Looney,K. Looney,20,80,8,Made,1,2,9,11,v,Looney 8' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,15
+0052000121,24,PT09M26.00S,1,1610612747,LAL,203471,Schröder,D. Schröder,14,7,2,Missed,1,,,0,h,MISS Schroder 2' Layup,Missed Shot,Layup Shot,1,2,16
+0052000121,26,PT09M23.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,17
+0052000121,27,PT09M10.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,18
+0052000121,27,PT09M10.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,0,19
+0052000121,29,PT09M03.00S,1,1610612747,LAL,203076,Davis,A. Davis,165,184,25,Missed,1,,,0,h,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0052000121,30,PT09M00.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,21
+0052000121,31,PT09M00.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,1,0,22
+0052000121,33,PT08M43.00S,1,1610612744,GSW,1626172,Looney,K. Looney,11,19,2,Missed,1,,,0,v,MISS Looney 2' Dunk,Missed Shot,Dunk Shot,1,2,23
+0052000121,33,PT08M43.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond BLOCK (1 BLK),,,1,2,24
+0052000121,35,PT08M40.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0052000121,36,PT08M34.00S,1,1610612747,LAL,203076,Davis,A. Davis,15,-1,2,Missed,1,,,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,2,26
+0052000121,36,PT08M34.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green BLOCK (1 BLK),,,1,2,27
+0052000121,38,PT08M29.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,28
+0052000121,39,PT08M29.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,Made,1,4,9,13,h,James Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,29
+0052000121,40,PT08M22.00S,1,1610612744,GSW,201939,Curry,S. Curry,-22,29,4,Missed,1,,,0,v,MISS Curry 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+0052000121,41,PT08M20.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,31
+0052000121,42,PT08M18.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,228,30,0,Made,1,4,12,16,v,Bazemore 3PT Jump Shot (6 PTS) (Looney 1 AST),Made Shot,Jump Shot,1,3,32
+0052000121,44,PT08M18.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,33
+0052000121,45,PT07M57.00S,1,1610612747,LAL,2544,James,L. James,-22,73,8,Missed,1,,,0,h,MISS James 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,34
+0052000121,45,PT07M57.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins BLOCK (1 BLK),,,1,2,35
+0052000121,47,PT07M56.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,36
+0052000121,48,PT07M53.00S,1,1610612747,LAL,2544,James,L. James,-128,2,13,Missed,1,,,0,h,MISS James 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,37
+0052000121,49,PT07M53.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,38
+0052000121,50,PT07M53.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,39
+0052000121,51,PT07M38.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-227,24,0,Made,1,4,15,19,v,Wiggins 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,3,40
+0052000121,52,PT07M11.00S,1,1610612747,LAL,2544,James,L. James,92,236,25,Missed,1,,,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,41
+0052000121,53,PT07M10.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+0052000121,57,PT07M02.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,43
+0052000121,57,PT07M02.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis STEAL (2 STL),,,1,0,44
+0052000121,54,PT07M02.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Jump Ball Davis vs. Looney: Tip to Drummond,Jump Ball,,0,0,45
+0052000121,61,PT06M40.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,221,-16,0,Made,1,7,15,22,h,Caldwell-Pope 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,3,46
+0052000121,63,PT06M17.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-158,221,27,Missed,1,,,0,v,MISS Wiggins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0052000121,64,PT06M13.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0052000121,65,PT05M56.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,49
+0052000121,67,PT05M56.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,8,15,23,h,James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,50
+0052000121,68,PT05M56.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Toscano-Anderson FOR Wiggins,Substitution,,0,0,51
+0052000121,69,PT05M56.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Mulder FOR Looney,Substitution,,0,0,52
+0052000121,72,PT05M56.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,9,15,24,h,James Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,53
+0052000121,73,PT05M46.00S,1,1610612744,GSW,201939,Curry,S. Curry,-24,262,26,Missed,1,,,0,v,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,54
+0052000121,74,PT05M43.00S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,55
+0052000121,75,PT05M42.00S,1,1610612744,GSW,203110,Green,D. Green,83,260,27,Missed,1,,,0,v,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0052000121,76,PT05M39.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,57
+0052000121,77,PT05M31.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,58
+0052000121,77,PT05M31.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore STEAL (1 STL),,,1,0,59
+0052000121,79,PT05M26.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,18,64,7,Missed,1,,,0,v,MISS Bazemore 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,60
+0052000121,80,PT05M24.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+0052000121,81,PT05M19.00S,1,1610612747,LAL,203471,Schröder,D. Schröder,222,-9,0,Missed,1,,,0,h,MISS Schroder 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,62
+0052000121,82,PT05M15.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,63
+0052000121,83,PT05M12.00S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,64
+0052000121,85,PT05M12.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,65
+0052000121,86,PT05M12.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,66
+0052000121,87,PT05M12.00S,1,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Caruso FOR Schroder,Substitution,,0,0,67
+0052000121,89,PT05M12.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,10,15,25,h,James Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,68
+0052000121,90,PT04M59.00S,1,1610612744,GSW,201939,Curry,S. Curry,14,79,8,Made,1,10,17,27,v,Curry 8' Driving Floating Jump Shot (2 PTS) (Green 2 AST),Made Shot,Driving Floating Jump Shot,1,2,69
+0052000121,92,PT04M43.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,221,32,0,Made,1,13,17,30,h,Caldwell-Pope 3PT Jump Shot (6 PTS) (James 1 AST),Made Shot,Jump Shot,1,3,70
+0052000121,94,PT04M35.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,71
+0052000121,95,PT04M35.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Kuzma FOR James,Substitution,,0,0,72
+0052000121,97,PT04M25.00S,1,1610612744,GSW,1628539,Mulder,M. Mulder,-230,80,24,Missed,1,,,0,v,MISS Mulder 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0052000121,98,PT04M23.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,74
+0052000121,99,PT04M13.00S,1,1610612747,LAL,1627936,Caruso,A. Caruso,-149,211,26,Made,1,16,17,33,h,Caruso 26' 3PT Jump Shot (3 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,3,75
+0052000121,101,PT04M00.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,1,0,76
+0052000121,103,PT04M00.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,16,18,34,v,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,77
+0052000121,104,PT04M00.00S,1,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,SUB: Harrell FOR Drummond,Substitution,,0,0,78
+0052000121,106,PT04M00.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,16,19,35,v,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+0052000121,107,PT03M40.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,80
+0052000121,107,PT03M40.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore STEAL (2 STL),,,1,0,81
+0052000121,109,PT03M36.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,82
+0052000121,111,PT03M36.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,16,20,36,v,Bazemore Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0052000121,112,PT03M36.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,MISS Bazemore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,84
+0052000121,113,PT03M32.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,85
+0052000121,114,PT03M28.00S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,226,6,0,Missed,1,,,0,v,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+0052000121,115,PT03M25.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0052000121,116,PT03M06.00S,1,1610612747,LAL,203076,Davis,A. Davis,-134,60,15,Missed,1,,,0,h,MISS Davis 15' Jump Shot,Missed Shot,Jump Shot,1,2,88
+0052000121,117,PT03M03.00S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,89
+0052000121,118,PT02M53.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,90
+0052000121,118,PT02M53.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma STEAL (1 STL),,,1,0,91
+0052000121,120,PT02M49.00S,1,1610612747,LAL,1627936,Caruso,A. Caruso,-14,12,2,Made,1,18,20,38,h,Caruso 2' Cutting Layup Shot (5 PTS) (Kuzma 2 AST),Made Shot,Cutting Layup Shot,1,2,92
+0052000121,122,PT02M23.00S,1,1610612744,GSW,201939,Curry,S. Curry,-71,158,17,Missed,1,,,0,v,MISS Curry 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+0052000121,123,PT02M23.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0052000121,124,PT02M15.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,-193,163,25,Missed,1,,,0,h,MISS Kuzma 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,95
+0052000121,125,PT02M15.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,96
+0052000121,129,PT02M13.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Schroder FOR Caldwell-Pope,Substitution,,0,0,97
+0052000121,131,PT02M13.00S,1,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,1,0,98
+0052000121,133,PT02M13.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green T.FOUL (P0.T3) (J.Tiven),Foul,Technical,1,0,99
+0052000121,134,PT02M13.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,19,20,39,h,Davis Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,100
+0052000121,135,PT02M13.00S,1,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,SUB: Wiggins FOR Bazemore,Substitution,,0,0,101
+0052000121,137,PT02M04.00S,1,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,102
+0052000121,138,PT01M49.00S,1,1610612744,GSW,1628539,Mulder,M. Mulder,-2,8,1,Made,1,19,22,41,v,Mulder 1' Cutting Dunk Shot (2 PTS) (Green 3 AST),Made Shot,Cutting Dunk Shot,1,2,103
+0052000121,140,PT01M37.00S,1,1610612747,LAL,203076,Davis,A. Davis,14,154,15,Missed,1,,,0,h,MISS Davis 15' Jump Shot,Missed Shot,Jump Shot,1,2,104
+0052000121,141,PT01M35.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0052000121,142,PT01M31.00S,1,1610612744,GSW,201939,Curry,S. Curry,-2,341,34,Missed,1,,,0,v,MISS Curry 34' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,106
+0052000121,143,PT01M28.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+0052000121,144,PT01M16.00S,1,1610612747,LAL,1626149,Harrell,M. Harrell,-24,49,5,Missed,1,,,0,h,MISS Harrell 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,108
+0052000121,145,PT01M10.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,109
+0052000121,146,PT01M09.00S,1,1610612747,LAL,203471,Schröder,D. Schröder,116,230,26,Missed,1,,,0,h,MISS Schroder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0052000121,147,PT01M04.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,111
+0052000121,148,PT01M02.00S,1,1610612744,GSW,201939,Curry,S. Curry,7,15,2,Made,1,19,24,43,v,Curry 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,112
+0052000121,149,PT01M02.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,113
+0052000121,151,PT01M02.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,19,25,44,v,Curry Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,114
+0052000121,152,PT00M55.30S,1,1610612747,LAL,203076,Davis,A. Davis,-32,113,12,Made,1,21,25,46,h,Davis 12' Floating Jump Shot (3 PTS) (Schroder 2 AST),Made Shot,Floating Jump shot,1,2,115
+0052000121,154,PT00M46.20S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,219,119,25,Made,1,21,28,49,v,Toscano-Anderson 25' 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,3,116
+0052000121,156,PT00M32.70S,1,1610612747,LAL,203471,Schröder,D. Schröder,117,38,12,Missed,1,,,0,h,MISS Schroder 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0052000121,156,PT00M32.70S,1,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder BLOCK (1 BLK),,,1,2,118
+0052000121,158,PT00M30.30S,1,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0052000121,159,PT00M30.30S,1,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,120
+0052000121,159,PT00M30.30S,1,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell STEAL (1 STL),,,1,0,121
+0052000121,161,PT00M30.30S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P2.T4) (J.Goble),Foul,Shooting,1,0,122
+0052000121,163,PT00M30.30S,1,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,22,28,50,h,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,123
+0052000121,164,PT00M30.30S,1,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,SUB: Looney FOR Toscano-Anderson,Substitution,,0,0,124
+0052000121,166,PT00M30.30S,1,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,125
+0052000121,167,PT00M27.10S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,126
+0052000121,168,PT00M07.50S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-233,26,0,Missed,1,,,0,v,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0052000121,169,PT00M04.90S,1,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0052000121,170,PT00M01.70S,1,1610612747,LAL,203076,Davis,A. Davis,-203,167,26,Missed,1,,,0,h,MISS Davis 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,129
+0052000121,171,PT00M00.90S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,130
+0052000121,172,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,28,50,,End of 1st Period (10:42 PM EST),period,end,1,0,131
+0052000121,181,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,28,50,,Start of 2nd Period (10:45 PM EST),period,start,0,0,132
+0052000121,182,PT11M46.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,133
+0052000121,182,PT11M46.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker STEAL (1 STL),,,0,0,134
+0052000121,184,PT11M30.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,67,246,25,Made,1,25,28,53,h,Horton-Tucker 25' 3PT Jump Shot (3 PTS) (James 2 AST),Made Shot,Jump Shot,1,3,135
+0052000121,186,PT11M13.00S,2,1610612744,GSW,1629673,Poole,J. Poole,-47,55,7,Missed,1,,,0,v,MISS Poole 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+0052000121,187,PT11M09.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,137
+0052000121,188,PT11M09.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Missed,1,,,0,v,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,138
+0052000121,189,PT11M09.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0052000121,190,PT11M03.00S,2,1610612747,LAL,2544,James,L. James,-33,23,4,Missed,1,,,0,h,MISS James 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,140
+0052000121,191,PT11M00.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,141
+0052000121,192,PT10M49.00S,2,1610612744,GSW,1628539,Mulder,M. Mulder,231,55,24,Made,1,25,31,56,v,Mulder 24' 3PT Jump Shot (5 PTS) (Toscano-Anderson 1 AST),Made Shot,Jump Shot,1,3,142
+0052000121,194,PT10M34.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,25,11,3,Missed,1,,,0,h,MISS Schroder 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+0052000121,196,PT10M31.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,144
+0052000121,197,PT10M16.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,208,145,25,Missed,1,,,0,v,MISS Toscano-Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0052000121,198,PT10M13.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,146
+0052000121,199,PT10M11.00S,2,1610612744,GSW,1628539,Mulder,M. Mulder,-118,234,26,Missed,1,,,0,v,MISS Mulder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0052000121,200,PT10M05.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,148
+0052000121,201,PT09M54.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,220,23,0,Missed,1,,,0,h,MISS Schroder 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0052000121,202,PT09M51.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,150
+0052000121,203,PT09M43.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,223,38,0,Missed,1,,,0,h,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0052000121,204,PT09M42.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,152
+0052000121,206,PT09M27.00S,2,1610612744,GSW,1626172,Looney,K. Looney,114,15,11,Missed,1,,,0,v,MISS Looney 11' Jump Shot,Missed Shot,Jump Shot,1,2,153
+0052000121,207,PT09M24.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,154
+0052000121,208,PT09M11.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,155
+0052000121,210,PT09M11.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,26,31,57,h,Harrell Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+0052000121,211,PT09M11.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Caruso FOR Schroder,Substitution,,0,0,157
+0052000121,213,PT09M11.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,158
+0052000121,214,PT09M08.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,159
+0052000121,215,PT08M56.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker OFF.Foul (P1) (T.Maddox),Foul,Offensive,1,0,160
+0052000121,217,PT08M56.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,Horton-Tucker Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,161
+0052000121,218,PT08M45.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-19,31,4,Missed,1,,,0,v,MISS Wiggins 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,162
+0052000121,218,PT08M45.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso BLOCK (1 BLK),,,1,2,163
+0052000121,220,PT08M44.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,164
+0052000121,221,PT08M44.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,165
+0052000121,223,PT08M38.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso P.FOUL (P2.T2) (J.Tiven),Foul,Personal,1,0,166
+0052000121,225,PT08M29.00S,2,1610612744,GSW,1629673,Poole,J. Poole,101,269,29,Missed,1,,,0,v,MISS Poole 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0052000121,226,PT08M27.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,168
+0052000121,227,PT08M20.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,-144,225,27,Missed,1,,,0,h,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0052000121,228,PT08M17.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,170
+0052000121,229,PT07M56.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,43,56,7,Made,1,26,33,59,v,Wiggins 7' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,1,2,171
+0052000121,230,PT07M43.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,-19,59,6,Missed,1,,,0,h,MISS Harrell 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,172
+0052000121,230,PT07M43.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney BLOCK (1 BLK),,,1,2,173
+0052000121,232,PT07M40.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,174
+0052000121,233,PT07M38.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,7,19,2,Made,1,26,35,61,v,Toscano-Anderson 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,175
+0052000121,234,PT07M38.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,176
+0052000121,235,PT07M25.00S,2,1610612747,LAL,2544,James,L. James,2,33,3,Missed,1,,,0,h,MISS James 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,177
+0052000121,235,PT07M25.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson BLOCK (1 BLK),,,1,2,178
+0052000121,237,PT07M25.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,179
+0052000121,239,PT07M18.00S,2,1610612747,LAL,2544,James,L. James,29,10,3,Missed,1,,,0,h,MISS James 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,180
+0052000121,240,PT07M16.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,181
+0052000121,241,PT07M03.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-96,247,27,Missed,1,,,0,v,MISS Wiggins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0052000121,242,PT07M01.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,183
+0052000121,244,PT06M52.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,14,13,2,Made,1,28,35,63,h,Kuzma 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,184
+0052000121,245,PT06M32.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,18,276,28,Missed,1,,,0,v,MISS Toscano-Anderson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0052000121,246,PT06M30.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,186
+0052000121,247,PT06M22.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,-5,1,Made,1,30,35,65,h,Harrell 1' Cutting Dunk Shot (4 PTS) (James 3 AST),Made Shot,Cutting Dunk Shot,1,2,187
+0052000121,249,PT06M14.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,188
+0052000121,250,PT06M14.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Drummond FOR Kuzma,Substitution,,0,0,189
+0052000121,251,PT06M14.00S,2,1610612747,LAL,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,,,0,h,SUB: Schroder FOR Horton-Tucker,Substitution,,0,0,190
+0052000121,252,PT06M14.00S,2,1610612747,LAL,1626149,Harrell,M. Harrell,0,0,0,,0,,,0,h,SUB: Davis FOR Harrell,Substitution,,0,0,191
+0052000121,253,PT06M14.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR James,Substitution,,0,0,192
+0052000121,254,PT06M14.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Curry FOR Looney,Substitution,,0,0,193
+0052000121,255,PT06M14.00S,2,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,SUB: Green FOR Mulder,Substitution,,0,0,194
+0052000121,256,PT06M14.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Bazemore FOR Wiggins,Substitution,,0,0,195
+0052000121,264,PT06M04.00S,2,1610612744,GSW,1629673,Poole,J. Poole,-17,1,2,Made,1,30,37,67,v,Poole 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,196
+0052000121,265,PT05M54.00S,2,1610612747,LAL,203076,Davis,A. Davis,-87,244,26,Missed,1,,,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0052000121,266,PT05M50.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,198
+0052000121,267,PT05M44.00S,2,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond S.FOUL (P3.T3) (T.Maddox),Foul,Shooting,1,0,199
+0052000121,269,PT05M44.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,30,38,68,v,Curry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+0052000121,270,PT05M44.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,MISS Curry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,201
+0052000121,271,PT05M41.00S,2,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,202
+0052000121,272,PT05M28.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,203
+0052000121,272,PT05M28.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,204
+0052000121,275,PT05M24.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,205
+0052000121,276,PT05M15.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,-24,27,4,Missed,1,,,0,v,MISS Bazemore 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,206
+0052000121,276,PT05M15.00S,2,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond BLOCK (2 BLK),,,1,2,207
+0052000121,278,PT05M13.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,208
+0052000121,279,PT05M10.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-39,257,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,209
+0052000121,280,PT05M07.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,210
+0052000121,281,PT05M01.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,211
+0052000121,281,PT05M01.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore STEAL (3 STL),,,1,0,212
+0052000121,283,PT04M56.00S,2,1610612744,GSW,1629673,Poole,J. Poole,-25,15,3,Made,1,30,40,70,v,Poole 3' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,213
+0052000121,284,PT04M36.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,-229,16,0,Made,1,33,40,73,h,Caruso 3PT Jump Shot (8 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,3,214
+0052000121,286,PT04M16.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,32,51,6,Missed,1,,,0,v,MISS Bazemore 6' Hook Shot,Missed Shot,Hook Shot,1,2,215
+0052000121,287,PT04M14.00S,2,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,216
+0052000121,288,PT04M13.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Offensive Charge Foul (P2.T4) (T.Maddox),Foul,Offensive Charge,0,0,217
+0052000121,290,PT04M13.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,218
+0052000121,291,PT04M13.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,,"Double Technical - Davis, Poole (J.Goble)",Foul,Double Technical,0,0,219
+0052000121,293,PT04M13.00S,2,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,SUB: James FOR Drummond,Substitution,,0,0,220
+0052000121,294,PT04M13.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,SUB: Wiggins FOR Bazemore,Substitution,,0,0,221
+0052000121,297,PT04M02.00S,2,1610612744,GSW,201939,Curry,S. Curry,27,297,30,Made,1,33,43,76,v,Curry 30' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,222
+0052000121,299,PT03M39.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,223
+0052000121,301,PT03M30.00S,2,1610612747,LAL,203076,Davis,A. Davis,9,159,16,Made,1,35,43,78,h,Davis 16' Jump Shot (5 PTS) (Schroder 4 AST),Made Shot,Jump Shot,1,2,224
+0052000121,303,PT03M17.00S,2,1610612744,GSW,201939,Curry,S. Curry,92,271,29,Made,1,35,46,81,v,Curry 29' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,1,3,225
+0052000121,304,PT02M52.00S,2,1610612747,LAL,203076,Davis,A. Davis,-147,67,16,Missed,1,,,0,h,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,1,2,226
+0052000121,305,PT02M48.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,227
+0052000121,306,PT02M44.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,22,77,8,Missed,1,,,0,v,MISS Toscano-Anderson 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,228
+0052000121,306,PT02M44.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope BLOCK (1 BLK),,,1,2,229
+0052000121,308,PT02M42.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,230
+0052000121,309,PT02M39.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,-228,11,0,Missed,1,,,0,h,MISS Schroder 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0052000121,310,PT02M35.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,232
+0052000121,311,PT02M33.00S,2,1610612747,LAL,203076,Davis,A. Davis,-12,21,2,Missed,1,,,0,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,2,233
+0052000121,311,PT02M33.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green BLOCK (2 BLK),,,1,2,234
+0052000121,313,PT02M33.00S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,235
+0052000121,314,PT02M25.00S,2,1610612744,GSW,201939,Curry,S. Curry,-25,16,3,Missed,1,,,0,v,MISS Curry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,236
+0052000121,314,PT02M25.00S,2,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder BLOCK (1 BLK),,,1,2,237
+0052000121,316,PT02M23.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,238
+0052000121,317,PT02M20.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,25,12,3,Made,1,37,46,83,h,Caruso 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,239
+0052000121,318,PT01M58.00S,2,1610612744,GSW,1629673,Poole,J. Poole,219,111,25,Made,1,37,49,86,v,Poole 25' 3PT Jump Shot (7 PTS) (Green 4 AST),Made Shot,Jump Shot,1,3,240
+0052000121,320,PT01M57.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,241
+0052000121,321,PT01M45.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,0,242
+0052000121,323,PT01M43.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P1.PN) (T.Maddox),Foul,Personal,0,0,243
+0052000121,325,PT01M43.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,38,49,87,h,James Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,244
+0052000121,326,PT01M43.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,245
+0052000121,327,PT01M40.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,246
+0052000121,328,PT01M27.00S,2,1610612744,GSW,201939,Curry,S. Curry,112,250,27,Missed,1,,,0,v,MISS Curry 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,247
+0052000121,329,PT01M24.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,248
+0052000121,330,PT01M06.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-229,18,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0052000121,331,PT01M01.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,250
+0052000121,332,PT00M54.30S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-2,116,12,Missed,1,,,0,v,MISS Wiggins 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,251
+0052000121,333,PT00M51.90S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,252
+0052000121,334,PT00M48.40S,2,1610612747,LAL,1627936,Caruso,A. Caruso,8,1,1,Made,1,40,49,89,h,Caruso 1' Running Layup (12 PTS) (James 4 AST),Made Shot,Running Layup Shot,1,2,253
+0052000121,336,PT00M29.80S,2,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,203,216,30,Made,1,40,52,92,v,Toscano-Anderson 30' 3PT Jump Shot (8 PTS) (Poole 1 AST),Made Shot,Jump Shot,1,3,254
+0052000121,338,PT00M10.60S,2,1610612747,LAL,203471,Schröder,D. Schröder,15,5,2,Made,1,42,52,94,h,Schroder 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,255
+0052000121,341,PT00M01.00S,2,0,,339,Gugliotta,T. Gugliotta,0,0,0,,0,42,55,97,,Instant Replay2nd Period (11:14 PM EST),Instant Replay,Support Ruling,0,0,256
+0052000121,339,PT00M00.60S,2,1610612744,GSW,201939,Curry,S. Curry,-180,203,27,Made,1,42,55,97,v,Curry 27' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,257
+0052000121,340,PT00M00.00S,2,0,,0,,,0,0,0,,0,42,55,97,,End of 2nd Period (11:14 PM EST),period,end,1,0,258
+0052000121,348,PT12M00.00S,3,0,,0,,,0,0,0,,0,42,55,97,,Start of 3rd Period (11:29 PM EST),period,start,0,0,259
+0052000121,349,PT11M49.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,-197,189,27,Missed,1,,,0,v,MISS Bazemore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0052000121,350,PT11M48.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,261
+0052000121,351,PT11M48.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney L.B.FOUL (P2.T1) (J.Tiven),Foul,Loose Ball,1,0,262
+0052000121,353,PT11M26.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,263
+0052000121,355,PT11M26.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,43,55,98,h,Schroder Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,264
+0052000121,356,PT11M26.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,44,55,99,h,Schroder Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,265
+0052000121,357,PT11M09.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,266
+0052000121,357,PT11M09.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder STEAL (1 STL),,,1,0,267
+0052000121,359,PT11M04.00S,3,1610612747,LAL,2544,James,L. James,39,95,10,Missed,1,,,0,h,MISS James 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,268
+0052000121,360,PT11M02.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,269
+0052000121,361,PT10M57.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,-13,23,3,Missed,1,,,0,v,MISS Bazemore 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,270
+0052000121,362,PT10M54.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,271
+0052000121,363,PT10M48.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,1,0,272
+0052000121,365,PT10M48.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,45,55,100,h,Schroder Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+0052000121,366,PT10M48.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,46,55,101,h,Schroder Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,274
+0052000121,367,PT10M34.00S,3,1610612744,GSW,203110,Green,D. Green,-5,53,5,Missed,1,,,0,v,MISS Green 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,275
+0052000121,367,PT10M34.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James BLOCK (1 BLK),,,1,2,276
+0052000121,369,PT10M34.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,277
+0052000121,370,PT10M32.00S,3,1610612747,LAL,2544,James,L. James,-10,21,2,Made,1,48,55,103,h,James 2' Running Layup (8 PTS) (Drummond 1 AST),Made Shot,Running Layup Shot,1,2,278
+0052000121,372,PT10M32.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.T4) (T.Maddox),Foul,Shooting,1,0,279
+0052000121,374,PT10M32.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+0052000121,375,PT10M32.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,49,55,104,h,James Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,281
+0052000121,376,PT10M18.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-23,26,3,Made,1,49,57,106,v,Wiggins 3' Layup (11 PTS) (Green 5 AST),Made Shot,Layup Shot,1,2,282
+0052000121,378,PT09M58.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-18,11,2,Made,1,51,57,108,h,Caldwell-Pope 2' Driving Layup (8 PTS) (Davis 2 AST),Made Shot,Driving Layup Shot,1,2,283
+0052000121,380,PT09M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,25,89,9,Missed,1,,,0,v,MISS Curry 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,284
+0052000121,381,PT09M41.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,285
+0052000121,382,PT09M31.00S,3,1610612747,LAL,203076,Davis,A. Davis,-178,187,26,Missed,1,,,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+0052000121,383,PT09M28.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,287
+0052000121,384,PT09M18.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,288
+0052000121,384,PT09M18.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (1 STL),,,1,0,289
+0052000121,386,PT09M17.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,290
+0052000121,388,PT09M17.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,52,57,109,h,Caldwell-Pope Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0052000121,389,PT09M17.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,53,57,110,h,Caldwell-Pope Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+0052000121,390,PT08M55.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,293
+0052000121,390,PT08M55.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James STEAL (1 STL),,,1,0,294
+0052000121,392,PT08M47.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,-25,263,26,Made,1,56,57,113,h,Schroder 26' 3PT Jump Shot (9 PTS) (James 5 AST),Made Shot,Jump Shot,1,3,295
+0052000121,394,PT08M37.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis P.FOUL (P3.T1) (J.Tiven),Foul,Personal,1,0,296
+0052000121,396,PT08M27.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,297
+0052000121,398,PT08M27.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,56,58,114,v,Curry Free Throw 1 of 3 (16 PTS),Free Throw,Free Throw 1 of 3,1,0,298
+0052000121,399,PT08M27.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,56,59,115,v,Curry Free Throw 2 of 3 (17 PTS),Free Throw,Free Throw 2 of 3,1,0,299
+0052000121,400,PT08M27.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,56,60,116,v,Curry Free Throw 3 of 3 (18 PTS),Free Throw,Free Throw 3 of 3,0,0,300
+0052000121,401,PT08M10.00S,3,1610612747,LAL,203076,Davis,A. Davis,229,85,24,Missed,1,,,0,h,MISS Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0052000121,402,PT08M03.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,302
+0052000121,403,PT07M58.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,-8,43,4,Missed,1,,,0,h,MISS Drummond 4' Layup,Missed Shot,Layup Shot,1,2,303
+0052000121,403,PT07M58.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney BLOCK (2 BLK),,,1,2,304
+0052000121,405,PT07M56.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,305
+0052000121,406,PT07M49.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-157,122,20,Made,1,56,62,118,v,Wiggins 20' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,1,2,306
+0052000121,407,PT07M30.00S,3,1610612747,LAL,2544,James,L. James,-134,83,16,Made,1,58,62,120,h,James 16' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,2,307
+0052000121,408,PT07M12.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,308
+0052000121,408,PT07M12.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (2 STL),,,1,0,309
+0052000121,410,PT07M00.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,109,15,11,Missed,1,,,0,h,MISS Schroder 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,310
+0052000121,411,PT06M57.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,311
+0052000121,412,PT06M47.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,-226,17,0,Made,1,58,65,123,v,Bazemore 3PT Jump Shot (10 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,3,312
+0052000121,414,PT06M46.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,313
+0052000121,415,PT06M46.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Caruso FOR James,Substitution,,0,0,314
+0052000121,417,PT06M22.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,62,117,13,Missed,1,,,0,h,MISS Caruso 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,315
+0052000121,418,PT06M22.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,316
+0052000121,419,PT06M22.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,317
+0052000121,420,PT06M06.00S,3,1610612744,GSW,1626172,Looney,K. Looney,25,27,4,Made,1,58,67,125,v,Looney 4' Layup (4 PTS) (Wiggins 2 AST),Made Shot,Layup Shot,1,2,318
+0052000121,422,PT05M51.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,0,27,3,Made,1,60,67,127,h,Drummond 3' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,2,319
+0052000121,423,PT05M34.00S,3,1610612744,GSW,201939,Curry,S. Curry,-34,47,6,Missed,1,,,0,v,MISS Curry 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,320
+0052000121,424,PT05M31.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,321
+0052000121,425,PT05M31.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Made,1,60,69,129,v,Looney Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,322
+0052000121,426,PT05M16.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,323
+0052000121,426,PT05M16.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore STEAL (4 STL),,,1,0,324
+0052000121,428,PT05M16.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Personal Take Foul (P2.T3) (T.Maddox),Foul,Personal Take,1,0,325
+0052000121,430,PT05M16.00S,3,1610612747,LAL,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,SUB: Matthews FOR Drummond,Substitution,,0,0,326
+0052000121,431,PT05M16.00S,3,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Kuzma FOR Schroder,Substitution,,0,0,327
+0052000121,432,PT05M16.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Mulder FOR Looney,Substitution,,0,0,328
+0052000121,433,PT05M16.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Toscano-Anderson FOR Wiggins,Substitution,,0,0,329
+0052000121,438,PT05M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,113,262,29,Made,1,60,72,132,v,Curry 29' 3PT Jump Shot (21 PTS) (Green 6 AST),Made Shot,Jump Shot,1,3,330
+0052000121,440,PT04M56.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,331
+0052000121,440,PT04M56.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore STEAL (5 STL),,,1,0,332
+0052000121,442,PT04M52.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,333
+0052000121,442,PT04M52.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (1 STL),,,1,0,334
+0052000121,444,PT04M46.00S,3,1610612747,LAL,202083,Matthews,W. Matthews,220,126,25,Made,1,63,72,135,h,Matthews 25' 3PT Jump Shot (3 PTS) (Caruso 1 AST),Made Shot,Jump Shot,1,3,335
+0052000121,446,PT04M32.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope P.FOUL (P1.T4) (J.Tiven),Foul,Personal,1,0,336
+0052000121,448,PT04M27.00S,3,1610612744,GSW,203110,Green,D. Green,32,17,4,Missed,1,,,0,v,MISS Green 4' Layup,Missed Shot,Layup Shot,0,2,337
+0052000121,448,PT04M27.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis BLOCK (1 BLK),,,0,2,338
+0052000121,450,PT04M25.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,339
+0052000121,451,PT04M14.00S,3,1610612747,LAL,203076,Davis,A. Davis,9,48,5,Made,1,65,72,137,h,Davis 5' Turnaround Jump Shot (7 PTS) (Caldwell-Pope 1 AST),Made Shot,Turnaround Jump Shot,1,2,340
+0052000121,453,PT04M14.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,341
+0052000121,455,PT04M14.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,66,72,138,h,Davis Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,342
+0052000121,456,PT03M59.00S,3,1610612744,GSW,201939,Curry,S. Curry,-16,39,4,Made,1,66,74,140,v,Curry 4' Cutting Layup Shot (23 PTS) (Bazemore 1 AST),Made Shot,Cutting Layup Shot,1,2,343
+0052000121,458,PT03M59.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,0,0,344
+0052000121,459,PT03M45.00S,3,1610612747,LAL,202083,Matthews,W. Matthews,-111,247,27,Missed,1,,,0,h,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0052000121,460,PT03M41.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,346
+0052000121,461,PT03M34.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Backcourt Turnover (P5.T11),Turnover,Backcourt Turnover,1,0,347
+0052000121,462,PT03M13.00S,3,1610612747,LAL,203076,Davis,A. Davis,137,-1,14,Missed,1,,,0,h,MISS Davis 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,348
+0052000121,463,PT03M11.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,349
+0052000121,464,PT02M55.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,160,189,25,Missed,1,,,0,v,MISS Bazemore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0052000121,465,PT02M52.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,351
+0052000121,466,PT02M41.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,-36,27,5,Missed,1,,,0,h,MISS Caruso 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,352
+0052000121,466,PT02M41.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green BLOCK (3 BLK),,,1,2,353
+0052000121,468,PT02M39.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,354
+0052000121,469,PT02M26.00S,3,1610612744,GSW,203110,Green,D. Green,2,38,4,Missed,1,,,0,v,MISS Green 4' Layup,Missed Shot,Layup Shot,1,2,355
+0052000121,470,PT02M25.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,356
+0052000121,472,PT02M25.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: James FOR Caldwell-Pope,Substitution,,0,0,357
+0052000121,473,PT02M25.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,SUB: Poole FOR Bazemore,Substitution,,0,0,358
+0052000121,474,PT02M25.00S,3,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,SUB: Wiggins FOR Mulder,Substitution,,0,0,359
+0052000121,478,PT02M22.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,360
+0052000121,478,PT02M22.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James STEAL (2 STL),,,1,0,361
+0052000121,480,PT02M17.00S,3,1610612747,LAL,203076,Davis,A. Davis,8,13,2,Made,1,68,74,142,h,Davis 2' Running Dunk (10 PTS) (Kuzma 3 AST),Made Shot,Running Dunk Shot,1,2,362
+0052000121,482,PT01M58.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-226,20,0,Missed,1,,,0,v,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0052000121,483,PT01M55.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,364
+0052000121,484,PT01M48.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,25,14,3,Made,1,70,74,144,h,Kuzma 3' Cutting Layup Shot (4 PTS) (James 6 AST),Made Shot,Cutting Layup Shot,1,2,365
+0052000121,486,PT01M48.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,366
+0052000121,487,PT01M31.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-1,53,5,Missed,1,,,0,v,MISS Wiggins 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,367
+0052000121,488,PT01M27.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,368
+0052000121,489,PT01M27.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,Made,1,70,76,146,v,Wiggins Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,369
+0052000121,490,PT01M05.00S,3,1610612747,LAL,2544,James,L. James,230,48,0,Made,1,73,76,149,h,James 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,1,3,370
+0052000121,491,PT00M49.90S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,371
+0052000121,491,PT00M49.90S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (2 STL),,,1,0,372
+0052000121,493,PT00M44.40S,3,1610612747,LAL,203076,Davis,A. Davis,0,10,1,Made,1,75,76,151,h,Davis 1' Alley Oop Dunk (12 PTS) (Kuzma 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,373
+0052000121,495,PT00M29.60S,3,1610612744,GSW,201939,Curry,S. Curry,169,196,26,Made,1,75,79,154,v,Curry 26' 3PT Jump Shot (26 PTS) (Green 7 AST),Made Shot,Jump Shot,1,3,374
+0052000121,497,PT00M13.10S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,11,1,Made,1,77,79,156,h,Caruso 1' Cutting Layup Shot (14 PTS) (James 7 AST),Made Shot,Cutting Layup Shot,1,2,375
+0052000121,499,PT00M01.00S,3,1610612744,GSW,203110,Green,D. Green,-49,234,24,Missed,1,,,0,v,MISS Green 24' Jump Shot,Missed Shot,Jump Shot,1,2,376
+0052000121,500,PT00M01.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,377
+0052000121,501,PT00M00.00S,3,0,,0,,,0,0,0,,0,77,79,156,,End of 3rd Period (11:59 PM EST),period,end,1,0,378
+0052000121,506,PT12M00.00S,4,0,,0,,,0,0,0,,0,77,79,156,,Start of 4th Period (12:03 AM EST),period,start,0,0,379
+0052000121,507,PT11M45.00S,4,1610612747,LAL,203076,Davis,A. Davis,-3,8,1,Made,1,79,79,158,h,Davis 1' Alley Oop Dunk (14 PTS) (James 8 AST),Made Shot,Alley Oop Dunk Shot,0,2,380
+0052000121,509,PT11M31.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,-35,257,26,Missed,1,,,0,v,MISS Mulder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0052000121,510,PT11M29.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,382
+0052000121,511,PT11M08.00S,4,1610612747,LAL,2544,James,L. James,18,26,3,Missed,1,,,0,h,MISS James 3' Layup,Missed Shot,Layup Shot,1,2,383
+0052000121,512,PT11M08.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,384
+0052000121,514,PT11M08.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Green FOR Looney,Substitution,,0,0,385
+0052000121,516,PT11M05.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,17,80,8,Made,1,81,79,160,h,Kuzma 8' Hook Shot (6 PTS) (James 9 AST),Made Shot,Hook Shot,1,2,386
+0052000121,518,PT10M39.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,387
+0052000121,518,PT10M39.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (3 STL),,,1,0,388
+0052000121,520,PT10M23.00S,4,1610612747,LAL,2544,James,L. James,19,31,4,Made,1,83,79,162,h,James 4' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,389
+0052000121,521,PT10M23.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,390
+0052000121,522,PT10M23.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,SUB: Curry FOR Mulder,Substitution,,0,0,391
+0052000121,524,PT10M06.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,-176,94,20,Missed,1,,,0,v,MISS Wiggins 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,392
+0052000121,525,PT10M04.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,393
+0052000121,526,PT09M50.00S,4,1610612747,LAL,2544,James,L. James,-19,13,2,Made,1,85,79,164,h,James 2' Driving Reverse Layup (18 PTS) (Matthews 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,394
+0052000121,531,PT09M37.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,395
+0052000121,532,PT09M37.00S,4,0,,528,,,0,0,0,,0,85,79,164,,Instant Replay4th Period (12:09 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,396
+0052000121,533,PT09M37.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,397
+0052000121,535,PT09M37.00S,4,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,85,80,165,v,Toscano-Anderson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,398
+0052000121,536,PT09M37.00S,4,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,MISS Toscano-Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,399
+0052000121,537,PT09M35.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,400
+0052000121,580,PT09M23.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,49,61,8,Missed,1,,,0,h,MISS Caruso 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,401
+0052000121,581,PT09M21.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,402
+0052000121,538,PT09M20.00S,4,1610612747,LAL,203076,Davis,A. Davis,32,9,3,Missed,1,,,0,h,MISS Davis 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,403
+0052000121,539,PT09M18.00S,4,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,404
+0052000121,540,PT09M03.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,405
+0052000121,540,PT09M03.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma STEAL (2 STL),,,1,0,406
+0052000121,542,PT08M53.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,-6,52,5,Missed,1,,,0,h,MISS Kuzma 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,407
+0052000121,543,PT08M51.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,408
+0052000121,544,PT08M48.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Offensive Charge Foul (P3.T1) (J.Tiven),Foul,Offensive Charge,1,0,409
+0052000121,546,PT08M48.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,410
+0052000121,547,PT08M48.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Schroder FOR Caruso,Substitution,,0,0,411
+0052000121,548,PT08M48.00S,4,1610612744,GSW,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,SUB: Mulder FOR Toscano-Anderson,Substitution,,0,0,412
+0052000121,551,PT08M36.00S,4,1610612747,LAL,203076,Davis,A. Davis,57,194,20,Made,1,87,80,167,h,Davis 20' Jump Shot (16 PTS) (Schroder 5 AST),Made Shot,Jump Shot,1,2,413
+0052000121,553,PT08M25.00S,4,1610612744,GSW,201939,Curry,S. Curry,109,233,26,Made,1,87,83,170,v,Curry 26' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,3,414
+0052000121,554,PT07M59.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,70,85,11,Missed,1,,,0,h,MISS Kuzma 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,415
+0052000121,555,PT07M55.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,416
+0052000121,556,PT07M50.00S,4,1610612744,GSW,201939,Curry,S. Curry,-23,31,4,Made,1,87,85,172,v,Curry 4' Driving Finger Roll Layup (31 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,417
+0052000121,557,PT07M39.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole P.FOUL (P2.T2) (T.Maddox),Foul,Personal,1,0,418
+0052000121,559,PT07M29.00S,4,1610612747,LAL,203076,Davis,A. Davis,134,226,26,Made,1,90,85,175,h,Davis 26' 3PT Jump Shot (19 PTS) (James 10 AST),Made Shot,Jump Shot,1,3,419
+0052000121,561,PT07M17.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,0,420
+0052000121,563,PT07M09.00S,4,1610612744,GSW,201939,Curry,S. Curry,-14,37,4,Missed,1,,,0,v,MISS Curry 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,421
+0052000121,564,PT07M07.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,422
+0052000121,565,PT07M04.00S,4,1610612747,LAL,2544,James,L. James,132,255,29,Missed,1,,,0,h,MISS James 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,423
+0052000121,566,PT07M00.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,424
+0052000121,567,PT06M56.00S,4,1610612744,GSW,1629673,Poole,J. Poole,16,21,3,Missed,1,,,0,v,MISS Poole 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,425
+0052000121,569,PT06M55.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,426
+0052000121,571,PT06M55.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR James,Substitution,,0,0,427
+0052000121,573,PT06M53.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,3,8,1,Made,1,90,87,177,v,Wiggins 1' Cutting Dunk Shot (17 PTS) (Poole 2 AST),Made Shot,Cutting Dunk Shot,1,2,428
+0052000121,575,PT06M29.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,429
+0052000121,575,PT06M29.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (2 STL),,,1,0,430
+0052000121,577,PT06M24.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,-23,47,5,Made,1,90,89,179,v,Wiggins 5' Floating Jump Shot (19 PTS) (Poole 3 AST),Made Shot,Floating Jump shot,1,2,431
+0052000121,579,PT06M24.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,432
+0052000121,582,PT06M11.00S,4,1610612747,LAL,202083,Matthews,W. Matthews,159,211,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0052000121,583,PT06M08.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,434
+0052000121,584,PT06M04.00S,4,1610612744,GSW,1629673,Poole,J. Poole,-224,1,0,Missed,1,,,0,v,MISS Poole 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0052000121,585,PT05M59.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,436
+0052000121,586,PT05M56.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P4.T3) (T.Maddox),Foul,Shooting,1,0,437
+0052000121,588,PT05M56.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,91,89,180,h,Schroder Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,438
+0052000121,589,PT05M56.00S,4,1610612747,LAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Caruso FOR Matthews,Substitution,,0,0,439
+0052000121,591,PT05M56.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,MISS Schroder Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,440
+0052000121,592,PT05M50.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,Mulder REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,441
+0052000121,593,PT05M42.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,4,20,2,Made,1,91,91,182,v,Wiggins 2' Driving Layup (21 PTS) (Curry 3 AST),Made Shot,Driving Layup Shot,1,2,442
+0052000121,595,PT05M42.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,1,0,443
+0052000121,597,PT05M42.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,444
+0052000121,598,PT05M40.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,445
+0052000121,599,PT05M19.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,161,195,25,Missed,1,,,0,h,MISS Schroder 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,446
+0052000121,600,PT05M15.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,447
+0052000121,601,PT05M14.00S,4,1610612747,LAL,203076,Davis,A. Davis,-5,19,2,Made,1,93,91,184,h,Davis 2' Layup (21 PTS),Made Shot,Layup Shot,1,2,448
+0052000121,602,PT05M03.00S,4,1610612744,GSW,201939,Curry,S. Curry,-16,32,4,Made,1,93,93,186,v,Curry 4' Driving Reverse Layup (33 PTS),Made Shot,Driving Reverse Layup Shot,1,2,449
+0052000121,603,PT04M50.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,-13,30,3,Missed,1,,,0,h,MISS Caruso 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,450
+0052000121,604,PT04M47.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,451
+0052000121,605,PT04M43.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green OFF.Foul (P3) (J.Tiven),Foul,Offensive,1,0,452
+0052000121,607,PT04M43.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Offensive Foul Turnover (P5.T17),Turnover,Offensive Foul Turnover,1,0,453
+0052000121,608,PT04M43.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: James FOR Kuzma,Substitution,,0,0,454
+0052000121,610,PT04M27.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,455
+0052000121,610,PT04M27.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (3 STL),,,1,0,456
+0052000121,612,PT04M18.00S,4,1610612744,GSW,201939,Curry,S. Curry,-6,149,15,Missed,1,,,0,v,MISS Curry 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,457
+0052000121,613,PT04M16.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,458
+0052000121,614,PT04M03.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,14,29,3,Made,1,95,93,188,h,Schroder 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,459
+0052000121,615,PT03M43.00S,4,1610612744,GSW,1629673,Poole,J. Poole,-207,153,26,Made,1,95,96,191,v,Poole 26' 3PT Jump Shot (10 PTS) (Green 8 AST),Made Shot,Jump Shot,1,3,460
+0052000121,617,PT03M22.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,18,19,3,Missed,1,,,0,h,MISS Schroder 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,461
+0052000121,618,PT03M20.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,462
+0052000121,619,PT03M08.00S,4,1610612744,GSW,201939,Curry,S. Curry,21,33,4,Made,1,95,98,193,v,Curry 4' Driving Floating Bank Jump Shot (35 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,463
+0052000121,620,PT03M08.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,464
+0052000121,621,PT03M08.00S,4,1610612747,LAL,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Matthews FOR Schroder,Substitution,,0,0,465
+0052000121,622,PT03M08.00S,4,1610612744,GSW,1628539,Mulder,M. Mulder,0,0,0,,0,,,0,v,SUB: Bazemore FOR Mulder,Substitution,,0,0,466
+0052000121,625,PT02M45.00S,4,1610612747,LAL,2544,James,L. James,-124,98,16,Missed,1,,,0,h,MISS James 16' Jump Shot,Missed Shot,Jump Shot,1,2,467
+0052000121,626,PT02M43.00S,4,1610612747,LAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,468
+0052000121,627,PT02M41.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,-230,4,0,Missed,1,,,0,h,MISS Caruso 3PT Jump Shot,Missed Shot,Jump Shot,1,3,469
+0052000121,628,PT02M38.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,470
+0052000121,629,PT02M30.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Out of Bounds Lost Ball Turnover (P6.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0,471
+0052000121,630,PT02M26.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole S.FOUL (P3.T4) (T.Maddox),Foul,Shooting,1,0,472
+0052000121,632,PT02M26.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,96,98,194,h,Davis Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0052000121,633,PT02M26.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,97,98,195,h,Davis Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,474
+0052000121,634,PT02M15.00S,4,1610612744,GSW,201939,Curry,S. Curry,-44,101,11,Missed,1,,,0,v,MISS Curry 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,475
+0052000121,635,PT02M11.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,476
+0052000121,636,PT02M07.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green S.FOUL (P4.PN) (J.Goble),Foul,Shooting,1,0,477
+0052000121,638,PT02M07.00S,4,0,,636,,,0,0,0,,0,97,98,195,,Instant Replay4th Period (12:30 AM EST),Instant Replay,Support Ruling,0,0,478
+0052000121,639,PT02M07.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,98,98,196,h,James Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,479
+0052000121,640,PT02M07.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,480
+0052000121,641,PT02M07.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,481
+0052000121,642,PT02M07.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James L.B.FOUL (P2.T4) (T.Maddox),Foul,Loose Ball,1,0,482
+0052000121,644,PT01M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green OFF.Foul (P5) (T.Maddox),Foul,Offensive,1,0,483
+0052000121,646,PT01M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Offensive Foul Turnover (P6.T19),Turnover,Offensive Foul Turnover,1,0,484
+0052000121,647,PT01M31.00S,4,1610612747,LAL,203076,Davis,A. Davis,-2,6,1,Made,1,100,98,198,h,Davis 1' Cutting Dunk Shot (25 PTS) (Caruso 2 AST),Made Shot,Cutting Dunk Shot,1,2,485
+0052000121,649,PT01M23.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis P.FOUL (P4.PN) (J.Tiven),Foul,Personal,1,0,486
+0052000121,651,PT01M23.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,100,99,199,v,Curry Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0052000121,652,PT01M23.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,100,100,200,v,Curry Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0052000121,653,PT00M58.20S,4,1610612747,LAL,2544,James,L. James,197,276,34,Made,1,103,100,203,h,James 34' 3PT Jump Shot (22 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,3,489
+0052000121,655,PT00M35.50S,4,1610612744,GSW,1629673,Poole,J. Poole,221,21,0,Missed,1,,,0,v,MISS Poole 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+0052000121,656,PT00M30.40S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,491
+0052000121,657,PT00M14.50S,4,1610612747,LAL,202083,Matthews,W. Matthews,169,206,27,Missed,1,,,0,h,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,492
+0052000121,658,PT00M08.10S,4,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,493
+0052000121,659,PT00M08.10S,4,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,Missed,1,,,0,h,MISS Caruso Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,494
+0052000121,660,PT00M07.30S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,495
+0052000121,661,PT00M02.10S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,496
+0052000121,662,PT00M01.10S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,,,0,v,Bazemore Bad Pass Turnover (P2.T20),Turnover,Bad Pass,1,0,497
+0052000121,662,PT00M01.10S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (3 STL),,,1,0,498
+0052000121,664,PT00M00.00S,4,0,,0,,,0,0,0,,0,103,100,203,,End of 4th Period (12:39 AM EST),period,end,1,0,499

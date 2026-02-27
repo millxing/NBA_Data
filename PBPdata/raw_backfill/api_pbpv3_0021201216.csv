@@ -1,0 +1,436 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:12 PM EST),period,start,0,0,1,0021201216
+1,PT12M00.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Jump Ball Valanciunas vs. Wilcox: Tip to Johnson,Jump Ball,,0,0,2,0021201216
+2,PT11M57.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Turnover: Backcourt (T#1),Turnover,Backcourt Turnover,0,0,3,0021201216
+3,PT11M47.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry S.FOUL (P1.T1),Foul,Shooting,0,0,4,0021201216
+4,PT11M47.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,1,1,v,Bradley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,5,0021201216
+6,PT11M47.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,2,2,v,Bradley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,6,0021201216
+8,PT11M24.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-188,91,21,Made,1,2,2,4,h,DeRozan 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,7,0021201216
+9,PT11M10.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,8,0021201216
+9,PT11M10.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry STEAL (1 STL),,,0,0,9,0021201216
+10,PT11M06.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,18,15,2,Missed,1,0,0,0,h,MISS Lowry 2' Layup,Missed Shot,Layup Shot,0,2,10,0021201216
+11,PT11M04.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,11,0021201216
+12,PT10M56.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,23,140,14,Made,1,2,4,6,v,Pierce 14' Jump Shot (2 PTS) (Bradley 1 AST),Made Shot,Jump Shot,0,2,12,0021201216
+13,PT10M52.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,6,1,1,Made,1,4,4,8,h,Valanciunas 1' Alley Oop Dunk (2 PTS) (Lowry 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,13,0021201216
+14,PT10M38.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,75,134,15,Missed,1,0,0,0,v,MISS Bradley 15' Jump Shot,Missed Shot,Jump Shot,0,2,14,0021201216
+15,PT10M37.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,15,0021201216
+16,PT10M22.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,108,181,21,Made,1,6,4,10,h,Johnson 21' Jump Shot (2 PTS) (Gay 1 AST),Made Shot,Jump Shot,0,2,16,0021201216
+17,PT10M06.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Traveling Turnover (P2.T2),Turnover,Traveling,0,0,17,0021201216
+18,PT09M55.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-38,187,19,Missed,1,0,0,0,h,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,0,2,18,0021201216
+19,PT09M54.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,19,0021201216
+20,PT09M51.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,13,12,2,Missed,1,0,0,0,h,MISS Valanciunas 2' Layup,Missed Shot,Layup Shot,0,2,20,0021201216
+21,PT09M50.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,21,0021201216
+22,PT09M35.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,91,236,25,Made,1,6,7,13,v,Pierce 25' 3PT Jump Shot (5 PTS) (Bradley 2 AST),Made Shot,Jump Shot,0,3,22,0021201216
+24,PT09M14.00S,1,1610612761,TOR,200752,Gay,R. Gay,-158,203,26,Made,1,9,7,16,h,Gay 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,0,3,23,0021201216
+25,PT08M50.00S,1,1610612738,BOS,201145,Green,J. Green,72,45,8,Made,1,9,9,18,v,Green 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,24,0021201216
+26,PT08M38.00S,1,1610612761,TOR,200752,Gay,R. Gay,149,213,26,Missed,1,0,0,0,h,MISS Gay 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,25,0021201216
+27,PT08M37.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,26,0021201216
+28,PT08M33.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,20,2,Made,1,11,9,20,h,Valanciunas 2' Slam Dunk (4 PTS),Made Shot,Slam Dunk Shot,0,2,27,0021201216
+29,PT08M17.00S,1,1610612738,BOS,101138,Bass,B. Bass,-139,104,17,Missed,1,0,0,0,v,MISS Bass 17' Jump Shot,Missed Shot,Jump Shot,0,2,28,0021201216
+30,PT08M16.00S,1,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,29,0021201216
+32,PT08M06.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass S.FOUL (P1.T1),Foul,Shooting,0,0,30,0021201216
+33,PT08M06.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,12,9,21,h,Valanciunas Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,31,0021201216
+35,PT08M06.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,32,0021201216
+37,PT08M05.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,33,0021201216
+38,PT07M50.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,23,-8,2,Missed,1,0,0,0,v,MISS Bradley 2' Layup,Missed Shot,Layup Shot,0,2,34,0021201216
+38,PT07M50.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas BLOCK (1 BLK),,,0,2,35,0021201216
+39,PT07M48.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,36,0021201216
+40,PT07M39.00S,1,1610612738,BOS,101138,Bass,B. Bass,165,17,17,Made,1,12,11,23,v,Bass 17' Jump Shot (2 PTS) (Pierce 1 AST),Made Shot,Jump Shot,0,2,39,0021201216
+41,PT07M20.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox S.FOUL (P1.T2),Foul,Shooting,0,0,40,0021201216
+42,PT07M20.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,13,11,24,h,Valanciunas Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,41,0021201216
+44,PT07M20.00S,1,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Randolph FOR Wilcox,Substitution,,0,0,42,0021201216
+45,PT07M46.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas Poss Lost Ball Turnover (P1.T2),Turnover,Poss Lost Ball Turnover,0,0,37,0021201216
+45,PT07M46.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley STEAL (1 STL),,,0,0,38,0021201216
+46,PT07M20.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,14,11,25,h,Valanciunas Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,43,0021201216
+48,PT07M18.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,44,0021201216
+48,PT07M18.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson STEAL (1 STL),,,0,0,45,0021201216
+49,PT07M17.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass S.FOUL (P2.T3),Foul,Shooting,0,0,46,0021201216
+50,PT07M17.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,15,11,26,h,Lowry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,47,0021201216
+52,PT07M17.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,16,11,27,h,Lowry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,48,0021201216
+55,PT07M05.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,80,252,26,Missed,1,0,0,0,v,MISS Pierce 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,49,0021201216
+56,PT07M04.00S,1,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,50,0021201216
+57,PT07M00.00S,1,1610612738,BOS,101183,Randolph,S. Randolph,20,33,4,Missed,1,0,0,0,v,MISS Randolph 4' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,51,0021201216
+58,PT06M59.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,52,0021201216
+59,PT06M57.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,20,2,Made,1,16,13,29,v,Bass 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,2,53,0021201216
+60,PT06M47.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-179,17,18,Missed,1,0,0,0,h,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,54,0021201216
+61,PT06M46.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,55,0021201216
+62,PT06M38.00S,1,1610612738,BOS,101183,Randolph,S. Randolph,17,11,2,Made,1,16,15,31,v,Randolph 2' Layup (2 PTS) (Green 1 AST),Made Shot,Layup Shot,0,2,56,0021201216
+64,PT06M22.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Celtics T.Foul (Def. 3 Sec Bass ),Foul,Defense 3 Second,0,0,57,0021201216
+65,PT06M22.00S,1,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,17,15,32,h,Gay Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,58,0021201216
+67,PT06M09.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,-18,55,6,Missed,1,0,0,0,h,MISS Valanciunas 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,2,59,0021201216
+68,PT06M09.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,60,0021201216
+69,PT06M01.00S,1,1610612738,BOS,101183,Randolph,S. Randolph,43,44,6,Missed,1,0,0,0,v,MISS Randolph 6' Running Bank Shot,Missed Shot,Running Bank shot,0,2,61,0021201216
+70,PT05M55.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,62,0021201216
+71,PT05M52.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-136,34,14,Missed,1,0,0,0,h,MISS DeRozan 14' Jump Shot,Missed Shot,Jump Shot,0,2,63,0021201216
+72,PT05M52.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,64,0021201216
+73,PT05M52.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,65,0021201216
+77,PT05M39.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-4,14,1,Missed,1,0,0,0,h,MISS Lowry 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,66,0021201216
+78,PT05M38.00S,1,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,67,0021201216
+79,PT05M29.00S,1,1610612738,BOS,101138,Bass,B. Bass,-169,14,17,Made,1,17,17,34,v,Bass 17' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,68,0021201216
+80,PT05M16.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry Traveling Turnover (P1.T3),Turnover,Traveling,0,0,69,0021201216
+81,PT05M00.00S,1,1610612738,BOS,201145,Green,J. Green,-30,27,4,Missed,1,0,0,0,v,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,0,2,70,0021201216
+81,PT05M00.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas BLOCK (2 BLK),,,0,2,71,0021201216
+82,PT04M55.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-19,1,2,Made,1,19,17,36,h,DeRozan 2' Driving Layup (4 PTS) (Gay 2 AST),Made Shot,Driving Layup Shot,0,2,73,0021201216
+83,PT04M49.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley OFF.Foul (P1),Foul,Offensive,0,0,74,0021201216
+85,PT04M49.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Foul Turnover (P1.T4),Turnover,Foul,0,0,75,0021201216
+86,PT04M49.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,SUB: Lucas III FOR Lowry,Substitution,,0,0,76,0021201216
+87,PT04M59.00S,1,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,72,0021201216
+88,PT04M43.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green S.FOUL (P1.T4),Foul,Shooting,0,0,77,0021201216
+89,PT04M43.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,20,17,37,h,DeRozan Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,78,0021201216
+91,PT04M43.00S,1,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Green,Substitution,,0,0,79,0021201216
+92,PT04M43.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,21,17,38,h,DeRozan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,80,0021201216
+95,PT04M28.00S,1,1610612738,BOS,101138,Bass,B. Bass,99,15,10,Missed,1,0,0,0,v,MISS Bass 10' Jump Shot,Missed Shot,Jump Shot,0,2,81,0021201216
+95,PT04M28.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas BLOCK (3 BLK),,,0,2,82,0021201216
+96,PT04M28.00S,1,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,83,0021201216
+97,PT04M11.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,119,108,16,Missed,1,0,0,0,h,MISS DeRozan 16' Jump Shot,Missed Shot,Jump Shot,0,2,84,0021201216
+98,PT04M10.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,85,0021201216
+99,PT04M04.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-19,15,2,Made,1,21,19,40,v,Pierce 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,2,86,0021201216
+100,PT03M41.00S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,155,23,16,Made,1,23,19,42,h,Valanciunas 16' Jump Shot (9 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,0,2,87,0021201216
+102,PT03M27.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,-158,126,20,Missed,1,0,0,0,v,MISS Bradley 20' Jump Shot,Missed Shot,Jump Shot,0,2,88,0021201216
+103,PT03M26.00S,1,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,89,0021201216
+104,PT03M19.00S,1,1610612761,TOR,200752,Gay,R. Gay,-175,208,27,Made,1,26,19,45,h,Gay 27' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,0,3,90,0021201216
+105,PT03M02.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,231,0,0,Made,1,26,22,48,v,Bradley  3PT Jump Shot (5 PTS) (Crawford 1 AST),Made Shot,Jump Shot,0,3,91,0021201216
+106,PT02M48.00S,1,1610612761,TOR,200752,Gay,R. Gay,146,17,15,Made,1,28,22,50,h,Gay 15' Turnaround Bank Shot (9 PTS),Made Shot,Turnaround Bank shot,0,2,92,0021201216
+107,PT02M28.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,17,113,11,Made,1,28,24,52,v,Pierce 11' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,0,2,93,0021201216
+108,PT02M14.00S,1,1610612761,TOR,101249,Lucas III,J. Lucas III,-158,66,17,Missed,1,0,0,0,h,MISS Lucas III 17' Jump Shot,Missed Shot,Jump Shot,0,2,94,0021201216
+109,PT02M13.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,95,0021201216
+110,PT01M50.00S,1,1610612738,BOS,202340,Bradley,A. Bradley,84,197,21,Made,1,28,26,54,v,Bradley 21' Jump Shot (7 PTS) (Bass 1 AST),Made Shot,Jump Shot,0,2,96,0021201216
+112,PT01M35.00S,1,1610612761,TOR,200752,Gay,R. Gay,166,184,25,Made,1,31,26,57,h,Gay 25' 3PT Jump Shot (12 PTS) (Lucas III 1 AST),Made Shot,Jump Shot,0,3,97,0021201216
+113,PT01M24.00S,1,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,98,0021201216
+114,PT01M24.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Lee FOR Pierce,Substitution,,0,0,99,0021201216
+115,PT01M24.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,SUB: Anderson FOR Johnson,Substitution,,0,0,100,0021201216
+116,PT01M24.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,h,SUB: Acy FOR DeRozan,Substitution,,0,0,101,0021201216
+117,PT01M13.00S,1,1610612738,BOS,101138,Bass,B. Bass,10,143,14,Missed,1,0,0,0,v,MISS Bass 14' Jump Shot,Missed Shot,Jump Shot,0,2,102,0021201216
+118,PT01M12.00S,1,1610612761,TOR,101249,Lucas III,J. Lucas III,0,0,0,,0,0,0,0,h,Lucas III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,103,0021201216
+120,PT00M51.90S,1,1610612761,TOR,200752,Gay,R. Gay,163,20,16,Missed,1,0,0,0,h,MISS Gay 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,104,0021201216
+121,PT00M51.50S,1,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0,105,0021201216
+122,PT00M51.50S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas L.B.FOUL (P1.T2),Foul,Loose Ball,0,0,106,0021201216
+123,PT00M51.50S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: White FOR Bass,Substitution,,0,0,107,0021201216
+124,PT00M49.90S,1,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Williams FOR Bradley,Substitution,,0,0,108,0021201216
+125,PT00M27.40S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas S.FOUL (P2.PN),Foul,Shooting,0,0,109,0021201216
+126,PT00M27.40S,1,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,31,27,58,v,Randolph Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,110,0021201216
+129,PT00M27.40S,1,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,SUB: Johnson FOR Valanciunas,Substitution,,0,0,111,0021201216
+130,PT00M27.40S,1,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,MISS Randolph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,112,0021201216
+132,PT00M26.80S,1,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,113,0021201216
+133,PT00M05.90S,1,1610612761,TOR,200752,Gay,R. Gay,-138,82,16,Missed,1,0,0,0,h,MISS Gay 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,114,0021201216
+134,PT00M04.60S,1,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,115,0021201216
+135,PT00M00.00S,1,1610612738,BOS,202348,Crawford,J. Crawford,174,361,40,Made,1,31,30,61,v,Crawford 40' 3PT Jump Bank Shot (3 PTS) (Lee 1 AST),Made Shot,Jump Bank Shot,0,3,116,0021201216
+136,PT00M00.00S,1,0,,135,,,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,117,0021201216
+138,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,30,61, ,End of 1st Period (8:38 PM EST),period,end,0,0,118,0021201216
+140,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,30,61, ,Start of 2nd Period (8:39 PM EST),period,start,0,0,119,0021201216
+141,PT11M49.00S,2,1610612738,BOS,201591,White,D. White,-23,15,3,Missed,1,0,0,0,v,MISS White 3' Layup,Missed Shot,Layup Shot,0,2,120,0021201216
+141,PT11M49.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson BLOCK (1 BLK),,,0,2,121,0021201216
+142,PT11M46.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,122,0021201216
+143,PT11M44.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,19,11,2,Made,1,31,32,63,v,Randolph 2' Layup (5 PTS),Made Shot,Layup Shot,0,2,123,0021201216
+144,PT11M39.00S,2,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee P.FOUL (P1.T1),Foul,Personal,0,0,124,0021201216
+145,PT11M23.00S,2,1610612761,TOR,203112,Acy,Q. Acy,190,47,20,Missed,1,0,0,0,h,MISS Acy 20' Jump Shot,Missed Shot,Jump Shot,0,2,125,0021201216
+146,PT11M22.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,126,0021201216
+147,PT11M07.00S,2,1610612738,BOS,201584,Lee,C. Lee,201,159,26,Missed,1,0,0,0,v,MISS Lee 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,127,0021201216
+148,PT11M07.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,128,0021201216
+149,PT11M04.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph S.FOUL (P1.T2),Foul,Shooting,0,0,129,0021201216
+150,PT11M04.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,130,0021201216
+151,PT11M04.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,131,0021201216
+152,PT11M04.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,32,32,64,h,Johnson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,132,0021201216
+154,PT10M50.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,121,165,20,Missed,1,0,0,0,v,MISS Crawford 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,133,0021201216
+155,PT10M49.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,134,0021201216
+156,PT10M39.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,-210,129,25,Missed,1,0,0,0,h,MISS Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,135,0021201216
+157,PT10M38.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,136,0021201216
+158,PT10M28.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,Randolph Traveling Turnover (P1.T5),Turnover,Traveling,0,0,137,0021201216
+159,PT10M15.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,34,200,20,Made,1,34,32,66,h,Anderson 20' Jump Shot (2 PTS) (Lucas III 2 AST),Made Shot,Jump Shot,0,2,138,0021201216
+160,PT09M47.00S,2,1610612738,BOS,201591,White,D. White,-122,75,14,Missed,1,0,0,0,v,MISS White 14' Jump Shot,Missed Shot,Jump Shot,0,2,139,0021201216
+161,PT09M46.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,140,0021201216
+162,PT09M36.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,102,179,21,Missed,1,0,0,0,h,MISS Johnson 21' Jump Shot,Missed Shot,Jump Shot,0,2,141,0021201216
+163,PT09M35.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,142,0021201216
+165,PT09M23.00S,2,1610612738,BOS,201584,Lee,C. Lee,198,175,26,Made,1,34,35,69,v,Lee 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,3,143,0021201216
+166,PT09M20.00S,2,1610612761,TOR,202361,Fields,L. Fields,29,3,3,Made,1,36,35,71,h,Fields 3' Layup (2 PTS) (Johnson 1 AST),Made Shot,Layup Shot,0,2,145,0021201216
+167,PT09M20.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,144,0021201216
+168,PT09M20.00S,2,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,146,0021201216
+172,PT08M55.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,165,93,19,Made,1,36,37,73,v,Crawford 19' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,0,2,147,0021201216
+173,PT08M42.00S,2,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P2.T3),Foul,Shooting,0,0,148,0021201216
+174,PT08M42.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,37,37,74,h,Anderson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,149,0021201216
+176,PT08M42.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,38,37,75,h,Anderson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,150,0021201216
+178,PT08M22.00S,2,1610612738,BOS,201591,White,D. White,23,33,4,Missed,1,0,0,0,v,MISS White 4' Jump Shot,Missed Shot,Jump Shot,0,2,151,0021201216
+178,PT08M22.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson BLOCK (2 BLK),,,0,2,152,0021201216
+179,PT08M20.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,153,0021201216
+180,PT08M12.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,121,239,27,Made,1,41,37,78,h,Anderson 27' 3PT Jump Shot (7 PTS) (Fields 1 AST),Made Shot,Jump Shot,0,3,154,0021201216
+181,PT07M52.00S,2,1610612738,BOS,201584,Lee,C. Lee,15,25,3,Missed,1,0,0,0,v,MISS Lee 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,155,0021201216
+182,PT07M51.00S,2,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,156,0021201216
+183,PT07M42.00S,2,1610612761,TOR,101249,Lucas III,J. Lucas III,132,55,14,Made,1,43,37,80,h,Lucas III 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,157,0021201216
+184,PT07M20.00S,2,1610612738,BOS,201944,Williams,T. Williams,154,91,18,Missed,1,0,0,0,v,MISS Williams 18' Jump Shot,Missed Shot,Jump Shot,0,2,158,0021201216
+185,PT07M19.00S,2,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,159,0021201216
+186,PT07M01.00S,2,1610612761,TOR,203112,Acy,Q. Acy,-18,30,3,Made,1,45,37,82,h,Acy 3' Slam Dunk (2 PTS) (Anderson 1 AST),Made Shot,Slam Dunk Shot,0,2,160,0021201216
+187,PT06M43.00S,2,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy P.FOUL (P1.T1),Foul,Personal,0,0,161,0021201216
+188,PT06M43.00S,2,1610612738,BOS,101183,Randolph,S. Randolph,0,0,0,,0,0,0,0,v,SUB: Pierce FOR Randolph,Substitution,,0,0,162,0021201216
+189,PT06M43.00S,2,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,SUB: Wilcox FOR Lee,Substitution,,0,0,163,0021201216
+190,PT06M43.00S,2,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,SUB: Bradley FOR White,Substitution,,0,0,164,0021201216
+191,PT06M43.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,SUB: Valanciunas FOR Johnson,Substitution,,0,0,165,0021201216
+192,PT06M43.00S,2,1610612761,TOR,101249,Lucas III,J. Lucas III,0,0,0,,0,0,0,0,h,SUB: Lowry FOR Lucas III,Substitution,,0,0,166,0021201216
+193,PT06M35.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,28,118,12,Missed,1,0,0,0,v,MISS Pierce 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,167,0021201216
+194,PT06M34.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,168,0021201216
+196,PT06M29.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford P.FOUL (P1.T4),Foul,Personal,0,0,169,0021201216
+197,PT06M29.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,SUB: Green FOR Crawford,Substitution,,0,0,170,0021201216
+198,PT06M29.00S,2,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,SUB: DeRozan FOR Anderson,Substitution,,0,0,171,0021201216
+199,PT06M22.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Celtics T.Foul (Def. 3 Sec Pierce ),Foul,Defense 3 Second,0,0,172,0021201216
+200,PT06M22.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,46,37,83,h,DeRozan Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,173,0021201216
+202,PT06M13.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,-168,3,17,Missed,1,0,0,0,h,MISS Valanciunas 17' Jump Shot,Missed Shot,Jump Shot,0,2,174,0021201216
+203,PT06M12.00S,2,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,175,0021201216
+204,PT05M57.00S,2,1610612738,BOS,201944,Williams,T. Williams,193,6,19,Missed,1,0,0,0,v,MISS Williams 19' Jump Shot,Missed Shot,Jump Shot,0,2,176,0021201216
+205,PT05M56.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,177,0021201216
+206,PT05M49.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-11,257,26,Missed,1,0,0,0,h,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,178,0021201216
+207,PT05M48.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,179,0021201216
+208,PT05M44.00S,2,1610612738,BOS,201944,Williams,T. Williams,-10,-5,1,Made,1,46,39,85,v,Williams 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,180,0021201216
+209,PT05M24.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce S.FOUL (P1.PN),Foul,Shooting,0,0,181,0021201216
+210,PT05M24.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,182,0021201216
+211,PT05M24.00S,2,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,SUB: Gay FOR Acy,Substitution,,0,0,183,0021201216
+212,PT05M24.00S,2,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Williams,Substitution,,0,0,184,0021201216
+213,PT05M24.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,47,39,86,h,DeRozan Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,185,0021201216
+215,PT05M24.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,48,39,87,h,DeRozan Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,186,0021201216
+217,PT05M07.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,-5,52,5,Missed,1,0,0,0,v,MISS Crawford 5' Jump Shot,Missed Shot,Jump Shot,0,2,187,0021201216
+218,PT05M06.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,188,0021201216
+219,PT04M41.00S,2,1610612761,TOR,202361,Fields,L. Fields,-10,153,15,Missed,1,0,0,0,h,MISS Fields 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,189,0021201216
+220,PT04M40.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,190,0021201216
+222,PT04M37.00S,2,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Bass FOR Wilcox,Substitution,,0,0,191,0021201216
+223,PT04M31.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-16,42,4,Made,1,48,41,89,v,Pierce 4' Jump Shot (11 PTS) (Green 2 AST),Made Shot,Jump Shot,0,2,192,0021201216
+224,PT04M31.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields S.FOUL (P1.T2),Foul,Shooting,0,0,193,0021201216
+225,PT04M31.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,MISS Pierce Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,194,0021201216
+227,PT04M30.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,195,0021201216
+228,PT04M08.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,196,0021201216
+228,PT04M08.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,Pierce STEAL (1 STL),,,0,0,197,0021201216
+229,PT04M00.00S,2,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay P.FOUL (P1.T3),Foul,Personal,0,0,198,0021201216
+230,PT03M53.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,-59,190,20,Missed,1,0,0,0,v,MISS Bradley 20' Jump Shot,Missed Shot,Jump Shot,0,2,199,0021201216
+231,PT03M52.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,200,0021201216
+232,PT03M47.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,18,31,4,Made,1,50,41,91,h,Lowry 4' Driving Layup (4 PTS) (Fields 2 AST),Made Shot,Driving Layup Shot,0,2,201,0021201216
+233,PT03M25.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,102,52,11,Made,1,50,43,93,v,Bradley 11' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,2,202,0021201216
+234,PT03M06.00S,2,1610612761,TOR,200752,Gay,R. Gay,110,222,25,Made,1,53,43,96,h,Gay 25' 3PT Jump Shot (15 PTS) (Lowry 2 AST),Made Shot,Jump Shot,0,3,203,0021201216
+235,PT02M58.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Poss Lost Ball Turnover (P2.T6),Turnover,Poss Lost Ball Turnover,0,0,204,0021201216
+236,PT02M58.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,205,0021201216
+238,PT02M58.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0,0,0,v,SUB: Lee FOR Pierce,Substitution,,0,0,206,0021201216
+240,PT02M35.00S,2,1610612761,TOR,202361,Fields,L. Fields,59,33,7,Missed,1,0,0,0,h,MISS Fields 7' Jump Shot,Missed Shot,Jump Shot,0,2,207,0021201216
+240,PT02M35.00S,2,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee BLOCK (1 BLK),,,0,2,208,0021201216
+241,PT02M33.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,209,0021201216
+242,PT02M31.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,20,-13,2,Missed,1,0,0,0,v,MISS Bradley 2' Layup,Missed Shot,Layup Shot,0,2,210,0021201216
+243,PT02M29.00S,2,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,211,0021201216
+244,PT02M26.00S,2,1610612738,BOS,201145,Green,J. Green,-3,20,2,Made,1,53,45,98,v,Green 2' Tip Shot (4 PTS),Made Shot,Tip Shot,0,2,212,0021201216
+245,PT02M18.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,-34,6,3,Made,1,55,45,100,h,Valanciunas 3' Turnaround Hook Shot (11 PTS) (Fields 3 AST),Made Shot,Turnaround Hook Shot,0,2,213,0021201216
+246,PT01M47.00S,2,1610612738,BOS,202348,Crawford,J. Crawford,-37,260,26,Missed,1,0,0,0,v,MISS Crawford 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,214,0021201216
+247,PT01M46.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,h,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,215,0021201216
+248,PT01M33.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,Bass S.FOUL (P3.PN),Foul,Shooting,0,0,216,0021201216
+249,PT01M33.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,56,45,101,h,Valanciunas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,217,0021201216
+251,PT01M33.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,57,45,102,h,Valanciunas Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,218,0021201216
+253,PT01M21.00S,2,1610612738,BOS,201145,Green,J. Green,15,30,3,Missed,1,0,0,0,v,MISS Green 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,2,219,0021201216
+254,PT01M20.00S,2,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,220,0021201216
+255,PT01M11.00S,2,1610612761,TOR,200752,Gay,R. Gay,144,88,17,Missed,1,0,0,0,h,MISS Gay 17' Jump Shot,Missed Shot,Jump Shot,0,2,221,0021201216
+256,PT01M10.00S,2,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,222,0021201216
+257,PT01M04.00S,2,1610612761,TOR,202361,Fields,L. Fields,24,12,3,Made,1,59,45,104,h,Fields 3' Running Reverse Layup (4 PTS) (Lowry 3 AST),Made Shot,Running Reverse Layup Shot,0,2,223,0021201216
+258,PT00M49.00S,2,1610612738,BOS,202340,Bradley,A. Bradley,-168,115,20,Made,1,59,47,106,v,Bradley 20' Jump Shot (11 PTS) (Crawford 2 AST),Made Shot,Jump Shot,0,2,224,0021201216
+259,PT00M39.90S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,225,0021201216
+259,PT00M39.90S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford STEAL (1 STL),,,0,0,226,0021201216
+260,PT00M34.90S,2,1610612738,BOS,202348,Crawford,J. Crawford,29,-2,3,Missed,1,0,0,0,v,MISS Crawford 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,227,0021201216
+261,PT00M33.80S,2,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,228,0021201216
+262,PT00M32.20S,2,1610612738,BOS,202348,Crawford,J. Crawford,13,58,6,Made,1,59,49,108,v,Crawford 6' Jump Shot (7 PTS),Made Shot,Jump Shot,0,2,229,0021201216
+263,PT00M17.90S,2,1610612761,TOR,200752,Gay,R. Gay,-228,4,0,Missed,1,0,0,0,h,MISS Gay  3PT Jump Shot,Missed Shot,Jump Shot,0,3,230,0021201216
+264,PT00M16.90S,2,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,231,0021201216
+265,PT00M09.90S,2,1610612738,BOS,201584,Lee,C. Lee,171,176,25,Missed,1,0,0,0,v,MISS Lee 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,232,0021201216
+266,PT00M08.90S,2,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,233,0021201216
+268,PT00M00.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,26,20,3,Missed,1,0,0,0,h,MISS Lowry 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,234,0021201216
+269,PT00M00.00S,2,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,235,0021201216
+270,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,49,108, ,End of 2nd Period (9:06 PM EST),period,end,0,0,236,0021201216
+272,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,49,108, ,Start of 3rd Period (9:22 PM EST),period,start,0,0,237,0021201216
+273,PT11M47.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay P.FOUL (P2.T1),Foul,Personal,0,0,238,0021201216
+274,PT11M42.00S,3,1610612738,BOS,201145,Green,J. Green,-202,91,22,Made,1,59,51,110,v,Green 22' Jump Shot (6 PTS) (Bradley 3 AST),Made Shot,Jump Shot,0,2,239,0021201216
+275,PT11M26.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-149,20,15,Missed,1,0,0,0,h,MISS DeRozan 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,240,0021201216
+276,PT11M25.00S,3,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,241,0021201216
+277,PT11M13.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-235,9,24,Made,1,62,51,113,h,Lowry 24' 3PT Jump Shot (7 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,0,3,242,0021201216
+278,PT11M05.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,Bradley Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,243,0021201216
+278,PT11M05.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry STEAL (2 STL),,,0,0,244,0021201216
+279,PT11M01.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,4,6,1,Made,1,64,51,115,h,Lowry 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,2,245,0021201216
+280,PT10M44.00S,3,1610612738,BOS,101138,Bass,B. Bass,-30,146,15,Missed,1,0,0,0,v,MISS Bass 15' Jump Shot,Missed Shot,Jump Shot,0,2,246,0021201216
+281,PT10M43.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,247,0021201216
+282,PT10M35.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,86,236,25,Made,1,67,51,118,h,Johnson 25' 3PT Jump Shot (6 PTS) (Lowry 4 AST),Made Shot,Jump Shot,0,3,248,0021201216
+283,PT10M34.00S,3,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,249,0021201216
+286,PT10M21.00S,3,1610612738,BOS,101138,Bass,B. Bass,127,115,17,Missed,1,0,0,0,v,MISS Bass 17' Jump Shot,Missed Shot,Jump Shot,0,2,250,0021201216
+287,PT10M20.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,251,0021201216
+288,PT10M11.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,146,75,16,Missed,1,0,0,0,h,MISS Johnson 16' Jump Shot,Missed Shot,Jump Shot,0,2,252,0021201216
+289,PT10M10.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,253,0021201216
+290,PT10M05.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Offensive Charge Foul (P2.T1),Foul,Offensive Charge,0,0,254,0021201216
+291,PT10M05.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,Green Foul Turnover (P3.T8),Turnover,Foul,0,0,255,0021201216
+292,PT10M05.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0,0,0,v,SUB: White FOR Bass,Substitution,,0,0,256,0021201216
+293,PT09M46.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-144,214,26,Made,1,70,51,121,h,DeRozan 26' 3PT Jump Shot (12 PTS) (Lowry 5 AST),Made Shot,Jump Shot,0,3,257,0021201216
+294,PT09M26.00S,3,1610612738,BOS,201145,Green,J. Green,72,198,21,Missed,1,0,0,0,v,MISS Green 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,258,0021201216
+295,PT09M25.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,259,0021201216
+296,PT09M16.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,12,1,Made,1,72,51,123,h,Valanciunas 1' Slam Dunk (15 PTS) (Lowry 6 AST),Made Shot,Slam Dunk Shot,0,2,260,0021201216
+297,PT08M49.00S,3,1610612738,BOS,201145,Green,J. Green,0,260,26,Made,1,72,54,126,v,Green 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,3,261,0021201216
+298,PT08M36.00S,3,1610612761,TOR,200752,Gay,R. Gay,185,42,19,Missed,1,0,0,0,h,MISS Gay 19' Jump Shot,Missed Shot,Jump Shot,0,2,262,0021201216
+299,PT08M36.00S,3,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0,263,0021201216
+300,PT08M36.00S,3,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,SUB: Crawford FOR Lee,Substitution,,0,0,264,0021201216
+301,PT08M36.00S,3,1610612738,BOS,201145,Green,J. Green,0,0,0,,0,0,0,0,v,SUB: Williams FOR Green,Substitution,,0,0,265,0021201216
+302,PT08M22.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,-177,201,27,Missed,1,0,0,0,v,MISS Crawford 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,266,0021201216
+303,PT08M21.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,267,0021201216
+304,PT08M13.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,-17,17,2,Made,1,74,54,128,h,Valanciunas 2' Slam Dunk (17 PTS) (Johnson 2 AST),Made Shot,Slam Dunk Shot,0,2,268,0021201216
+305,PT07M45.00S,3,1610612738,BOS,201944,Williams,T. Williams,-10,135,14,Made,1,74,56,130,v,Williams 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,2,269,0021201216
+306,PT07M25.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0,270,0021201216
+306,PT07M25.00S,3,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White STEAL (1 STL),,,0,0,271,0021201216
+307,PT07M13.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,272,0021201216
+307,PT07M13.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay STEAL (1 STL),,,0,0,273,0021201216
+308,PT07M09.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-16,6,2,Made,1,76,56,132,h,DeRozan 2' Layup (14 PTS) (Lowry 7 AST),Made Shot,Layup Shot,0,2,274,0021201216
+309,PT06M57.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,Johnson P.FOUL (P1.T2),Foul,Personal,0,0,275,0021201216
+310,PT06M52.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,h,DeRozan P.FOUL (P1.T3),Foul,Personal,0,0,276,0021201216
+311,PT06M43.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,-125,123,18,Missed,1,0,0,0,v,MISS Bradley 18' Jump Shot,Missed Shot,Jump Shot,0,2,277,0021201216
+312,PT06M41.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,278,0021201216
+313,PT06M28.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,230,4,0,Made,1,79,56,135,h,DeRozan  3PT Jump Shot (17 PTS) (Lowry 8 AST),Made Shot,Jump Shot,0,3,279,0021201216
+314,PT06M10.00S,3,1610612738,BOS,201944,Williams,T. Williams,-79,165,18,Made,1,79,58,137,v,Williams 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,0,2,280,0021201216
+316,PT05M51.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-125,216,25,Missed,1,0,0,0,h,MISS Lowry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,281,0021201216
+317,PT05M50.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,282,0021201216
+319,PT05M36.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,12,14,2,Made,1,79,60,139,v,Wilcox 2' Layup (2 PTS) (Crawford 3 AST),Made Shot,Layup Shot,0,2,283,0021201216
+320,PT05M26.00S,3,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,284,0021201216
+322,PT05M26.00S,3,1610612738,BOS,2404,Wilcox,C. Wilcox,0,0,0,,0,0,0,0,v,SUB: Lee FOR Wilcox,Substitution,,0,0,285,0021201216
+323,PT05M26.00S,3,1610612738,BOS,202340,Bradley,A. Bradley,0,0,0,,0,0,0,0,v,SUB: Melo FOR Bradley,Substitution,,0,0,286,0021201216
+324,PT05M26.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0,0,0,h,SUB: Acy FOR Johnson,Substitution,,0,0,287,0021201216
+325,PT05M13.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,23,6,2,Missed,1,0,0,0,h,MISS Lowry 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,288,0021201216
+326,PT05M12.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,289,0021201216
+327,PT05M10.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,21,26,3,Missed,1,0,0,0,h,MISS Valanciunas 3' Tip Shot,Missed Shot,Tip Shot,0,2,290,0021201216
+328,PT05M09.00S,3,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,291,0021201216
+329,PT04M57.00S,3,1610612738,BOS,201591,White,D. White,177,22,18,Missed,1,0,0,0,v,MISS White 18' Jump Shot,Missed Shot,Jump Shot,0,2,292,0021201216
+330,PT04M56.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,293,0021201216
+331,PT04M46.00S,3,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams S.FOUL (P1.T2),Foul,Shooting,0,0,294,0021201216
+332,PT04M46.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,80,60,140,h,Gay Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,295,0021201216
+334,PT04M46.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,81,60,141,h,Gay Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,296,0021201216
+336,PT04M40.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo OFF.Foul (P1),Foul,Offensive,0,0,297,0021201216
+337,PT04M40.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo Foul Turnover (P1.T10),Turnover,Foul,0,0,298,0021201216
+339,PT04M23.00S,3,1610612761,TOR,200752,Gay,R. Gay,86,135,16,Missed,1,0,0,0,h,MISS Gay 16' Jump Shot,Missed Shot,Jump Shot,0,2,299,0021201216
+339,PT04M23.00S,3,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams BLOCK (1 BLK),,,0,2,300,0021201216
+340,PT04M20.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,Gay REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,301,0021201216
+341,PT04M16.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,83,8,Made,1,83,60,143,h,Gay 8' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,0,2,302,0021201216
+342,PT04M05.00S,3,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,303,0021201216
+342,PT04M05.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,Lowry STEAL (3 STL),,,0,0,304,0021201216
+343,PT04M00.00S,3,1610612761,TOR,200752,Gay,R. Gay,-23,20,3,Missed,1,0,0,0,h,MISS Gay 3' Running Layup,Missed Shot,Running Layup Shot,0,2,305,0021201216
+344,PT03M59.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,h,DeRozan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,306,0021201216
+345,PT03M56.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-6,19,2,Made,1,85,60,145,h,DeRozan 2' Putback Dunk (19 PTS),Made Shot,Putback Dunk Shot,0,2,307,0021201216
+346,PT03M45.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,140,220,26,Made,1,85,63,148,v,Crawford 26' 3PT Jump Shot (10 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,3,308,0021201216
+347,PT03M32.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo S.FOUL (P2.T3),Foul,Shooting,0,0,309,0021201216
+348,PT03M32.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,310,0021201216
+349,PT03M32.00S,3,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,311,0021201216
+350,PT03M32.00S,3,1610612761,TOR,200752,Gay,R. Gay,0,0,0,,0,0,0,0,h,SUB: Fields FOR Gay,Substitution,,0,0,312,0021201216
+351,PT03M32.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0,0,0,h,SUB: Lucas III FOR Lowry,Substitution,,0,0,313,0021201216
+352,PT03M32.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,86,63,149,h,Valanciunas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,314,0021201216
+354,PT03M21.00S,3,1610612738,BOS,201591,White,D. White,-84,179,20,Missed,1,0,0,0,v,MISS White 20' Jump Shot,Missed Shot,Jump Shot,0,2,315,0021201216
+355,PT03M20.00S,3,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,316,0021201216
+356,PT03M06.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo P.FOUL (P3.T4),Foul,Personal,0,0,317,0021201216
+357,PT02M57.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,0,318,0021201216
+357,PT02M57.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo STEAL (1 STL),,,0,0,319,0021201216
+358,PT02M52.00S,3,1610612738,BOS,201944,Williams,T. Williams,13,3,1,Missed,1,0,0,0,v,MISS Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,320,0021201216
+359,PT02M51.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,h,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,321,0021201216
+360,PT02M39.00S,3,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo P.FOUL (P4.PN),Foul,Personal,0,0,322,0021201216
+361,PT02M34.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,231,116,26,Made,1,89,63,152,h,DeRozan 26' 3PT Jump Shot (22 PTS) (Lucas III 3 AST),Made Shot,Jump Shot,0,3,323,0021201216
+362,PT02M14.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford OFF.Foul (P2),Foul,Offensive,0,0,324,0021201216
+363,PT02M14.00S,3,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford Foul Turnover (P2.T12),Turnover,Foul,0,0,325,0021201216
+364,PT02M00.00S,3,1610612761,TOR,101249,Lucas III,J. Lucas III,214,156,26,Missed,1,0,0,0,h,MISS Lucas III 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,326,0021201216
+365,PT01M58.00S,3,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,327,0021201216
+366,PT01M53.00S,3,1610612738,BOS,201584,Lee,C. Lee,2,74,7,Missed,1,0,0,0,v,MISS Lee 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,328,0021201216
+367,PT01M52.00S,3,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,329,0021201216
+368,PT01M41.00S,3,1610612738,BOS,201584,Lee,C. Lee,245,44,25,Missed,1,0,0,0,v,MISS Lee 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,330,0021201216
+369,PT01M40.00S,3,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,331,0021201216
+370,PT01M38.00S,3,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy S.FOUL (P2.T4),Foul,Shooting,0,0,332,0021201216
+371,PT01M38.00S,3,1610612738,BOS,201591,White,D. White,0,0,0,,0,89,64,153,v,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,333,0021201216
+373,PT01M38.00S,3,1610612761,TOR,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,SUB: Gray FOR Valanciunas,Substitution,,0,0,334,0021201216
+374,PT01M38.00S,3,1610612738,BOS,201591,White,D. White,0,0,0,,0,89,65,154,v,White Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,335,0021201216
+376,PT01M22.00S,3,1610612761,TOR,101249,Lucas III,J. Lucas III,233,22,0,Made,1,92,65,157,h,Lucas III  3PT Jump Shot (5 PTS) (Acy 1 AST),Made Shot,Jump Shot,0,3,336,0021201216
+377,PT01M02.00S,3,1610612738,BOS,201944,Williams,T. Williams,-158,118,20,Made,1,92,67,159,v,Williams 20' Jump Shot (8 PTS) (Crawford 4 AST),Made Shot,Jump Shot,0,2,337,0021201216
+378,PT00M44.80S,3,1610612761,TOR,202361,Fields,L. Fields,135,26,14,Made,1,94,67,161,h,Fields 14' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,2,338,0021201216
+379,PT00M25.90S,3,1610612738,BOS,201584,Lee,C. Lee,231,34,0,Made,1,94,70,164,v,Lee  3PT Jump Shot (6 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,3,339,0021201216
+380,PT00M04.90S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,179,88,20,Made,1,96,70,166,h,DeRozan 20' Jump Shot (24 PTS),Made Shot,Jump Shot,0,2,340,0021201216
+381,PT00M00.00S,3,1610612738,BOS,201944,Williams,T. Williams,177,310,36,Missed,1,0,0,0,v,MISS Williams 36' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,341,0021201216
+382,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Unknown,0,0,342,0021201216
+383,PT00M00.00S,3,0,,0,,,0,0,0,,0,96,70,166, ,End of 3rd Period (9:45 PM EST),period,end,0,0,343,0021201216
+385,PT12M00.00S,4,0,,0,,,0,0,0,,0,96,70,166, ,Start of 4th Period (9:48 PM EST),period,start,0,0,344,0021201216
+386,PT11M47.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White S.FOUL (P1.T1),Foul,Shooting,0,0,345,0021201216
+387,PT11M47.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,MISS Acy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,346,0021201216
+388,PT11M47.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,347,0021201216
+389,PT11M47.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,MISS Acy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,348,0021201216
+391,PT11M46.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,349,0021201216
+392,PT11M34.00S,4,1610612738,BOS,201584,Lee,C. Lee,95,146,17,Made,1,96,72,168,v,Lee 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,2,350,0021201216
+393,PT11M19.00S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0,0,0,h,Gray Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,351,0021201216
+393,PT11M19.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,0,0,352,0021201216
+394,PT11M13.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,353,0021201216
+395,PT10M58.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,17,157,16,Missed,1,0,0,0,h,MISS Anderson 16' Jump Shot,Missed Shot,Jump Shot,0,2,354,0021201216
+396,PT10M56.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,355,0021201216
+397,PT10M45.00S,4,1610612761,TOR,203112,Acy,Q. Acy,-146,118,19,Made,1,98,72,170,h,Acy 19' Jump Shot (4 PTS) (Anderson 2 AST),Made Shot,Jump Shot,0,2,356,0021201216
+398,PT10M29.00S,4,1610612738,BOS,201944,Williams,T. Williams,6,145,15,Missed,1,0,0,0,v,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,357,0021201216
+399,PT10M27.00S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0,0,0,h,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,358,0021201216
+400,PT10M19.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-177,80,19,Missed,1,0,0,0,h,MISS Lucas III 19' Jump Shot,Missed Shot,Jump Shot,0,2,359,0021201216
+401,PT10M18.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,360,0021201216
+402,PT09M57.00S,4,1610612738,BOS,203097,Melo,F. Melo,-7,9,1,Made,1,98,74,172,v,Melo 1' Finger Roll Layup (2 PTS) (Williams 4 AST),Made Shot,Finger Roll Layup Shot,0,2,361,0021201216
+403,PT09M43.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields Traveling Turnover (P1.T9),Turnover,Traveling,0,0,362,0021201216
+404,PT09M25.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields S.FOUL (P2.T1),Foul,Shooting,0,0,363,0021201216
+405,PT09M25.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,364,0021201216
+406,PT09M25.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,365,0021201216
+407,PT09M25.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,366,0021201216
+409,PT09M24.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,367,0021201216
+410,PT09M10.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee S.FOUL (P3.T2),Foul,Shooting,0,0,368,0021201216
+411,PT09M10.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,99,74,173,h,Anderson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,369,0021201216
+413,PT09M10.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,100,74,174,h,Anderson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,370,0021201216
+415,PT08M50.00S,4,1610612738,BOS,201944,Williams,T. Williams,-82,257,27,Missed,1,0,0,0,v,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,371,0021201216
+416,PT08M49.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,372,0021201216
+417,PT08M30.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,95,249,27,Made,1,103,74,177,h,Anderson 27' 3PT Jump Shot (12 PTS) (Gray 1 AST),Made Shot,Jump Shot,0,3,373,0021201216
+418,PT08M14.00S,4,1610612738,BOS,203097,Melo,F. Melo,-15,78,8,Missed,1,0,0,0,v,MISS Melo 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,374,0021201216
+419,PT08M13.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,375,0021201216
+420,PT08M00.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,130,241,27,Missed,1,0,0,0,h,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,376,0021201216
+421,PT07M59.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,0,0,0,h,Fields REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,377,0021201216
+422,PT07M48.00S,4,1610612761,TOR,202361,Fields,L. Fields,24,110,11,Missed,1,0,0,0,h,MISS Fields 11' Jump Shot,Missed Shot,Jump Shot,0,2,378,0021201216
+423,PT07M47.00S,4,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,379,0021201216
+424,PT07M31.00S,4,1610612738,BOS,201944,Williams,T. Williams,45,213,22,Missed,1,0,0,0,v,MISS Williams 22' Jump Shot,Missed Shot,Jump Shot,0,2,380,0021201216
+425,PT07M30.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,381,0021201216
+426,PT07M19.00S,4,1610612761,TOR,201189,Gray,A. Gray,-90,132,16,Made,1,105,74,179,h,Gray 16' Jump Shot (2 PTS) (Lucas III 4 AST),Made Shot,Jump Shot,0,2,382,0021201216
+428,PT07M00.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,-139,250,29,Missed,1,0,0,0,v,MISS Crawford 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,383,0021201216
+429,PT06M59.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,384,0021201216
+430,PT06M35.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,385,0021201216
+431,PT06M35.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,386,0021201216
+435,PT06M15.00S,4,1610612738,BOS,201944,Williams,T. Williams,-57,167,18,Missed,1,0,0,0,v,MISS Williams 18' Jump Shot,Missed Shot,Jump Shot,0,2,387,0021201216
+436,PT06M14.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,388,0021201216
+437,PT06M04.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,165,17,Missed,1,0,0,0,h,MISS Anderson 17' Jump Shot,Missed Shot,Jump Shot,0,2,389,0021201216
+438,PT06M03.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,390,0021201216
+439,PT06M01.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,-34,0,3,Made,1,107,74,181,h,Anderson 3' Layup (14 PTS),Made Shot,Layup Shot,0,2,391,0021201216
+440,PT05M50.00S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0,0,0,h,Gray S.FOUL (P1.T2),Foul,Shooting,0,0,392,0021201216
+441,PT05M50.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,393,0021201216
+444,PT05M50.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,107,75,182,v,Crawford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,394,0021201216
+446,PT05M50.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,107,76,183,v,Crawford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,395,0021201216
+448,PT05M32.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-158,208,26,Missed,1,0,0,0,h,MISS Lucas III 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,396,0021201216
+449,PT05M31.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,397,0021201216
+450,PT05M08.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,12,272,27,Missed,1,0,0,0,v,MISS Crawford 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,398,0021201216
+451,PT05M07.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,399,0021201216
+452,PT04M50.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Short (Reg.3 Short 1),Timeout,Short,0,0,400,0021201216
+455,PT04M50.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Jump Ball Acy vs. Lee: Tip to Melo,Jump Ball,,0,0,403,0021201216
+456,PT04M50.00S,4,1610612761,TOR,203112,Acy,Q. Acy,0,0,0,,0,0,0,0,h,Acy Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,401,0021201216
+456,PT04M50.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee STEAL (1 STL),,,0,0,402,0021201216
+458,PT04M31.00S,4,1610612738,BOS,201584,Lee,C. Lee,-93,162,19,Missed,1,0,0,0,v,MISS Lee 19' Jump Shot,Missed Shot,Jump Shot,0,2,404,0021201216
+459,PT04M31.00S,4,0,,1610612761,,,0,0,0,,0,0,0,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,405,0021201216
+460,PT04M14.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee P.FOUL (P4.T3),Foul,Personal,0,0,406,0021201216
+461,PT04M02.00S,4,1610612761,TOR,203112,Acy,Q. Acy,58,206,21,Missed,1,0,0,0,h,MISS Acy 21' Jump Shot,Missed Shot,Jump Shot,0,2,407,0021201216
+462,PT04M01.00S,4,1610612738,BOS,201944,Williams,T. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,408,0021201216
+463,PT03M57.00S,4,1610612738,BOS,201944,Williams,T. Williams,1,1,0,Made,1,107,78,185,v,Williams  Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,0,2,409,0021201216
+465,PT03M33.00S,4,1610612761,TOR,202361,Fields,L. Fields,56,11,6,Missed,1,0,0,0,h,MISS Fields 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,410,0021201216
+466,PT03M32.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,411,0021201216
+467,PT03M20.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,4,105,11,Made,1,107,80,187,v,Crawford 11' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,0,2,412,0021201216
+468,PT03M08.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,9,9,1,Made,1,109,80,189,h,Anderson 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,0,2,413,0021201216
+469,PT02M54.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,129,172,22,Missed,1,0,0,0,v,MISS Crawford 22' Jump Shot,Missed Shot,Jump Shot,0,2,414,0021201216
+470,PT02M52.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,415,0021201216
+471,PT02M48.00S,4,1610612738,BOS,201591,White,D. White,17,0,2,Made,1,109,82,191,v,White 2' Dunk (4 PTS),Made Shot,Dunk Shot,0,2,416,0021201216
+472,PT02M26.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,-223,126,26,Missed,1,0,0,0,h,MISS Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,417,0021201216
+473,PT02M24.00S,4,1610612738,BOS,201584,Lee,C. Lee,0,0,0,,0,0,0,0,v,Lee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,418,0021201216
+474,PT02M16.00S,4,1610612761,TOR,101187,Anderson,A. Anderson,0,0,0,,0,0,0,0,h,Anderson S.FOUL (P1.T3),Foul,Shooting,0,0,419,0021201216
+475,PT02M16.00S,4,0,,1610612738,,,0,0,0,,0,0,0,0,v,Celtics Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0,420,0021201216
+478,PT02M16.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,109,83,192,v,White Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,421,0021201216
+480,PT02M16.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,109,84,193,v,White Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,422,0021201216
+482,PT02M04.00S,4,1610612761,TOR,202361,Fields,L. Fields,-2,6,1,Made,1,111,84,195,h,Fields 1' Reverse Dunk (8 PTS) (Gray 2 AST),Made Shot,Reverse Dunk Shot,0,2,423,0021201216
+484,PT01M47.00S,4,1610612738,BOS,201591,White,D. White,7,208,21,Made,1,111,86,197,v,White 21' Jump Shot (8 PTS) (Williams 5 AST),Made Shot,Jump Shot,0,2,424,0021201216
+485,PT01M32.00S,4,1610612738,BOS,201591,White,D. White,0,0,0,,0,0,0,0,v,White S.FOUL (P2.T4),Foul,Shooting,0,0,425,0021201216
+486,PT01M32.00S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,112,86,198,h,Gray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,426,0021201216
+488,PT01M32.00S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0,0,0,h,MISS Gray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,427,0021201216
+490,PT01M31.00S,4,1610612738,BOS,203097,Melo,F. Melo,0,0,0,,0,0,0,0,v,Melo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,428,0021201216
+492,PT01M17.00S,4,1610612738,BOS,201584,Lee,C. Lee,173,56,18,Missed,1,0,0,0,v,MISS Lee 18' Jump Shot,Missed Shot,Jump Shot,0,2,429,0021201216
+493,PT01M15.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,0,0,0,,0,0,0,0,v,Crawford REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,430,0021201216
+494,PT01M06.00S,4,1610612738,BOS,202348,Crawford,J. Crawford,-123,56,14,Made,1,112,88,200,v,Crawford 14' Turnaround Jump Shot (16 PTS) (White 1 AST),Made Shot,Turnaround Jump Shot,0,2,431,0021201216
+497,PT00M42.90S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,124,41,13,Made,1,114,88,202,h,Lucas III 13' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,0,2,432,0021201216
+498,PT00M27.60S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0,0,0,h,Gray P.FOUL (P2.T4),Foul,Personal,0,0,433,0021201216
+499,PT00M16.90S,4,1610612738,BOS,201944,Williams,T. Williams,-11,97,10,Made,1,114,90,204,v,Williams 10' Running Jump Shot (12 PTS) (Crawford 5 AST),Made Shot,Running Jump Shot,0,2,434,0021201216
+501,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,90,204, ,End of 4th Period (10:15 PM EST),period,end,0,0,435,0021201216

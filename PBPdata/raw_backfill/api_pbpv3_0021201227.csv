@@ -1,0 +1,502 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:14 PM EST),period,start,0,0,1,0021201227
+1,PT12M00.00S,1,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Jump Ball Koufos vs. Morris: Tip to Lawson,Jump Ball,,0,0,2,0021201227
+2,PT11M39.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,-226,-2,0,Missed,1,,,0,h,MISS Fournier 3PT Jump Shot,Missed Shot,Jump Shot,0,3,3,0021201227
+3,PT11M38.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,4,0021201227
+4,PT11M24.00S,1,1610612756,PHX,202693,Morris,M. Morris,-100,15,10,Missed,1,,,0,v,MISS Morris 10' Jump Shot,Missed Shot,Jump Shot,0,2,5,0021201227
+5,PT11M23.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,6,0021201227
+6,PT11M18.00S,1,1610612756,PHX,202693,Morris,M. Morris,-125,0,13,Missed,1,,,0,v,MISS Morris 13' Jump Shot,Missed Shot,Jump Shot,0,2,7,0021201227
+7,PT11M17.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,8,0021201227
+8,PT11M10.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,59,170,18,Made,1,2.0,0.0,2,h,Chandler 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,9,0021201227
+9,PT10M51.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,10,0021201227
+9,PT10M51.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler STEAL (1 STL),,,0,0,11,0021201227
+10,PT10M50.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T1),Foul,Personal,0,0,12,0021201227
+11,PT10M31.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,18,9,2,Missed,1,,,0,h,MISS Fournier 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,13,0021201227
+11,PT10M31.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall BLOCK (1 BLK),,,0,2,14,0021201227
+12,PT10M30.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,15,0021201227
+14,PT10M23.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,176,126,22,Missed,1,,,0,h,MISS Fournier 22' Jump Shot,Missed Shot,Jump Shot,0,2,16,0021201227
+15,PT10M22.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,17,0021201227
+16,PT10M09.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,-123,187,22,Made,1,2.0,2.0,4,v,Johnson 22' Jump Shot (2 PTS) (Marshall 1 AST),Made Shot,Jump Shot,0,2,18,0021201227
+17,PT10M03.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,-4,3,1,Made,1,4.0,2.0,6,h,Fournier 1' Layup (2 PTS) (Lawson 1 AST),Made Shot,Layup Shot,0,2,19,0021201227
+18,PT09M45.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,-19,7,2,Made,1,4.0,4.0,8,v,Johnson 2' Reverse Layup (4 PTS) (Scola 1 AST),Made Shot,Reverse Layup Shot,0,2,20,0021201227
+19,PT09M36.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-52,255,26,Made,1,7.0,4.0,11,h,Chandler 26' 3PT Jump Shot (5 PTS) (Lawson 2 AST),Made Shot,Jump Shot,0,3,21,0021201227
+20,PT09M17.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,-180,159,24,Missed,1,,,0,v,MISS Marshall 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,22,0021201227
+21,PT09M16.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,23,0021201227
+22,PT09M05.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-51,42,7,Missed,1,,,0,h,MISS Chandler 7' Jump Shot,Missed Shot,Jump Shot,0,2,24,0021201227
+23,PT09M04.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,25,0021201227
+24,PT09M02.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,34,3,Made,1,9.0,4.0,13,h,Chandler 3' Jump Shot (7 PTS),Made Shot,Jump Shot,0,2,26,0021201227
+25,PT08M50.00S,1,1610612756,PHX,2449,Scola,L. Scola,24,173,17,Missed,1,,,0,v,MISS Scola 17' Jump Shot,Missed Shot,Jump Shot,0,2,27,0021201227
+26,PT08M49.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,28,0021201227
+27,PT08M43.00S,1,1610612743,DEN,201585,Koufos,K. Koufos,-11,0,1,Made,1,11.0,4.0,15,h,Koufos 1' Reverse Layup (2 PTS) (Chandler 1 AST),Made Shot,Reverse Layup Shot,0,2,29,0021201227
+28,PT08M43.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola S.FOUL (P1.T2),Foul,Shooting,0,0,30,0021201227
+29,PT08M43.00S,1,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,12.0,4.0,16,h,Koufos Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,31,0021201227
+31,PT08M40.00S,1,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,32,0021201227
+35,PT08M29.00S,1,1610612756,PHX,202693,Morris,M. Morris,-35,44,6,Missed,1,,,0,v,MISS Morris 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,33,0021201227
+36,PT08M28.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,34,0021201227
+37,PT08M25.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T3),Foul,Shooting,0,0,35,0021201227
+38,PT08M25.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,13.0,4.0,17,h,Iguodala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,36,0021201227
+40,PT08M25.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,14.0,4.0,18,h,Iguodala Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,37,0021201227
+42,PT08M03.00S,1,1610612756,PHX,202693,Morris,M. Morris,24,0,2,Made,1,14.0,6.0,20,v,Morris 2' Dunk (2 PTS) (Marshall 2 AST),Made Shot,Dunk Shot,0,2,38,0021201227
+43,PT07M43.00S,1,1610612743,DEN,201585,Koufos,K. Koufos,-41,30,5,Missed,1,,,0,h,MISS Koufos 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,39,0021201227
+44,PT07M42.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,40,0021201227
+45,PT07M28.00S,1,1610612756,PHX,2449,Scola,L. Scola,24,4,2,Made,1,14.0,8.0,22,v,Scola 2' Layup (2 PTS) (Johnson 1 AST),Made Shot,Layup Shot,0,2,41,0021201227
+46,PT07M15.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,-10,9,1,Made,1,16.0,8.0,24,h,Fournier 1' Driving Layup (4 PTS) (Lawson 3 AST),Made Shot,Driving Layup Shot,0,2,43,0021201227
+47,PT07M15.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,42,0021201227
+48,PT07M07.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris OFF.Foul (P1),Foul,Offensive,0,0,44,0021201227
+49,PT07M07.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris Foul Turnover (P1.T2),Turnover,Foul,0,0,45,0021201227
+50,PT06M54.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,53,37,6,Made,1,18.0,8.0,26,h,Chandler 6' Jump Shot (9 PTS) (Lawson 4 AST),Made Shot,Jump Shot,0,2,46,0021201227
+52,PT06M35.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,26,7,3,Made,1,18.0,10.0,28,v,Tucker 3' Layup (2 PTS) (Scola 2 AST),Made Shot,Layup Shot,0,2,47,0021201227
+53,PT06M29.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,-18,7,2,Made,1,20.0,10.0,30,h,Lawson 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,0,2,48,0021201227
+54,PT06M10.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,204,20,20,Missed,1,,,0,v,MISS Johnson 20' Jump Shot,Missed Shot,Jump Shot,0,2,49,0021201227
+55,PT06M10.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,50,0021201227
+56,PT06M01.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,-215,138,26,Missed,1,,,0,h,MISS Lawson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,51,0021201227
+57,PT06M00.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,52,0021201227
+58,PT05M54.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,242,17,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,53,0021201227
+59,PT05M53.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,54,0021201227
+61,PT05M42.00S,1,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,SUB: McGee FOR Koufos,Substitution,,0,0,55,0021201227
+62,PT05M27.00S,1,1610612756,PHX,2449,Scola,L. Scola,1,89,9,Made,1,20.0,12.0,32,v,Scola 9' Jump Hook Shot (4 PTS),Made Shot,Jump Hook Shot,0,2,56,0021201227
+63,PT05M15.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,17,6,2,Made,1,22.0,12.0,34,h,Chandler 2' Layup (11 PTS) (Lawson 5 AST),Made Shot,Layup Shot,0,2,57,0021201227
+64,PT04M55.00S,1,1610612756,PHX,2449,Scola,L. Scola,-15,42,4,Missed,1,,,0,v,MISS Scola 4' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,58,0021201227
+65,PT04M54.00S,1,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,59,0021201227
+66,PT04M44.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,60,0021201227
+67,PT04M23.00S,1,1610612756,PHX,202693,Morris,M. Morris,111,22,11,Made,1,22.0,14.0,36,v,Morris 11' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,0,2,61,0021201227
+68,PT04M08.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,236,6,24,Missed,1,,,0,h,MISS Chandler 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,62,0021201227
+69,PT04M07.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,63,0021201227
+70,PT04M05.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier P.FOUL (P1.T1),Foul,Personal,0,0,64,0021201227
+71,PT04M05.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,22.0,15.0,37,v,Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,65,0021201227
+73,PT04M05.00S,1,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Brewer FOR Fournier,Substitution,,0,0,66,0021201227
+74,PT04M05.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,22.0,16.0,38,v,Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,67,0021201227
+76,PT03M47.00S,1,1610612743,DEN,201580,McGee,J. McGee,-18,7,2,Missed,1,,,0,h,MISS McGee 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,68,0021201227
+77,PT03M47.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,4,17,2,Made,1,24.0,16.0,40,h,Chandler 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,0,2,70,0021201227
+78,PT03M47.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,69,0021201227
+79,PT03M27.00S,1,1610612756,PHX,202693,Morris,M. Morris,-226,22,0,Missed,1,,,0,v,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,0,3,71,0021201227
+80,PT03M26.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,72,0021201227
+81,PT03M17.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,2,20,2,Missed,1,,,0,v,MISS Marshall 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,73,0021201227
+82,PT03M16.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,74,0021201227
+84,PT03M16.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,SUB: Randolph FOR Chandler,Substitution,,0,0,75,0021201227
+85,PT03M08.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,-18,-2,2,Made,1,24.0,18.0,42,v,Marshall 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,76,0021201227
+86,PT02M56.00S,1,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall L.B.FOUL (P1.T4),Foul,Loose Ball,0,0,77,0021201227
+87,PT02M56.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,78,0021201227
+89,PT02M56.00S,1,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,SUB: Dudley FOR Johnson,Substitution,,0,0,79,0021201227
+91,PT02M47.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,160,48,17,Made,1,26.0,18.0,44,h,Iguodala 17' Fadeaway Jumper (4 PTS) (Brewer 1 AST),Made Shot,Fadeaway Jump Shot,0,2,80,0021201227
+92,PT02M30.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,-223,6,0,Missed,1,,,0,v,MISS Dudley 3PT Jump Shot,Missed Shot,Jump Shot,0,3,81,0021201227
+93,PT02M29.00S,1,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,82,0021201227
+94,PT02M25.00S,1,1610612743,DEN,201580,McGee,J. McGee,-10,0,1,Missed,1,,,0,h,MISS McGee 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,2,83,0021201227
+95,PT02M23.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,-13,0,1,Made,1,28.0,18.0,46,h,Iguodala 1' Layup (6 PTS),Made Shot,Layup Shot,0,2,85,0021201227
+96,PT02M24.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,84,0021201227
+97,PT02M00.00S,1,1610612756,PHX,2449,Scola,L. Scola,159,48,17,Missed,1,,,0,v,MISS Scola 17' Jump Shot,Missed Shot,Jump Shot,0,2,86,0021201227
+98,PT01M59.00S,1,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,87,0021201227
+99,PT01M48.00S,1,1610612743,DEN,201576,Randolph,A. Randolph,-16,0,2,Made,1,30.0,18.0,48,h,Randolph 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,88,0021201227
+100,PT01M48.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris S.FOUL (P2.PN),Foul,Shooting,0,0,89,0021201227
+101,PT01M48.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,SUB: A. Miller FOR Lawson,Substitution,,0,0,90,0021201227
+102,PT01M48.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,SUB: Beasley FOR Morris,Substitution,,0,0,91,0021201227
+103,PT01M48.00S,1,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,31.0,18.0,49,h,Randolph Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,92,0021201227
+105,PT01M30.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,-237,1,24,Missed,1,,,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,93,0021201227
+106,PT01M29.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,94,0021201227
+107,PT01M27.00S,1,1610612756,PHX,2449,Scola,L. Scola,20,11,2,Made,1,31.0,20.0,51,v,Scola 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,2,95,0021201227
+108,PT01M03.00S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,7,11,1,Made,1,33.0,20.0,53,h,Iguodala 1' Dunk (8 PTS),Made Shot,Dunk Shot,0,2,96,0021201227
+109,PT00M53.90S,1,1610612756,PHX,2449,Scola,L. Scola,31,1,3,Missed,1,,,0,v,MISS Scola 3' Jump Shot,Missed Shot,Jump Shot,0,2,97,0021201227
+110,PT00M52.30S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,98,0021201227
+111,PT00M51.30S,1,1610612756,PHX,200782,Tucker,P. Tucker,26,4,3,Missed,1,,,0,v,MISS Tucker 3' Layup,Missed Shot,Layup Shot,0,2,99,0021201227
+111,PT00M51.30S,1,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee BLOCK (1 BLK),,,0,2,100,0021201227
+112,PT00M49.30S,1,1610612756,PHX,200782,Tucker,P. Tucker,12,12,2,Missed,1,,,0,v,MISS Tucker 2' Layup,Missed Shot,Layup Shot,0,2,102,0021201227
+112,PT00M49.30S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala BLOCK (1 BLK),,,0,2,103,0021201227
+113,PT00M50.30S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,101,0021201227
+114,PT00M48.30S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,104,0021201227
+116,PT00M35.90S,1,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,105,0021201227
+116,PT00M35.90S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker STEAL (1 STL),,,0,0,106,0021201227
+117,PT00M30.90S,1,1610612756,PHX,201162,Dudley,J. Dudley,-18,14,2,Missed,1,,,0,v,MISS Dudley 2' Layup,Missed Shot,Layup Shot,0,2,107,0021201227
+117,PT00M30.90S,1,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph BLOCK (1 BLK),,,0,2,108,0021201227
+118,PT00M29.80S,1,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,109,0021201227
+119,PT00M18.90S,1,1610612743,DEN,201576,Randolph,A. Randolph,9,6,1,Made,1,35.0,20.0,55,h,Randolph 1' Slam Dunk (5 PTS) (A. Miller 1 AST),Made Shot,Slam Dunk Shot,0,2,110,0021201227
+120,PT00M09.10S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,h,A. Miller Personal Take Foul (P1.T2),Foul,Personal Take,0,0,111,0021201227
+121,PT00M01.10S,1,1610612756,PHX,201563,Beasley,M. Beasley,-147,89,17,Missed,1,,,0,v,MISS Beasley 17' Jump Shot,Missed Shot,Jump Shot,0,2,112,0021201227
+122,PT00M00.00S,1,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,113,0021201227
+123,PT00M00.00S,1,0,,0,,,0,0,0,,0,35.0,20.0,55,,End of 1st Period (8:36 PM EST),period,end,0,0,114,0021201227
+125,PT12M00.00S,2,0,,0,,,0,0,0,,0,35.0,20.0,55,,Start of 2nd Period (8:38 PM EST),period,start,0,0,115,0021201227
+126,PT11M48.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,h,A. Miller S.FOUL (P2.T1),Foul,Shooting,0,0,116,0021201227
+127,PT11M48.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,35.0,21.0,56,v,Scola Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,117,0021201227
+129,PT11M48.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,35.0,22.0,57,v,Scola Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,118,0021201227
+131,PT11M27.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,20,142,14,Made,1,37.0,22.0,59,h,Iguodala 14' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,0,2,119,0021201227
+132,PT11M18.00S,2,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee S.FOUL (P1.T2),Foul,Shooting,0,0,120,0021201227
+133,PT11M18.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,37.0,23.0,60,v,Dudley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,121,0021201227
+135,PT11M18.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,SUB: Haddadi FOR Scola,Substitution,,0,0,122,0021201227
+136,PT11M18.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,MISS Dudley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,123,0021201227
+138,PT11M16.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,124,0021201227
+139,PT10M59.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,125,0021201227
+139,PT10M59.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. STEAL (1 STL),,,0,0,126,0021201227
+140,PT10M55.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,15,9,2,Made,1,37.0,25.0,62,v,Morris Sr. 2' Layup (2 PTS) (Dudley 1 AST),Made Shot,Layup Shot,0,2,127,0021201227
+141,PT10M43.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,128,0021201227
+141,PT10M43.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley STEAL (1 STL),,,0,0,129,0021201227
+142,PT10M38.00S,2,1610612756,PHX,203088,Marshall,K. Marshall,23,-2,2,Missed,1,,,0,v,MISS Marshall 2' Layup,Missed Shot,Layup Shot,0,2,130,0021201227
+143,PT10M37.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,131,0021201227
+144,PT10M25.00S,2,1610612743,DEN,201580,McGee,J. McGee,-16,0,2,Made,1,39.0,25.0,64,h,McGee 2' Alley Oop Dunk (2 PTS) (A. Miller 2 AST),Made Shot,Alley Oop Dunk Shot,0,2,132,0021201227
+145,PT10M11.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,133,0021201227
+145,PT10M11.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph STEAL (1 STL),,,0,0,134,0021201227
+146,PT10M08.00S,2,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall S.FOUL (P2.T1),Foul,Shooting,0,0,135,0021201227
+147,PT10M08.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,40.0,25.0,65,h,Randolph Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,136,0021201227
+149,PT10M08.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Fournier FOR Iguodala,Substitution,,0,0,137,0021201227
+150,PT10M08.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,41.0,25.0,66,h,Randolph Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,138,0021201227
+152,PT09M55.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,181,176,25,Missed,1,,,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,139,0021201227
+153,PT09M54.00S,2,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,140,0021201227
+154,PT09M29.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,-24,0,2,Made,1,43.0,25.0,68,h,Fournier 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,141,0021201227
+155,PT09M18.00S,2,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,142,0021201227
+156,PT09M18.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,SUB: Koufos FOR Randolph,Substitution,,0,0,143,0021201227
+157,PT09M07.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. P.FOUL (P1.T2),Foul,Personal,0,0,144,0021201227
+158,PT08M56.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,4,34,3,Missed,1,,,0,h,MISS Koufos 3' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,145,0021201227
+159,PT08M55.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,146,0021201227
+160,PT08M48.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,13,17,2,Missed,1,,,0,v,MISS Beasley 2' Layup,Missed Shot,Layup Shot,0,2,147,0021201227
+161,PT08M41.00S,2,1610612756,PHX,201632,Haddadi,H. Haddadi,-17,3,2,Missed,1,,,0,v,MISS Haddadi 2' Layup,Missed Shot,Layup Shot,0,2,149,0021201227
+161,PT08M41.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos BLOCK (1 BLK),,,0,2,150,0021201227
+162,PT08M41.00S,2,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,148,0021201227
+163,PT08M40.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,151,0021201227
+165,PT08M28.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,23,6,2,Made,1,45.0,25.0,70,h,Koufos 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,2,154,0021201227
+166,PT08M26.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,155,0021201227
+168,PT08M26.00S,2,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,SUB: Chandler FOR McGee,Substitution,,0,0,156,0021201227
+170,PT08M17.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,157,0021201227
+171,PT07M53.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,17,12,2,Missed,1,,,0,h,MISS Chandler 2' Layup,Missed Shot,Layup Shot,0,2,158,0021201227
+171,PT07M53.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley BLOCK (1 BLK),,,0,2,159,0021201227
+172,PT07M51.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,160,0021201227
+173,PT07M42.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,105,41,11,Missed,1,,,0,v,MISS Beasley 11' Jump Shot,Missed Shot,Jump Shot,0,2,161,0021201227
+174,PT07M41.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,162,0021201227
+175,PT07M36.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,1,1,0,Made,1,47.0,25.0,72,h,Brewer Slam Dunk (2 PTS) (Chandler 2 AST),Made Shot,Slam Dunk Shot,0,2,163,0021201227
+176,PT07M30.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,-95,129,16,Made,1,47.0,27.0,74,v,Dudley 16' Jump Shot (3 PTS) (Haddadi 1 AST),Made Shot,Jump Shot,0,2,164,0021201227
+177,PT07M09.00S,2,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall S.FOUL (P3.T3),Foul,Shooting,0,0,165,0021201227
+178,PT07M09.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,48.0,27.0,75,h,Fournier Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,166,0021201227
+180,PT07M09.00S,2,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,SUB: Garrett FOR Marshall,Substitution,,0,0,167,0021201227
+181,PT07M09.00S,2,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,SUB: Scola FOR Haddadi,Substitution,,0,0,168,0021201227
+182,PT07M09.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,49.0,27.0,76,h,Fournier Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,169,0021201227
+184,PT06M53.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,0,0,0,,0,,,0,v,Garrett Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,170,0021201227
+184,PT06M53.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier STEAL (1 STL),,,0,0,171,0021201227
+185,PT06M48.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,172,0021201227
+185,PT06M48.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola STEAL (1 STL),,,0,0,173,0021201227
+186,PT06M42.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,-149,156,22,Missed,1,,,0,v,MISS Beasley 22' Jump Shot,Missed Shot,Jump Shot,0,2,174,0021201227
+187,PT06M40.00S,2,1610612756,PHX,2449,Scola,L. Scola,21,6,2,Missed,1,,,0,v,MISS Scola 2' Layup,Missed Shot,Layup Shot,0,2,176,0021201227
+188,PT06M40.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,175,0021201227
+189,PT06M39.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,177,0021201227
+190,PT06M28.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,226,7,0,Missed,1,,,0,h,MISS Chandler 3PT Jump Shot,Missed Shot,Jump Shot,0,3,178,0021201227
+191,PT06M28.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,179,0021201227
+192,PT06M16.00S,2,1610612756,PHX,2449,Scola,L. Scola,29,36,5,Made,1,49.0,29.0,78,v,Scola 5' Jump Hook Shot (10 PTS) (Morris Sr. 1 AST),Made Shot,Jump Hook Shot,0,2,180,0021201227
+193,PT05M57.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,-23,39,5,Made,1,51.0,29.0,80,h,Koufos 5' Jump Hook Shot (7 PTS) (Fournier 1 AST),Made Shot,Jump Hook Shot,0,2,181,0021201227
+194,PT05M40.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,140,222,26,Missed,1,,,0,v,MISS Garrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,182,0021201227
+195,PT05M39.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,10,-5,1,Missed,1,,,0,v,MISS Morris Sr. 1' Tip Shot,Missed Shot,Tip Shot,0,2,184,0021201227
+196,PT05M39.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,183,0021201227
+197,PT05M39.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,185,0021201227
+199,PT05M39.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,186,0021201227
+200,PT08M30.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,-234,-37,24,Missed,1,,,0,h,MISS Brewer 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,152,0021201227
+202,PT08M29.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,153,0021201227
+203,PT05M39.00S,2,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,SUB: Mozgov FOR Koufos,Substitution,,0,0,187,0021201227
+204,PT05M39.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,SUB: Johnson FOR Dudley,Substitution,,0,0,188,0021201227
+205,PT05M39.00S,2,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,SUB: Tucker FOR Beasley,Substitution,,0,0,189,0021201227
+206,PT05M31.00S,2,1610612756,PHX,2449,Scola,L. Scola,2,14,1,Missed,1,,,0,v,MISS Scola 1' Tip Shot,Missed Shot,Tip Shot,0,2,192,0021201227
+207,PT05M28.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,h,A. Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,193,0021201227
+208,PT05M26.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,13,19,2,Made,1,53.0,29.0,82,h,Chandler 2' Layup (15 PTS) (A. Miller 3 AST),Made Shot,Layup Shot,0,2,194,0021201227
+209,PT05M26.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,0,0,0,,0,,,0,v,Garrett S.FOUL (P1.T4),Foul,Shooting,0,0,195,0021201227
+210,PT05M26.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,54.0,29.0,83,h,Chandler Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,196,0021201227
+212,PT05M10.00S,2,1610612756,PHX,2449,Scola,L. Scola,163,23,16,Made,1,54.0,31.0,85,v,Scola 16' Jump Shot (12 PTS) (Garrett 1 AST),Made Shot,Jump Shot,0,2,197,0021201227
+213,PT04M56.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler Offensive Charge Foul (P1),Foul,Offensive Charge,0,0,198,0021201227
+214,PT04M56.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler Foul Turnover (P2.T6),Turnover,Foul,0,0,199,0021201227
+215,PT04M39.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,0,0,0,,0,,,0,v,Garrett Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,200,0021201227
+215,PT04M39.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer STEAL (1 STL),,,0,0,201,0021201227
+216,PT04M34.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,9,6,1,Missed,1,,,0,h,MISS Fournier 1' Layup,Missed Shot,Layup Shot,0,2,202,0021201227
+217,PT04M32.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,6,12,1,Made,1,56.0,31.0,87,h,Mozgov 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,2,204,0021201227
+218,PT04M33.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,203,0021201227
+219,PT04M14.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-2,1,0,Made,1,56.0,33.0,89,v,Morris Sr. Dunk (4 PTS) (Scola 3 AST),Made Shot,Dunk Shot,0,2,205,0021201227
+220,PT03M53.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,-48,11,5,Missed,1,,,0,h,MISS Mozgov 5' Hook Shot,Missed Shot,Hook Shot,0,2,206,0021201227
+221,PT03M53.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,207,0021201227
+222,PT03M47.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,13,64,7,Missed,1,,,0,v,MISS Garrett 7' Jump Shot,Missed Shot,Jump Shot,0,2,208,0021201227
+223,PT03M46.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,209,0021201227
+224,PT03M37.00S,2,1610612743,DEN,1889,Miller,A. Miller,-108,132,17,Missed,1,,,0,h,MISS A. Miller 17' Jump Shot,Missed Shot,Jump Shot,0,2,210,0021201227
+225,PT03M36.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,211,0021201227
+226,PT03M32.00S,2,1610612756,PHX,2449,Scola,L. Scola,-15,-6,2,Missed,1,,,0,v,MISS Scola 2' Layup,Missed Shot,Layup Shot,0,2,212,0021201227
+226,PT03M32.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov BLOCK (1 BLK),,,0,2,213,0021201227
+227,PT03M31.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,214,0021201227
+228,PT03M30.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier P.FOUL (P2.T3),Foul,Personal,0,0,215,0021201227
+229,PT03M30.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,h,SUB: Lawson FOR A. Miller,Substitution,,0,0,216,0021201227
+230,PT03M29.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,SUB: Iguodala FOR Chandler,Substitution,,0,0,217,0021201227
+231,PT03M27.00S,2,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,SUB: Randolph FOR Brewer,Substitution,,0,0,218,0021201227
+232,PT03M11.00S,2,1610612756,PHX,202325,Johnson,W. Johnson,-24,263,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,219,0021201227
+233,PT03M10.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,220,0021201227
+234,PT03M02.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,163,200,26,Made,1,59.0,33.0,92,h,Lawson 26' 3PT Jump Shot (5 PTS) (Iguodala 1 AST),Made Shot,Jump Shot,0,3,221,0021201227
+235,PT02M42.00S,2,1610612756,PHX,202325,Johnson,W. Johnson,-136,11,14,Made,1,59.0,35.0,94,v,Johnson 14' Jump Shot (6 PTS) (Morris Sr. 2 AST),Made Shot,Jump Shot,0,2,222,0021201227
+236,PT02M27.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,24,156,16,Missed,1,,,0,h,MISS Iguodala 16' Jump Shot,Missed Shot,Jump Shot,0,2,223,0021201227
+237,PT02M26.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,224,0021201227
+238,PT02M22.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,225,0021201227
+239,PT02M22.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,226,0021201227
+241,PT05M33.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,13,134,13,Missed,1,,,0,v,MISS Garrett 13' Jump Shot,Missed Shot,Jump Shot,0,2,190,0021201227
+243,PT05M32.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,191,0021201227
+244,PT02M22.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,SUB: Morris FOR Morris Sr.,Substitution,,0,0,227,0021201227
+246,PT02M08.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov S.FOUL (P1.T4),Foul,Shooting,0,0,228,0021201227
+247,PT02M08.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,59.0,36.0,95,v,Tucker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,229,0021201227
+249,PT02M08.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,59.0,37.0,96,v,Tucker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,230,0021201227
+251,PT01M53.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov OFF.Foul (P2),Foul,Offensive,0,0,231,0021201227
+252,PT01M53.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov Foul Turnover (P1.T8),Turnover,Foul,0,0,232,0021201227
+253,PT01M40.00S,2,1610612756,PHX,202325,Johnson,W. Johnson,-166,190,25,Missed,1,,,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,233,0021201227
+254,PT01M39.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,234,0021201227
+255,PT01M34.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,-16,4,2,Made,1,61.0,37.0,98,h,Randolph 2' Slam Dunk (9 PTS) (Iguodala 2 AST),Made Shot,Slam Dunk Shot,0,2,235,0021201227
+256,PT01M11.00S,2,1610612756,PHX,2449,Scola,L. Scola,-11,-10,1,Missed,1,,,0,v,MISS Scola 1' Layup,Missed Shot,Layup Shot,0,2,242,0021201227
+256,PT01M11.00S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph BLOCK (2 BLK),,,0,2,243,0021201227
+257,PT01M07.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,244,0021201227
+258,PT01M07.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris Personal Take Foul (P3.PN),Foul,Personal Take,0,0,245,0021201227
+259,PT01M07.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,62.0,37.0,99,h,Iguodala Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,246,0021201227
+261,PT01M07.00S,2,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Hamilton FOR Fournier,Substitution,,0,0,247,0021201227
+262,PT01M07.00S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,MISS Iguodala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,248,0021201227
+264,PT01M06.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,249,0021201227
+265,PT00M41.90S,2,1610612756,PHX,202693,Morris,M. Morris,20,20,3,Missed,1,,,0,v,MISS Morris 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,250,0021201227
+266,PT00M39.90S,2,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,251,0021201227
+267,PT00M37.20S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,-15,14,2,Made,1,64.0,37.0,101,h,Mozgov 2' Dunk (4 PTS) (Iguodala 3 AST),Made Shot,Dunk Shot,0,2,252,0021201227
+268,PT00M33.40S,2,1610612756,PHX,202325,Johnson,W. Johnson,207,154,26,Made,1,64.0,40.0,104,v,Johnson 26' 3PT Jump Shot (9 PTS) (Garrett 2 AST),Made Shot,Jump Shot,0,3,253,0021201227
+269,PT00M26.90S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,-18,7,2,Missed,1,,,0,h,MISS Mozgov 2' Layup,Missed Shot,Layup Shot,0,2,254,0021201227
+270,PT00M25.90S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,255,0021201227
+271,PT00M05.90S,2,1610612756,PHX,2449,Scola,L. Scola,207,-10,21,Missed,1,,,0,v,MISS Scola 21' Jump Shot,Missed Shot,Jump Shot,0,2,256,0021201227
+272,PT00M05.50S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,257,0021201227
+273,PT00M01.80S,2,1610612743,DEN,2738,Iguodala,A. Iguodala,20,-5,2,Made,1,66.0,40.0,106,h,Iguodala 2' Alley Oop Dunk (13 PTS) (Randolph 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,258,0021201227
+274,PT00M00.90S,2,1610612756,PHX,203197,Garrett,D. Garrett,160,678,70,Missed,1,,,0,v,MISS Garrett 70' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,0,3,259,0021201227
+275,PT00M00.00S,2,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,260,0021201227
+276,PT00M00.00S,2,0,,0,,,0,0,0,,0,66.0,40.0,106,,End of 2nd Period (9:05 PM EST),period,end,0,0,261,0021201227
+277,PT01M15.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,-21,8,2,Missed,1,,,0,v,MISS Garrett 2' Layup,Missed Shot,Layup Shot,0,2,236,0021201227
+278,PT01M14.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,0,0,0,,0,,,0,v,Garrett REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,237,0021201227
+279,PT01M14.00S,2,1610612756,PHX,203197,Garrett,D. Garrett,-1,19,2,Missed,1,,,0,v,MISS Garrett 2' Tip Shot,Missed Shot,Tip Shot,0,2,238,0021201227
+280,PT01M13.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,239,0021201227
+281,PT01M13.00S,2,1610612756,PHX,2449,Scola,L. Scola,-6,11,1,Missed,1,,,0,v,MISS Scola 1' Tip Shot,Missed Shot,Tip Shot,0,2,240,0021201227
+282,PT01M12.00S,2,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,241,0021201227
+284,PT12M00.00S,3,0,,0,,,0,0,0,,0,66.0,40.0,106,,Start of 3rd Period (9:21 PM EST),period,start,0,0,262,0021201227
+285,PT11M40.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,20,258,26,Made,1,66.0,43.0,109,v,Johnson 26' 3PT Jump Shot (12 PTS) (Marshall 3 AST),Made Shot,Jump Shot,0,3,263,0021201227
+286,PT11M31.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,Morris S.FOUL (P4.T1),Foul,Shooting,0,0,264,0021201227
+287,PT11M31.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,67.0,43.0,110,h,Chandler Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,265,0021201227
+289,PT11M31.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,,,0,v,SUB: Morris Sr. FOR Morris,Substitution,,0,0,266,0021201227
+290,PT11M31.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,68.0,43.0,111,h,Chandler Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,267,0021201227
+292,PT11M12.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos S.FOUL (P1.T1),Foul,Shooting,0,0,268,0021201227
+293,PT11M12.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,MISS Scola Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,269,0021201227
+294,PT11M12.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0,270,0021201227
+295,PT11M12.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,68.0,44.0,112,v,Scola Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,271,0021201227
+297,PT10M58.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,233,118,26,Made,1,71.0,44.0,115,h,Lawson 26' 3PT Jump Shot (8 PTS) (Chandler 3 AST),Made Shot,Jump Shot,0,3,272,0021201227
+298,PT10M32.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,244,47,25,Made,1,71.0,47.0,118,v,Tucker 25' 3PT Jump Shot (9 PTS) (Scola 4 AST),Made Shot,Jump Shot,0,3,273,0021201227
+299,PT10M18.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,26,15,3,Made,1,73.0,47.0,120,h,Iguodala 3' Alley Oop Layup (15 PTS) (Lawson 6 AST),Made Shot,Alley Oop Layup shot,0,2,274,0021201227
+300,PT10M04.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-232,0,0,Made,1,73.0,50.0,123,v,Tucker 3PT Jump Shot (12 PTS) (Marshall 4 AST),Made Shot,Jump Shot,0,3,275,0021201227
+301,PT09M48.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,276,0021201227
+301,PT09M48.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker STEAL (2 STL),,,0,0,277,0021201227
+302,PT09M44.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,278,0021201227
+302,PT09M44.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler STEAL (2 STL),,,0,0,279,0021201227
+303,PT09M38.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,-193,156,25,Missed,1,,,0,h,MISS Lawson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,280,0021201227
+304,PT09M36.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,281,0021201227
+305,PT09M22.00S,3,1610612756,PHX,2449,Scola,L. Scola,110,164,20,Missed,1,,,0,v,MISS Scola 20' Jump Shot,Missed Shot,Jump Shot,0,2,282,0021201227
+306,PT09M21.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,283,0021201227
+307,PT09M14.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-120,145,19,Missed,1,,,0,h,MISS Chandler 19' Jump Shot,Missed Shot,Jump Shot,0,2,284,0021201227
+308,PT09M13.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,285,0021201227
+309,PT08M54.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,168,153,23,Missed,1,,,0,v,MISS Johnson 23' Jump Shot,Missed Shot,Jump Shot,0,2,286,0021201227
+310,PT08M54.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,287,0021201227
+312,PT08M39.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,4,15,2,Made,1,75.0,50.0,125,h,Koufos 2' Finger Roll Layup (9 PTS) (Lawson 7 AST),Made Shot,Finger Roll Layup Shot,0,2,288,0021201227
+313,PT08M32.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,289,0021201227
+317,PT08M26.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,0,0,290,0021201227
+318,PT08M08.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,-30,151,15,Missed,1,,,0,h,MISS Iguodala 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,2,291,0021201227
+319,PT08M08.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,292,0021201227
+320,PT08M04.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,-10,6,1,Missed,1,,,0,h,MISS Iguodala 1' Layup,Missed Shot,Layup Shot,0,2,293,0021201227
+320,PT08M04.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker BLOCK (1 BLK),,,0,2,294,0021201227
+321,PT08M03.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,295,0021201227
+323,PT08M00.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,-161,3,16,Missed,1,,,0,h,MISS Koufos 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,296,0021201227
+324,PT07M59.00S,3,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,297,0021201227
+325,PT07M50.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,239,-2,24,Missed,1,,,0,v,MISS Morris Sr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,298,0021201227
+326,PT07M49.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola REBOUND (Off:8 Def:3),Rebound,Unknown,0,0,299,0021201227
+327,PT07M42.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-228,1,0,Missed,1,,,0,v,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,0,3,300,0021201227
+328,PT07M41.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,301,0021201227
+329,PT07M28.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,302,0021201227
+329,PT07M28.00S,3,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall STEAL (1 STL),,,0,0,303,0021201227
+330,PT07M22.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos S.FOUL (P2.T2),Foul,Shooting,0,0,304,0021201227
+331,PT07M22.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,MISS Morris Sr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,305,0021201227
+332,PT07M22.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0,306,0021201227
+333,PT07M22.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,MISS Morris Sr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,307,0021201227
+335,PT07M21.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,308,0021201227
+336,PT07M08.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,239,47,24,Missed,1,,,0,h,MISS Iguodala 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,309,0021201227
+337,PT07M07.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,310,0021201227
+338,PT06M58.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,242,9,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,311,0021201227
+339,PT06M57.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,Koufos REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,312,0021201227
+340,PT06M51.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,20,0,2,Made,1,77.0,50.0,127,h,Lawson 2' Driving Layup (10 PTS) (Chandler 4 AST),Made Shot,Driving Layup Shot,0,2,313,0021201227
+341,PT06M23.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,314,0021201227
+342,PT06M23.00S,3,1610612756,PHX,202325,Johnson,W. Johnson,0,0,0,,0,,,0,v,SUB: Dudley FOR Johnson,Substitution,,0,0,315,0021201227
+343,PT06M14.00S,3,1610612743,DEN,203095,Fournier,E. Fournier,-43,178,18,Missed,1,,,0,h,MISS Fournier 18' Jump Shot,Missed Shot,Jump Shot,0,2,316,0021201227
+344,PT06M13.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,Morris Sr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,317,0021201227
+345,PT06M04.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,Scola Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,318,0021201227
+345,PT06M04.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala STEAL (1 STL),,,0,0,319,0021201227
+346,PT05M58.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,17,42,5,Made,1,79.0,50.0,129,h,Koufos 5' Jump Shot (11 PTS) (Iguodala 4 AST),Made Shot,Jump Shot,0,2,320,0021201227
+347,PT05M51.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,321,0021201227
+349,PT05M51.00S,3,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,v,SUB: Brown FOR Morris Sr.,Substitution,,0,0,322,0021201227
+350,PT05M51.00S,3,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,SUB: Brewer FOR Fournier,Substitution,,0,0,323,0021201227
+351,PT05M35.00S,3,1610612756,PHX,2449,Scola,L. Scola,176,39,18,Made,1,79.0,52.0,131,v,Scola 18' Jump Shot (15 PTS) (Marshall 5 AST),Made Shot,Jump Shot,0,2,324,0021201227
+352,PT05M17.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,54,7,5,Made,1,81.0,52.0,133,h,Lawson 5' Running Bank Shot (12 PTS) (Iguodala 5 AST),Made Shot,Running Bank shot,0,2,325,0021201227
+353,PT04M51.00S,3,1610612756,PHX,2449,Scola,L. Scola,-119,31,12,Missed,1,,,0,v,MISS Scola 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,326,0021201227
+354,PT04M50.00S,3,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,327,0021201227
+355,PT04M46.00S,3,1610612756,PHX,200769,Brown,S. Brown,163,15,16,Made,1,81.0,54.0,135,v,Brown 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,328,0021201227
+356,PT04M34.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,329,0021201227
+356,PT04M34.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker STEAL (3 STL),,,0,0,330,0021201227
+357,PT04M31.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,47,5,Missed,1,,,0,v,MISS Tucker 5' Jump Shot,Missed Shot,Jump Shot,0,2,331,0021201227
+357,PT04M31.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala BLOCK (2 BLK),,,0,2,332,0021201227
+358,PT04M31.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,SUB: Randolph FOR Chandler,Substitution,,0,0,334,0021201227
+359,PT04M31.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,333,0021201227
+360,PT04M31.00S,3,1610612743,DEN,201585,Koufos,K. Koufos,0,0,0,,0,,,0,h,SUB: McGee FOR Koufos,Substitution,,0,0,335,0021201227
+361,PT04M31.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Jump Ball Iguodala vs. Tucker: Tip to Brown,Jump Ball,,0,0,336,0021201227
+362,PT04M26.00S,3,1610612756,PHX,203088,Marshall,K. Marshall,-19,254,25,Missed,1,,,0,v,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,337,0021201227
+363,PT04M25.00S,3,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,338,0021201227
+364,PT04M24.00S,3,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph Step Out of Bounds Turnover (P3.T12),Turnover,Step Out of Bounds Turnover,0,0,339,0021201227
+365,PT04M16.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,340,0021201227
+365,PT04M16.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala STEAL (2 STL),,,0,0,341,0021201227
+366,PT04M11.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,6,9,1,Made,1,83.0,54.0,137,h,Iguodala 1' Dunk (17 PTS),Made Shot,Dunk Shot,0,2,342,0021201227
+367,PT04M00.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-11,0,1,Made,1,83.0,56.0,139,v,Tucker 1' Dunk (14 PTS) (Marshall 6 AST),Made Shot,Dunk Shot,0,2,343,0021201227
+368,PT03M47.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,-86,162,18,Missed,1,,,0,h,MISS Lawson 18' Jump Shot,Missed Shot,Jump Shot,0,2,344,0021201227
+369,PT03M46.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,345,0021201227
+370,PT03M46.00S,3,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee FLAGRANT.FOUL.TYPE1 (P2.T3),Foul,Flagrant Type 1,0,0,346,0021201227
+371,PT03M46.00S,3,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee Foul Turnover (P1.T13),Turnover,Foul,0,0,347,0021201227
+372,PT03M46.00S,3,0,,371,Mills,T. Mills,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0,348,0021201227
+373,PT03M46.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,83.0,57.0,140,v,Scola Free Throw Flagrant 1 of 2 (16 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,349,0021201227
+375,PT03M46.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,83.0,58.0,141,v,Scola Free Throw Flagrant 2 of 2 (17 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,350,0021201227
+377,PT03M46.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Beasley FOR Tucker,Substitution,,0,0,351,0021201227
+378,PT03M46.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,,,0,v,SUB: Haddadi FOR Scola,Substitution,,0,0,352,0021201227
+379,PT03M36.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,-117,186,22,Missed,1,,,0,v,MISS Beasley 22' Jump Shot,Missed Shot,Jump Shot,0,2,353,0021201227
+380,PT03M35.00S,3,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,354,0021201227
+381,PT03M29.00S,3,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,McGee Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,355,0021201227
+383,PT03M14.00S,3,1610612756,PHX,200769,Brown,S. Brown,17,9,2,Made,1,83.0,60.0,143,v,Brown 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,356,0021201227
+384,PT02M56.00S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,53,52,7,Missed,1,,,0,h,MISS Iguodala 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,357,0021201227
+385,PT02M55.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,358,0021201227
+386,PT02M46.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,-210,143,25,Missed,1,,,0,v,MISS Dudley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,359,0021201227
+387,PT02M44.00S,3,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,360,0021201227
+388,PT02M32.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,11,1,Made,1,85.0,60.0,145,h,Lawson 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,2,361,0021201227
+389,PT02M27.00S,3,1610612756,PHX,200769,Brown,S. Brown,170,45,18,Missed,1,,,0,v,MISS Brown 18' Jump Shot,Missed Shot,Jump Shot,0,2,362,0021201227
+390,PT02M26.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,363,0021201227
+392,PT02M26.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,SUB: A. Miller FOR Lawson,Substitution,,0,0,364,0021201227
+393,PT02M26.00S,3,1610612743,DEN,201580,McGee,J. McGee,0,0,0,,0,,,0,h,SUB: Mozgov FOR McGee,Substitution,,0,0,365,0021201227
+394,PT02M22.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,187,53,19,Missed,1,,,0,v,MISS Beasley 19' Jump Shot,Missed Shot,Jump Shot,0,2,366,0021201227
+395,PT02M22.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,367,0021201227
+396,PT02M22.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,-11,0,1,Made,1,85.0,62.0,147,v,Dudley 1' Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,0,2,368,0021201227
+397,PT02M22.00S,3,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer S.FOUL (P1.T4),Foul,Shooting,0,0,369,0021201227
+398,PT02M22.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,MISS Dudley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,370,0021201227
+400,PT02M21.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,371,0021201227
+401,PT02M05.00S,3,1610612743,DEN,201576,Randolph,A. Randolph,138,6,14,Made,1,87.0,62.0,149,h,Randolph 14' Jump Shot (11 PTS) (A. Miller 4 AST),Made Shot,Jump Shot,0,2,372,0021201227
+402,PT01M55.00S,3,1610612756,PHX,201632,Haddadi,H. Haddadi,-10,0,1,Made,1,87.0,64.0,151,v,Haddadi 1' Dunk (2 PTS) (Dudley 2 AST),Made Shot,Dunk Shot,0,2,373,0021201227
+403,PT01M29.00S,3,1610612743,DEN,1889,Miller,A. Miller,-24,39,5,Missed,1,,,0,h,MISS A. Miller 5' Running Bank Shot,Missed Shot,Running Bank shot,0,2,374,0021201227
+404,PT01M28.00S,3,1610612756,PHX,203088,Marshall,K. Marshall,0,0,0,,0,,,0,v,Marshall REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,375,0021201227
+405,PT01M18.00S,3,1610612756,PHX,201563,Beasley,M. Beasley,236,4,24,Made,1,87.0,67.0,154,v,Beasley 24' 3PT Jump Shot (3 PTS) (Marshall 7 AST),Made Shot,Jump Shot,0,3,376,0021201227
+406,PT01M00.00S,3,1610612743,DEN,201576,Randolph,A. Randolph,-10,53,5,Missed,1,,,0,h,MISS Randolph 5' Jump Bank Hook Shot,Missed Shot,Jump Bank Hook Shot,0,2,377,0021201227
+407,PT00M59.60S,3,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,378,0021201227
+408,PT00M51.90S,3,1610612756,PHX,201563,Beasley,M. Beasley,214,6,21,Missed,1,,,0,v,MISS Beasley 21' Jump Shot,Missed Shot,Jump Shot,0,2,379,0021201227
+409,PT00M49.90S,3,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,380,0021201227
+410,PT00M37.30S,3,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P1.T2),Foul,Shooting,0,0,381,0021201227
+411,PT00M37.30S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,88.0,67.0,155,h,Mozgov Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,382,0021201227
+413,PT00M37.30S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,89.0,67.0,156,h,Mozgov Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,383,0021201227
+415,PT00M24.90S,3,1610612756,PHX,201632,Haddadi,H. Haddadi,-64,77,10,Made,1,89.0,69.0,158,v,Haddadi 10' Jump Shot (4 PTS) (Marshall 8 AST),Made Shot,Jump Shot,0,2,384,0021201227
+416,PT00M05.60S,3,1610612743,DEN,2738,Iguodala,A. Iguodala,51,104,12,Made,1,91.0,69.0,160,h,Iguodala 12' Jump Shot (19 PTS),Made Shot,Jump Shot,0,2,385,0021201227
+417,PT00M01.10S,3,1610612756,PHX,201563,Beasley,M. Beasley,-163,80,18,Missed,1,,,0,v,MISS Beasley 18' Jump Shot,Missed Shot,Jump Shot,0,2,386,0021201227
+418,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,387,0021201227
+419,PT00M00.00S,3,0,,0,,,0,0,0,,0,91.0,69.0,160,,End of 3rd Period (9:45 PM EST),period,end,0,0,388,0021201227
+421,PT12M00.00S,4,0,,0,,,0,0,0,,0,91.0,69.0,160,,Start of 4th Period (9:47 PM EST),period,start,0,0,389,0021201227
+422,PT11M42.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,24,52,6,Missed,1,,,0,h,MISS Mozgov 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,390,0021201227
+423,PT11M41.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,391,0021201227
+424,PT11M40.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0,392,0021201227
+428,PT11M30.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,-127,11,13,Missed,1,,,0,h,MISS Mozgov 13' Jump Shot,Missed Shot,Jump Shot,0,2,393,0021201227
+429,PT11M29.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,394,0021201227
+431,PT11M13.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-160,132,21,Missed,1,,,0,v,MISS Beasley 21' Jump Shot,Missed Shot,Jump Shot,0,2,395,0021201227
+432,PT11M12.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,396,0021201227
+433,PT11M06.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P2.T1),Foul,Personal,0,0,397,0021201227
+434,PT10M55.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P3.T2),Foul,Shooting,0,0,398,0021201227
+435,PT10M55.00S,4,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,92.0,69.0,161,h,Iguodala Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,399,0021201227
+437,PT10M55.00S,4,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,MISS Iguodala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,400,0021201227
+439,PT10M53.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,401,0021201227
+440,PT10M34.00S,4,1610612756,PHX,200769,Brown,S. Brown,-139,119,18,Made,1,92.0,71.0,163,v,Brown 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,402,0021201227
+441,PT10M18.00S,4,1610612743,DEN,2738,Iguodala,A. Iguodala,-228,12,0,Missed,1,,,0,h,MISS Iguodala 3PT Jump Shot,Missed Shot,Jump Shot,0,3,403,0021201227
+442,PT10M18.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,404,0021201227
+443,PT10M15.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,405,0021201227
+443,PT10M15.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,,,0,v,Brown STEAL (1 STL),,,0,0,406,0021201227
+445,PT10M08.00S,4,1610612743,DEN,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Hamilton FOR Iguodala,Substitution,,0,0,407,0021201227
+446,PT10M02.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,94,132,16,Missed,1,,,0,v,MISS Dudley 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,408,0021201227
+447,PT10M01.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,409,0021201227
+448,PT10M00.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley P.FOUL (P1.T3),Foul,Personal,0,0,410,0021201227
+449,PT09M37.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,231,30,0,Missed,1,,,0,h,MISS Brewer 3PT Jump Shot,Missed Shot,Jump Shot,0,3,411,0021201227
+450,PT09M35.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,412,0021201227
+451,PT09M20.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,-180,178,25,Missed,1,,,0,h,MISS Hamilton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,413,0021201227
+452,PT09M19.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,414,0021201227
+453,PT09M12.00S,4,1610612756,PHX,200769,Brown,S. Brown,10,0,1,Missed,1,,,0,v,MISS Brown 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,415,0021201227
+454,PT09M11.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,416,0021201227
+455,PT09M05.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,-59,116,13,Made,1,94.0,71.0,165,h,Brewer 13' Jump Shot (4 PTS),Made Shot,Jump Shot,0,2,417,0021201227
+456,PT08M53.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,9,15,2,Made,1,94.0,73.0,167,v,Beasley 2' Alley Oop Layup (5 PTS) (Dudley 3 AST),Made Shot,Alley Oop Layup shot,0,2,418,0021201227
+457,PT08M37.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,-21,173,17,Made,1,96.0,73.0,169,h,Mozgov 17' Jump Shot (8 PTS) (A. Miller 5 AST),Made Shot,Jump Shot,0,2,419,0021201227
+458,PT08M24.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-5,261,26,Made,1,96.0,76.0,172,v,Beasley 26' 3PT Jump Shot (8 PTS) (Marshall 9 AST),Made Shot,Jump Shot,0,3,420,0021201227
+459,PT08M05.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,9,-2,1,Missed,1,,,0,h,MISS Mozgov 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,421,0021201227
+460,PT08M04.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,Dudley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,422,0021201227
+461,PT07M55.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-191,7,19,Made,1,96.0,78.0,174,v,Beasley 19' Jump Shot (10 PTS) (Marshall 10 AST),Made Shot,Jump Shot,0,2,423,0021201227
+462,PT07M42.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi S.FOUL (P1.T4),Foul,Shooting,0,0,424,0021201227
+463,PT07M42.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,425,0021201227
+465,PT07M42.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,SUB: Chandler FOR Randolph,Substitution,,0,0,426,0021201227
+466,PT07M42.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,,,0,v,SUB: Garrett FOR Dudley,Substitution,,0,0,427,0021201227
+467,PT07M42.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,MISS Brewer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,428,0021201227
+468,PT07M42.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,429,0021201227
+469,PT07M42.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,MISS Brewer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,430,0021201227
+471,PT07M41.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,431,0021201227
+472,PT07M30.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,61,97,11,Made,1,96.0,80.0,176,v,Haddadi 11' Jump Shot (6 PTS) (Garrett 3 AST),Made Shot,Jump Shot,0,2,432,0021201227
+473,PT07M16.00S,4,1610612743,DEN,1889,Miller,A. Miller,10,37,4,Made,1,98.0,80.0,178,h,A. Miller 4' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,433,0021201227
+474,PT07M16.00S,4,1610612756,PHX,203197,Garrett,D. Garrett,0,0,0,,0,,,0,v,Garrett S.FOUL (P2.PN),Foul,Shooting,0,0,434,0021201227
+475,PT07M16.00S,4,1610612743,DEN,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,SUB: Fournier FOR Brewer,Substitution,,0,0,435,0021201227
+476,PT07M16.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,99.0,80.0,179,h,A. Miller Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,436,0021201227
+478,PT06M56.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-152,3,15,Missed,1,,,0,v,MISS Haddadi 15' Jump Shot,Missed Shot,Jump Shot,0,2,437,0021201227
+479,PT06M55.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,438,0021201227
+480,PT06M43.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,177,23,18,Missed,1,,,0,h,MISS Hamilton 18' Jump Shot,Missed Shot,Jump Shot,0,2,439,0021201227
+481,PT06M42.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,440,0021201227
+482,PT06M33.00S,4,1610612756,PHX,203197,Garrett,D. Garrett,223,108,25,Missed,1,,,0,v,MISS Garrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,441,0021201227
+483,PT06M32.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,442,0021201227
+484,PT06M26.00S,4,1610612743,DEN,203095,Fournier,E. Fournier,2,7,1,Made,1,101.0,80.0,181,h,Fournier 1' Dunk (10 PTS) (A. Miller 6 AST),Made Shot,Dunk Shot,0,2,443,0021201227
+485,PT05M59.00S,4,1610612756,PHX,200769,Brown,S. Brown,-196,-3,20,Made,1,101.0,82.0,183,v,Brown 20' Jump Shot (8 PTS) (Beasley 1 AST),Made Shot,Jump Shot,0,2,444,0021201227
+486,PT05M46.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,182,168,25,Made,1,104.0,82.0,186,h,Chandler 25' 3PT Jump Shot (21 PTS) (Hamilton 1 AST),Made Shot,Jump Shot,0,3,445,0021201227
+487,PT05M34.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-67,250,26,Missed,1,,,0,v,MISS Beasley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,446,0021201227
+488,PT05M33.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,447,0021201227
+489,PT05M23.00S,4,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,448,0021201227
+490,PT05M23.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0,449,0021201227
+494,PT05M11.00S,4,1610612756,PHX,200769,Brown,S. Brown,-147,96,18,Made,1,104.0,84.0,188,v,Brown 18' Jump Shot (10 PTS) (Marshall 11 AST),Made Shot,Jump Shot,0,2,450,0021201227
+495,PT04M47.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,207,170,27,Missed,1,,,0,h,MISS Chandler 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,451,0021201227
+496,PT04M46.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,452,0021201227
+497,PT04M42.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,-45,0,5,Made,1,106.0,84.0,190,h,Mozgov 5' Jump Hook Shot (10 PTS),Made Shot,Jump Hook Shot,0,2,453,0021201227
+498,PT04M26.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-141,37,15,Made,1,106.0,86.0,192,v,Haddadi 15' Jump Bank Shot (8 PTS) (Marshall 12 AST),Made Shot,Jump Bank Shot,0,2,454,0021201227
+499,PT04M07.00S,4,1610612743,DEN,203095,Fournier,E. Fournier,-21,17,3,Missed,1,,,0,h,MISS Fournier 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,455,0021201227
+499,PT04M07.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi BLOCK (1 BLK),,,0,2,456,0021201227
+500,PT04M06.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,,,0,h,Mozgov REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,457,0021201227
+501,PT03M55.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,18,97,10,Made,1,108.0,86.0,194,h,Hamilton 10' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,458,0021201227
+502,PT03M50.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,Chandler S.FOUL (P2.T1),Foul,Shooting,0,0,459,0021201227
+503,PT03M50.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,MISS Beasley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,460,0021201227
+504,PT03M50.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Normal Rebound,0,0,461,0021201227
+505,PT03M50.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,h,SUB: Randolph FOR Chandler,Substitution,,0,0,462,0021201227
+506,PT03M50.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,,,0,h,SUB: Q. Miller FOR A. Miller,Substitution,,0,0,463,0021201227
+507,PT03M50.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,108.0,87.0,195,v,Beasley Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,464,0021201227
+509,PT03M35.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,26,-13,3,Missed,1,,,0,h,MISS Hamilton 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,465,0021201227
+509,PT03M35.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi BLOCK (2 BLK),,,0,2,466,0021201227
+510,PT03M33.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,467,0021201227
+511,PT03M25.00S,4,1610612743,DEN,203095,Fournier,E. Fournier,-164,230,28,Missed,1,,,0,h,MISS Fournier 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,468,0021201227
+512,PT03M24.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Rebound,Rebound,Unknown,0,0,469,0021201227
+515,PT03M14.00S,4,1610612756,PHX,200769,Brown,S. Brown,-139,217,26,Made,1,108.0,90.0,198,v,Brown 26' 3PT Jump Shot (13 PTS) (Marshall 13 AST),Made Shot,Jump Shot,0,3,470,0021201227
+516,PT02M54.00S,4,1610612743,DEN,203113,Miller,Q. Miller,17,34,4,Made,1,110.0,90.0,200,h,Q. Miller 4' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,2,472,0021201227
+517,PT02M54.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,471,0021201227
+518,PT02M43.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-32,-5,3,Missed,1,,,0,v,MISS Haddadi 3' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,473,0021201227
+519,PT02M43.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,474,0021201227
+520,PT02M37.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,2,1,0,Made,1,112.0,90.0,202,h,Hamilton Slam Dunk (4 PTS) (Randolph 2 AST),Made Shot,Slam Dunk Shot,0,2,475,0021201227
+522,PT02M19.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-7,17,2,Missed,1,,,0,v,MISS Haddadi 2' Layup,Missed Shot,Layup Shot,0,2,476,0021201227
+523,PT02M18.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,477,0021201227
+524,PT02M15.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-16,6,2,Made,1,112.0,92.0,204,v,Haddadi 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,2,478,0021201227
+525,PT02M03.00S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,72,162,18,Missed,1,,,0,h,MISS Mozgov 18' Jump Shot,Missed Shot,Jump Shot,0,2,479,0021201227
+526,PT02M02.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,0,0,0,,0,,,0,v,Haddadi REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,480,0021201227
+528,PT02M00.00S,4,0,,1610612756,,,0,0,0,,0,,,0,v,Suns Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,481,0021201227
+533,PT01M49.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-13,3,1,Missed,1,,,0,v,MISS Beasley 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,482,0021201227
+533,PT01M49.00S,4,1610612743,DEN,201576,Randolph,A. Randolph,0,0,0,,0,,,0,h,Randolph BLOCK (3 BLK),,,0,2,483,0021201227
+534,PT01M47.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,484,0021201227
+535,PT01M45.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,-198,0,20,Made,1,112.0,94.0,206,v,Beasley 20' Jump Shot (13 PTS),Made Shot,Jump Shot,0,2,485,0021201227
+536,PT01M27.00S,4,1610612743,DEN,203113,Miller,Q. Miller,162,37,17,Missed,1,,,0,h,MISS Q. Miller 17' Jump Shot,Missed Shot,Jump Shot,0,2,486,0021201227
+537,PT01M26.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,487,0021201227
+538,PT01M23.00S,4,1610612756,PHX,201563,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,488,0021201227
+538,PT01M23.00S,4,1610612743,DEN,203095,Fournier,E. Fournier,0,0,0,,0,,,0,h,Fournier STEAL (2 STL),,,0,0,489,0021201227
+539,PT01M19.00S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,2,4,0,Made,1,114.0,94.0,208,h,Hamilton Layup (6 PTS) (Fournier 2 AST),Made Shot,Layup Shot,0,2,490,0021201227
+540,PT01M13.00S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,-23,0,2,Made,1,114.0,96.0,210,v,Haddadi 2' Slam Dunk (12 PTS) (Marshall 14 AST),Made Shot,Slam Dunk Shot,0,2,491,0021201227
+541,PT00M58.90S,4,1610612743,DEN,202389,Mozgov,T. Mozgov,-138,-6,14,Missed,1,,,0,h,MISS Mozgov 14' Jump Shot,Missed Shot,Jump Shot,0,2,492,0021201227
+542,PT00M55.90S,4,1610612743,DEN,203113,Miller,Q. Miller,0,0,0,,0,,,0,h,Q. Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,493,0021201227
+543,PT00M55.70S,4,1610612743,DEN,203113,Miller,Q. Miller,7,9,1,Made,1,116.0,96.0,212,h,Q. Miller 1' Dunk (4 PTS),Made Shot,Dunk Shot,0,2,494,0021201227
+544,PT00M41.90S,4,1610612756,PHX,201563,Beasley,M. Beasley,-35,250,25,Missed,1,,,0,v,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,495,0021201227
+545,PT00M40.90S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,496,0021201227
+546,PT00M29.10S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,21,7,2,Missed,1,,,0,h,MISS Hamilton 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,497,0021201227
+547,PT00M29.10S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,23,1,2,Made,1,118.0,96.0,214,h,Hamilton 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,2,499,0021201227
+548,PT00M29.10S,4,1610612743,DEN,202706,Hamilton,J. Hamilton,0,0,0,,0,,,0,h,Hamilton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,498,0021201227
+549,PT00M15.60S,4,1610612756,PHX,201632,Haddadi,H. Haddadi,9,15,2,Made,1,118.0,98.0,216,v,Haddadi 2' Reverse Dunk (14 PTS),Made Shot,Reverse Dunk Shot,0,2,500,0021201227
+550,PT00M00.00S,4,0,,0,,,0,0,0,,0,118.0,98.0,216,,End of 4th Period (10:12 PM EST),period,end,0,0,501,0021201227

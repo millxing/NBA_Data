@@ -1,0 +1,506 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052400201,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:06 PM EST),period,start,0,0,1
+0052400201,4,PT12M00.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,2
+0052400201,7,PT11M48.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,233,46,24,Missed,1,,,0,h,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0052400201,8,PT11M46.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0052400201,10,PT11M35.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,13,122,12,Made,1,0,2,2,v,Adebayo 12' Jump Shot (2 PTS) (Burks 1 AST),Made Shot,Jump Shot,1,2,5
+0052400201,12,PT11M11.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+0052400201,12,PT11M11.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (1 STL),,,1,0,7
+0052400201,14,PT10M50.00S,1,1610612748,MIA,1642276,Ware,K. Ware,-5,-7,1,Made,1,0,4,4,v,Ware 1' Reverse Dunk (2 PTS) (Herro 1 AST),Made Shot,Reverse Dunk Shot,1,2,8
+0052400201,16,PT10M40.00S,1,1610612737,ATL,1629027,Young,T. Young,39,289,29,Missed,1,,,0,h,MISS Young 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,9
+0052400201,17,PT10M38.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0052400201,18,PT10M27.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-6,9,1,Missed,1,,,0,v,MISS Adebayo 1' Layup,Missed Shot,Layup Shot,1,2,11
+0052400201,18,PT10M27.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu BLOCK (1 BLK),,,1,2,12
+0052400201,20,PT10M24.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,13
+0052400201,21,PT10M20.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,-140,203,25,Made,1,0,7,7,v,Wiggins 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,14
+0052400201,22,PT10M09.00S,1,1610612737,ATL,1629027,Young,T. Young,-9,12,2,Missed,1,,,0,h,MISS Young 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,15
+0052400201,22,PT10M09.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (1 BLK),,,1,2,16
+0052400201,24,PT10M05.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,17
+0052400201,25,PT10M03.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,18
+0052400201,27,PT10M03.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,19
+0052400201,28,PT10M03.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,20
+0052400201,29,PT10M03.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,21
+0052400201,30,PT10M03.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,22
+0052400201,31,PT10M03.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,0,8,8,v,Wiggins Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,1,0,23
+0052400201,32,PT09M54.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,24
+0052400201,33,PT09M37.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-109,19,11,Made,1,0,10,10,v,Adebayo 11' Turnaround Fadeaway (4 PTS) (Wiggins 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,25
+0052400201,35,PT09M35.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,26
+0052400201,36,PT09M22.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,-87,76,12,Missed,1,,,0,h,MISS Daniels 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,27
+0052400201,37,PT09M20.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,28
+0052400201,38,PT09M18.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,148,211,26,Missed,1,,,0,h,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0052400201,39,PT09M16.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,30
+0052400201,40,PT09M13.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,31
+0052400201,42,PT09M13.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,1,10,11,h,Young Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0052400201,43,PT09M13.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,2,10,12,h,Young Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,33
+0052400201,44,PT09M01.00S,1,1610612748,MIA,202692,Burks,A. Burks,-31,150,15,Made,1,2,12,14,v,Burks 15' Pullup Jump Shot (2 PTS) (Wiggins 2 AST),Made Shot,Pullup Jump shot,1,2,34
+0052400201,46,PT08M40.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,203,157,26,Missed,1,,,0,h,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0052400201,47,PT08M37.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,36
+0052400201,48,PT08M36.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-9,89,9,Made,1,4,12,16,h,Okongwu 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,37
+0052400201,49,PT08M17.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-6,119,12,Missed,1,,,0,v,MISS Herro 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,38
+0052400201,50,PT08M14.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0052400201,51,PT08M12.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,1,11,1,Made,1,6,12,18,h,Risacher 1' Running Layup (2 PTS) (Young 1 AST),Made Shot,Running Layup Shot,1,2,40
+0052400201,53,PT08M12.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0,41
+0052400201,55,PT08M12.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,7,12,19,h,Risacher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,42
+0052400201,56,PT08M01.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,43
+0052400201,56,PT08M01.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,1,0,44
+0052400201,58,PT07M57.00S,1,1610612737,ATL,1629027,Young,T. Young,131,222,26,Made,1,10,12,22,h,Young 26' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,45
+0052400201,59,PT07M40.00S,1,1610612748,MIA,202692,Burks,A. Burks,17,29,3,Missed,1,,,0,v,MISS Burks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,46
+0052400201,60,PT07M37.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+0052400201,61,PT07M34.00S,1,1610612737,ATL,1629027,Young,T. Young,36,197,20,Missed,1,,,0,h,MISS Young 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,48
+0052400201,62,PT07M30.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0052400201,63,PT07M20.00S,1,1610612748,MIA,1642276,Ware,K. Ware,5,3,1,Made,1,10,14,24,v,Ware 1' Alley Oop Dunk (4 PTS) (Adebayo 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,50
+0052400201,65,PT07M05.00S,1,1610612737,ATL,1629027,Young,T. Young,-126,262,29,Missed,1,,,0,h,MISS Young 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0052400201,66,PT07M03.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+0052400201,67,PT06M59.00S,1,1610612748,MIA,202692,Burks,A. Burks,-173,178,25,Missed,1,,,0,v,MISS Burks 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,53
+0052400201,68,PT06M55.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+0052400201,69,PT06M44.00S,1,1610612737,ATL,1629027,Young,T. Young,-53,81,10,Missed,1,,,0,h,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,55
+0052400201,70,PT06M42.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,56
+0052400201,71,PT06M38.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,6,4,1,Made,1,10,16,26,v,Wiggins 1' Running Finger Roll Layup (6 PTS) (Herro 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,57
+0052400201,73,PT06M27.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-154,211,26,Missed,1,,,0,h,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0052400201,74,PT06M25.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,59
+0052400201,75,PT06M18.00S,1,1610612748,MIA,202692,Burks,A. Burks,-141,200,24,Missed,1,,,0,v,MISS Burks 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,60
+0052400201,76,PT06M15.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0052400201,77,PT06M02.00S,1,1610612737,ATL,1629027,Young,T. Young,-66,251,26,Missed,1,,,0,h,MISS Young 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,62
+0052400201,78,PT05M58.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,63
+0052400201,79,PT05M54.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,120,220,25,Made,1,10,19,29,v,Wiggins 25' 3PT Running Pull-Up Jump Shot (9 PTS) (Burks 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,64
+0052400201,80,PT05M42.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,65
+0052400201,83,PT05M42.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,11,19,30,h,Young Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,66
+0052400201,84,PT05M42.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Krejci FOR Gueye,Substitution,,0,0,67
+0052400201,85,PT05M42.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Mitchell FOR Adebayo,Substitution,,0,0,68
+0052400201,86,PT05M42.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Highsmith FOR Herro,Substitution,,0,0,69
+0052400201,90,PT05M42.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,12,19,31,h,Young Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,70
+0052400201,114,PT05M30.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,71
+0052400201,114,PT05M30.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher STEAL (1 STL),,,1,0,72
+0052400201,94,PT05M25.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-1,25,3,Missed,1,,,0,h,MISS Risacher 3' Running Layup,Missed Shot,Running Layup Shot,1,2,73
+0052400201,95,PT05M21.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,74
+0052400201,96,PT05M07.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,1,71,7,Missed,1,,,0,v,MISS Wiggins 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,75
+0052400201,97,PT05M06.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,76
+0052400201,98,PT05M06.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,Made,1,12,21,33,v,Ware Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,77
+0052400201,99,PT04M56.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,4,17,2,Made,1,14,21,35,h,Okongwu 2' Cutting Layup Shot (4 PTS) (Young 2 AST),Made Shot,Cutting Layup Shot,1,2,78
+0052400201,101,PT04M29.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,105,147,18,Missed,1,,,0,v,MISS Wiggins 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,79
+0052400201,102,PT04M28.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,80
+0052400201,104,PT04M28.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,81
+0052400201,105,PT04M28.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: LeVert FOR Young,Substitution,,0,0,82
+0052400201,107,PT04M18.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-6,20,2,Made,1,16,21,37,h,Okongwu 2' Cutting Layup Shot (6 PTS) (LeVert 1 AST),Made Shot,Cutting Layup Shot,1,2,83
+0052400201,109,PT04M08.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,84
+0052400201,110,PT04M08.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Mann FOR Risacher,Substitution,,0,0,85
+0052400201,111,PT04M08.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Robinson FOR Burks,Substitution,,0,0,86
+0052400201,116,PT03M52.00S,1,1610612748,MIA,1642276,Ware,K. Ware,-2,0,0,Made,1,16,23,39,v,Ware Alley Oop Layup (8 PTS) (Highsmith 1 AST),Made Shot,Alley Oop Layup shot,1,2,87
+0052400201,118,PT03M33.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,-10,91,9,Missed,1,,,0,h,MISS Daniels 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,88
+0052400201,119,PT03M29.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0052400201,120,PT03M14.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-112,220,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0052400201,121,PT03M11.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,91
+0052400201,122,PT03M03.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,48,251,26,Missed,1,,,0,h,MISS Okongwu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0052400201,123,PT02M59.00S,1,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,93
+0052400201,124,PT02M54.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-7,75,8,Made,1,18,23,41,h,Okongwu 8' Turnaround Hook Shot (8 PTS) (Krejci 1 AST),Made Shot,Turnaround Hook Shot,1,2,94
+0052400201,126,PT02M31.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-2,5,1,Made,1,18,25,43,v,Robinson 1' Driving Reverse Layup (2 PTS) (Mitchell 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,95
+0052400201,128,PT02M31.00S,1,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,96
+0052400201,130,PT02M31.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,SUB: Gueye FOR Daniels,Substitution,,0,0,97
+0052400201,131,PT02M31.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Young FOR Okongwu,Substitution,,0,0,98
+0052400201,132,PT02M31.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Herro FOR Ware,Substitution,,0,0,99
+0052400201,133,PT02M31.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Adebayo FOR Wiggins,Substitution,,0,0,100
+0052400201,138,PT02M31.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,18,26,44,v,Robinson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,101
+0052400201,139,PT02M21.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-6,13,1,Missed,1,,,0,h,MISS Gueye 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,102
+0052400201,140,PT02M18.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,103
+0052400201,141,PT02M14.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-179,162,24,Missed,1,,,0,v,MISS Robinson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,104
+0052400201,142,PT02M12.00S,1,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0052400201,143,PT02M01.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,106
+0052400201,144,PT01M52.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,31,11,3,Made,1,18,28,46,v,Adebayo 3' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,107
+0052400201,145,PT01M43.00S,1,1610612737,ATL,1629027,Young,T. Young,-16,17,2,Made,1,20,28,48,h,Young 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,108
+0052400201,146,PT01M35.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye P.FOUL (P1.T3) (M.Ervin),Foul,Personal,1,0,109
+0052400201,148,PT01M20.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,-5,1,1,Missed,1,,,0,v,MISS Mitchell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,110
+0052400201,149,PT01M15.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,111
+0052400201,150,PT01M14.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-29,252,25,Missed,1,,,0,v,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0052400201,151,PT01M12.00S,1,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0052400201,152,PT01M03.00S,1,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,114
+0052400201,152,PT01M03.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,0,115
+0052400201,154,PT00M58.40S,1,1610612748,MIA,1629639,Herro,T. Herro,-6,1,1,Missed,1,,,0,v,MISS Herro 1' Running Layup,Missed Shot,Running Layup Shot,1,2,116
+0052400201,155,PT00M55.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0052400201,156,PT00M51.70S,1,1610612737,ATL,1627747,LeVert,C. LeVert,-4,80,8,Made,1,22,28,50,h,LeVert 8' Driving Floating Jump Shot (2 PTS) (Krejci 2 AST),Made Shot,Driving Floating Jump Shot,1,2,118
+0052400201,158,PT00M51.70S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P1.T4) (J.Capers),Foul,Shooting,1,0,119
+0052400201,160,PT00M51.70S,1,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,MISS LeVert Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,120
+0052400201,161,PT00M49.50S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0052400201,162,PT00M38.50S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-232,19,0,Made,1,22,31,53,v,Highsmith 3PT Jump Shot (3 PTS) (Herro 3 AST),Made Shot,Jump Shot,1,3,122
+0052400201,164,PT00M35.70S,1,1610612737,ATL,1627747,LeVert,C. LeVert,4,11,1,Made,1,24,31,55,h,LeVert 1' Dunk (4 PTS) (Young 3 AST),Made Shot,Dunk Shot,1,2,123
+0052400201,167,PT00M16.60S,1,1610612748,MIA,1629639,Herro,T. Herro,9,-10,1,Made,1,24,33,57,v,Herro 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,124
+0052400201,168,PT00M00.40S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,-164,202,26,Missed,1,,,0,h,MISS Krejci 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0052400201,169,PT00M00.10S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,126
+0052400201,170,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,33,57,,End of 1st Period (7:32 PM EST),period,end,1,0,127
+0052400201,177,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,33,57,,Start of 2nd Period (7:35 PM EST),period,start,0,0,128
+0052400201,178,PT11M40.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,-56,240,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,129
+0052400201,179,PT11M37.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,130
+0052400201,180,PT11M24.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,131
+0052400201,182,PT11M24.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,25,33,58,h,Niang Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,132
+0052400201,183,PT11M24.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,26,33,59,h,Niang Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+0052400201,184,PT11M01.00S,2,1610612748,MIA,1629639,Herro,T. Herro,98,10,10,Missed,1,,,0,v,MISS Herro 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,134
+0052400201,185,PT10M57.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,135
+0052400201,186,PT10M54.00S,2,1610612737,ATL,1629611,Mann,T. Mann,-233,-17,0,Missed,1,,,0,h,MISS Mann 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,136
+0052400201,187,PT10M49.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0052400201,188,PT10M43.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-7,1,1,Made,1,26,35,61,v,Adebayo 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,138
+0052400201,189,PT10M33.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-7,8,1,Missed,1,,,0,h,MISS Okongwu 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,139
+0052400201,190,PT10M28.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,140
+0052400201,191,PT10M25.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-69,241,25,Made,1,26,38,64,v,Herro 25' 3PT Running Jump Shot (5 PTS) (Anderson 1 AST),Made Shot,Running Jump Shot,1,3,141
+0052400201,193,PT10M01.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-4,11,1,Made,1,28,38,66,h,Niang 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,142
+0052400201,195,PT09M49.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Risacher FOR LeVert,Substitution,,0,0,143
+0052400201,197,PT09M42.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T1) (J.Capers),Foul,Shooting,1,0,144
+0052400201,199,PT09M42.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,28,39,67,v,Herro Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0052400201,200,PT09M42.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Wiggins FOR Mitchell,Substitution,,0,0,146
+0052400201,202,PT09M42.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,28,40,68,v,Herro Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,147
+0052400201,203,PT09M32.00S,2,1610612737,ATL,1629027,Young,T. Young,6,78,8,Missed,1,,,0,h,MISS Young 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,148
+0052400201,204,PT09M29.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,149
+0052400201,205,PT09M25.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P3.T2) (M.Ervin),Foul,Personal,1,0,150
+0052400201,207,PT09M25.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Daniels FOR Mann,Substitution,,0,0,151
+0052400201,209,PT09M09.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-10,247,25,Missed,1,,,0,v,MISS Adebayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0052400201,210,PT09M06.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,153
+0052400201,211,PT08M58.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,20,2,Missed,1,,,0,h,MISS Daniels 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,154
+0052400201,211,PT08M58.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (2 BLK),,,1,2,155
+0052400201,213,PT08M55.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,156
+0052400201,214,PT08M55.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,1,0,157
+0052400201,216,PT08M55.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,28,41,69,v,Herro Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,158
+0052400201,217,PT08M55.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,28,42,70,v,Herro Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,159
+0052400201,218,PT08M44.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,142,210,25,Missed,1,,,0,h,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0052400201,219,PT08M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,161
+0052400201,220,PT08M28.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,141,214,26,Made,1,28,45,73,v,Highsmith 26' 3PT Jump Shot (6 PTS) (Herro 4 AST),Made Shot,Jump Shot,1,3,162
+0052400201,222,PT08M19.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,163
+0052400201,224,PT08M19.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,29,45,74,h,Young Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,164
+0052400201,225,PT08M19.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,30,45,75,h,Young Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+0052400201,226,PT08M08.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,166
+0052400201,227,PT08M08.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: LeVert FOR Young,Substitution,,0,0,167
+0052400201,229,PT07M57.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-1,8,1,Made,1,32,45,77,h,Niang 1' Driving Reverse Layup (6 PTS) (Daniels 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,168
+0052400201,231,PT07M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-39,31,5,Missed,1,,,0,v,MISS Adebayo 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,169
+0052400201,232,PT07M37.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,170
+0052400201,233,PT07M30.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,-12,22,3,Missed,1,,,0,h,MISS Risacher 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,171
+0052400201,234,PT07M27.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,172
+0052400201,235,PT07M22.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,-203,152,25,Missed,1,,,0,h,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0052400201,236,PT07M19.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,174
+0052400201,237,PT07M12.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert P.FOUL (P1.T4) (J.Capers),Foul,Personal,1,0,175
+0052400201,239,PT07M12.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Krejci FOR Risacher,Substitution,,0,0,176
+0052400201,240,PT07M12.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Gueye FOR Okongwu,Substitution,,0,0,177
+0052400201,241,PT07M12.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Ware FOR Adebayo,Substitution,,0,0,178
+0052400201,245,PT07M10.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,179
+0052400201,245,PT07M10.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels STEAL (1 STL),,,1,0,180
+0052400201,247,PT07M05.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-1,16,2,Made,1,34,45,79,h,LeVert 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,181
+0052400201,248,PT07M04.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,182
+0052400201,249,PT06M53.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,183
+0052400201,249,PT06M53.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang STEAL (1 STL),,,1,0,184
+0052400201,251,PT06M49.00S,2,1610612737,ATL,1627777,Niang,G. Niang,178,181,25,Made,1,37,45,82,h,Niang 25' 3PT Running Jump Shot (9 PTS) (LeVert 2 AST),Made Shot,Running Jump Shot,1,3,185
+0052400201,253,PT06M33.00S,2,1610612748,MIA,1629639,Herro,T. Herro,34,240,24,Made,1,37,48,85,v,Herro 24' 3PT Jump Shot (12 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,3,186
+0052400201,255,PT06M21.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-137,221,26,Missed,1,,,0,h,MISS LeVert 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,187
+0052400201,256,PT06M19.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,188
+0052400201,257,PT06M17.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-4,11,1,Missed,1,,,0,h,MISS LeVert 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,189
+0052400201,257,PT06M17.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson BLOCK (1 BLK),,,1,2,190
+0052400201,258,PT06M17.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,191
+0052400201,259,PT06M17.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Okongwu FOR Gueye,Substitution,,0,0,192
+0052400201,260,PT06M17.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Anderson,Substitution,,0,0,193
+0052400201,263,PT05M54.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,-232,8,0,Missed,1,,,0,v,MISS Mitchell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0052400201,264,PT05M50.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,195
+0052400201,265,PT05M44.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,-9,13,2,Made,1,39,48,87,h,Daniels 2' Driving Layup (2 PTS) (LeVert 3 AST),Made Shot,Driving Layup Shot,1,2,196
+0052400201,267,PT05M20.00S,2,1610612748,MIA,1642276,Ware,K. Ware,-22,114,12,Made,1,39,50,89,v,Ware 12' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,2,197
+0052400201,268,PT05M05.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,44,67,8,Missed,1,,,0,h,MISS Okongwu 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,198
+0052400201,269,PT05M03.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,199
+0052400201,271,PT04M52.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,SUB: Young FOR Krejci,Substitution,,0,0,200
+0052400201,272,PT04M52.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Adebayo FOR Ware,Substitution,,0,0,201
+0052400201,273,PT04M52.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Robinson FOR Herro,Substitution,,0,0,202
+0052400201,277,PT04M45.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,162,189,25,Made,1,39,53,92,v,Robinson 25' 3PT Jump Shot (6 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,1,3,203
+0052400201,279,PT04M31.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-176,188,26,Made,1,42,53,95,h,LeVert 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,204
+0052400201,280,PT04M07.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,103,48,11,Made,1,42,55,97,v,Highsmith 11' Driving Floating Jump Shot (8 PTS) (Wiggins 4 AST),Made Shot,Driving Floating Jump Shot,1,2,205
+0052400201,282,PT03M55.00S,2,1610612737,ATL,1627777,Niang,G. Niang,228,2,0,Missed,1,,,0,h,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0052400201,283,PT03M53.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,207
+0052400201,284,PT03M49.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-210,148,26,Missed,1,,,0,h,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0052400201,285,PT03M45.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,209
+0052400201,286,PT03M43.00S,2,1610612737,ATL,1627777,Niang,G. Niang,4,16,2,Made,1,44,55,99,h,Niang 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,210
+0052400201,287,PT03M26.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,2,-2,0,Made,1,44,57,101,v,Adebayo Alley Oop Layup (10 PTS) (Mitchell 2 AST),Made Shot,Alley Oop Layup shot,1,2,211
+0052400201,289,PT03M05.00S,2,1610612737,ATL,1627747,LeVert,C. LeVert,-10,163,16,Missed,1,,,0,h,MISS LeVert 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,212
+0052400201,290,PT03M03.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,213
+0052400201,291,PT02M48.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,214
+0052400201,293,PT02M48.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,215
+0052400201,295,PT02M48.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,216
+0052400201,296,PT02M48.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,217
+0052400201,297,PT02M48.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,44,58,102,v,Mitchell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,218
+0052400201,298,PT02M33.00S,2,1610612737,ATL,1629027,Young,T. Young,-16,20,3,Missed,1,,,0,h,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,219
+0052400201,298,PT02M33.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (3 BLK),,,1,2,220
+0052400201,302,PT02M32.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,221
+0052400201,300,PT02M32.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,222
+0052400201,301,PT02M32.00S,2,0,,320,Watson,J. Watson,0,0,0,,0,44,58,102,,Instant Replay2nd Period (8:00 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,223
+0052400201,309,PT02M32.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Herro FOR Robinson,Substitution,,0,0,224
+0052400201,303,PT02M25.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-197,174,26,Made,1,47,58,105,h,Okongwu 26' 3PT Jump Shot (11 PTS) (Niang 1 AST),Made Shot,Jump Shot,0,3,225
+0052400201,307,PT02M01.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,1,0,226
+0052400201,311,PT02M01.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,227
+0052400201,312,PT02M01.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,228
+0052400201,313,PT02M01.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,47,59,106,v,Wiggins Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+0052400201,314,PT01M54.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-150,202,25,Missed,1,,,0,h,MISS Niang 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0052400201,315,PT01M50.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,231
+0052400201,316,PT01M42.00S,2,1610612748,MIA,1629639,Herro,T. Herro,153,208,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0052400201,317,PT01M39.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,233
+0052400201,318,PT01M37.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,1,0,234
+0052400201,321,PT01M37.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,235
+0052400201,322,PT01M37.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,236
+0052400201,324,PT01M37.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,48,59,107,h,Young Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+0052400201,325,PT01M24.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,238
+0052400201,325,PT01M24.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang STEAL (2 STL),,,1,0,239
+0052400201,327,PT01M17.00S,2,1610612737,ATL,1629027,Young,T. Young,-15,63,6,Missed,1,,,0,h,MISS Young 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,240
+0052400201,328,PT01M13.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,241
+0052400201,329,PT01M10.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,242
+0052400201,331,PT01M10.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,MISS Adebayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,243
+0052400201,332,PT01M10.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,244
+0052400201,333,PT01M10.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,48,60,108,v,Adebayo Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,245
+0052400201,334,PT01M00.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-1,10,1,Made,1,50,60,110,h,Niang 1' Layup (13 PTS) (Young 4 AST),Made Shot,Layup Shot,1,2,246
+0052400201,336,PT00M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-20,50,5,Made,1,50,62,112,v,Adebayo 5' Driving Floating Jump Shot (13 PTS) (Wiggins 5 AST),Made Shot,Driving Floating Jump Shot,1,2,247
+0052400201,338,PT00M34.30S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,248
+0052400201,338,PT00M34.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (2 STL),,,1,0,249
+0052400201,340,PT00M25.80S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,131,219,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,250
+0052400201,341,PT00M22.30S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,251
+0052400201,342,PT00M02.50S,2,1610612737,ATL,1627747,LeVert,C. LeVert,233,99,25,Made,1,53,62,115,h,LeVert 25' 3PT Jump Shot (12 PTS) (Young 5 AST),Made Shot,Jump Shot,1,3,252
+0052400201,345,PT00M00.60S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,25,468,47,Missed,1,,,0,v,MISS Mitchell 47' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,253
+0052400201,346,PT00M00.10S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,254
+0052400201,347,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,62,115,,End of 2nd Period (8:07 PM EST),period,end,1,0,255
+0052400201,356,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,62,115,,Start of 3rd Period (8:24 PM EST),period,start,0,0,256
+0052400201,357,PT11M40.00S,3,1610612748,MIA,202692,Burks,A. Burks,-22,256,26,Made,1,53,65,118,v,Burks 26' 3PT Jump Shot (5 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,1,3,257
+0052400201,359,PT11M22.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-4,48,5,Made,1,55,65,120,h,Daniels 5' Turnaround Hook Shot (4 PTS) (Young 6 AST),Made Shot,Turnaround Hook Shot,1,2,258
+0052400201,361,PT11M02.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,1,11,1,Made,1,55,67,122,v,Wiggins 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,259
+0052400201,363,PT10M48.00S,3,1610612737,ATL,1629027,Young,T. Young,60,25,7,Made,1,57,67,124,h,Young 7' Driving Floating Bank Jump Shot (14 PTS) (Gueye 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,260
+0052400201,364,PT10M36.00S,3,1610612748,MIA,202692,Burks,A. Burks,-172,195,26,Missed,1,,,0,v,MISS Burks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0052400201,365,PT10M34.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,262
+0052400201,366,PT10M22.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,9,48,5,Missed,1,,,0,h,MISS Daniels 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,263
+0052400201,367,PT10M21.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,264
+0052400201,368,PT10M21.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,0,265
+0052400201,370,PT09M59.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,266
+0052400201,370,PT09M59.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu STEAL (1 STL),,,1,0,267
+0052400201,372,PT09M54.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,12,6,1,Made,1,59,67,126,h,Okongwu 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,268
+0052400201,373,PT09M33.00S,3,1610612748,MIA,202692,Burks,A. Burks,233,1,0,Missed,1,,,0,v,MISS Burks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0052400201,373,PT09M33.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (1 BLK),,,1,3,270
+0052400201,375,PT09M29.00S,3,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,271
+0052400201,376,PT09M23.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-137,216,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,272
+0052400201,377,PT09M21.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,273
+0052400201,378,PT09M17.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-55,247,25,Missed,1,,,0,h,MISS Okongwu 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,274
+0052400201,379,PT09M13.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,275
+0052400201,381,PT09M11.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,-232,4,0,Made,1,62,67,129,h,Gueye 3PT Jump Shot (3 PTS) (Young 7 AST),Made Shot,Jump Shot,0,3,276
+0052400201,383,PT08M52.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,277
+0052400201,383,PT08M52.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels STEAL (2 STL),,,1,0,278
+0052400201,385,PT08M46.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-1,-1,0,Made,1,64,67,131,h,Okongwu Running Layup (15 PTS) (Young 8 AST),Made Shot,Running Layup Shot,1,2,279
+0052400201,387,PT08M46.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+0052400201,389,PT08M46.00S,3,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Mitchell FOR Burks,Substitution,,0,0,281
+0052400201,391,PT08M35.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-156,200,25,Missed,1,,,0,v,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0052400201,392,PT08M32.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,283
+0052400201,393,PT08M30.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,284
+0052400201,393,PT08M30.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels STEAL (3 STL),,,1,0,285
+0052400201,395,PT08M15.00S,3,1610612737,ATL,1629027,Young,T. Young,119,234,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,286
+0052400201,396,PT08M10.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,287
+0052400201,397,PT08M08.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,4,17,2,Made,1,64,69,133,v,Mitchell 2' Running Layup (3 PTS) (Adebayo 3 AST),Made Shot,Running Layup Shot,1,2,288
+0052400201,398,PT07M51.00S,3,1610612737,ATL,1629027,Young,T. Young,-88,53,10,Missed,1,,,0,h,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,289
+0052400201,399,PT07M48.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,290
+0052400201,400,PT07M46.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,230,52,24,Missed,1,,,0,h,MISS Risacher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0052400201,401,PT07M44.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,292
+0052400201,402,PT07M38.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-7,7,1,Made,1,64,71,135,v,Wiggins 1' Driving Dunk (14 PTS) (Mitchell 3 AST),Made Shot,Driving Dunk Shot,1,2,293
+0052400201,404,PT07M25.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-12,14,2,Missed,1,,,0,h,MISS Risacher 2' Layup,Missed Shot,Layup Shot,1,2,294
+0052400201,405,PT07M22.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,295
+0052400201,406,PT07M15.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,296
+0052400201,406,PT07M15.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher STEAL (2 STL),,,1,0,297
+0052400201,408,PT07M07.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,232,47,24,Missed,1,,,0,h,MISS Risacher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0052400201,409,PT07M02.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,299
+0052400201,410,PT06M52.00S,3,1610612748,MIA,1642276,Ware,K. Ware,-6,18,2,Made,1,64,73,137,v,Ware 2' Alley Oop Dunk (12 PTS) (Adebayo 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,300
+0052400201,412,PT06M50.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,301
+0052400201,413,PT06M50.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Niang FOR Risacher,Substitution,,0,0,302
+0052400201,414,PT06M50.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: LeVert FOR Gueye,Substitution,,0,0,303
+0052400201,417,PT06M37.00S,3,1610612737,ATL,1627777,Niang,G. Niang,45,31,5,Made,1,66,73,139,h,Niang 5' Turnaround Hook Shot (15 PTS) (Young 9 AST),Made Shot,Turnaround Hook Shot,1,2,304
+0052400201,418,PT06M07.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,112,120,16,Missed,1,,,0,v,MISS Adebayo 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,305
+0052400201,419,PT06M04.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,306
+0052400201,420,PT05M42.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,307
+0052400201,421,PT05M42.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Mann FOR Young,Substitution,,0,0,308
+0052400201,424,PT05M28.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-6,11,1,Missed,1,,,0,v,MISS Wiggins 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,309
+0052400201,425,PT05M25.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,310
+0052400201,426,PT05M25.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,66,75,141,v,Adebayo Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,311
+0052400201,427,PT05M16.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-36,246,25,Missed,1,,,0,h,MISS Okongwu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0052400201,428,PT05M14.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,313
+0052400201,429,PT05M14.00S,3,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang L.B.FOUL (P2.T2) (J.Capers),Foul,Loose Ball,1,0,314
+0052400201,431,PT05M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Highsmith FOR Adebayo,Substitution,,0,0,315
+0052400201,433,PT04M59.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-184,175,25,Made,1,66,78,144,v,Herro 25' 3PT Step Back Jump Shot (15 PTS) (Mitchell 4 AST),Made Shot,Step Back Jump shot,1,3,316
+0052400201,435,PT04M36.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,7,4,1,Missed,1,,,0,h,MISS Daniels 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,317
+0052400201,436,PT04M34.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,318
+0052400201,437,PT04M23.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,221,117,25,Missed,1,,,0,v,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0052400201,438,PT04M21.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,320
+0052400201,439,PT04M15.00S,3,1610612737,ATL,1627747,LeVert,C. LeVert,11,17,2,Missed,1,,,0,h,MISS LeVert 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,321
+0052400201,439,PT04M15.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware BLOCK (1 BLK),,,1,2,322
+0052400201,441,PT04M14.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,323
+0052400201,443,PT04M04.00S,3,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,324
+0052400201,445,PT04M04.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,66,79,145,v,Mitchell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+0052400201,446,PT04M04.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Anderson FOR Wiggins,Substitution,,0,0,326
+0052400201,448,PT04M04.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,327
+0052400201,449,PT04M02.00S,3,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,328
+0052400201,450,PT03M47.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,85,9,Made,1,68,79,147,h,Okongwu 9' Hook Shot (17 PTS),Made Shot,Hook Shot,1,2,329
+0052400201,451,PT03M30.00S,3,1610612748,MIA,1629639,Herro,T. Herro,206,143,25,Missed,1,,,0,v,MISS Herro 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,330
+0052400201,452,PT03M27.00S,3,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,331
+0052400201,453,PT03M21.00S,3,1610612737,ATL,1627747,LeVert,C. LeVert,-1,247,25,Made,1,71,79,150,h,LeVert 25' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,332
+0052400201,454,PT02M59.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,84,8,Missed,1,,,0,v,MISS Anderson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,333
+0052400201,455,PT02M57.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,334
+0052400201,456,PT02M44.00S,3,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,335
+0052400201,456,PT02M44.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (2 STL),,,1,0,336
+0052400201,458,PT02M21.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,11,1,Made,1,71,81,152,v,Highsmith 1' Driving Layup (10 PTS) (Mitchell 5 AST),Made Shot,Driving Layup Shot,1,2,337
+0052400201,460,PT02M05.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,0,338
+0052400201,462,PT02M05.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,SUB: Young FOR Daniels,Substitution,,0,0,339
+0052400201,463,PT02M05.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Adebayo FOR Ware,Substitution,,0,0,340
+0052400201,466,PT02M05.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Robinson FOR Herro,Substitution,,0,0,341
+0052400201,468,PT02M05.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith P.FOUL (P2.T2) (J.Capers),Foul,Personal,1,0,342
+0052400201,470,PT01M57.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,235,24,24,Made,1,74,81,155,h,Okongwu 24' 3PT Jump Shot (20 PTS) (Niang 2 AST),Made Shot,Jump Shot,1,3,343
+0052400201,472,PT01M36.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,87,27,9,Missed,1,,,0,v,MISS Anderson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,344
+0052400201,473,PT01M33.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,345
+0052400201,474,PT01M20.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,-238,20,24,Made,1,74,84,158,v,Anderson 24' 3PT Jump Shot (3 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,1,3,346
+0052400201,476,PT00M53.80S,3,1610612737,ATL,1627777,Niang,G. Niang,64,252,26,Made,1,77,84,161,h,Niang 26' 3PT Jump Shot (18 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,347
+0052400201,478,PT00M30.80S,3,1610612748,MIA,203937,Anderson,K. Anderson,195,36,20,Made,1,77,86,163,v,Anderson 20' Jump Shot (5 PTS) (Robinson 1 AST),Made Shot,Jump Shot,1,2,348
+0052400201,480,PT00M09.90S,3,1610612737,ATL,1627747,LeVert,C. LeVert,-238,-46,24,Missed,1,,,0,h,MISS LeVert 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0052400201,481,PT00M06.90S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,350
+0052400201,482,PT00M00.60S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,1,159,16,Missed,1,,,0,v,MISS Mitchell 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,351
+0052400201,483,PT00M00.10S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,352
+0052400201,484,PT00M00.00S,3,0,,0,,,0,0,0,,0,77,86,163,,End of 3rd Period (8:47 PM EST),period,end,1,0,353
+0052400201,485,PT12M00.00S,4,0,,0,,,0,0,0,,0,77,86,163,,Start of 4th Period (8:51 PM EST),period,start,0,0,354
+0052400201,486,PT11M42.00S,4,1610612737,ATL,1627777,Niang,G. Niang,29,52,6,Missed,1,,,0,h,MISS Niang 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,355
+0052400201,486,PT11M42.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson BLOCK (2 BLK),,,1,2,356
+0052400201,487,PT11M39.00S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,357
+0052400201,488,PT11M36.00S,4,1610612737,ATL,1627777,Niang,G. Niang,93,229,25,Missed,1,,,0,h,MISS Niang 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0052400201,489,PT11M31.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,359
+0052400201,490,PT11M19.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,221,127,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0052400201,491,PT11M17.00S,4,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,361
+0052400201,492,PT11M08.00S,4,1610612737,ATL,1629611,Mann,T. Mann,199,155,25,Made,1,80,86,166,h,Mann 25' 3PT Jump Shot (3 PTS) (LeVert 5 AST),Made Shot,Jump Shot,1,3,362
+0052400201,495,PT10M45.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,-26,17,3,Missed,1,,,0,v,MISS Anderson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,363
+0052400201,496,PT10M42.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,364
+0052400201,497,PT10M37.00S,4,1610612737,ATL,1629027,Young,T. Young,12,278,28,Made,1,83,86,169,h,Young 28' 3PT Jump Shot (17 PTS) (Niang 3 AST),Made Shot,Jump Shot,1,3,365
+0052400201,499,PT10M36.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,366
+0052400201,501,PT10M36.00S,4,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Daniels FOR LeVert,Substitution,,0,0,367
+0052400201,502,PT10M36.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,SUB: Herro FOR Anderson,Substitution,,0,0,368
+0052400201,503,PT10M36.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Wiggins FOR Robinson,Substitution,,0,0,369
+0052400201,507,PT10M22.00S,4,1610612748,MIA,1629639,Herro,T. Herro,48,256,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0052400201,508,PT10M16.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,371
+0052400201,509,PT10M05.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-18,97,10,Missed,1,,,0,v,MISS Herro 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,372
+0052400201,510,PT10M01.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,373
+0052400201,511,PT09M59.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-191,13,19,Made,1,83,88,171,v,Herro 19' Jump Shot (17 PTS) (Adebayo 5 AST),Made Shot,Jump Shot,1,2,374
+0052400201,514,PT09M40.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,97,242,26,Made,1,86,88,174,h,Daniels 26' 3PT Jump Shot (7 PTS) (Young 10 AST),Made Shot,Jump Shot,1,3,375
+0052400201,515,PT09M13.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-234,7,0,Missed,1,,,0,v,MISS Adebayo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0052400201,516,PT09M11.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,377
+0052400201,517,PT09M11.00S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang P.FOUL (P3.T1) (M.Ervin),Foul,Personal,1,0,378
+0052400201,519,PT09M11.00S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: LeVert FOR Niang,Substitution,,0,0,379
+0052400201,521,PT09M00.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-110,236,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0052400201,522,PT08M53.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,381
+0052400201,523,PT08M50.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,143,203,25,Missed,1,,,0,h,MISS Daniels 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,382
+0052400201,524,PT08M44.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,383
+0052400201,527,PT08M33.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-232,11,0,Missed,1,,,0,v,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0052400201,528,PT08M30.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,385
+0052400201,529,PT08M23.00S,4,1610612737,ATL,1627747,LeVert,C. LeVert,-54,246,25,Missed,1,,,0,h,MISS LeVert 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,386
+0052400201,529,PT08M23.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (4 BLK),,,1,3,387
+0052400201,530,PT08M20.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,388
+0052400201,531,PT08M15.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-9,278,28,Missed,1,,,0,v,MISS Herro 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,389
+0052400201,532,PT08M12.00S,4,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,390
+0052400201,533,PT08M09.00S,4,1610612737,ATL,1629611,Mann,T. Mann,10,4,1,Made,1,88,88,176,h,Mann 1' Running Layup (5 PTS) (LeVert 6 AST),Made Shot,Running Layup Shot,1,2,391
+0052400201,535,PT07M52.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,34,34,5,Missed,1,,,0,v,MISS Mitchell 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,392
+0052400201,535,PT07M52.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young BLOCK (1 BLK),,,1,2,393
+0052400201,537,PT07M51.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,394
+0052400201,539,PT07M48.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,395
+0052400201,540,PT07M36.00S,4,1610612737,ATL,1629027,Young,T. Young,32,257,26,Made,1,91,88,179,h,Young 26' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,396
+0052400201,541,PT07M09.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-9,67,7,Made,1,91,90,181,v,Wiggins 7' Driving Floating Bank Jump Shot (16 PTS) (Herro 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,397
+0052400201,542,PT07M00.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,398
+0052400201,544,PT07M00.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,399
+0052400201,548,PT06M46.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,15,52,5,Made,1,93,90,183,h,Daniels 5' Driving Floating Jump Shot (9 PTS) (Okongwu 1 AST),Made Shot,Driving Floating Jump Shot,1,2,400
+0052400201,549,PT06M31.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,228,29,0,Missed,1,,,0,v,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+0052400201,550,PT06M28.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,402
+0052400201,551,PT06M10.00S,4,1610612737,ATL,1629027,Young,T. Young,-127,226,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,403
+0052400201,552,PT06M05.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,404
+0052400201,553,PT05M54.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,124,13,12,Made,1,93,92,185,v,Adebayo 12' Jump Shot (17 PTS) (Herro 6 AST),Made Shot,Jump Shot,1,2,405
+0052400201,555,PT05M32.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,0,406
+0052400201,557,PT05M31.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith P.FOUL (P3.T3) (J.Capers),Foul,Personal,0,0,407
+0052400201,560,PT05M21.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,-47,248,25,Made,1,96,92,188,h,Okongwu 25' 3PT Jump Shot (23 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,408
+0052400201,562,PT05M09.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,409
+0052400201,562,PT05M09.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu STEAL (2 STL),,,1,0,410
+0052400201,564,PT05M06.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,-4,-1,0,Made,1,98,92,190,h,Okongwu Running Dunk (25 PTS) (Daniels 2 AST),Made Shot,Running Dunk Shot,1,2,411
+0052400201,566,PT05M06.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,412
+0052400201,569,PT04M56.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,-134,220,26,Made,1,98,95,193,v,Mitchell 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,413
+0052400201,570,PT04M31.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,-10,71,7,Missed,1,,,0,h,MISS Daniels 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,414
+0052400201,571,PT04M28.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,415
+0052400201,638,PT04M16.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,416
+0052400201,638,PT04M16.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu STEAL (3 STL),,,1,0,417
+0052400201,575,PT04M07.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,-45,246,25,Missed,1,,,0,h,MISS Okongwu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0052400201,576,PT04M02.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,419
+0052400201,577,PT03M41.00S,4,1610612748,MIA,1629639,Herro,T. Herro,51,155,16,Made,1,98,97,195,v,Herro 16' Pullup Jump Shot (19 PTS) (Wiggins 6 AST),Made Shot,Pullup Jump shot,1,2,420
+0052400201,579,PT03M16.00S,4,1610612737,ATL,1627747,LeVert,C. LeVert,234,51,24,Missed,1,,,0,h,MISS LeVert 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0052400201,580,PT03M13.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,422
+0052400201,581,PT03M03.00S,4,1610612748,MIA,1629639,Herro,T. Herro,12,189,19,Made,1,98,99,197,v,Herro 19' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,423
+0052400201,582,PT03M01.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,424
+0052400201,583,PT03M01.00S,4,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Niang FOR Mann,Substitution,,0,0,425
+0052400201,585,PT02M49.00S,4,1610612737,ATL,1629027,Young,T. Young,28,47,5,Missed,1,,,0,h,MISS Young 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,426
+0052400201,585,PT02M49.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (5 BLK),,,1,2,427
+0052400201,587,PT02M46.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,428
+0052400201,588,PT02M44.00S,4,1610612748,MIA,1629639,Herro,T. Herro,1,10,1,Missed,1,,,0,v,MISS Herro 1' Running Layup,Missed Shot,Running Layup Shot,1,2,429
+0052400201,589,PT02M40.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,430
+0052400201,590,PT02M35.00S,4,1610612737,ATL,1627777,Niang,G. Niang,-34,243,25,Missed,1,,,0,h,MISS Niang 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,431
+0052400201,591,PT02M32.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,432
+0052400201,592,PT02M15.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,113,232,26,Missed,1,,,0,v,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0052400201,593,PT02M14.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,434
+0052400201,594,PT02M14.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,Made,1,98,101,199,v,Wiggins Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,435
+0052400201,595,PT01M58.00S,4,1610612737,ATL,1627777,Niang,G. Niang,-15,0,2,Made,1,100,101,201,h,Niang 2' Driving Layup (20 PTS) (Young 11 AST),Made Shot,Driving Layup Shot,1,2,436
+0052400201,597,PT01M43.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-36,130,13,Made,1,100,103,203,v,Herro 13' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,2,437
+0052400201,598,PT01M28.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,-6,0,1,Made,1,102,103,205,h,Daniels 1' Cutting Dunk Shot (11 PTS) (Niang 4 AST),Made Shot,Cutting Dunk Shot,1,2,438
+0052400201,603,PT01M03.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,2,11,1,Made,1,102,105,207,v,Highsmith 1' Layup (12 PTS),Made Shot,Layup Shot,1,2,439
+0052400201,604,PT00M52.30S,4,1610612737,ATL,1629027,Young,T. Young,2,4,0,Made,1,104,105,209,h,Young Driving Layup (22 PTS) (Daniels 3 AST),Made Shot,Driving Layup Shot,1,2,440
+0052400201,606,PT00M40.40S,4,1610612748,MIA,1629639,Herro,T. Herro,36,91,10,Missed,1,,,0,v,MISS Herro 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,441
+0052400201,607,PT00M37.20S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,442
+0052400201,608,PT00M23.50S,4,1610612737,ATL,1627777,Niang,G. Niang,-6,46,5,Missed,1,,,0,h,MISS Niang 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,443
+0052400201,609,PT00M21.10S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,444
+0052400201,610,PT00M19.70S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,445
+0052400201,611,PT00M19.70S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: Mann FOR Niang,Substitution,,0,0,446
+0052400201,613,PT00M14.90S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu P.FOUL (P2.T2) (J.Capers),Foul,Personal,1,0,447
+0052400201,616,PT00M12.20S,4,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Personal Take Foul (P4.PN) (J.Capers),Foul,Personal Take,1,0,448
+0052400201,618,PT00M12.20S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,104,106,210,v,Herro Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+0052400201,619,PT00M12.20S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,MISS Herro Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,450
+0052400201,620,PT00M11.30S,4,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,451
+0052400201,621,PT00M11.30S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,452
+0052400201,622,PT00M11.30S,4,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Niang FOR Mann,Substitution,,0,0,453
+0052400201,625,PT00M06.10S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P3.T4) (E.Malloy),Foul,Personal,1,0,454
+0052400201,627,PT00M06.10S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,455
+0052400201,628,PT00M01.30S,4,1610612737,ATL,1629027,Young,T. Young,7,-2,1,Made,1,106,106,212,h,Young 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,2,456
+0052400201,629,PT00M01.30S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,457
+0052400201,630,PT00M01.30S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Mann FOR Young,Substitution,,0,0,458
+0052400201,631,PT00M01.30S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: Gueye FOR Niang,Substitution,,0,0,459
+0052400201,632,PT00M01.30S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Anderson FOR Highsmith,Substitution,,0,0,460
+0052400201,633,PT00M01.30S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Robinson FOR Mitchell,Substitution,,0,0,461
+0052400201,640,PT00M00.50S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-205,54,21,Missed,1,,,0,v,MISS Wiggins 21' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,462
+0052400201,641,PT00M00.10S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,463
+0052400201,642,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,106,212,,End of 4th Period (9:26 PM EST),period,end,1,0,464
+0052400201,649,PT05M00.00S,5,0,,0,,,0,0,0,,0,106,106,212,,Start of 1st OT (9:29 PM EST),period,start,0,0,465
+0052400201,651,PT05M00.00S,5,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Jump Ball Okongwu vs. Adebayo: Tip to Mitchell,Jump Ball,,1,0,466
+0052400201,654,PT04M36.00S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,-21,13,2,Missed,1,,,0,v,MISS Wiggins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,467
+0052400201,655,PT04M34.00S,5,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,468
+0052400201,656,PT04M34.00S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,469
+0052400201,658,PT04M26.00S,5,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,470
+0052400201,659,PT04M11.00S,5,1610612748,MIA,1629639,Herro,T. Herro,-80,239,25,Made,1,106,109,215,v,Herro 25' 3PT Jump Shot (27 PTS) (Highsmith 3 AST),Made Shot,Jump Shot,1,3,471
+0052400201,661,PT03M54.00S,5,1610612737,ATL,1629027,Young,T. Young,26,95,10,Made,1,108,109,217,h,Young 10' Driving Floating Jump Shot (26 PTS),Made Shot,Driving Floating Jump Shot,1,2,472
+0052400201,662,PT03M39.00S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,-21,259,26,Made,1,108,112,220,v,Mitchell 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,473
+0052400201,663,PT03M29.00S,5,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Traveling Turnover (P4.T9),Turnover,Traveling,1,0,474
+0052400201,664,PT03M09.00S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,-230,-1,0,Made,1,108,115,223,v,Mitchell 3PT Jump Shot (13 PTS) (Herro 7 AST),Made Shot,Jump Shot,1,3,475
+0052400201,666,PT03M00.00S,5,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann OFF.Foul (P5) (E.Malloy),Foul,Offensive,1,0,476
+0052400201,668,PT03M00.00S,5,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,477
+0052400201,669,PT02M40.00S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,-15,105,11,Made,1,108,117,225,v,Wiggins 11' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,478
+0052400201,670,PT02M30.00S,5,1610612737,ATL,1630168,Okongwu,O. Okongwu,-235,4,24,Made,1,111,117,228,h,Okongwu 24' 3PT Jump Shot (28 PTS) (Daniels 4 AST),Made Shot,Jump Shot,1,3,479
+0052400201,672,PT02M06.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,15,89,9,Missed,1,,,0,v,MISS Adebayo 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,480
+0052400201,673,PT02M03.00S,5,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,481
+0052400201,674,PT01M55.00S,5,1610612737,ATL,1629027,Young,T. Young,156,218,27,Made,1,114,117,231,h,Young 27' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,3,482
+0052400201,675,PT01M41.00S,5,1610612748,MIA,1629639,Herro,T. Herro,126,231,26,Made,1,114,120,234,v,Herro 26' 3PT Jump Shot (30 PTS) (Wiggins 7 AST),Made Shot,Jump Shot,1,3,483
+0052400201,677,PT01M34.00S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P4.T2) (M.Ervin),Foul,Personal,1,0,484
+0052400201,694,PT01M34.00S,5,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Niang FOR Mann,Substitution,,0,0,485
+0052400201,681,PT01M24.00S,5,1610612737,ATL,1630700,Daniels,D. Daniels,18,56,6,Missed,1,,,0,h,MISS Daniels 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,486
+0052400201,682,PT01M20.00S,5,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,487
+0052400201,683,PT01M18.00S,5,1610612737,ATL,1630168,Okongwu,O. Okongwu,40,42,6,Missed,1,,,0,h,MISS Okongwu 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,488
+0052400201,687,PT01M14.00S,5,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,489
+0052400201,684,PT01M13.00S,5,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,Jump Ball LeVert vs. Herro: Tip to Okongwu,Jump Ball,,1,0,490
+0052400201,711,PT01M13.00S,5,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,491
+0052400201,711,PT01M13.00S,5,1610612737,ATL,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert STEAL (1 STL),,,0,0,492
+0052400201,688,PT01M02.00S,5,1610612737,ATL,1627747,LeVert,C. LeVert,185,174,25,Missed,1,,,0,h,MISS LeVert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,493
+0052400201,689,PT01M01.00S,5,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,494
+0052400201,690,PT01M01.00S,5,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels Personal Take Foul (P3.T1) (M.Ervin),Foul,Personal Take,1,0,495
+0052400201,696,PT00M36.10S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,-2,259,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,496
+0052400201,697,PT00M34.30S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,497
+0052400201,698,PT00M24.70S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,-114,236,26,Made,1,114,123,237,v,Mitchell 26' 3PT Jump Shot (16 PTS) (Wiggins 8 AST),Made Shot,Jump Shot,1,3,498
+0052400201,700,PT00M23.70S,5,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,499
+0052400201,701,PT00M21.20S,5,1610612737,ATL,1627777,Niang,G. Niang,86,237,25,Missed,1,,,0,h,MISS Niang 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,500
+0052400201,702,PT00M18.80S,5,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,501
+0052400201,704,PT00M18.80S,5,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: Mann FOR Niang,Substitution,,0,0,502
+0052400201,706,PT00M18.80S,5,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.8 Short 0),Timeout,Regular,0,0,503
+0052400201,707,PT00M18.80S,5,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Anderson FOR Highsmith,Substitution,,0,0,504
+0052400201,709,PT00M00.00S,5,0,,0,,,0,0,0,,0,114,123,237,,End of 1st OT (9:41 PM EST),period,end,1,0,505

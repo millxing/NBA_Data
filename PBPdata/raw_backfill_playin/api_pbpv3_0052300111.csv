@@ -1,0 +1,469 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052300111,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:50 PM EST),period,start,0,0,1
+0052300111,4,PT12M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Jump Ball Vucevic vs. Capela: Tip to Bogdanovic,Jump Ball,,1,0,2
+0052300111,7,PT11M44.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-121,23,12,Missed,1,,,0,v,MISS Hunter 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,3
+0052300111,8,PT11M41.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0052300111,9,PT11M29.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-136,85,16,Missed,1,,,0,h,MISS DeRozan 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,5
+0052300111,10,PT11M28.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0052300111,11,PT11M18.00S,1,1610612737,ATL,1629027,Young,T. Young,-49,75,9,Missed,1,,,0,v,MISS Young 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,7
+0052300111,12,PT11M14.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0052300111,13,PT11M06.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,235,9,24,Missed,1,,,0,h,MISS Dosunmu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0052300111,14,PT11M03.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,10
+0052300111,15,PT10M53.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-123,39,13,Made,1,0,2,2,v,Murray 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,11
+0052300111,16,PT10M36.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,6,-5,1,Made,1,2,2,4,h,Vucevic 1' Reverse Layup (2 PTS) (DeRozan 1 AST),Made Shot,Reverse Layup Shot,1,2,12
+0052300111,18,PT10M18.00S,1,1610612737,ATL,203991,Capela,C. Capela,6,81,8,Made,1,2,4,6,v,Capela 8' Turnaround Hook Shot (2 PTS) (Hunter 1 AST),Made Shot,Turnaround Hook Shot,1,2,13
+0052300111,20,PT10M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-15,8,2,Made,1,4,4,8,h,Vucevic 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,14
+0052300111,21,PT09M48.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,5,1,Made,1,4,6,10,v,Capela 1' Cutting Layup Shot (4 PTS) (Young 1 AST),Made Shot,Cutting Layup Shot,1,2,15
+0052300111,23,PT09M38.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-103,237,26,Missed,1,,,0,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0052300111,24,PT09M35.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0052300111,25,PT09M31.00S,1,1610612737,ATL,1627749,Murray,D. Murray,168,199,26,Missed,1,,,0,v,MISS Murray 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,18
+0052300111,26,PT09M27.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0052300111,27,PT09M25.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,20
+0052300111,29,PT09M25.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,5,6,11,h,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+0052300111,30,PT09M25.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,6,6,12,h,White Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+0052300111,31,PT09M08.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-94,149,18,Made,1,6,8,14,v,Murray 18' Step Back Jump Shot (4 PTS) (Hunter 2 AST),Made Shot,Step Back Jump shot,1,2,23
+0052300111,33,PT08M59.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,20,17,3,Made,1,8,8,16,h,Dosunmu 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,24
+0052300111,34,PT08M59.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,1,0,25
+0052300111,36,PT08M57.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,26
+0052300111,38,PT08M57.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,27
+0052300111,39,PT08M40.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,227,47,0,Missed,1,,,0,h,MISS Vucevic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0052300111,40,PT08M37.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0052300111,41,PT08M24.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,30
+0052300111,42,PT08M11.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,10,72,7,Missed,1,,,0,h,MISS Vucevic 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,31
+0052300111,42,PT08M11.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic BLOCK (1 BLK),,,1,2,32
+0052300111,44,PT08M09.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0052300111,45,PT08M06.00S,1,1610612737,ATL,203991,Capela,C. Capela,-1,20,2,Missed,1,,,0,v,MISS Capela 2' Running Layup,Missed Shot,Running Layup Shot,1,2,34
+0052300111,46,PT08M04.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,35
+0052300111,47,PT07M56.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,7,6,1,Made,1,10,8,18,h,Vucevic 1' Layup (6 PTS) (DeRozan 2 AST),Made Shot,Layup Shot,1,2,36
+0052300111,49,PT07M46.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,37
+0052300111,51,PT07M46.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,10,9,19,v,Murray Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,38
+0052300111,52,PT07M46.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,10,10,20,v,Murray Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,39
+0052300111,53,PT07M33.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-98,219,24,Made,1,13,10,23,h,Caruso 24' 3PT Jump Shot (3 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,3,40
+0052300111,55,PT07M20.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-229,2,0,Missed,1,,,0,v,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,41
+0052300111,56,PT07M18.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,42
+0052300111,57,PT07M12.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,21,6,2,Missed,1,,,0,h,MISS DeRozan 2' Running Layup,Missed Shot,Running Layup Shot,1,2,43
+0052300111,58,PT07M10.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,44
+0052300111,59,PT07M04.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-1,109,11,Missed,1,,,0,v,MISS Murray 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,45
+0052300111,59,PT07M04.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu BLOCK (1 BLK),,,1,2,46
+0052300111,61,PT07M01.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+0052300111,62,PT06M55.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-140,205,25,Missed,1,,,0,h,MISS Caruso 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+0052300111,63,PT06M55.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,49
+0052300111,65,PT06M54.00S,1,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0052300111,66,PT06M54.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,51
+0052300111,68,PT06M39.00S,1,1610612737,ATL,1629027,Young,T. Young,-174,201,27,Missed,1,,,0,v,MISS Young 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0052300111,69,PT06M34.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,53
+0052300111,70,PT06M31.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,13,4,1,Missed,1,,,0,h,MISS Dosunmu 1' Running Layup,Missed Shot,Running Layup Shot,1,2,54
+0052300111,71,PT06M29.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,55
+0052300111,72,PT06M21.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White S.FOUL (P1.T2) (T.Ford),Foul,Shooting,1,0,56
+0052300111,74,PT06M21.00S,1,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,57
+0052300111,75,PT06M21.00S,1,0,,72,Anderson,K. Anderson,0,0,0,,0,13,10,23,,Instant Replay1st Period (10:02 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,58
+0052300111,76,PT06M21.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,59
+0052300111,77,PT06M21.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,60
+0052300111,78,PT06M21.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,13,11,24,v,Murray Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,1,0,61
+0052300111,79,PT06M21.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,13,12,25,v,Murray Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,62
+0052300111,80,PT06M09.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-223,2,0,Made,1,16,12,28,h,DeRozan 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,63
+0052300111,82,PT05M53.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,31,125,13,Missed,1,,,0,v,MISS Hunter 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,64
+0052300111,83,PT05M49.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,65
+0052300111,84,PT05M45.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,66
+0052300111,86,PT05M45.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,17,12,29,h,White Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,67
+0052300111,87,PT05M45.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Terry FOR Caruso,Substitution,,0,0,68
+0052300111,89,PT05M45.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,18,12,30,h,White Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,69
+0052300111,90,PT05M36.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0,70
+0052300111,92,PT05M36.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,18,13,31,v,Young Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,71
+0052300111,93,PT05M36.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,72
+0052300111,94,PT05M33.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,73
+0052300111,95,PT05M20.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-22,216,22,Made,1,20,13,33,h,DeRozan 22' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,74
+0052300111,96,PT05M04.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-232,18,0,Made,1,20,16,36,v,Murray 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,75
+0052300111,97,PT04M50.00S,1,1610612741,CHI,1629632,White,C. White,-36,98,10,Made,1,22,16,38,h,White 10' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,76
+0052300111,98,PT04M35.00S,1,1610612737,ATL,203991,Capela,C. Capela,-5,53,5,Made,1,22,18,40,v,Capela 5' Turnaround Hook Shot (6 PTS) (Murray 1 AST),Made Shot,Turnaround Hook Shot,1,2,77
+0052300111,100,PT04M20.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,113,145,18,Made,1,24,18,42,h,DeRozan 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,78
+0052300111,101,PT04M03.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-99,252,27,Missed,1,,,0,v,MISS Hunter 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,79
+0052300111,102,PT04M01.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0052300111,103,PT03M44.00S,1,1610612741,CHI,1631207,Terry,D. Terry,-228,-5,0,Missed,1,,,0,h,MISS Terry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0052300111,104,PT03M40.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,82
+0052300111,105,PT03M31.00S,1,1610612737,ATL,203991,Capela,C. Capela,5,7,1,Made,1,24,20,44,v,Capela 1' Alley Oop Dunk (8 PTS) (Young 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,83
+0052300111,107,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T3) (T.Ford),Foul,Personal,1,0,84
+0052300111,109,PT03M18.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,SUB: Caruso FOR White,Substitution,,0,0,85
+0052300111,110,PT03M18.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,SUB: Drummond FOR Vucevic,Substitution,,0,0,86
+0052300111,111,PT03M18.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Fernando FOR Capela,Substitution,,0,0,87
+0052300111,115,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,88
+0052300111,117,PT03M05.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,203,140,25,Made,1,27,20,47,h,Dosunmu 25' 3PT Jump Shot (5 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,1,3,89
+0052300111,119,PT02M40.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-66,128,14,Missed,1,,,0,v,MISS Murray 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,90
+0052300111,120,PT02M36.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0052300111,121,PT02M23.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,22,11,2,Made,1,29,20,49,h,Drummond 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,92
+0052300111,123,PT02M23.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,93
+0052300111,124,PT02M23.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,SUB: Matthews FOR Murray,Substitution,,0,0,94
+0052300111,126,PT02M23.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Gueye FOR Hunter,Substitution,,0,0,95
+0052300111,128,PT02M09.00S,1,1610612737,ATL,202083,Matthews,W. Matthews,230,-22,0,Missed,1,,,0,v,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0052300111,129,PT02M06.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+0052300111,130,PT01M55.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,135,117,18,Made,1,31,20,51,h,DeRozan 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,98
+0052300111,131,PT01M40.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-186,195,27,Missed,1,,,0,v,MISS Bogdanovic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,99
+0052300111,132,PT01M37.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0052300111,133,PT01M35.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu Discontinue Dribble Turnover (P1.T1),Turnover,Discontinue Dribble,1,0,101
+0052300111,134,PT01M35.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,SUB: White FOR Dosunmu,Substitution,,0,0,102
+0052300111,136,PT01M18.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0,103
+0052300111,136,PT01M18.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White STEAL (1 STL),,,1,0,104
+0052300111,141,PT01M13.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,Made,1,33,20,53,h,DeRozan Cutting Layup Shot (11 PTS),Made Shot,Cutting Layup Shot,1,2,105
+0052300111,142,PT01M05.00S,1,1610612737,ATL,1629027,Young,T. Young,140,228,27,Missed,1,,,0,v,MISS Young 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,106
+0052300111,143,PT01M04.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,107
+0052300111,145,PT00M56.70S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-16,23,3,Made,1,33,22,55,v,Bogdanovic 3' Driving Layup (2 PTS) (Fernando 1 AST),Made Shot,Driving Layup Shot,1,2,108
+0052300111,146,PT00M50.50S,1,1610612741,CHI,1629632,White,C. White,-151,193,25,Made,1,36,22,58,h,White 25' 3PT Pullup Jump Shot (9 PTS) (DeRozan 5 AST),Made Shot,Pullup Jump shot,1,3,109
+0052300111,148,PT00M39.60S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Out of Bounds - Bad Pass Turnover Turnover (P4.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,110
+0052300111,149,PT00M28.70S,1,1610612741,CHI,1631207,Terry,D. Terry,-21,26,3,Missed,1,,,0,h,MISS Terry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,111
+0052300111,150,PT00M26.90S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,112
+0052300111,151,PT00M26.90S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,Made,1,38,22,60,h,Drummond Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,113
+0052300111,152,PT00M08.10S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P5.T5),Turnover,Bad Pass,1,0,114
+0052300111,152,PT00M08.10S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (1 STL),,,1,0,115
+0052300111,154,PT00M04.80S,1,1610612741,CHI,1631207,Terry,D. Terry,5,3,1,Made,1,40,22,62,h,Terry 1' Running Dunk (2 PTS) (Caruso 1 AST),Made Shot,Running Dunk Shot,1,2,116
+0052300111,156,PT00M00.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,221,86,24,Missed,1,,,0,v,MISS Bogdanovic 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,117
+0052300111,157,PT00M00.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,118
+0052300111,158,PT00M00.00S,1,0,,0,,,0,0,0,,0,40,22,62,,End of 1st Period (10:18 PM EST),period,end,1,0,119
+0052300111,168,PT12M00.00S,2,0,,0,,,0,0,0,,0,40,22,62,,Start of 2nd Period (10:21 PM EST),period,start,0,0,120
+0052300111,169,PT11M49.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond Offensive Charge Foul (P1) (T.Ford),Foul,Offensive Charge,0,0,121
+0052300111,171,PT11M49.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,122
+0052300111,172,PT11M38.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-136,83,16,Made,1,40,24,64,v,Murray 16' Pullup Jump Shot (13 PTS) (Bogdanovic 1 AST),Made Shot,Pullup Jump shot,1,2,123
+0052300111,174,PT11M38.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,h,Carter S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,124
+0052300111,176,PT11M38.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,40,25,65,v,Murray Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,125
+0052300111,177,PT11M18.00S,2,1610612741,CHI,1629632,White,C. White,96,142,17,Missed,1,,,0,h,MISS White 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,126
+0052300111,178,PT11M16.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0052300111,179,PT11M13.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,5,11,1,Made,1,40,27,67,v,Fernando 1' Running Layup (2 PTS) (Murray 2 AST),Made Shot,Running Layup Shot,1,2,128
+0052300111,181,PT11M13.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T2) (T.Ford),Foul,Shooting,1,0,129
+0052300111,183,PT11M13.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,40,28,68,v,Fernando Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,130
+0052300111,184,PT11M13.00S,2,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,131
+0052300111,185,PT11M13.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Dosunmu FOR Caruso,Substitution,,0,0,132
+0052300111,187,PT11M01.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,-5,8,1,Missed,1,,,0,h,MISS Drummond 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,133
+0052300111,188,PT10M59.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0052300111,189,PT10M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,120,231,26,Made,1,40,31,71,v,Mathews 26' 3PT Jump Shot (3 PTS) (Murray 3 AST),Made Shot,Jump Shot,1,3,135
+0052300111,191,PT10M30.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,22,6,2,Missed,1,,,0,h,MISS Dosunmu 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,136
+0052300111,192,PT10M27.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,137
+0052300111,195,PT10M19.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-40,123,13,Made,1,40,33,73,v,Murray 13' Jump Shot (16 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,2,138
+0052300111,197,PT10M11.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,139
+0052300111,199,PT10M11.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,SUB: Vucevic FOR Drummond,Substitution,,0,0,140
+0052300111,200,PT10M11.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,h,SUB: DeRozan FOR Carter,Substitution,,0,0,141
+0052300111,203,PT10M02.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,148,8,15,Missed,1,,,0,h,MISS DeRozan 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,142
+0052300111,204,PT09M59.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,143
+0052300111,205,PT09M59.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,Missed,1,,,0,h,MISS Green Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,144
+0052300111,206,PT09M59.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,145
+0052300111,207,PT09M56.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-21,270,27,Made,1,40,36,76,v,Murray 27' 3PT Running Pull-Up Jump Shot (19 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,146
+0052300111,208,PT09M47.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,1,0,147
+0052300111,210,PT09M47.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,41,36,77,h,White Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,148
+0052300111,211,PT09M47.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,149
+0052300111,213,PT09M47.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,42,36,78,h,White Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+0052300111,214,PT09M31.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-107,8,11,Missed,1,,,0,v,MISS Murray 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,151
+0052300111,215,PT09M29.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,152
+0052300111,216,PT09M27.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,165,199,26,Made,1,45,36,81,h,Dosunmu 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Vucevic 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,153
+0052300111,218,PT09M10.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,-86,18,9,Made,1,45,38,83,v,Fernando 9' Hook Shot (5 PTS) (Murray 4 AST),Made Shot,Hook Shot,1,2,154
+0052300111,220,PT08M56.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,155
+0052300111,220,PT08M56.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (1 STL),,,1,0,156
+0052300111,222,PT08M52.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,1,1,0,Made,1,45,40,85,v,Bogdanovic Running Layup (4 PTS) (Hunter 3 AST),Made Shot,Running Layup Shot,1,2,157
+0052300111,224,PT08M36.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-200,-5,20,Made,1,47,40,87,h,DeRozan 20' Jump Shot (13 PTS) (White 2 AST),Made Shot,Jump Shot,1,2,158
+0052300111,226,PT08M22.00S,2,1610612737,ATL,1627749,Murray,D. Murray,18,67,7,Made,1,47,42,89,v,Murray 7' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,159
+0052300111,227,PT08M09.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P2.T3) (T.Ford),Foul,Shooting,1,0,160
+0052300111,229,PT08M09.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,MISS Vucevic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,161
+0052300111,230,PT08M09.00S,2,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0,162
+0052300111,231,PT08M09.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Young FOR Bogdanovic,Substitution,,0,0,163
+0052300111,232,PT08M09.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Capela FOR Fernando,Substitution,,0,0,164
+0052300111,235,PT08M09.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,48,42,90,h,Vucevic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+0052300111,236,PT07M55.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-232,48,24,Missed,1,,,0,v,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0052300111,237,PT07M50.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,167
+0052300111,238,PT07M41.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,12,73,7,Missed,1,,,0,h,MISS Vucevic 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,168
+0052300111,239,PT07M39.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,169
+0052300111,240,PT07M35.00S,2,1610612741,CHI,1629750,Green,J. Green,-180,174,25,Made,1,51,42,93,h,Green 25' 3PT Jump Shot (3 PTS) (White 3 AST),Made Shot,Jump Shot,1,3,170
+0052300111,242,PT07M13.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-140,67,16,Missed,1,,,0,v,MISS Hunter 16' Jump Shot,Missed Shot,Jump Shot,1,2,171
+0052300111,243,PT07M11.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,172
+0052300111,244,PT07M03.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P1.T4) (N.Buchert),Foul,Personal,1,0,173
+0052300111,246,PT06M54.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,10,50,5,Made,1,53,42,95,h,DeRozan 5' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,174
+0052300111,247,PT06M40.00S,2,1610612737,ATL,203991,Capela,C. Capela,-12,68,7,Made,1,53,44,97,v,Capela 7' Hook Shot (10 PTS) (Young 3 AST),Made Shot,Hook Shot,1,2,175
+0052300111,249,PT06M23.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,1,52,5,Made,1,55,44,99,h,Vucevic 5' Turnaround Hook Shot (9 PTS) (Green 1 AST),Made Shot,Turnaround Hook Shot,1,2,176
+0052300111,251,PT06M01.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-13,97,10,Missed,1,,,0,v,MISS Hunter 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,177
+0052300111,251,PT06M01.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu BLOCK (2 BLK),,,1,2,178
+0052300111,253,PT05M58.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+0052300111,254,PT05M58.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,9,3,1,Made,1,57,44,101,h,DeRozan 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,1,2,180
+0052300111,256,PT05M58.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray S.FOUL (P2.PN) (M.Davis),Foul,Shooting,1,0,181
+0052300111,255,PT05M58.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,182
+0052300111,258,PT05M58.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,183
+0052300111,260,PT05M58.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,58,44,102,h,DeRozan Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,184
+0052300111,261,PT05M47.00S,2,1610612737,ATL,1629027,Young,T. Young,140,236,27,Made,1,58,47,105,v,Young 27' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,3,185
+0052300111,262,PT05M33.00S,2,1610612741,CHI,1629750,Green,J. Green,-2,58,6,Missed,1,,,0,h,MISS Green 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+0052300111,263,PT05M30.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,187
+0052300111,264,PT05M19.00S,2,1610612737,ATL,203991,Capela,C. Capela,10,39,4,Made,1,58,49,107,v,Capela 4' Turnaround Hook Shot (12 PTS) (Young 4 AST),Made Shot,Turnaround Hook Shot,1,2,188
+0052300111,266,PT04M55.00S,2,1610612741,CHI,1629632,White,C. White,1,15,2,Made,1,60,49,109,h,White 2' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,189
+0052300111,267,PT04M48.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,1,0,190
+0052300111,269,PT04M48.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,60,50,110,v,Young Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,191
+0052300111,270,PT04M48.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,SUB: Caruso FOR Green,Substitution,,0,0,192
+0052300111,272,PT04M48.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,60,51,111,v,Young Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,193
+0052300111,273,PT04M25.00S,2,1610612741,CHI,1629632,White,C. White,-12,1,1,Made,1,62,51,113,h,White 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,194
+0052300111,274,PT04M08.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-71,153,17,Missed,1,,,0,v,MISS Murray 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,195
+0052300111,275,PT04M05.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,196
+0052300111,276,PT04M00.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,12,3,1,Made,1,64,51,115,h,Dosunmu 1' Running Layup (10 PTS) (Caruso 2 AST),Made Shot,Running Layup Shot,1,2,197
+0052300111,278,PT03M44.00S,2,1610612737,ATL,203991,Capela,C. Capela,-6,12,1,Made,1,64,53,117,v,Capela 1' Alley Oop Dunk (14 PTS) (Young 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,198
+0052300111,280,PT03M17.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,32,21,4,Made,1,66,53,119,h,Dosunmu 4' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,199
+0052300111,282,PT02M59.00S,2,1610612737,ATL,1629027,Young,T. Young,-115,285,31,Missed,1,,,0,v,MISS Young 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0052300111,283,PT02M52.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,201
+0052300111,284,PT02M52.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,Missed,1,,,0,v,MISS Bogdanovic Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,202
+0052300111,285,PT02M52.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,203
+0052300111,286,PT02M50.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,223,44,0,Made,1,66,56,122,v,Bogdanovic 3PT Pullup Jump Shot (7 PTS) (Capela 1 AST),Made Shot,Pullup Jump shot,1,3,204
+0052300111,288,PT02M26.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,205
+0052300111,288,PT02M26.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,0,206
+0052300111,290,PT02M25.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Transition Take Foul (P1.T4) (M.Davis),Foul,Transition Take,1,0,207
+0052300111,292,PT02M25.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,66,57,123,v,Young Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,208
+0052300111,293,PT02M20.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,0,0,209
+0052300111,295,PT02M20.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,210
+0052300111,296,PT02M20.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,211
+0052300111,297,PT02M20.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,66,58,124,v,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0052300111,299,PT02M02.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,1,55,6,Made,1,68,58,126,h,Vucevic 6' Hook Shot (11 PTS) (DeRozan 6 AST),Made Shot,Hook Shot,1,2,213
+0052300111,301,PT01M45.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-123,232,26,Made,1,68,61,129,v,Bogdanovic 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,214
+0052300111,302,PT01M28.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-97,150,18,Missed,1,,,0,h,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,215
+0052300111,303,PT01M26.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,216
+0052300111,304,PT01M10.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-4,16,2,Made,1,68,63,131,v,Murray 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,217
+0052300111,305,PT00M54.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-125,216,25,Missed,1,,,0,h,MISS Vucevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0052300111,306,PT00M51.80S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,219
+0052300111,307,PT00M43.90S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso S.FOUL (P2.PN) (T.Ford),Foul,Shooting,1,0,220
+0052300111,309,PT00M43.90S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,68,64,132,v,Young Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,221
+0052300111,310,PT00M43.90S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,68,65,133,v,Young Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,222
+0052300111,311,PT00M32.10S,2,1610612741,CHI,1629632,White,C. White,-11,3,1,Made,1,70,65,135,h,White 1' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,1,2,223
+0052300111,312,PT00M26.90S,2,1610612737,ATL,203991,Capela,C. Capela,0,4,0,Made,1,70,67,137,v,Capela Alley Oop Dunk (16 PTS) (Young 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,224
+0052300111,314,PT00M16.90S,2,1610612741,CHI,1627936,Caruso,A. Caruso,224,-1,0,Made,1,73,67,140,h,Caruso 3PT Jump Shot (6 PTS) (White 4 AST),Made Shot,Jump Shot,1,3,225
+0052300111,316,PT00M00.00S,2,0,,0,,,0,0,0,,0,73,67,140,,End of 2nd Period (10:49 PM EST),period,end,1,0,226
+0052300111,317,PT12M00.00S,3,0,,0,,,0,0,0,,0,73,67,140,,Start of 3rd Period (11:04 PM EST),period,start,0,0,227
+0052300111,318,PT11M39.00S,3,1610612741,CHI,1629632,White,C. White,85,235,25,Missed,1,,,0,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0052300111,319,PT11M38.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,229
+0052300111,320,PT11M33.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-223,2,0,Made,1,73,70,143,v,Murray 3PT Running Jump Shot (26 PTS) (Bogdanovic 2 AST),Made Shot,Running Jump Shot,1,3,230
+0052300111,322,PT11M28.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu Offensive Charge Foul (P3) (T.Ford),Foul,Offensive Charge,1,0,231
+0052300111,324,PT11M28.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,232
+0052300111,325,PT11M09.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-105,53,12,Missed,1,,,0,v,MISS Bogdanovic 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,233
+0052300111,326,PT11M07.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,234
+0052300111,327,PT11M00.00S,3,1610612741,CHI,1629632,White,C. White,-26,60,7,Made,1,75,70,145,h,White 7' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,235
+0052300111,328,PT10M47.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-216,110,24,Missed,1,,,0,v,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+0052300111,329,PT10M44.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,237
+0052300111,330,PT10M29.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-2,206,21,Missed,1,,,0,h,MISS DeRozan 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,238
+0052300111,331,PT10M26.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,239
+0052300111,332,PT10M21.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,240
+0052300111,332,PT10M21.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan STEAL (1 STL),,,1,0,241
+0052300111,334,PT09M58.00S,3,1610612741,CHI,1629632,White,C. White,-162,236,29,Missed,1,,,0,h,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0052300111,335,PT09M54.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,243
+0052300111,336,PT09M43.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,7,28,3,Missed,1,,,0,v,MISS Hunter 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,244
+0052300111,336,PT09M43.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan BLOCK (1 BLK),,,1,2,245
+0052300111,338,PT09M43.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,246
+0052300111,340,PT09M43.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Green FOR Caruso,Substitution,,0,0,247
+0052300111,342,PT09M38.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-113,3,11,Made,1,75,72,147,v,Bogdanovic 11' Pullup Jump Shot (12 PTS) (Young 7 AST),Made Shot,Pullup Jump shot,1,2,248
+0052300111,344,PT09M25.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic P.FOUL (P1.T1) (T.Ford),Foul,Personal,1,0,249
+0052300111,346,PT09M11.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,18,15,2,Made,1,77,72,149,h,Vucevic 2' Reverse Layup (13 PTS) (Dosunmu 1 AST),Made Shot,Reverse Layup Shot,1,2,250
+0052300111,348,PT08M58.00S,3,1610612737,ATL,1629027,Young,T. Young,49,127,14,Made,1,77,74,151,v,Young 14' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,251
+0052300111,349,PT08M47.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-48,122,13,Made,1,79,74,153,h,Dosunmu 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,252
+0052300111,350,PT08M31.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-27,32,4,Made,1,79,76,155,v,Bogdanovic 4' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,253
+0052300111,351,PT08M16.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-167,18,17,Made,1,81,76,157,h,Vucevic 17' Jump Shot (15 PTS) (Green 2 AST),Made Shot,Jump Shot,1,2,254
+0052300111,353,PT07M56.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,1,0,255
+0052300111,355,PT07M56.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,81,77,158,v,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+0052300111,356,PT07M56.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,257
+0052300111,357,PT07M56.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,81,78,159,v,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,258
+0052300111,358,PT07M41.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,93,155,18,Missed,1,,,0,h,MISS DeRozan 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,259
+0052300111,359,PT07M40.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,260
+0052300111,360,PT07M36.00S,3,1610612741,CHI,1629750,Green,J. Green,-7,8,1,Made,1,83,78,161,h,Green 1' Alley Oop Dunk (5 PTS) (Dosunmu 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,261
+0052300111,362,PT07M22.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-230,100,25,Missed,1,,,0,v,MISS Hunter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0052300111,363,PT07M19.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,263
+0052300111,364,PT07M07.00S,3,1610612741,CHI,1629632,White,C. White,10,7,1,Made,1,85,78,163,h,White 1' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,264
+0052300111,366,PT06M43.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-2,-1,0,Made,1,85,80,165,v,Murray Cutting Dunk Shot (28 PTS) (Capela 2 AST),Made Shot,Cutting Dunk Shot,1,2,265
+0052300111,368,PT06M28.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,1,0,266
+0052300111,370,PT06M28.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,267
+0052300111,371,PT06M28.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0,268
+0052300111,372,PT06M28.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,269
+0052300111,374,PT06M28.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,86,80,166,h,White Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,270
+0052300111,375,PT06M15.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,271
+0052300111,375,PT06M15.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White STEAL (2 STL),,,1,0,272
+0052300111,377,PT06M15.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young P.FOUL (P2.T3) (T.Ford),Foul,Personal,1,0,273
+0052300111,379,PT06M15.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,SUB: Terry FOR White,Substitution,,0,0,274
+0052300111,381,PT06M04.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-34,60,7,Made,1,88,80,168,h,Vucevic 7' Turnaround Hook Shot (17 PTS) (DeRozan 7 AST),Made Shot,Turnaround Hook Shot,1,2,275
+0052300111,383,PT05M52.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,1,100,10,Made,1,88,82,170,v,Hunter 10' Driving Floating Jump Shot (2 PTS) (Young 8 AST),Made Shot,Driving Floating Jump Shot,1,2,276
+0052300111,385,PT05M52.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan S.FOUL (P1.T2) (T.Ford),Foul,Shooting,1,0,277
+0052300111,387,PT05M52.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,MISS Hunter Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,278
+0052300111,388,PT05M49.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,279
+0052300111,389,PT05M34.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,8,1,Missed,1,,,0,h,MISS Terry 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,280
+0052300111,390,PT05M32.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,281
+0052300111,391,PT05M15.00S,3,1610612737,ATL,1629027,Young,T. Young,175,218,28,Made,1,88,85,173,v,Young 28' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,282
+0052300111,392,PT04M59.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,237,-16,24,Made,1,91,85,176,h,Vucevic 24' 3PT Jump Shot (20 PTS) (DeRozan 8 AST),Made Shot,Jump Shot,1,3,283
+0052300111,394,PT04M45.00S,3,1610612737,ATL,1629027,Young,T. Young,51,279,28,Missed,1,,,0,v,MISS Young 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,284
+0052300111,395,PT04M43.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,285
+0052300111,396,PT04M42.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,1,7,1,Made,1,93,85,178,h,Dosunmu 1' Running Dunk (16 PTS) (Green 3 AST),Made Shot,Running Dunk Shot,1,2,286
+0052300111,398,PT04M42.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,287
+0052300111,399,PT04M42.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: White FOR DeRozan,Substitution,,0,0,288
+0052300111,401,PT04M42.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Matthews FOR Hunter,Substitution,,0,0,289
+0052300111,404,PT04M18.00S,3,1610612737,ATL,202083,Matthews,W. Matthews,140,232,27,Missed,1,,,0,v,MISS Matthews 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,290
+0052300111,405,PT04M18.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,291
+0052300111,406,PT04M18.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,292
+0052300111,407,PT04M04.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-78,37,9,Missed,1,,,0,h,MISS Vucevic 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,293
+0052300111,408,PT04M02.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,294
+0052300111,409,PT03M57.00S,3,1610612737,ATL,1627749,Murray,D. Murray,88,132,16,Missed,1,,,0,v,MISS Murray 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,295
+0052300111,410,PT03M52.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,296
+0052300111,411,PT03M45.00S,3,1610612741,CHI,1629632,White,C. White,-9,11,1,Made,1,95,85,180,h,White 1' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,297
+0052300111,412,PT03M30.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,232,9,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0052300111,424,PT03M28.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,299
+0052300111,413,PT03M28.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,SUB: Drummond FOR Vucevic,Substitution,,0,0,300
+0052300111,414,PT03M28.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,SUB: DeRozan FOR Dosunmu,Substitution,,0,0,301
+0052300111,415,PT03M28.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,302
+0052300111,416,PT03M28.00S,3,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,303
+0052300111,421,PT03M28.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Jump Ball Terry vs. Capela: Tip to Hunter,Jump Ball,,0,0,304
+0052300111,425,PT03M19.00S,3,1610612737,ATL,1629027,Young,T. Young,161,277,32,Missed,1,,,0,v,MISS Young 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,305
+0052300111,426,PT03M18.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,0,306
+0052300111,428,PT03M18.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Fernando FOR Capela,Substitution,,0,0,307
+0052300111,430,PT03M01.00S,3,1610612741,CHI,1629632,White,C. White,233,-4,0,Missed,1,,,0,h,MISS White 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,308
+0052300111,431,PT02M58.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,309
+0052300111,432,PT02M56.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,5,1,Made,1,97,85,182,h,Terry 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,310
+0052300111,433,PT02M43.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,34,164,17,Made,1,97,87,184,v,Hunter 17' Pullup Jump Shot (4 PTS) (Murray 5 AST),Made Shot,Pullup Jump shot,1,2,311
+0052300111,435,PT02M29.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-89,170,19,Made,1,99,87,186,h,DeRozan 19' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,2,312
+0052300111,436,PT02M25.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan P.FOUL (P2.T3) (N.Buchert),Foul,Personal,1,0,313
+0052300111,438,PT02M14.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-230,48,0,Missed,1,,,0,v,MISS Hunter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0052300111,439,PT02M09.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,315
+0052300111,440,PT02M06.00S,3,1610612741,CHI,1629632,White,C. White,11,11,2,Made,1,101,87,188,h,White 2' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,2,316
+0052300111,441,PT01M55.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P6.T9),Turnover,Bad Pass,1,0,317
+0052300111,441,PT01M55.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond STEAL (1 STL),,,1,0,318
+0052300111,443,PT01M49.00S,3,1610612741,CHI,1629750,Green,J. Green,228,67,24,Missed,1,,,0,h,MISS Green 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,319
+0052300111,444,PT01M43.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,320
+0052300111,445,PT01M43.00S,3,1610612741,CHI,1629750,Green,J. Green,-1,8,1,Made,1,103,87,190,h,Green 1' Cutting Dunk Shot (7 PTS) (White 5 AST),Made Shot,Cutting Dunk Shot,1,2,321
+0052300111,447,PT01M32.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-1,21,2,Missed,1,,,0,v,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,322
+0052300111,447,PT01M32.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry BLOCK (1 BLK),,,1,2,323
+0052300111,449,PT01M28.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,324
+0052300111,450,PT01M27.00S,3,1610612741,CHI,1629632,White,C. White,5,10,1,Made,1,105,87,192,h,White 1' Running Layup (28 PTS),Made Shot,Running Layup Shot,1,2,325
+0052300111,452,PT01M26.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,326
+0052300111,453,PT01M26.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Mathews FOR Young,Substitution,,0,0,327
+0052300111,455,PT01M26.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,SUB: Dosunmu FOR White,Substitution,,0,0,328
+0052300111,457,PT01M16.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P3.T4) (T.Ford),Foul,Shooting,1,0,329
+0052300111,459,PT01M16.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,105,88,193,v,Mathews Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0,330
+0052300111,460,PT01M16.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,105,89,194,v,Mathews Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,331
+0052300111,461,PT01M16.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,MISS Mathews Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,332
+0052300111,462,PT01M13.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,333
+0052300111,463,PT00M58.40S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,207,136,25,Made,1,108,89,197,h,Dosunmu 25' 3PT Jump Shot (19 PTS) (Terry 1 AST),Made Shot,Jump Shot,1,3,334
+0052300111,465,PT00M47.40S,3,1610612737,ATL,1628981,Fernando,B. Fernando,7,6,1,Missed,1,,,0,v,MISS Fernando 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,335
+0052300111,465,PT00M47.40S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond BLOCK (1 BLK),,,1,2,336
+0052300111,467,PT00M46.40S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,337
+0052300111,468,PT00M46.40S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,,"Double Technical - Fernando, Drummond (N.Buchert)",Foul,Double Technical,1,0,338
+0052300111,470,PT00M36.20S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P4.T4) (N.Buchert),Foul,Personal,1,0,339
+0052300111,472,PT00M26.10S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,340
+0052300111,473,PT00M15.70S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-2,232,23,Made,1,110,89,199,h,DeRozan 23' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,341
+0052300111,474,PT00M03.50S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-165,177,24,Made,1,110,92,202,v,Mathews 24' 3PT Jump Shot (8 PTS) (Murray 6 AST),Made Shot,Jump Shot,1,3,342
+0052300111,476,PT00M00.00S,3,1610612741,CHI,1631207,Terry,D. Terry,-22,424,42,Missed,1,,,0,h,MISS Terry 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,343
+0052300111,476,PT00M00.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic BLOCK (2 BLK),,,1,3,344
+0052300111,478,PT00M00.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,0,345
+0052300111,479,PT00M00.00S,3,0,,0,,,0,0,0,,0,110,92,202,,End of 3rd Period (11:34 PM EST),period,end,1,0,346
+0052300111,489,PT12M00.00S,4,0,,0,,,0,0,0,,0,110,92,202,,Start of 4th Period (11:38 PM EST),period,start,0,0,347
+0052300111,490,PT11M44.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,7,4,1,Made,1,110,94,204,v,Hunter 1' Driving Finger Roll Layup (6 PTS) (Capela 3 AST),Made Shot,Driving Finger Roll Layup Shot,0,2,348
+0052300111,492,PT11M29.00S,4,1610612741,CHI,1629632,White,C. White,50,74,9,Made,1,112,94,206,h,White 9' Driving Floating Jump Shot (30 PTS),Made Shot,Driving Floating Jump Shot,0,2,349
+0052300111,493,PT11M15.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,31,3,Missed,1,,,0,v,MISS Bogdanovic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,350
+0052300111,493,PT11M15.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond BLOCK (2 BLK),,,1,2,351
+0052300111,495,PT11M12.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,352
+0052300111,496,PT11M10.00S,4,1610612737,ATL,1627749,Murray,D. Murray,16,131,13,Missed,1,,,0,v,MISS Murray 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,353
+0052300111,497,PT11M08.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,354
+0052300111,498,PT11M00.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-115,172,21,Missed,1,,,0,h,MISS DeRozan 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,355
+0052300111,499,PT10M57.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,356
+0052300111,500,PT10M52.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-229,11,0,Missed,1,,,0,v,MISS Bogdanovic 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,357
+0052300111,501,PT10M48.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,358
+0052300111,502,PT10M35.00S,4,1610612741,CHI,1629632,White,C. White,-31,17,4,Missed,1,,,0,h,MISS White 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,359
+0052300111,503,PT10M35.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,0,360
+0052300111,504,PT10M35.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic L.B.FOUL (P3.T1) (M.Davis),Foul,Loose Ball,1,0,361
+0052300111,506,PT10M22.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,192,-17,19,Missed,1,,,0,h,MISS Dosunmu 19' Jump Shot,Missed Shot,Jump Shot,1,2,362
+0052300111,507,PT10M19.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,363
+0052300111,508,PT10M17.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,152,208,26,Missed,1,,,0,v,MISS Bogdanovic 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,364
+0052300111,509,PT10M14.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,365
+0052300111,510,PT10M13.00S,4,1610612737,ATL,203991,Capela,C. Capela,4,117,12,Missed,1,,,0,v,MISS Capela 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,366
+0052300111,510,PT10M13.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,Drummond BLOCK (3 BLK),,,1,2,367
+0052300111,512,PT10M10.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,h,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0052300111,513,PT10M01.00S,4,1610612741,CHI,1629632,White,C. White,-10,12,2,Made,1,114,94,208,h,White 2' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,2,369
+0052300111,514,PT09M54.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu S.FOUL (P4.T1) (M.Davis),Foul,Shooting,1,0,370
+0052300111,516,PT09M54.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,114,95,209,v,Bogdanovic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+0052300111,517,PT09M54.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,114,96,210,v,Bogdanovic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,372
+0052300111,518,PT09M34.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,6,57,6,Missed,1,,,0,h,MISS Drummond 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,373
+0052300111,519,PT09M32.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,374
+0052300111,520,PT09M29.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,375
+0052300111,521,PT09M29.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,SUB: Terry FOR Dosunmu,Substitution,,0,0,376
+0052300111,522,PT09M29.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,377
+0052300111,525,PT09M20.00S,4,1610612741,CHI,1631207,Terry,D. Terry,-112,86,14,Missed,1,,,0,h,MISS Terry 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,378
+0052300111,526,PT09M20.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,0,379
+0052300111,527,PT09M20.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,380
+0052300111,528,PT09M20.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,h,SUB: Vucevic FOR Drummond,Substitution,,0,0,381
+0052300111,530,PT09M02.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan S.FOUL (P3.T2) (T.Ford),Foul,Shooting,1,0,382
+0052300111,532,PT09M02.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,114,97,211,v,Hunter Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+0052300111,533,PT09M02.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,114,98,212,v,Hunter Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+0052300111,534,PT08M50.00S,4,1610612741,CHI,1629632,White,C. White,4,8,1,Made,1,116,98,214,h,White 1' Driving Finger Roll Layup (34 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,385
+0052300111,535,PT08M38.00S,4,1610612737,ATL,203991,Capela,C. Capela,-1,8,1,Missed,1,,,0,v,MISS Capela 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,386
+0052300111,535,PT08M38.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry BLOCK (2 BLK),,,1,2,387
+0052300111,537,PT08M38.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,388
+0052300111,539,PT08M32.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,16,248,25,Missed,1,,,0,v,MISS Hunter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0052300111,540,PT08M28.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,390
+0052300111,541,PT08M07.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-5,148,15,Missed,1,,,0,h,MISS Vucevic 15' Jump Shot,Missed Shot,Jump Shot,1,2,391
+0052300111,542,PT08M05.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,392
+0052300111,558,PT08M02.00S,4,1610612741,CHI,1631207,Terry,D. Terry,9,4,1,Missed,1,,,0,h,MISS Terry 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,393
+0052300111,559,PT08M02.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,h,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,394
+0052300111,543,PT08M00.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,h,Craig Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,395
+0052300111,543,PT08M00.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray STEAL (2 STL),,,1,0,396
+0052300111,545,PT07M53.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,Terry P.FOUL (P2.T3) (M.Davis),Foul,Personal,1,0,397
+0052300111,547,PT07M53.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,h,SUB: Dosunmu FOR Terry,Substitution,,0,0,398
+0052300111,549,PT07M41.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,228,66,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0052300111,550,PT07M39.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,400
+0052300111,551,PT07M26.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-17,16,2,Made,1,118,98,216,h,Vucevic 2' Cutting Layup Shot (22 PTS) (White 6 AST),Made Shot,Cutting Layup Shot,1,2,401
+0052300111,553,PT07M11.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-93,45,10,Made,1,118,100,218,v,Murray 10' Pullup Jump Shot (30 PTS) (Young 9 AST),Made Shot,Pullup Jump shot,1,2,402
+0052300111,555,PT06M51.00S,4,1610612741,CHI,1629632,White,C. White,-183,258,32,Made,1,121,100,221,h,White 32' 3PT Jump Shot (37 PTS) (DeRozan 9 AST),Made Shot,Jump Shot,1,3,403
+0052300111,557,PT06M51.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,404
+0052300111,560,PT06M51.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,405
+0052300111,562,PT06M36.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,227,25,0,Missed,1,,,0,v,MISS Hunter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0052300111,563,PT06M31.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,407
+0052300111,564,PT06M16.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-119,5,12,Missed,1,,,0,h,MISS DeRozan 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,408
+0052300111,565,PT06M14.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,409
+0052300111,566,PT06M12.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,410
+0052300111,567,PT05M53.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,-107,229,25,Missed,1,,,0,v,MISS Hunter 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,411
+0052300111,568,PT05M53.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,412
+0052300111,569,PT05M53.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,413
+0052300111,610,PT05M53.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,h,SUB: Green FOR Craig,Substitution,,0,0,414
+0052300111,573,PT05M30.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-45,263,27,Missed,1,,,0,h,MISS Vucevic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+0052300111,574,PT05M25.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,416
+0052300111,575,PT05M20.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White P.FOUL (P3.T4) (N.Buchert),Foul,Personal,1,0,417
+0052300111,577,PT05M14.00S,4,1610612737,ATL,203991,Capela,C. Capela,11,4,1,Made,1,121,102,223,v,Capela 1' Alley Oop Dunk (18 PTS) (Young 10 AST),Made Shot,Alley Oop Dunk Shot,1,2,418
+0052300111,579,PT04M57.00S,4,1610612741,CHI,1629632,White,C. White,218,116,25,Made,1,124,102,226,h,White 25' 3PT Jump Shot (40 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,1,3,419
+0052300111,581,PT04M42.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-205,132,24,Missed,1,,,0,v,MISS Bogdanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0052300111,582,PT04M36.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,421
+0052300111,583,PT04M29.00S,4,1610612741,CHI,1629632,White,C. White,185,170,25,Missed,1,,,0,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0052300111,584,PT04M22.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,423
+0052300111,585,PT04M22.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,Missed,1,,,0,h,MISS Vucevic Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,424
+0052300111,586,PT04M21.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,425
+0052300111,588,PT04M12.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,426
+0052300111,588,PT04M12.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,0,427
+0052300111,590,PT04M09.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P4.T2) (M.Davis),Foul,Shooting,1,0,428
+0052300111,592,PT04M09.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,429
+0052300111,593,PT04M09.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Normal Rebound,0,0,430
+0052300111,594,PT04M09.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,125,102,227,h,Green Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+0052300111,595,PT03M59.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-161,204,26,Missed,1,,,0,v,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+0052300111,596,PT03M56.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,433
+0052300111,597,PT03M38.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-109,256,28,Missed,1,,,0,h,MISS DeRozan 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,434
+0052300111,598,PT03M36.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,435
+0052300111,599,PT03M26.00S,4,1610612737,ATL,1629027,Young,T. Young,-61,218,23,Missed,1,,,0,v,MISS Young 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,436
+0052300111,600,PT03M24.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,437
+0052300111,601,PT03M22.00S,4,1610612737,ATL,203991,Capela,C. Capela,54,50,7,Missed,1,,,0,v,MISS Capela 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,438
+0052300111,602,PT03M22.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,439
+0052300111,603,PT03M22.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,Dosunmu S.FOUL (P5.PN) (M.Davis),Foul,Shooting,1,0,440
+0052300111,605,PT03M22.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,125,103,228,v,Young Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+0052300111,606,PT03M22.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,125,104,229,v,Young Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,442
+0052300111,607,PT03M06.00S,4,1610612741,CHI,1629750,Green,J. Green,-1,13,1,Made,1,127,104,231,h,Green 1' Cutting Layup Shot (10 PTS) (Vucevic 2 AST),Made Shot,Cutting Layup Shot,1,2,443
+0052300111,609,PT02M55.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,100,1,10,Missed,1,,,0,v,MISS Hunter 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,444
+0052300111,612,PT02M55.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:4 Def:13),Rebound,Unknown,1,0,445
+0052300111,613,PT02M49.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,127,106,233,v,Capela Putback Layup (20 PTS),Made Shot,Putback Layup Shot,1,2,446
+0052300111,614,PT02M30.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-10,7,1,Made,1,129,106,235,h,Vucevic 1' Driving Layup (24 PTS) (Green 4 AST),Made Shot,Driving Layup Shot,1,2,447
+0052300111,616,PT02M15.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,234,-8,0,Made,1,129,109,238,v,Bogdanovic 3PT Jump Shot (19 PTS) (Hunter 4 AST),Made Shot,Jump Shot,1,3,448
+0052300111,618,PT01M55.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,h,Vucevic Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,449
+0052300111,618,PT01M55.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (2 STL),,,1,0,450
+0052300111,620,PT01M55.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,199,-6,20,Made,1,129,111,240,v,Bogdanovic 20' Running Pull-Up Jump Shot (21 PTS) (Murray 7 AST),Made Shot,Running Pull-Up Jump Shot,1,2,451
+0052300111,622,PT01M55.00S,4,0,,620,,,0,0,0,,0,129,111,240,,Instant Replay4th Period (12:02 AM EST),Instant Replay,Support Ruling,0,0,452
+0052300111,623,PT01M32.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-91,251,27,Missed,1,,,0,h,MISS Vucevic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0052300111,624,PT01M29.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,454
+0052300111,625,PT01M24.00S,4,1610612737,ATL,1629027,Young,T. Young,-20,104,11,Missed,1,,,0,v,MISS Young 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,455
+0052300111,626,PT01M22.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,456
+0052300111,627,PT01M18.00S,4,1610612737,ATL,203991,Capela,C. Capela,6,-8,1,Made,1,129,113,242,v,Capela 1' Cutting Dunk Shot (22 PTS) (Bogdanovic 3 AST),Made Shot,Cutting Dunk Shot,1,2,457
+0052300111,629,PT01M03.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P5.T3) (M.Davis),Foul,Shooting,1,0,458
+0052300111,631,PT01M03.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,130,113,243,h,White Free Throw 1 of 2 (41 PTS),Free Throw,Free Throw 1 of 2,0,0,459
+0052300111,632,PT01M03.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,h,SUB: Terry FOR Dosunmu,Substitution,,0,0,460
+0052300111,634,PT01M03.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,131,113,244,h,White Free Throw 2 of 2 (42 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0052300111,635,PT00M58.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,164,222,28,Missed,1,,,0,v,MISS Bogdanovic 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,462
+0052300111,636,PT00M55.30S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,463
+0052300111,637,PT00M33.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,464
+0052300111,638,PT00M33.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Craig FOR DeRozan,Substitution,,0,0,465
+0052300111,640,PT00M24.80S,4,1610612737,ATL,1629027,Young,T. Young,44,305,31,Made,1,131,116,247,v,Young 31' 3PT Pullup Jump Shot (22 PTS) (Bogdanovic 4 AST),Made Shot,Pullup Jump shot,1,3,466
+0052300111,642,PT00M01.10S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,467
+0052300111,643,PT00M00.00S,4,0,,0,,,0,0,0,,0,131,116,247,,End of 4th Period (12:06 AM EST),period,end,1,0,468

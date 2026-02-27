@@ -1,0 +1,435 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:14 PM EST),period,start,0,0,1,0021201219
+1,PT12M00.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Jump Ball Biyombo vs. Zeller: Tip to McRoberts,Jump Ball,,0,0,2,0021201219
+2,PT11M44.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson S.FOUL (P1.T1),Foul,Shooting,0,0,3,0021201219
+3,PT11M44.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,1,0,1,h,Biyombo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,4,0021201219
+5,PT11M44.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,2,0,2,h,Biyombo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,5,0021201219
+7,PT11M22.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,12,69,7,Missed,1,0,0,0,v,MISS Thompson 7' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,6,0021201219
+8,PT11M20.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,7,0021201219
+9,PT11M15.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,8,0021201219
+10,PT11M02.00S,1,1610612739,CLE,202681,Irving,K. Irving,-23,252,25,Missed,1,0,0,0,v,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,9,0021201219
+11,PT11M01.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10,0021201219
+12,PT10M42.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,-75,178,19,Made,1,4,0,4,h,McRoberts 19' Jump Shot (2 PTS) (Kidd-Gilchrist 1 AST),Made Shot,Jump Shot,0,2,11,0021201219
+13,PT10M22.00S,1,1610612739,CLE,202087,Gee,A. Gee,138,121,18,Missed,1,0,0,0,v,MISS Gee 18' Jump Shot,Missed Shot,Jump Shot,0,2,12,0021201219
+14,PT10M20.00S,1,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,13,0021201219
+15,PT10M16.00S,1,1610612766,CHA,202689,Walker,K. Walker,18,0,2,Missed,1,0,0,0,h,MISS Walker 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,14,0021201219
+16,PT10M14.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,15,0021201219
+17,PT10M03.00S,1,1610612739,CLE,202681,Irving,K. Irving,189,15,19,Made,1,4,2,6,v,Irving 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,16,0021201219
+18,PT09M41.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller Violation:Kicked Ball,Violation,Kicked Ball,0,0,17,0021201219
+19,PT09M29.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,-123,82,15,Made,1,6,2,8,h,Henderson 15' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,0,2,18,0021201219
+20,PT09M03.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,12,1,Made,1,6,4,10,v,Irving 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,19,0021201219
+21,PT08M48.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,108,167,20,Made,1,8,4,12,h,Kidd-Gilchrist 20' Jump Shot (2 PTS) (McRoberts 1 AST),Made Shot,Jump Shot,0,2,20,0021201219
+22,PT08M23.00S,1,1610612739,CLE,202681,Irving,K. Irving,15,1,2,Missed,1,0,0,0,v,MISS Irving 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,21,0021201219
+23,PT08M21.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,22,0021201219
+24,PT08M13.00S,1,1610612766,CHA,202689,Walker,K. Walker,-111,225,25,Missed,1,0,0,0,h,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,23,0021201219
+25,PT08M11.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,24,0021201219
+26,PT08M06.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,13,0,1,Missed,1,0,0,0,v,MISS Thompson 1' Layup,Missed Shot,Layup Shot,0,2,25,0021201219
+26,PT08M06.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo BLOCK (1 BLK),,,0,2,26,0021201219
+27,PT08M06.00S,1,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Unknown,0,0,27,0021201219
+28,PT07M40.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,-228,6,0,Made,1,11,4,15,h,McRoberts  3PT Jump Shot (5 PTS) (Kidd-Gilchrist 2 AST),Made Shot,Jump Shot,0,3,28,0021201219
+29,PT07M18.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,114,170,20,Missed,1,0,0,0,v,MISS Zeller 20' Jump Shot,Missed Shot,Jump Shot,0,2,29,0021201219
+30,PT07M17.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,30,0021201219
+31,PT07M04.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,65,61,9,Missed,1,0,0,0,h,MISS Biyombo 9' Hook Shot,Missed Shot,Hook Shot,0,2,31,0021201219
+32,PT07M03.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,32,0021201219
+33,PT06M58.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,20,15,3,Made,1,11,6,17,v,Thompson 3' Layup (2 PTS) (Irving 1 AST),Made Shot,Layup Shot,0,2,34,0021201219
+34,PT06M58.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,33,0021201219
+35,PT06M41.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,13,6,1,Made,1,13,6,19,h,Kidd-Gilchrist 1' Driving Dunk (4 PTS) (Henderson 1 AST),Made Shot,Driving Dunk Shot,0,2,35,0021201219
+36,PT06M21.00S,1,1610612739,CLE,202681,Irving,K. Irving,-38,254,26,Missed,1,0,0,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,36,0021201219
+37,PT06M19.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,37,0021201219
+38,PT06M16.00S,1,1610612739,CLE,202087,Gee,A. Gee,-11,6,1,Made,1,13,8,21,v,Gee 1' Dunk (2 PTS) (Thompson 1 AST),Made Shot,Dunk Shot,0,2,38,0021201219
+39,PT05M53.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,17,3,2,Made,1,15,8,23,h,Biyombo 2' Dunk (4 PTS) (Henderson 2 AST),Made Shot,Dunk Shot,0,2,39,0021201219
+40,PT05M31.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson S.FOUL (P1.T1),Foul,Shooting,0,0,40,0021201219
+41,PT05M31.00S,1,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41,0021201219
+43,PT05M31.00S,1,1610612739,CLE,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,v,SUB: Waiters FOR Ellington,Substitution,,0,0,42,0021201219
+44,PT05M31.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,15,9,24,v,Irving Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,43,0021201219
+46,PT05M31.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,15,10,25,v,Irving Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,44,0021201219
+48,PT05M15.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,12,6,1,Made,1,17,10,27,h,Biyombo 1' Dunk (6 PTS) (Henderson 3 AST),Made Shot,Dunk Shot,0,2,45,0021201219
+49,PT04M53.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts P.FOUL (P1.T2),Foul,Personal,0,0,46,0021201219
+50,PT04M42.00S,1,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker S.FOUL (P1.T3),Foul,Shooting,0,0,47,0021201219
+51,PT04M42.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,MISS Gee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,48,0021201219
+52,PT04M42.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,49,0021201219
+53,PT04M42.00S,1,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,SUB: Speights FOR Zeller,Substitution,,0,0,50,0021201219
+54,PT04M42.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,17,11,28,v,Gee Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,51,0021201219
+56,PT04M19.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-10,7,1,Missed,1,0,0,0,h,MISS Kidd-Gilchrist 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,2,52,0021201219
+57,PT04M18.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,53,0021201219
+58,PT04M03.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,147,206,25,Missed,1,0,0,0,v,MISS Waiters 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,54,0021201219
+59,PT04M02.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,55,0021201219
+60,PT03M58.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters S.FOUL (P1.T2),Foul,Shooting,0,0,56,0021201219
+61,PT03M58.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,18,11,29,h,Kidd-Gilchrist Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,57,0021201219
+63,PT03M58.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,MISS Kidd-Gilchrist Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,58,0021201219
+65,PT03M56.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,59,0021201219
+66,PT03M36.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,-15,126,13,Missed,1,0,0,0,v,MISS Waiters 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,60,0021201219
+67,PT03M35.00S,1,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,61,0021201219
+68,PT03M27.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Offensive Charge Foul (P1.T3),Foul,Offensive Charge,0,0,62,0021201219
+69,PT03M27.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Foul Turnover (P1.T1),Turnover,Foul,0,0,63,0021201219
+70,PT03M11.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,-237,28,24,Made,1,21,11,32,h,McRoberts 24' 3PT Jump Shot (8 PTS) (Henderson 4 AST),Made Shot,Jump Shot,0,3,64,0021201219
+71,PT02M57.00S,1,1610612739,CLE,202087,Gee,A. Gee,-234,7,0,Missed,1,0,0,0,v,MISS Gee  3PT Jump Shot,Missed Shot,Jump Shot,0,3,65,0021201219
+72,PT02M55.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,66,0021201219
+73,PT02M52.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving S.FOUL (P2.T4),Foul,Shooting,0,0,67,0021201219
+74,PT02M52.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,68,0021201219
+76,PT02M52.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Irving,Substitution,,0,0,69,0021201219
+77,PT02M52.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,SUB: Taylor FOR Kidd-Gilchrist,Substitution,,0,0,70,0021201219
+78,PT02M52.00S,1,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,SUB: Adrien FOR Biyombo,Substitution,,0,0,71,0021201219
+79,PT02M52.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,22,11,33,h,McRoberts Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,72,0021201219
+81,PT02M52.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,23,11,34,h,McRoberts Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,73,0021201219
+83,PT02M41.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts S.FOUL (P2.T4),Foul,Shooting,0,0,74,0021201219
+84,PT02M41.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,23,12,35,v,Thompson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,75,0021201219
+86,PT02M41.00S,1,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,SUB: Thomas FOR McRoberts,Substitution,,0,0,76,0021201219
+87,PT02M41.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,77,0021201219
+89,PT02M40.00S,1,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,78,0021201219
+90,PT02M17.00S,1,1610612766,CHA,201945,Henderson,G. Henderson,-191,34,19,Made,1,25,12,37,h,Henderson 19' Jump Shot (4 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,2,79,0021201219
+91,PT02M08.00S,1,1610612766,CHA,200748,Thomas,T. Thomas,0,0,0,,0,0,0,0,h,Thomas P.FOUL (P1.PN),Foul,Personal,0,0,80,0021201219
+92,PT02M08.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,81,0021201219
+93,PT02M08.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,82,0021201219
+94,PT02M08.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,83,0021201219
+96,PT02M06.00S,1,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,84,0021201219
+97,PT01M52.00S,1,1610612766,CHA,200748,Thomas,T. Thomas,-29,127,13,Made,1,27,12,39,h,Thomas 13' Jump Shot (2 PTS) (Walker 1 AST),Made Shot,Jump Shot,0,2,85,0021201219
+98,PT01M36.00S,1,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,86,0021201219
+98,PT01M36.00S,1,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor STEAL (1 STL),,,0,0,87,0021201219
+99,PT01M31.00S,1,1610612766,CHA,203106,Taylor,J. Taylor,17,-2,2,Made,1,29,12,41,h,Taylor 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,88,0021201219
+100,PT01M21.00S,1,1610612739,CLE,202087,Gee,A. Gee,-11,9,1,Made,1,29,14,43,v,Gee 1' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,0,2,89,0021201219
+101,PT01M11.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters S.FOUL (P2.PN),Foul,Shooting,0,0,90,0021201219
+102,PT01M11.00S,1,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,MISS Adrien Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,91,0021201219
+103,PT01M11.00S,1,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Normal Rebound,0,0,92,0021201219
+104,PT01M11.00S,1,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,30,14,44,h,Adrien Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,93,0021201219
+106,PT00M58.90S,1,1610612739,CLE,202684,Thompson,T. Thompson,12,37,4,Missed,1,0,0,0,v,MISS Thompson 4' Jump Shot,Missed Shot,Jump Shot,0,2,94,0021201219
+107,PT00M57.80S,1,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,95,0021201219
+108,PT00M54.20S,1,1610612766,CHA,202689,Walker,K. Walker,-15,0,2,Made,1,32,14,46,h,Walker 2' Layup (2 PTS) (Taylor 1 AST),Made Shot,Layup Shot,0,2,96,0021201219
+109,PT00M39.90S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,97,0021201219
+109,PT00M39.90S,1,1610612766,CHA,200748,Thomas,T. Thomas,0,0,0,,0,0,0,0,h,Thomas STEAL (1 STL),,,0,0,98,0021201219
+110,PT00M34.90S,1,1610612766,CHA,200748,Thomas,T. Thomas,0,0,0,,0,0,0,0,h,Thomas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,99,0021201219
+111,PT00M28.30S,1,1610612739,CLE,202684,Thompson,T. Thompson,2,15,2,Made,1,32,16,48,v,Thompson 2' Dunk (5 PTS) (Gee 1 AST),Made Shot,Dunk Shot,0,2,100,0021201219
+112,PT00M04.80S,1,1610612766,CHA,200748,Thomas,T. Thomas,78,190,21,Missed,1,0,0,0,h,MISS Thomas 21' Jump Shot,Missed Shot,Jump Shot,0,2,101,0021201219
+113,PT00M03.80S,1,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,102,0021201219
+114,PT00M00.60S,1,1610612766,CHA,203106,Taylor,J. Taylor,168,23,17,Made,1,34,16,50,h,Taylor 17' Fadeaway Jumper (4 PTS) (Adrien 1 AST),Made Shot,Fadeaway Jump Shot,0,2,103,0021201219
+115,PT00M00.30S,1,1610612739,CLE,202087,Gee,A. Gee,69,724,73,Missed,1,0,0,0,v,MISS Gee 73' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,104,0021201219
+116,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,16,50, ,End of 1st Period (8:39 PM EST),period,end,0,0,106,0021201219
+117,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,105,0021201219
+119,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,16,50, ,Start of 2nd Period (8:41 PM EST),period,start,0,0,107,0021201219
+120,PT11M41.00S,2,1610612739,CLE,203158,Jones,K. Jones,32,149,15,Missed,1,0,0,0,v,MISS Jones 15' Jump Shot,Missed Shot,Jump Shot,0,2,108,0021201219
+121,PT11M41.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Unknown,0,0,109,0021201219
+122,PT11M41.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights L.B.FOUL (P1.T1),Foul,Loose Ball,0,0,110,0021201219
+123,PT11M22.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,6,1,1,Made,1,36,16,52,h,Adrien 1' Layup (3 PTS) (Gordon 1 AST),Made Shot,Layup Shot,0,2,111,0021201219
+124,PT11M05.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-187,19,19,Missed,1,0,0,0,v,MISS Waiters 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,112,0021201219
+125,PT11M02.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,113,0021201219
+126,PT10M43.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,-10,1,1,Missed,1,0,0,0,h,MISS Gordon 1' Layup,Missed Shot,Layup Shot,0,2,114,0021201219
+127,PT10M42.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,115,0021201219
+128,PT10M35.00S,2,1610612739,CLE,201578,Speights,M. Speights,9,205,21,Made,1,36,18,54,v,Speights 21' Jump Shot (2 PTS) (Waiters 1 AST),Made Shot,Jump Shot,0,2,116,0021201219
+129,PT10M11.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,-82,162,18,Missed,1,0,0,0,h,MISS Adrien 18' Jump Shot,Missed Shot,Jump Shot,0,2,117,0021201219
+130,PT10M10.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,118,0021201219
+131,PT10M01.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,149,101,18,Missed,1,0,0,0,v,MISS Livingston 18' Jump Shot,Missed Shot,Jump Shot,0,2,119,0021201219
+132,PT10M00.00S,2,1610612766,CHA,200748,Thomas,T. Thomas,0,0,0,,0,0,0,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,120,0021201219
+133,PT09M52.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,2,58,6,Missed,1,0,0,0,h,MISS Pargo 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,121,0021201219
+134,PT09M46.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,122,0021201219
+135,PT09M40.00S,2,1610612739,CLE,201578,Speights,M. Speights,67,198,21,Missed,1,0,0,0,v,MISS Speights 21' Jump Shot,Missed Shot,Jump Shot,0,2,123,0021201219
+136,PT09M39.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,124,0021201219
+137,PT09M33.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,154,208,26,Missed,1,0,0,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,125,0021201219
+138,PT09M31.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,126,0021201219
+139,PT09M17.00S,2,1610612739,CLE,201578,Speights,M. Speights,-7,7,1,Made,1,36,20,56,v,Speights 1' Dunk (4 PTS) (Casspi 1 AST),Made Shot,Dunk Shot,0,2,127,0021201219
+140,PT08M51.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights S.FOUL (P2.T2),Foul,Shooting,0,0,128,0021201219
+141,PT08M51.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,129,0021201219
+143,PT08M51.00S,2,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,SUB: Zeller FOR Speights,Substitution,,0,0,130,0021201219
+145,PT08M51.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,37,20,57,h,Adrien Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,131,0021201219
+147,PT08M51.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,38,20,58,h,Adrien Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,132,0021201219
+149,PT08M35.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-15,12,2,Made,1,38,22,60,v,Waiters 2' Driving Layup (2 PTS) (Livingston 1 AST),Made Shot,Driving Layup Shot,0,2,133,0021201219
+150,PT08M17.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,-123,220,25,Made,1,41,22,63,h,Pargo 25' 3PT Jump Shot (3 PTS) (Taylor 2 AST),Made Shot,Jump Shot,0,3,134,0021201219
+151,PT08M05.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,173,23,17,Missed,1,0,0,0,v,MISS Waiters 17' Jump Shot,Missed Shot,Jump Shot,0,2,135,0021201219
+152,PT08M04.00S,2,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,136,0021201219
+153,PT07M48.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,-144,214,26,Missed,1,0,0,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,137,0021201219
+154,PT07M47.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,138,0021201219
+155,PT07M43.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,-229,22,0,Made,1,44,22,66,h,Gordon  3PT Jump Shot (3 PTS) (Adrien 2 AST),Made Shot,Jump Shot,0,3,139,0021201219
+156,PT07M29.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,-15,9,2,Missed,1,0,0,0,v,MISS Zeller 2' Layup,Missed Shot,Layup Shot,0,2,140,0021201219
+157,PT07M28.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,0,0,0,,0,0,0,0,h,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,141,0021201219
+158,PT07M24.00S,2,1610612766,CHA,203106,Taylor,J. Taylor,9,7,1,Made,1,46,22,68,h,Taylor 1' Alley Oop Dunk (6 PTS) (Thomas 2 AST),Made Shot,Alley Oop Dunk Shot,0,2,142,0021201219
+159,PT07M15.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,143,0021201219
+161,PT07M15.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,SUB: Irving FOR Waiters,Substitution,,0,0,144,0021201219
+162,PT07M15.00S,2,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,SUB: Henderson FOR Adrien,Substitution,,0,0,145,0021201219
+163,PT07M15.00S,2,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,SUB: McRoberts FOR Taylor,Substitution,,0,0,146,0021201219
+164,PT07M15.00S,2,1610612766,CHA,200748,Thomas,T. Thomas,0,0,0,,0,0,0,0,h,SUB: Biyombo FOR Thomas,Substitution,,0,0,147,0021201219
+165,PT07M08.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,160,71,18,Made,1,46,24,70,v,Zeller 18' Jump Shot (2 PTS) (Irving 2 AST),Made Shot,Jump Shot,0,2,148,0021201219
+166,PT06M44.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,141,91,17,Missed,1,0,0,0,h,MISS Henderson 17' Jump Shot,Missed Shot,Jump Shot,0,2,149,0021201219
+167,PT06M43.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,150,0021201219
+168,PT06M37.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,0,0,151,0021201219
+169,PT06M24.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,152,0021201219
+170,PT06M05.00S,2,1610612739,CLE,202681,Irving,K. Irving,-116,58,13,Made,1,46,26,72,v,Irving 13' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,0,2,153,0021201219
+171,PT05M46.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,108,239,26,Missed,1,0,0,0,h,MISS Pargo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,154,0021201219
+172,PT05M45.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,155,0021201219
+173,PT05M36.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,239,0,24,Made,1,46,29,75,v,Casspi 24' 3PT Jump Shot (3 PTS) (Irving 3 AST),Made Shot,Jump Shot,0,3,156,0021201219
+174,PT05M11.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,144,216,26,Missed,1,0,0,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,157,0021201219
+175,PT05M10.00S,2,1610612739,CLE,203158,Jones,K. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,158,0021201219
+176,PT04M59.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0,159,0021201219
+176,PT04M59.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo STEAL (1 STL),,,0,0,160,0021201219
+177,PT04M59.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston P.FOUL (P1.T3),Foul,Personal,0,0,161,0021201219
+179,PT04M57.00S,2,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Ellington FOR Livingston,Substitution,,0,0,162,0021201219
+180,PT04M57.00S,2,1610612739,CLE,203158,Jones,K. Jones,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Jones,Substitution,,0,0,163,0021201219
+181,PT04M46.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,-40,110,12,Made,1,48,29,77,h,Gordon 12' Jump Shot (5 PTS),Made Shot,Jump Shot,0,2,165,0021201219
+182,PT04M57.00S,2,1610612766,CHA,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,SUB: Walker FOR Pargo,Substitution,,0,0,164,0021201219
+183,PT04M29.00S,2,1610612739,CLE,202681,Irving,K. Irving,12,1,1,Made,1,48,31,79,v,Irving 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,166,0021201219
+184,PT04M11.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,37,255,26,Missed,1,0,0,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,167,0021201219
+185,PT04M09.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,168,0021201219
+186,PT04M04.00S,2,1610612739,CLE,202681,Irving,K. Irving,160,244,29,Made,1,48,34,82,v,Irving 29' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,3,169,0021201219
+187,PT03M56.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170,0021201219
+191,PT03M41.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi S.FOUL (P1.T4),Foul,Shooting,0,0,171,0021201219
+192,PT03M41.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,MISS Henderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,172,0021201219
+193,PT03M41.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Normal Rebound,0,0,173,0021201219
+194,PT03M41.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,49,34,83,h,Henderson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,174,0021201219
+196,PT03M21.00S,2,1610612739,CLE,201961,Ellington,W. Ellington,113,233,26,Missed,1,0,0,0,v,MISS Ellington 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,175,0021201219
+196,PT03M21.00S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker BLOCK (1 BLK),,,0,3,176,0021201219
+197,PT03M21.00S,2,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Unknown,0,0,177,0021201219
+198,PT03M05.00S,2,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,178,0021201219
+198,PT03M05.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi STEAL (1 STL),,,0,0,179,0021201219
+199,PT02M57.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,-11,6,1,Made,1,49,36,85,v,Casspi 1' Layup (5 PTS) (Irving 4 AST),Made Shot,Layup Shot,0,2,180,0021201219
+200,PT02M39.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,-7,7,1,Made,1,51,36,87,h,Gordon 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,2,181,0021201219
+201,PT02M33.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,10,7,1,Made,1,51,38,89,v,Zeller 1' Dunk (4 PTS) (Irving 5 AST),Made Shot,Dunk Shot,0,2,182,0021201219
+202,PT02M18.00S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,183,0021201219
+202,PT02M18.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi STEAL (2 STL),,,0,0,184,0021201219
+203,PT02M13.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,185,0021201219
+203,PT02M13.00S,2,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson STEAL (1 STL),,,0,0,186,0021201219
+204,PT02M01.00S,2,1610612766,CHA,2732,Gordon,B. Gordon,241,4,24,Missed,1,0,0,0,h,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,187,0021201219
+205,PT02M00.00S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,188,0021201219
+206,PT01M55.00S,2,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,0,189,0021201219
+209,PT01M49.00S,2,1610612739,CLE,202681,Irving,K. Irving,6,266,27,Made,1,51,41,92,v,Irving 27' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,0,3,190,0021201219
+210,PT01M32.00S,2,1610612766,CHA,202689,Walker,K. Walker,2,0,0,Made,1,53,41,94,h,Walker  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,191,0021201219
+211,PT01M12.00S,2,1610612739,CLE,201956,Casspi,O. Casspi,149,290,33,Missed,1,0,0,0,v,MISS Casspi 33' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,192,0021201219
+212,PT01M10.00S,2,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,193,0021201219
+213,PT00M59.90S,2,1610612766,CHA,201945,Henderson,G. Henderson,31,1,3,Missed,1,0,0,0,h,MISS Henderson 3' Jump Shot,Missed Shot,Jump Shot,0,2,194,0021201219
+214,PT00M59.40S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,195,0021201219
+215,PT00M54.20S,2,1610612739,CLE,203092,Zeller,T. Zeller,-4,1,0,Made,1,53,43,96,v,Zeller  Dunk (6 PTS) (Irving 6 AST),Made Shot,Dunk Shot,0,2,196,0021201219
+216,PT00M38.90S,2,1610612766,CHA,202689,Walker,K. Walker,133,107,17,Missed,1,0,0,0,h,MISS Walker 17' Jump Shot,Missed Shot,Jump Shot,0,2,197,0021201219
+217,PT00M37.90S,2,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,198,0021201219
+218,PT00M24.30S,2,1610612739,CLE,201961,Ellington,W. Ellington,-41,93,10,Made,1,53,45,98,v,Ellington 10' Jump Shot (2 PTS) (Irving 7 AST),Made Shot,Jump Shot,0,2,199,0021201219
+219,PT00M02.90S,2,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,200,0021201219
+219,PT00M02.90S,2,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller STEAL (1 STL),,,0,0,201,0021201219
+220,PT00M00.30S,2,1610612739,CLE,201961,Ellington,W. Ellington,-6,6,1,Made,1,53,47,100,v,Ellington 1' Layup (4 PTS) (Irving 8 AST),Made Shot,Layup Shot,0,2,202,0021201219
+221,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,47,100, ,End of 2nd Period (9:05 PM EST),period,end,0,0,204,0021201219
+223,PT00M00.00S,2,0,,220,,,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,203,0021201219
+224,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,47,100, ,Start of 3rd Period (9:22 PM EST),period,start,0,0,205,0021201219
+225,PT11M47.00S,3,1610612739,CLE,202087,Gee,A. Gee,20,7,2,Missed,1,0,0,0,v,MISS Gee 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,206,0021201219
+226,PT11M45.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,207,0021201219
+227,PT11M40.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,4,0,0,Made,1,55,47,102,h,Henderson  Alley Oop Layup (7 PTS) (Walker 2 AST),Made Shot,Alley Oop Layup shot,0,2,208,0021201219
+228,PT11M16.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-146,14,15,Missed,1,0,0,0,v,MISS Thompson 15' Jump Shot,Missed Shot,Jump Shot,0,2,209,0021201219
+229,PT11M15.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,210,0021201219
+230,PT10M50.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,91,60,11,Made,1,57,47,104,h,Henderson 11' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,0,2,211,0021201219
+231,PT10M38.00S,3,1610612739,CLE,202681,Irving,K. Irving,88,26,9,Missed,1,0,0,0,v,MISS Irving 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,212,0021201219
+232,PT10M37.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,213,0021201219
+233,PT10M23.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller P.FOUL (P1.T1),Foul,Personal,0,0,214,0021201219
+234,PT10M13.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,-157,14,16,Missed,1,0,0,0,h,MISS Henderson 16' Jump Shot,Missed Shot,Jump Shot,0,2,215,0021201219
+235,PT10M12.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,216,0021201219
+236,PT10M02.00S,3,1610612739,CLE,202681,Irving,K. Irving,-84,235,25,Missed,1,0,0,0,v,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,217,0021201219
+237,PT10M01.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,218,0021201219
+238,PT09M50.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,37,260,26,Made,1,60,47,107,h,McRoberts 26' 3PT Jump Shot (13 PTS) (Kidd-Gilchrist 3 AST),Made Shot,Jump Shot,0,3,219,0021201219
+239,PT09M49.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,0,220,0021201219
+242,PT09M33.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,-38,156,16,Missed,1,0,0,0,v,MISS Zeller 16' Jump Shot,Missed Shot,Jump Shot,0,2,221,0021201219
+243,PT09M32.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,222,0021201219
+244,PT09M23.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Lost Ball Turnover (P4.T7),Turnover,Lost Ball,0,0,223,0021201219
+244,PT09M23.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker STEAL (1 STL),,,0,0,224,0021201219
+245,PT09M17.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,13,6,1,Made,1,62,47,109,h,Kidd-Gilchrist 1' Layup (7 PTS) (Walker 3 AST),Made Shot,Layup Shot,0,2,225,0021201219
+246,PT09M03.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,-144,214,26,Made,1,62,50,112,v,Ellington 26' 3PT Jump Shot (7 PTS) (Zeller 1 AST),Made Shot,Jump Shot,0,3,226,0021201219
+247,PT08M45.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-172,34,18,Made,1,64,50,114,h,Kidd-Gilchrist 18' Jump Shot (9 PTS) (Walker 4 AST),Made Shot,Jump Shot,0,2,227,0021201219
+248,PT08M27.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,0,19,2,Made,1,64,52,116,v,Ellington 2' Layup (9 PTS) (Zeller 2 AST),Made Shot,Layup Shot,0,2,228,0021201219
+249,PT08M18.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,229,0021201219
+249,PT08M18.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller STEAL (2 STL),,,0,0,230,0021201219
+250,PT08M14.00S,3,1610612739,CLE,202681,Irving,K. Irving,-4,3,1,Made,1,64,54,118,v,Irving 1' Layup (18 PTS) (Ellington 1 AST),Made Shot,Layup Shot,0,2,231,0021201219
+251,PT07M57.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,0,232,0021201219
+251,PT07M57.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,v,Ellington STEAL (1 STL),,,0,0,233,0021201219
+252,PT07M55.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson S.FOUL (P2.T1),Foul,Shooting,0,0,234,0021201219
+253,PT07M55.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,0,0,0,,0,64,55,119,v,Ellington Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,235,0021201219
+255,PT07M55.00S,3,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,SUB: Taylor FOR Henderson,Substitution,,0,0,236,0021201219
+256,PT07M55.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,0,0,0,,0,64,56,120,v,Ellington Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,237,0021201219
+258,PT07M39.00S,3,1610612766,CHA,202689,Walker,K. Walker,182,184,26,Made,1,67,56,123,h,Walker 26' 3PT Jump Shot (7 PTS) (Taylor 3 AST),Made Shot,Jump Shot,0,3,238,0021201219
+259,PT07M16.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,239,0021201219
+259,PT07M16.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist STEAL (1 STL),,,0,0,240,0021201219
+260,PT07M09.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts Traveling Turnover (P2.T9),Turnover,Traveling,0,0,241,0021201219
+261,PT06M57.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-2,17,2,Missed,1,0,0,0,v,MISS Thompson 2' Layup,Missed Shot,Layup Shot,0,2,242,0021201219
+262,PT06M55.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,6,3,1,Missed,1,0,0,0,v,MISS Thompson 1' Layup,Missed Shot,Layup Shot,0,2,244,0021201219
+262,PT06M55.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo BLOCK (2 BLK),,,0,2,245,0021201219
+263,PT06M55.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,243,0021201219
+264,PT06M53.00S,3,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,246,0021201219
+265,PT06M49.00S,3,1610612766,CHA,202689,Walker,K. Walker,29,91,10,Missed,1,0,0,0,h,MISS Walker 10' Jump Shot,Missed Shot,Jump Shot,0,2,247,0021201219
+266,PT06M45.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,248,0021201219
+267,PT06M42.00S,3,1610612766,CHA,203106,Taylor,J. Taylor,0,252,25,Missed,1,0,0,0,h,MISS Taylor 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,249,0021201219
+268,PT06M39.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,250,0021201219
+269,PT06M34.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker P.FOUL (P2.T2),Foul,Personal,0,0,251,0021201219
+270,PT06M23.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,0,252,0021201219
+274,PT06M19.00S,3,1610612739,CLE,202681,Irving,K. Irving,-152,205,26,Missed,1,0,0,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,253,0021201219
+275,PT06M17.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,254,0021201219
+276,PT06M00.00S,3,1610612766,CHA,202689,Walker,K. Walker,15,269,27,Missed,1,0,0,0,h,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,255,0021201219
+277,PT05M58.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,256,0021201219
+278,PT05M50.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,257,0021201219
+278,PT05M50.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee STEAL (1 STL),,,0,0,258,0021201219
+279,PT05M46.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker P.FOUL (P3.T3),Foul,Personal,0,0,259,0021201219
+280,PT05M36.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,165,96,19,Made,1,67,58,125,v,Ellington 19' Jump Shot (13 PTS) (Irving 9 AST),Made Shot,Jump Shot,0,2,260,0021201219
+281,PT05M10.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson S.FOUL (P2.T2),Foul,Shooting,0,0,261,0021201219
+282,PT05M10.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,MISS McRoberts Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,262,0021201219
+283,PT05M10.00S,3,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Normal Rebound,0,0,263,0021201219
+284,PT05M10.00S,3,1610612739,CLE,201961,Ellington,W. Ellington,0,0,0,,0,0,0,0,v,SUB: Livingston FOR Ellington,Substitution,,0,0,264,0021201219
+285,PT05M10.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,68,58,126,h,McRoberts Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,265,0021201219
+287,PT04M51.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,Zeller Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,266,0021201219
+287,PT04M51.00S,3,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts STEAL (1 STL),,,0,0,267,0021201219
+288,PT04M28.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,160,74,18,Made,1,70,58,128,h,Kidd-Gilchrist 18' Jump Shot (11 PTS) (McRoberts 2 AST),Made Shot,Jump Shot,0,2,268,0021201219
+289,PT04M02.00S,3,1610612739,CLE,202087,Gee,A. Gee,-237,0,24,Made,1,70,61,131,v,Gee 24' 3PT Jump Shot (8 PTS) (Zeller 3 AST),Made Shot,Jump Shot,0,3,269,0021201219
+290,PT03M47.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,15,0,2,Missed,1,0,0,0,h,MISS Biyombo 2' Layup,Missed Shot,Layup Shot,0,2,270,0021201219
+291,PT03M46.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,271,0021201219
+292,PT03M40.00S,3,1610612739,CLE,202681,Irving,K. Irving,23,4,2,Missed,1,0,0,0,v,MISS Irving 2' Layup,Missed Shot,Layup Shot,0,2,272,0021201219
+292,PT03M40.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo BLOCK (3 BLK),,,0,2,273,0021201219
+293,PT03M38.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,274,0021201219
+294,PT03M34.00S,3,1610612766,CHA,202689,Walker,K. Walker,-4,6,1,Made,1,72,61,133,h,Walker 1' Layup (9 PTS) (Kidd-Gilchrist 4 AST),Made Shot,Layup Shot,0,2,275,0021201219
+295,PT03M24.00S,3,1610612739,CLE,202087,Gee,A. Gee,-177,187,26,Made,1,72,64,136,v,Gee 26' 3PT Jump Shot (11 PTS) (Livingston 2 AST),Made Shot,Jump Shot,0,3,276,0021201219
+296,PT03M00.00S,3,1610612766,CHA,202689,Walker,K. Walker,163,230,28,Missed,1,0,0,0,h,MISS Walker 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,277,0021201219
+297,PT02M59.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,278,0021201219
+298,PT02M40.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo S.FOUL (P1.T4),Foul,Shooting,0,0,279,0021201219
+299,PT02M40.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,280,0021201219
+300,PT02M40.00S,3,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,281,0021201219
+301,PT02M40.00S,3,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,SUB: Pargo FOR Walker,Substitution,,0,0,282,0021201219
+302,PT02M40.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,72,65,137,v,Thompson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,283,0021201219
+304,PT02M23.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-13,11,2,Missed,1,0,0,0,h,MISS Kidd-Gilchrist 2' Layup,Missed Shot,Layup Shot,0,2,284,0021201219
+304,PT02M23.00S,3,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston BLOCK (1 BLK),,,0,2,285,0021201219
+305,PT02M21.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,286,0021201219
+306,PT02M21.00S,3,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor P.FOUL (P1.PN),Foul,Personal,0,0,287,0021201219
+307,PT02M21.00S,3,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,288,0021201219
+309,PT02M21.00S,3,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,SUB: Speights FOR Zeller,Substitution,,0,0,289,0021201219
+310,PT02M21.00S,3,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,SUB: Adrien FOR Biyombo,Substitution,,0,0,290,0021201219
+311,PT02M21.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,72,66,138,v,Irving Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,291,0021201219
+313,PT02M21.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,72,67,139,v,Irving Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,292,0021201219
+315,PT02M01.00S,3,1610612766,CHA,203106,Taylor,J. Taylor,-3,6,1,Missed,1,0,0,0,h,MISS Taylor 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,293,0021201219
+316,PT01M58.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,294,0021201219
+317,PT01M45.00S,3,1610612739,CLE,201578,Speights,M. Speights,147,97,18,Missed,1,0,0,0,v,MISS Speights 18' Jump Shot,Missed Shot,Jump Shot,0,2,295,0021201219
+318,PT01M44.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,Kidd-Gilchrist REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,296,0021201219
+319,PT01M23.00S,3,1610612766,CHA,202399,Adrien,J. Adrien,-11,6,1,Missed,1,0,0,0,h,MISS Adrien 1' Layup,Missed Shot,Layup Shot,0,2,297,0021201219
+320,PT01M19.00S,3,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,298,0021201219
+321,PT01M11.00S,3,1610612739,CLE,202681,Irving,K. Irving,-65,60,9,Missed,1,0,0,0,v,MISS Irving 9' Jump Shot,Missed Shot,Jump Shot,0,2,299,0021201219
+322,PT01M09.00S,3,1610612739,CLE,201578,Speights,M. Speights,0,1,0,Made,1,72,69,141,v,Speights  Tip Shot (6 PTS),Made Shot,Tip Shot,0,2,301,0021201219
+323,PT01M09.00S,3,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,300,0021201219
+324,PT00M49.30S,3,1610612766,CHA,202399,Adrien,J. Adrien,18,6,2,Made,1,74,69,143,h,Adrien 2' Layup (7 PTS) (Pargo 1 AST),Made Shot,Layup Shot,0,2,302,0021201219
+325,PT00M33.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson Offensive Charge Foul (P3.T3),Foul,Offensive Charge,0,0,303,0021201219
+326,PT00M33.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson Foul Turnover (P2.T10),Turnover,Foul,0,0,304,0021201219
+327,PT00M14.80S,3,1610612766,CHA,2457,Pargo,J. Pargo,-116,145,19,Made,1,76,69,145,h,Pargo 19' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,0,2,305,0021201219
+328,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,69,145, ,End of 3rd Period (9:47 PM EST),period,end,0,0,306,0021201219
+330,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,69,145, ,Start of 4th Period (9:49 PM EST),period,start,0,0,307,0021201219
+331,PT11M45.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,-81,198,21,Missed,1,0,0,0,h,MISS Henderson 21' Jump Shot,Missed Shot,Jump Shot,0,2,308,0021201219
+332,PT11M44.00S,4,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,309,0021201219
+333,PT11M31.00S,4,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien P.FOUL (P1.T1),Foul,Personal,0,0,310,0021201219
+334,PT11M19.00S,4,1610612739,CLE,203158,Jones,K. Jones,20,0,2,Made,1,76,71,147,v,Jones 2' Reverse Layup (2 PTS) (Waiters 2 AST),Made Shot,Reverse Layup Shot,0,2,311,0021201219
+335,PT11M10.00S,4,1610612766,CHA,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,Pargo Palming Turnover (P1.T11),Turnover,Palming Turnover,0,0,312,0021201219
+336,PT10M58.00S,4,1610612739,CLE,201578,Speights,M. Speights,28,12,3,Missed,1,0,0,0,v,MISS Speights 3' Jump Shot,Missed Shot,Jump Shot,0,2,313,0021201219
+337,PT10M57.00S,4,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,Adrien REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,314,0021201219
+339,PT10M48.00S,4,1610612766,CHA,2457,Pargo,J. Pargo,-75,246,26,Missed,1,0,0,0,h,MISS Pargo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,315,0021201219
+340,PT10M47.00S,4,1610612739,CLE,203158,Jones,K. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,316,0021201219
+341,PT10M37.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-8,6,1,Made,1,76,73,149,v,Waiters 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,317,0021201219
+342,PT10M17.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,0,318,0021201219
+343,PT10M17.00S,4,1610612766,CHA,202399,Adrien,J. Adrien,0,0,0,,0,0,0,0,h,SUB: Biyombo FOR Adrien,Substitution,,0,0,319,0021201219
+344,PT10M07.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,72,56,9,Made,1,76,75,151,v,Livingston 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,320,0021201219
+345,PT10M07.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,321,0021201219
+348,PT10M07.00S,4,1610612766,CHA,2457,Pargo,J. Pargo,0,0,0,,0,0,0,0,h,SUB: Walker FOR Pargo,Substitution,,0,0,322,0021201219
+349,PT09M47.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,-15,4,2,Missed,1,0,0,0,h,MISS Henderson 2' Layup,Missed Shot,Layup Shot,0,2,323,0021201219
+349,PT09M47.00S,4,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,Speights BLOCK (1 BLK),,,0,2,324,0021201219
+350,PT09M45.00S,4,1610612739,CLE,203158,Jones,K. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,325,0021201219
+351,PT09M30.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,4,3,1,Made,1,76,77,153,v,Waiters 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,2,326,0021201219
+352,PT09M12.00S,4,1610612766,CHA,202689,Walker,K. Walker,143,219,26,Made,1,79,77,156,h,Walker 26' 3PT Jump Shot (12 PTS) (Henderson 5 AST),Made Shot,Jump Shot,0,3,327,0021201219
+353,PT08M48.00S,4,1610612739,CLE,203158,Jones,K. Jones,177,14,18,Missed,1,0,0,0,v,MISS Jones 18' Jump Shot,Missed Shot,Jump Shot,0,2,328,0021201219
+354,PT08M47.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,329,0021201219
+355,PT08M42.00S,4,1610612766,CHA,202687,Biyombo,B. Biyombo,-7,0,1,Made,1,81,77,158,h,Biyombo 1' Dunk (8 PTS) (Walker 5 AST),Made Shot,Dunk Shot,0,2,330,0021201219
+356,PT08M21.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,-158,89,18,Missed,1,0,0,0,v,MISS Casspi 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,2,331,0021201219
+357,PT08M18.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,332,0021201219
+358,PT08M14.00S,4,1610612766,CHA,202689,Walker,K. Walker,34,9,4,Missed,1,0,0,0,h,MISS Walker 4' Jump Shot,Missed Shot,Jump Shot,0,2,333,0021201219
+358,PT08M14.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,Livingston BLOCK (2 BLK),,,0,2,334,0021201219
+359,PT08M11.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,9,1,Made,1,83,77,160,h,Henderson 1' Putback Dunk (11 PTS),Made Shot,Putback Dunk Shot,0,2,336,0021201219
+360,PT08M11.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,0,0,0,h,Henderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,335,0021201219
+361,PT08M11.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0,337,0021201219
+363,PT08M11.00S,4,1610612739,CLE,201578,Speights,M. Speights,0,0,0,,0,0,0,0,v,SUB: Zeller FOR Speights,Substitution,,0,0,338,0021201219
+364,PT08M11.00S,4,1610612739,CLE,203158,Jones,K. Jones,0,0,0,,0,0,0,0,v,SUB: Thompson FOR Jones,Substitution,,0,0,339,0021201219
+365,PT08M11.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0,0,0,h,SUB: Taylor FOR Kidd-Gilchrist,Substitution,,0,0,340,0021201219
+366,PT08M00.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-120,164,20,Missed,1,0,0,0,v,MISS Waiters 20' Jump Shot,Missed Shot,Jump Shot,0,2,341,0021201219
+367,PT07M58.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,342,0021201219
+368,PT07M47.00S,4,1610612766,CHA,202689,Walker,K. Walker,132,110,17,Missed,1,0,0,0,h,MISS Walker 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,343,0021201219
+369,PT07M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,344,0021201219
+370,PT07M30.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,-4,272,27,Made,1,83,80,163,v,Casspi 27' 3PT Jump Shot (8 PTS) (Waiters 3 AST),Made Shot,Jump Shot,0,3,345,0021201219
+371,PT07M08.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi P.FOUL (P2.T1),Foul,Personal,0,0,346,0021201219
+372,PT07M08.00S,4,1610612739,CLE,2733,Livingston,S. Livingston,0,0,0,,0,0,0,0,v,SUB: Irving FOR Livingston,Substitution,,0,0,347,0021201219
+373,PT06M55.00S,4,1610612766,CHA,202689,Walker,K. Walker,23,115,12,Missed,1,0,0,0,h,MISS Walker 12' Jump Shot,Missed Shot,Jump Shot,0,2,348,0021201219
+374,PT06M54.00S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,4,6,1,Made,1,85,80,165,h,McRoberts 1' Putback Dunk (16 PTS),Made Shot,Putback Dunk Shot,0,2,350,0021201219
+375,PT06M54.00S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,349,0021201219
+376,PT06M44.00S,4,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo S.FOUL (P2.T2),Foul,Shooting,0,0,351,0021201219
+377,PT06M44.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,85,81,166,v,Waiters Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,352,0021201219
+379,PT06M44.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,85,82,167,v,Waiters Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,353,0021201219
+381,PT06M19.00S,4,1610612766,CHA,203106,Taylor,J. Taylor,162,77,18,Missed,1,0,0,0,h,MISS Taylor 18' Jump Shot,Missed Shot,Jump Shot,0,2,354,0021201219
+382,PT06M18.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,355,0021201219
+383,PT06M07.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-5,0,1,Made,1,85,84,169,v,Waiters 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,356,0021201219
+384,PT05M46.00S,4,1610612766,CHA,202689,Walker,K. Walker,-54,249,25,Made,1,88,84,172,h,Walker 25' 3PT Jump Shot (15 PTS) (Henderson 6 AST),Made Shot,Jump Shot,0,3,357,0021201219
+385,PT05M31.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,-48,252,26,Missed,1,0,0,0,v,MISS Casspi 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,358,0021201219
+386,PT05M30.00S,4,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,359,0021201219
+387,PT05M17.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0,360,0021201219
+387,PT05M17.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi STEAL (3 STL),,,0,0,361,0021201219
+388,PT05M10.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,231,17,0,Missed,1,0,0,0,v,MISS Waiters  3PT Jump Shot,Missed Shot,Jump Shot,0,3,362,0021201219
+389,PT05M08.00S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,363,0021201219
+390,PT05M05.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson P.FOUL (P4.T2),Foul,Personal,0,0,364,0021201219
+391,PT05M02.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving S.FOUL (P3.T3),Foul,Shooting,0,0,365,0021201219
+392,PT05M02.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,89,84,173,h,Walker Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,366,0021201219
+394,PT05M02.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,90,84,174,h,Walker Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,367,0021201219
+396,PT04M40.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-86,22,9,Made,1,90,86,176,v,Thompson 9' Turnaround Jump Shot (8 PTS) (Casspi 2 AST),Made Shot,Turnaround Jump Shot,0,2,368,0021201219
+397,PT04M19.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,21,157,16,Missed,1,0,0,0,h,MISS Henderson 16' Jump Shot,Missed Shot,Jump Shot,0,2,369,0021201219
+398,PT04M18.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Unknown,0,0,370,0021201219
+399,PT04M18.00S,4,1610612739,CLE,203092,Zeller,T. Zeller,0,0,0,,0,0,0,0,v,SUB: Gee FOR Zeller,Substitution,,0,0,371,0021201219
+400,PT04M18.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,372,0021201219
+404,PT04M03.00S,4,1610612766,CHA,202689,Walker,K. Walker,-79,247,26,Missed,1,0,0,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,373,0021201219
+405,PT04M01.00S,4,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,374,0021201219
+406,PT03M46.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi P.FOUL (P3.T4),Foul,Personal,0,0,375,0021201219
+407,PT03M40.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi S.FOUL (P4.PN),Foul,Shooting,0,0,376,0021201219
+409,PT03M40.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,91,86,177,h,Henderson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,377,0021201219
+411,PT03M40.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,0,0,0,,0,92,86,178,h,Henderson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,378,0021201219
+413,PT03M26.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,379,0021201219
+413,PT03M26.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker STEAL (2 STL),,,0,0,380,0021201219
+414,PT03M23.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters S.FOUL (P3.PN),Foul,Shooting,0,0,381,0021201219
+415,PT03M23.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,93,86,179,h,Walker Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,382,0021201219
+417,PT03M23.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,94,86,180,h,Walker Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,383,0021201219
+419,PT03M16.00S,4,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor P.FOUL (P2.T3),Foul,Personal,0,0,384,0021201219
+420,PT03M10.00S,4,1610612739,CLE,202681,Irving,K. Irving,-95,260,28,Missed,1,0,0,0,v,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,385,0021201219
+421,PT03M09.00S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,386,0021201219
+422,PT03M03.00S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi S.FOUL (P5.PN),Foul,Shooting,0,0,387,0021201219
+423,PT03M03.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,388,0021201219
+424,PT03M03.00S,4,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Rebound,Rebound,Normal Rebound,0,0,389,0021201219
+425,PT03M03.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,95,86,181,h,Walker Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,390,0021201219
+427,PT02M49.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-27,257,26,Made,1,95,89,184,v,Waiters 26' 3PT Jump Shot (13 PTS) (Irving 10 AST),Made Shot,Jump Shot,0,3,391,0021201219
+428,PT02M23.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,Walker Lost Ball Turnover (P5.T14),Turnover,Lost Ball,0,0,392,0021201219
+428,PT02M23.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters STEAL (1 STL),,,0,0,393,0021201219
+429,PT02M21.00S,4,1610612766,CHA,203106,Taylor,J. Taylor,0,0,0,,0,0,0,0,h,Taylor S.FOUL (P3.T4),Foul,Shooting,0,0,394,0021201219
+430,PT02M21.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,MISS Waiters Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,395,0021201219
+431,PT02M21.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,396,0021201219
+432,PT02M21.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,95,90,185,v,Waiters Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,397,0021201219
+434,PT01M58.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,-109,116,16,Made,1,97,90,187,h,Henderson 16' Turnaround Fadeaway (15 PTS) (Walker 6 AST),Made Shot,Turnaround Fadeaway shot,0,2,398,0021201219
+436,PT01M43.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters OFF.Foul (P4),Foul,Offensive,0,0,399,0021201219
+437,PT01M43.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0,0,0,v,Waiters Foul Turnover (P3.T12),Turnover,Foul,0,0,400,0021201219
+438,PT01M24.00S,4,1610612766,CHA,201945,Henderson,G. Henderson,170,19,17,Missed,1,0,0,0,h,MISS Henderson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,401,0021201219
+439,PT01M21.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0,0,0,v,Thompson REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,402,0021201219
+440,PT01M13.00S,4,1610612739,CLE,202681,Irving,K. Irving,-16,11,2,Made,1,97,92,189,v,Irving 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,0,2,403,0021201219
+441,PT01M00.00S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,-5,3,1,Made,1,99,92,191,h,McRoberts 1' Dunk (18 PTS) (Walker 7 AST),Made Shot,Dunk Shot,0,2,404,0021201219
+442,PT01M00.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0,405,0021201219
+445,PT00M53.90S,4,1610612739,CLE,203079,Waiters,D. Waiters,-98,258,28,Missed,1,0,0,0,v,MISS Waiters 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,406,0021201219
+446,PT00M52.90S,4,1610612766,CHA,202687,Biyombo,B. Biyombo,0,0,0,,0,0,0,0,h,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,407,0021201219
+448,PT00M47.60S,4,0,,1610612766,,,0,0,0,,0,0,0,0,h,BOBCATS Timeout: Short (Full 5 Short 1),Timeout,Short,0,0,408,0021201219
+451,PT00M42.60S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Personal Take Foul (P4.PN),Foul,Personal Take,0,0,409,0021201219
+452,PT00M42.60S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,100,92,192,h,Walker Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,410,0021201219
+454,PT00M42.60S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,411,0021201219
+456,PT00M41.70S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,412,0021201219
+457,PT00M33.80S,4,1610612739,CLE,202681,Irving,K. Irving,13,1,1,Made,1,100,94,194,v,Irving 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,0,2,413,0021201219
+458,PT00M28.30S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0,0,0,v,Irving Personal Take Foul (P5.PN),Foul,Personal Take,0,0,414,0021201219
+459,PT00M28.30S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,101,94,195,h,Walker Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,415,0021201219
+461,PT00M28.30S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,0,0,0,h,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,416,0021201219
+463,PT00M26.80S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,417,0021201219
+464,PT00M18.70S,4,1610612739,CLE,202087,Gee,A. Gee,-7,3,1,Made,1,101,96,197,v,Gee 1' Layup (13 PTS) (Casspi 3 AST),Made Shot,Layup Shot,0,2,418,0021201219
+465,PT00M17.90S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,419,0021201219
+465,PT00M17.90S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi STEAL (4 STL),,,0,0,420,0021201219
+466,PT00M15.40S,4,1610612739,CLE,203079,Waiters,D. Waiters,-7,0,1,Made,1,101,98,199,v,Waiters 1' Layup (16 PTS),Made Shot,Layup Shot,0,2,421,0021201219
+467,PT00M15.00S,4,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0,0,0,v,Gee P.FOUL (P1.PN),Foul,Personal,0,0,422,0021201219
+469,PT00M15.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,102,98,200,h,Walker Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,423,0021201219
+471,PT00M15.00S,4,1610612766,CHA,202689,Walker,K. Walker,0,0,0,,0,103,98,201,h,Walker Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,424,0021201219
+473,PT00M15.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Timeout: Short (Reg.6 Short 2),Timeout,Short,0,0,425,0021201219
+477,PT00M10.90S,4,1610612739,CLE,202681,Irving,K. Irving,50,265,27,Missed,1,0,0,0,v,MISS Irving 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,426,0021201219
+478,PT00M08.90S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,0,0,0,h,McRoberts REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,427,0021201219
+479,PT00M08.40S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,Casspi P.FOUL (P6.PN),Foul,Personal,0,0,428,0021201219
+480,PT00M08.40S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,104,98,202,h,McRoberts Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,429,0021201219
+481,PT00M08.40S,4,1610612739,CLE,201956,Casspi,O. Casspi,0,0,0,,0,0,0,0,v,SUB: Ellington FOR Casspi,Substitution,,0,0,430,0021201219
+482,PT00M08.40S,4,1610612766,CHA,201177,McRoberts,J. McRoberts,0,0,0,,0,105,98,203,h,McRoberts Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,431,0021201219
+485,PT00M00.30S,4,1610612739,CLE,202681,Irving,K. Irving,-13,329,33,Missed,1,0,0,0,v,MISS Irving 33' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,432,0021201219
+486,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,98,203, ,End of 4th Period (10:26 PM EST),period,end,0,0,434,0021201219
+487,PT00M00.00S,4,0,,1610612739,,,0,0,0,,0,0,0,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,433,0021201219

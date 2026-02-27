@@ -1,0 +1,527 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (10:41 PM EST),period,start,0,0,1,0021201228
+2,PT12M00.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Asik: Tip to Blake,Jump Ball,,0,0,2,0021201228
+3,PT11M47.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,26,3,Missed,1,0,0,0,h,MISS Howard 3' Layup,Missed Shot,Layup Shot,0,2,3,0021201228
+3,PT11M47.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith BLOCK (1 BLK),,,0,2,4,0021201228
+4,PT11M44.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,5,0021201228
+5,PT11M36.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,-217,148,26,Made,1,3,0,3,h,World Peace 26' 3PT Jump Shot (3 PTS) (Gasol 1 AST),Made Shot,Jump Shot,0,3,6,0021201228
+6,PT11M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,84,241,26,Made,1,3,3,6,v,Harden 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,3,7,0021201228
+7,PT10M47.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,-78,-2,8,Missed,1,0,0,0,h,MISS Gasol 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,8,0021201228
+8,PT10M45.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,9,0021201228
+9,PT10M28.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks S.FOUL (P1.T1),Foul,Shooting,0,0,10,0021201228
+10,PT10M28.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,3,4,7,v,Harden Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,11,0021201228
+12,PT10M28.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,3,5,8,v,Harden Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,12,0021201228
+14,PT10M15.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,-163,205,26,Missed,1,0,0,0,h,MISS Meeks 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,13,0021201228
+15,PT10M14.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,14,0021201228
+16,PT10M09.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-175,181,25,Missed,1,0,0,0,v,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,15,0021201228
+17,PT10M07.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,16,0021201228
+18,PT09M53.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,75,239,25,Made,1,6,5,11,h,Meeks 25' 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,0,3,17,0021201228
+19,PT09M47.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,4,19,2,Made,1,6,7,13,v,Parsons 2' Alley Oop Layup (2 PTS) (Lin 1 AST),Made Shot,Alley Oop Layup shot,0,2,18,0021201228
+20,PT09M37.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Rockets T.Foul (Def. 3 Sec Smith ),Foul,Defense 3 Second,0,0,19,0021201228
+21,PT09M37.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,7,7,14,h,Meeks Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,20,0021201228
+23,PT09M26.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,-27,17,3,Missed,1,0,0,0,h,MISS Gasol 3' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,21,0021201228
+24,PT09M24.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,22,0021201228
+25,PT09M24.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,-242,52,25,Missed,1,0,0,0,h,MISS Meeks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,23,0021201228
+26,PT09M24.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,24,0021201228
+27,PT09M24.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons L.B.FOUL (P1.T1),Foul,Loose Ball,0,0,25,0021201228
+28,PT09M12.00S,1,1610612747,LAL,2581,Blake,S. Blake,225,-8,0,Made,1,10,7,17,h,Blake  3PT Jump Shot (3 PTS) (World Peace 1 AST),Made Shot,Jump Shot,0,3,26,0021201228
+29,PT08M59.00S,1,1610612745,HOU,202962,Smith,G. Smith,-29,11,3,Made,1,10,9,19,v,Smith 3' Slam Dunk (2 PTS) (Lin 2 AST),Made Shot,Slam Dunk Shot,0,2,27,0021201228
+30,PT08M33.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,56,242,25,Missed,1,0,0,0,h,MISS Meeks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,28,0021201228
+31,PT08M32.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,29,0021201228
+32,PT08M28.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-8,14,2,Made,1,10,11,21,v,Parsons 2' Alley Oop Layup (4 PTS) (Harden 1 AST),Made Shot,Alley Oop Layup shot,0,2,30,0021201228
+33,PT08M15.00S,1,1610612747,LAL,2581,Blake,S. Blake,28,41,5,Missed,1,0,0,0,h,MISS Blake 5' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,31,0021201228
+34,PT08M11.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,32,0021201228
+35,PT07M56.00S,1,1610612745,HOU,202391,Lin,J. Lin,-160,224,28,Made,1,10,14,24,v,Lin 28' 3PT Jump Shot (3 PTS) (Parsons 1 AST),Made Shot,Jump Shot,0,3,33,0021201228
+36,PT07M39.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,10,42,4,Missed,1,0,0,0,h,MISS World Peace 4' Jump Shot,Missed Shot,Jump Shot,0,2,34,0021201228
+37,PT07M38.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,-4,19,2,Missed,1,0,0,0,h,MISS Gasol 2' Tip Shot,Missed Shot,Tip Shot,0,2,36,0021201228
+38,PT07M38.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,35,0021201228
+39,PT07M37.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,-4,6,1,Made,1,12,14,26,h,Gasol 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,38,0021201228
+40,PT07M37.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,37,0021201228
+41,PT07M25.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,12,263,26,Missed,1,0,0,0,v,MISS Parsons 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,39,0021201228
+42,PT07M24.00S,1,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,40,0021201228
+43,PT07M18.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,69,162,18,Missed,1,0,0,0,h,MISS Gasol 18' Jump Shot,Missed Shot,Jump Shot,0,2,41,0021201228
+44,PT07M18.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,42,0021201228
+45,PT07M18.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik L.B.FOUL (P1.T2),Foul,Loose Ball,0,0,43,0021201228
+49,PT07M00.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,226,4,0,Missed,1,0,0,0,h,MISS World Peace  3PT Jump Shot,Missed Shot,Jump Shot,0,3,44,0021201228
+50,PT06M59.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,45,0021201228
+51,PT06M50.00S,1,1610612745,HOU,202962,Smith,G. Smith,-41,39,6,Missed,1,0,0,0,v,MISS Smith 6' Hook Shot,Missed Shot,Hook Shot,0,2,46,0021201228
+51,PT06M50.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (1 BLK),,,0,2,47,0021201228
+52,PT06M47.00S,1,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,48,0021201228
+53,PT06M37.00S,1,1610612747,LAL,2581,Blake,S. Blake,-120,238,27,Missed,1,0,0,0,h,MISS Blake 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,49,0021201228
+54,PT06M33.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,50,0021201228
+55,PT06M26.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,47,5,Made,1,12,16,28,v,Lin 5' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,0,2,51,0021201228
+56,PT06M03.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,52,0021201228
+56,PT06M03.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons STEAL (1 STL),,,0,0,53,0021201228
+57,PT05M58.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,2,20,2,Missed,1,0,0,0,v,MISS Parsons 2' Layup,Missed Shot,Layup Shot,0,2,54,0021201228
+58,PT05M55.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,11,1,Made,1,12,18,30,v,Harden 1' Putback Dunk (7 PTS),Made Shot,Putback Dunk Shot,0,2,56,0021201228
+59,PT05M55.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,55,0021201228
+60,PT05M52.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,57,0021201228
+62,PT05M52.00S,1,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Jamison FOR Gasol,Substitution,,0,0,58,0021201228
+63,PT05M52.00S,1,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,SUB: Morris FOR Meeks,Substitution,,0,0,59,0021201228
+64,PT05M52.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Jones FOR Smith,Substitution,,0,0,60,0021201228
+65,PT05M37.00S,1,1610612747,LAL,2730,Howard,D. Howard,-21,25,3,Made,1,14,18,32,h,Howard 3' Hook Shot (2 PTS) (Jamison 1 AST),Made Shot,Hook Shot,0,2,61,0021201228
+66,PT05M15.00S,1,1610612745,HOU,201935,Harden,J. Harden,122,181,22,Missed,1,0,0,0,v,MISS Harden 22' Jump Shot,Missed Shot,Jump Shot,0,2,62,0021201228
+67,PT05M14.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,63,0021201228
+68,PT05M10.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,64,0021201228
+68,PT05M10.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace STEAL (1 STL),,,0,0,65,0021201228
+69,PT04M58.00S,1,1610612747,LAL,2730,Howard,D. Howard,18,0,2,Made,1,16,18,34,h,Howard 2' Reverse Layup (4 PTS) (Blake 1 AST),Made Shot,Reverse Layup Shot,0,2,66,0021201228
+70,PT04M38.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,67,0021201228
+71,PT04M20.00S,1,1610612747,LAL,1712,Jamison,A. Jamison,136,213,25,Missed,1,0,0,0,h,MISS Jamison 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,68,0021201228
+72,PT04M18.00S,1,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,69,0021201228
+73,PT04M13.00S,1,1610612747,LAL,2581,Blake,S. Blake,-239,60,25,Missed,1,0,0,0,h,MISS Blake 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,70,0021201228
+74,PT04M12.00S,1,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,71,0021201228
+75,PT04M07.00S,1,1610612747,LAL,2581,Blake,S. Blake,-243,-11,24,Made,1,19,18,37,h,Blake 24' 3PT Jump Shot (6 PTS) (World Peace 2 AST),Made Shot,Jump Shot,0,3,72,0021201228
+76,PT03M54.00S,1,1610612745,HOU,202391,Lin,J. Lin,32,15,4,Missed,1,0,0,0,v,MISS Lin 4' Layup,Missed Shot,Layup Shot,0,2,73,0021201228
+76,PT03M54.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (2 BLK),,,0,2,74,0021201228
+77,PT03M53.00S,1,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,75,0021201228
+78,PT03M40.00S,1,1610612747,LAL,2730,Howard,D. Howard,6,19,2,Missed,1,0,0,0,h,MISS Howard 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,76,0021201228
+79,PT03M36.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,77,0021201228
+80,PT03M18.00S,1,1610612745,HOU,201600,Asik,O. Asik,-13,77,8,Missed,1,0,0,0,v,MISS Asik 8' Hook Shot,Missed Shot,Hook Shot,0,2,78,0021201228
+81,PT03M16.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,79,0021201228
+82,PT02M54.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,-205,160,26,Missed,1,0,0,0,h,MISS World Peace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,80,0021201228
+83,PT02M53.00S,1,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,81,0021201228
+84,PT02M52.00S,1,1610612747,LAL,1712,Jamison,A. Jamison,-13,20,2,Made,1,21,18,39,h,Jamison 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,82,0021201228
+85,PT02M42.00S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,83,0021201228
+87,PT02M42.00S,1,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,SUB: Clark FOR World Peace,Substitution,,0,0,84,0021201228
+88,PT02M42.00S,1,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,SUB: Goudelock FOR Blake,Substitution,,0,0,85,0021201228
+89,PT02M42.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Parsons,Substitution,,0,0,86,0021201228
+90,PT02M42.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Beverley FOR Lin,Substitution,,0,0,87,0021201228
+91,PT02M28.00S,1,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P1.T2),Foul,Shooting,0,0,88,0021201228
+92,PT02M28.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,21,19,40,v,Harden Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,89,0021201228
+94,PT02M28.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,21,20,41,v,Harden Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,90,0021201228
+96,PT02M12.00S,1,1610612747,LAL,2730,Howard,D. Howard,50,25,6,Missed,1,0,0,0,h,MISS Howard 6' Jump Shot,Missed Shot,Jump Shot,0,2,91,0021201228
+97,PT02M11.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,92,0021201228
+98,PT02M02.00S,1,1610612745,HOU,2568,Delfino,C. Delfino,72,119,14,Missed,1,0,0,0,v,MISS Delfino 14' Jump Shot,Missed Shot,Jump Shot,0,2,93,0021201228
+99,PT02M00.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,94,0021201228
+100,PT01M36.00S,1,1610612747,LAL,201947,Clark,E. Clark,0,0,0,,0,0,0,0,h,Clark Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,95,0021201228
+100,PT01M36.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,Jones STEAL (1 STL),,,0,0,96,0021201228
+101,PT01M17.00S,1,1610612745,HOU,201935,Harden,J. Harden,-57,258,26,Made,1,21,23,44,v,Harden 26' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,3,97,0021201228
+102,PT01M03.00S,1,1610612747,LAL,1712,Jamison,A. Jamison,-45,268,27,Missed,1,0,0,0,h,MISS Jamison 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,98,0021201228
+103,PT01M02.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,99,0021201228
+104,PT00M58.60S,1,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P2.T3),Foul,Shooting,0,0,100,0021201228
+105,PT00M58.60S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,101,0021201228
+106,PT00M58.60S,1,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0,102,0021201228
+107,PT00M58.60S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,21,24,45,v,Harden Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,103,0021201228
+110,PT00M48.90S,1,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,104,0021201228
+110,PT00M48.90S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik STEAL (1 STL),,,0,0,105,0021201228
+111,PT00M44.80S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,106,0021201228
+113,PT00M30.90S,1,1610612747,LAL,202726,Goudelock,A. Goudelock,48,129,14,Missed,1,0,0,0,h,MISS Goudelock 14' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,107,0021201228
+114,PT00M29.90S,1,1610612747,LAL,202726,Goudelock,A. Goudelock,0,0,0,,0,0,0,0,h,Goudelock REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,108,0021201228
+115,PT00M20.90S,1,1610612747,LAL,201947,Clark,E. Clark,159,195,25,Missed,1,0,0,0,h,MISS Clark 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,109,0021201228
+116,PT00M19.70S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,110,0021201228
+117,PT00M02.00S,1,1610612745,HOU,201935,Harden,J. Harden,-38,265,27,Missed,1,0,0,0,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,111,0021201228
+118,PT00M00.40S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,112,0021201228
+119,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,24,45, ,End of 1st Period (11:05 PM EST),period,end,0,0,113,0021201228
+121,PT12M00.00S,2,0,,0,,,0,0,0,,0,21,24,45, ,Start of 2nd Period (11:08 PM EST),period,start,0,0,114,0021201228
+122,PT11M41.00S,2,1610612745,HOU,202962,Smith,G. Smith,-10,15,2,Made,1,21,26,47,v,Smith 2' Driving Layup (4 PTS) (Jones 1 AST),Made Shot,Driving Layup Shot,0,2,115,0021201228
+123,PT11M16.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,129,127,18,Missed,1,0,0,0,h,MISS Gasol 18' Jump Shot,Missed Shot,Jump Shot,0,2,116,0021201228
+124,PT11M15.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,117,0021201228
+125,PT11M04.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,-240,-6,24,Missed,1,0,0,0,v,MISS Garcia 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,118,0021201228
+126,PT11M03.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,119,0021201228
+127,PT10M53.00S,2,1610612747,LAL,202726,Goudelock,A. Goudelock,-68,159,17,Missed,1,0,0,0,h,MISS Goudelock 17' Jump Shot,Missed Shot,Jump Shot,0,2,120,0021201228
+128,PT10M52.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,121,0021201228
+131,PT10M43.00S,2,1610612747,LAL,201947,Clark,E. Clark,0,0,0,,0,0,0,0,h,Clark S.FOUL (P1.T1),Foul,Shooting,0,0,122,0021201228
+132,PT10M43.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,v,MISS Garcia Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,123,0021201228
+133,PT10M43.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,0,124,0021201228
+134,PT10M43.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,21,27,48,v,Garcia Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,125,0021201228
+136,PT10M43.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,21,28,49,v,Garcia Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,126,0021201228
+138,PT10M30.00S,2,1610612747,LAL,1712,Jamison,A. Jamison,-122,238,27,Made,1,24,28,52,h,Jamison 27' 3PT Jump Shot (5 PTS) (Morris 1 AST),Made Shot,Jump Shot,0,3,127,0021201228
+139,PT10M22.00S,2,1610612745,HOU,203093,Jones,T. Jones,-16,134,13,Made,1,24,30,54,v,Jones 13' Jump Shot (2 PTS) (Beverley 1 AST),Made Shot,Jump Shot,0,2,128,0021201228
+140,PT10M07.00S,2,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,Jones S.FOUL (P1.T1),Foul,Shooting,0,0,129,0021201228
+141,PT10M07.00S,2,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,MISS Jamison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,130,0021201228
+142,PT10M07.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,131,0021201228
+143,PT10M07.00S,2,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,MISS Jamison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,132,0021201228
+145,PT10M06.00S,2,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,133,0021201228
+146,PT09M45.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-59,82,10,Missed,1,0,0,0,v,MISS Beverley 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,134,0021201228
+147,PT09M42.00S,2,1610612747,LAL,201947,Clark,E. Clark,0,0,0,,0,0,0,0,h,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,135,0021201228
+148,PT09M41.00S,2,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris OFF.Foul (P3),Foul,Offensive,0,0,136,0021201228
+149,PT09M41.00S,2,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris Foul Turnover (P1.T4),Turnover,Foul,0,0,137,0021201228
+150,PT09M41.00S,2,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,SUB: Blake FOR Morris,Substitution,,0,0,138,0021201228
+152,PT09M30.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-146,211,26,Missed,1,0,0,0,v,MISS Beverley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,139,0021201228
+153,PT09M28.00S,2,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,140,0021201228
+154,PT09M14.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino S.FOUL (P1.T2),Foul,Shooting,0,0,141,0021201228
+155,PT09M14.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,25,30,55,h,Gasol Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,142,0021201228
+157,PT09M14.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,MISS Gasol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,143,0021201228
+159,PT09M12.00S,2,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,144,0021201228
+160,PT09M01.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,43,255,26,Missed,1,0,0,0,v,MISS Delfino 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,145,0021201228
+161,PT09M00.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-13,15,2,Made,1,25,32,57,v,Beverley 2' Tip Shot (2 PTS),Made Shot,Tip Shot,0,2,147,0021201228
+162,PT09M00.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,146,0021201228
+163,PT08M38.00S,2,1610612747,LAL,2581,Blake,S. Blake,1,31,3,Missed,1,0,0,0,h,MISS Blake 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,0,2,148,0021201228
+164,PT08M34.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,149,0021201228
+165,PT08M32.00S,2,1610612745,HOU,203093,Jones,T. Jones,-5,25,3,Made,1,25,34,59,v,Jones 3' Driving Layup (4 PTS) (Beverley 2 AST),Made Shot,Driving Layup Shot,0,2,150,0021201228
+166,PT08M30.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,151,0021201228
+168,PT08M30.00S,2,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,SUB: Howard FOR Jamison,Substitution,,0,0,152,0021201228
+169,PT08M30.00S,2,1610612747,LAL,201947,Clark,E. Clark,0,0,0,,0,0,0,0,h,SUB: World Peace FOR Clark,Substitution,,0,0,153,0021201228
+170,PT08M30.00S,2,1610612747,LAL,202726,Goudelock,A. Goudelock,0,0,0,,0,0,0,0,h,SUB: Meeks FOR Goudelock,Substitution,,0,0,154,0021201228
+171,PT08M17.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,v,Garcia P.FOUL (P1.T3),Foul,Personal,0,0,155,0021201228
+172,PT08M03.00S,2,1610612747,LAL,2581,Blake,S. Blake,100,242,26,Made,1,28,34,62,h,Blake 26' 3PT Jump Shot (9 PTS) (World Peace 3 AST),Made Shot,Jump Shot,0,3,156,0021201228
+174,PT07M42.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,-15,189,19,Made,1,28,36,64,v,Garcia 19' Jump Shot (4 PTS) (Jones 2 AST),Made Shot,Jump Shot,0,2,157,0021201228
+175,PT07M20.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,-13,37,4,Made,1,30,36,66,h,Gasol 4' Hook Shot (5 PTS) (Blake 2 AST),Made Shot,Hook Shot,0,2,158,0021201228
+177,PT07M11.00S,2,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,SUB: Harden FOR Jones,Substitution,,0,0,159,0021201228
+178,PT07M11.00S,2,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Asik FOR Delfino,Substitution,,0,0,160,0021201228
+179,PT07M03.00S,2,1610612745,HOU,201600,Asik,O. Asik,9,17,2,Missed,1,0,0,0,v,MISS Asik 2' Layup,Missed Shot,Layup Shot,0,2,161,0021201228
+180,PT07M00.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,162,0021201228
+181,PT06M44.00S,2,1610612747,LAL,1897,World Peace,M. World Peace,189,1,19,Made,1,32,36,68,h,World Peace 19' Jump Shot (5 PTS) (Meeks 1 AST),Made Shot,Jump Shot,0,2,163,0021201228
+182,PT06M23.00S,2,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake S.FOUL (P1.T2),Foul,Shooting,0,0,164,0021201228
+183,PT06M23.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,32,37,69,v,Harden Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,165,0021201228
+185,PT06M23.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,v,SUB: Parsons FOR Garcia,Substitution,,0,0,166,0021201228
+186,PT06M23.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Lin FOR Beverley,Substitution,,0,0,167,0021201228
+187,PT06M23.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,32,38,70,v,Harden Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,168,0021201228
+189,PT06M10.00S,2,1610612747,LAL,2581,Blake,S. Blake,-160,116,20,Made,1,34,38,72,h,Blake 20' Jump Shot (11 PTS) (Howard 2 AST),Made Shot,Jump Shot,0,2,169,0021201228
+190,PT05M53.00S,2,1610612745,HOU,202391,Lin,J. Lin,170,181,25,Missed,1,0,0,0,v,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,170,0021201228
+191,PT05M52.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,171,0021201228
+192,PT05M47.00S,2,1610612745,HOU,202391,Lin,J. Lin,103,244,26,Missed,1,0,0,0,v,MISS Lin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,172,0021201228
+193,PT05M45.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,173,0021201228
+194,PT05M38.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden P.FOUL (P1.T4),Foul,Personal,0,0,174,0021201228
+195,PT05M38.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,175,0021201228
+197,PT05M23.00S,2,1610612747,LAL,2730,Howard,D. Howard,12,72,7,Missed,1,0,0,0,h,MISS Howard 7' Hook Shot,Missed Shot,Hook Shot,0,2,176,0021201228
+198,PT05M20.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,177,0021201228
+199,PT05M16.00S,2,1610612745,HOU,201935,Harden,J. Harden,-23,28,4,Missed,1,0,0,0,v,MISS Harden 4' Jump Shot,Missed Shot,Jump Shot,0,2,178,0021201228
+199,PT05M16.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (3 BLK),,,0,2,179,0021201228
+200,PT05M16.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,180,0021201228
+201,PT05M09.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0,181,0021201228
+202,PT04M57.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,59,132,14,Made,1,36,38,74,h,Gasol 14' Jump Shot (7 PTS),Made Shot,Jump Shot,0,2,182,0021201228
+203,PT04M42.00S,2,1610612745,HOU,201600,Asik,O. Asik,-23,12,3,Made,1,36,40,76,v,Asik 3' Slam Dunk (2 PTS) (Lin 3 AST),Made Shot,Slam Dunk Shot,0,2,183,0021201228
+204,PT04M24.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,7,189,19,Missed,1,0,0,0,h,MISS Gasol 19' Jump Shot,Missed Shot,Jump Shot,0,2,184,0021201228
+205,PT04M23.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,185,0021201228
+206,PT04M11.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-179,113,21,Made,1,36,42,78,v,Parsons 21' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,186,0021201228
+207,PT03M45.00S,2,1610612747,LAL,2581,Blake,S. Blake,130,-16,13,Missed,1,0,0,0,h,MISS Blake 13' Jump Shot,Missed Shot,Jump Shot,0,2,187,0021201228
+208,PT03M43.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,188,0021201228
+209,PT03M35.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,189,0021201228
+209,PT03M35.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard STEAL (1 STL),,,0,0,190,0021201228
+210,PT03M31.00S,2,1610612747,LAL,201975,Meeks,J. Meeks,-5,23,2,Missed,1,0,0,0,h,MISS Meeks 2' Layup,Missed Shot,Layup Shot,0,2,191,0021201228
+211,PT03M31.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,192,0021201228
+212,PT03M16.00S,2,1610612745,HOU,201935,Harden,J. Harden,54,242,25,Made,1,36,45,81,v,Harden 25' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,0,3,193,0021201228
+213,PT03M00.00S,2,1610612747,LAL,2730,Howard,D. Howard,43,17,5,Missed,1,0,0,0,h,MISS Howard 5' Hook Shot,Missed Shot,Hook Shot,0,2,194,0021201228
+214,PT02M58.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,-5,15,2,Made,1,38,45,83,h,Gasol 2' Tip Shot (9 PTS),Made Shot,Tip Shot,0,2,196,0021201228
+215,PT02M58.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,195,0021201228
+216,PT02M43.00S,2,1610612745,HOU,201600,Asik,O. Asik,-23,20,3,Made,1,38,47,85,v,Asik 3' Dunk (4 PTS) (Lin 4 AST),Made Shot,Dunk Shot,0,2,197,0021201228
+217,PT02M23.00S,2,1610612747,LAL,2581,Blake,S. Blake,-26,19,3,Made,1,40,47,87,h,Blake 3' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,0,2,198,0021201228
+218,PT01M59.00S,2,1610612745,HOU,202391,Lin,J. Lin,236,-16,24,Missed,1,0,0,0,v,MISS Lin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,199,0021201228
+219,PT01M58.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,200,0021201228
+220,PT01M44.00S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,201,0021201228
+221,PT01M44.00S,2,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,202,0021201228
+224,PT01M27.00S,2,1610612745,HOU,201935,Harden,J. Harden,-2,195,20,Missed,1,0,0,0,v,MISS Harden 20' Jump Shot,Missed Shot,Jump Shot,0,2,203,0021201228
+225,PT01M26.00S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,204,0021201228
+226,PT01M11.00S,2,1610612747,LAL,201975,Meeks,J. Meeks,-172,219,28,Missed,1,0,0,0,h,MISS Meeks 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,205,0021201228
+227,PT01M10.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,206,0021201228
+228,PT01M05.00S,2,1610612745,HOU,202962,Smith,G. Smith,-5,12,1,Made,1,40,49,89,v,Smith 1' Alley Oop Dunk (6 PTS) (Lin 5 AST),Made Shot,Alley Oop Dunk Shot,0,2,207,0021201228
+229,PT00M50.90S,2,1610612747,LAL,2730,Howard,D. Howard,-51,25,6,Missed,1,0,0,0,h,MISS Howard 6' Hook Shot,Missed Shot,Hook Shot,0,2,208,0021201228
+230,PT00M47.70S,2,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,209,0021201228
+231,PT00M44.90S,2,1610612745,HOU,202391,Lin,J. Lin,-10,9,1,Missed,1,0,0,0,v,MISS Lin 1' Layup,Missed Shot,Layup Shot,0,2,210,0021201228
+232,PT00M39.90S,2,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,211,0021201228
+233,PT00M29.90S,2,1610612747,LAL,1897,World Peace,M. World Peace,75,247,26,Missed,1,0,0,0,h,MISS World Peace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,212,0021201228
+234,PT00M28.90S,2,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,213,0021201228
+235,PT00M28.50S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin P.FOUL (P1.PN),Foul,Personal,0,0,214,0021201228
+236,PT00M28.50S,2,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,41,49,90,h,World Peace Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,215,0021201228
+238,PT00M28.50S,2,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,42,49,91,h,World Peace Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,216,0021201228
+240,PT00M10.90S,2,1610612745,HOU,201935,Harden,J. Harden,26,268,27,Missed,1,0,0,0,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,217,0021201228
+241,PT00M09.90S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,218,0021201228
+242,PT00M06.10S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden P.FOUL (P2.PN),Foul,Personal,0,0,219,0021201228
+243,PT00M06.10S,2,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,43,49,92,h,Blake Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,220,0021201228
+246,PT00M06.10S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Asik,Substitution,,0,0,221,0021201228
+248,PT00M06.10S,2,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Morris FOR Gasol,Substitution,,0,0,222,0021201228
+249,PT00M06.10S,2,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,44,49,93,h,Blake Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,223,0021201228
+251,PT00M01.20S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P1.T3),Foul,Shooting,0,0,224,0021201228
+252,PT00M01.20S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,44,50,94,v,Lin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,225,0021201228
+254,PT00M01.20S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,226,0021201228
+256,PT00M01.20S,2,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,227,0021201228
+257,PT00M00.70S,2,1610612747,LAL,2730,Howard,D. Howard,1,802,80,Missed,1,0,0,0,h,MISS Howard 80' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,228,0021201228
+258,PT00M00.00S,2,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,229,0021201228
+259,PT00M00.00S,2,0,,0,,,0,0,0,,0,44,50,94, ,End of 2nd Period (11:39 PM EST),period,end,0,0,230,0021201228
+261,PT12M00.00S,3,0,,0,,,0,0,0,,0,44,50,94, ,Start of 3rd Period (11:58 PM EST),period,start,0,0,231,0021201228
+262,PT11M37.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Bad Pass Turnover (P4.T6),Turnover,Bad Pass,0,0,232,0021201228
+262,PT11M37.00S,3,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks STEAL (1 STL),,,0,0,233,0021201228
+263,PT11M28.00S,3,1610612747,LAL,2581,Blake,S. Blake,31,145,15,Missed,1,0,0,0,h,MISS Blake 15' Jump Shot,Missed Shot,Jump Shot,0,2,234,0021201228
+264,PT11M26.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,235,0021201228
+265,PT11M23.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,14,1,Made,1,44,52,96,v,Parsons 1' Driving Dunk (8 PTS) (Harden 2 AST),Made Shot,Driving Dunk Shot,0,2,236,0021201228
+266,PT11M00.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,-160,6,16,Missed,1,0,0,0,h,MISS World Peace 16' Jump Shot,Missed Shot,Jump Shot,0,2,237,0021201228
+267,PT10M52.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,238,0021201228
+268,PT10M52.00S,3,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks S.FOUL (P2.T1),Foul,Shooting,0,0,239,0021201228
+269,PT10M52.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,44,53,97,v,Lin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,240,0021201228
+271,PT10M52.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,241,0021201228
+273,PT10M51.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,242,0021201228
+274,PT10M33.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,-130,93,16,Missed,1,0,0,0,h,MISS World Peace 16' Jump Shot,Missed Shot,Jump Shot,0,2,243,0021201228
+275,PT10M32.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,244,0021201228
+277,PT10M08.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,190,184,26,Missed,1,0,0,0,v,MISS Parsons 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,245,0021201228
+278,PT10M07.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,246,0021201228
+279,PT09M48.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,234,-14,0,Made,1,47,53,100,h,World Peace  3PT Jump Shot (10 PTS) (Blake 3 AST),Made Shot,Jump Shot,0,3,247,0021201228
+280,PT09M33.00S,3,1610612745,HOU,201935,Harden,J. Harden,-120,241,27,Missed,1,0,0,0,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,248,0021201228
+281,PT09M32.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,249,0021201228
+282,PT09M27.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace P.FOUL (P1.T2),Foul,Personal,0,0,250,0021201228
+283,PT09M11.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-168,206,27,Made,1,47,56,103,v,Parsons 27' 3PT Jump Shot (11 PTS) (Smith 1 AST),Made Shot,Jump Shot,0,3,251,0021201228
+284,PT08M56.00S,3,1610612747,LAL,2730,Howard,D. Howard,10,3,1,Made,1,49,56,105,h,Howard 1' Layup (6 PTS) (Gasol 2 AST),Made Shot,Layup Shot,0,2,252,0021201228
+285,PT08M34.00S,3,1610612745,HOU,201935,Harden,J. Harden,-180,228,29,Missed,1,0,0,0,v,MISS Harden 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,253,0021201228
+286,PT08M33.00S,3,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,254,0021201228
+287,PT08M12.00S,3,1610612747,LAL,2730,Howard,D. Howard,-41,23,5,Made,1,51,56,107,h,Howard 5' Running Hook Shot (8 PTS) (Blake 4 AST),Made Shot,Running Hook Shot,0,2,255,0021201228
+288,PT07M48.00S,3,1610612745,HOU,202391,Lin,J. Lin,88,-3,9,Made,1,51,58,109,v,Lin 9' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,0,2,256,0021201228
+289,PT07M35.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,-18,22,3,Made,1,53,58,111,h,World Peace 3' Reverse Layup (12 PTS) (Gasol 3 AST),Made Shot,Reverse Layup Shot,0,2,257,0021201228
+290,PT07M35.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons S.FOUL (P2.T1),Foul,Shooting,0,0,258,0021201228
+291,PT07M35.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,MISS World Peace Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,259,0021201228
+293,PT07M34.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,260,0021201228
+294,PT07M21.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,World Peace P.FOUL (P2.T3),Foul,Personal,0,0,261,0021201228
+295,PT07M14.00S,3,1610612745,HOU,202391,Lin,J. Lin,-130,235,27,Made,1,53,61,114,v,Lin 27' 3PT Jump Shot (12 PTS) (Harden 3 AST),Made Shot,Jump Shot,0,3,262,0021201228
+296,PT06M59.00S,3,1610612747,LAL,2581,Blake,S. Blake,20,41,5,Missed,1,0,0,0,h,MISS Blake 5' Jump Shot,Missed Shot,Jump Shot,0,2,263,0021201228
+296,PT06M59.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith BLOCK (2 BLK),,,0,2,264,0021201228
+297,PT06M57.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,265,0021201228
+298,PT06M54.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,22,2,Made,1,53,63,116,v,Parsons 2' Driving Layup (13 PTS) (Lin 6 AST),Made Shot,Driving Layup Shot,0,2,266,0021201228
+299,PT06M36.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith S.FOUL (P1.T2),Foul,Shooting,0,0,267,0021201228
+300,PT06M36.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,268,0021201228
+301,PT06M36.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,269,0021201228
+302,PT06M36.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Jamison FOR Gasol,Substitution,,0,0,270,0021201228
+303,PT06M36.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,271,0021201228
+305,PT06M34.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,272,0021201228
+306,PT06M24.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,273,0021201228
+306,PT06M24.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard STEAL (2 STL),,,0,0,274,0021201228
+307,PT06M24.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin P.FOUL (P2.T3),Foul,Personal,0,0,275,0021201228
+308,PT06M10.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,-27,50,6,Missed,1,0,0,0,h,MISS World Peace 6' Jump Shot,Missed Shot,Jump Shot,0,2,276,0021201228
+308,PT06M10.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith BLOCK (3 BLK),,,0,2,277,0021201228
+309,PT06M10.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,Jump Ball World Peace vs. Smith: Tip to Asik,Jump Ball,,0,0,279,0021201228
+310,PT06M10.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,278,0021201228
+311,PT05M55.00S,3,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake P.FOUL (P2.T4),Foul,Personal,0,0,280,0021201228
+312,PT05M55.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,281,0021201228
+314,PT05M55.00S,3,1610612747,LAL,1897,World Peace,M. World Peace,0,0,0,,0,0,0,0,h,SUB: Morris FOR World Peace,Substitution,,0,0,282,0021201228
+315,PT05M55.00S,3,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,SUB: Clark FOR Meeks,Substitution,,0,0,283,0021201228
+316,PT05M40.00S,3,1610612745,HOU,202962,Smith,G. Smith,-16,78,8,Missed,1,0,0,0,v,MISS Smith 8' Hook Shot,Missed Shot,Hook Shot,0,2,284,0021201228
+317,PT05M38.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,285,0021201228
+318,PT05M15.00S,3,1610612747,LAL,2581,Blake,S. Blake,-172,201,26,Missed,1,0,0,0,h,MISS Blake 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,286,0021201228
+319,PT05M15.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,287,0021201228
+320,PT05M15.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik L.B.FOUL (P2.T4),Foul,Loose Ball,0,0,288,0021201228
+321,PT04M58.00S,3,1610612747,LAL,1712,Jamison,A. Jamison,7,4,1,Made,1,55,63,118,h,Jamison 1' Driving Layup (7 PTS) (Blake 5 AST),Made Shot,Driving Layup Shot,0,2,289,0021201228
+322,PT04M56.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,290,0021201228
+323,PT04M43.00S,3,1610612745,HOU,201935,Harden,J. Harden,-10,39,4,Missed,1,0,0,0,v,MISS Harden 4' Jump Shot,Missed Shot,Jump Shot,0,2,291,0021201228
+324,PT04M42.00S,3,1610612745,HOU,201600,Asik,O. Asik,-10,17,2,Missed,1,0,0,0,v,MISS Asik 2' Tip Shot,Missed Shot,Tip Shot,0,2,293,0021201228
+325,PT04M42.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,292,0021201228
+326,PT04M41.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,294,0021201228
+327,PT04M41.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,295,0021201228
+328,PT04M24.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard 3 Second Violation Turnover (P2.T6),Turnover,3 Second Violation,0,0,296,0021201228
+329,PT04M24.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,SUB: Beverley FOR Lin,Substitution,,0,0,297,0021201228
+330,PT04M00.00S,3,1610612745,HOU,201935,Harden,J. Harden,111,230,26,Made,1,55,66,121,v,Harden 26' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,3,298,0021201228
+331,PT03M47.00S,3,1610612747,LAL,1712,Jamison,A. Jamison,70,246,26,Missed,1,0,0,0,h,MISS Jamison 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,299,0021201228
+332,PT03M46.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,300,0021201228
+333,PT03M36.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith Traveling Turnover (P1.T9),Turnover,Traveling,0,0,301,0021201228
+334,PT03M36.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Smith,Substitution,,0,0,302,0021201228
+335,PT03M28.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley P.FOUL (P1.PN),Foul,Personal,0,0,303,0021201228
+336,PT03M28.00S,3,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,56,66,122,h,Blake Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,304,0021201228
+337,PT03M28.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,SUB: Gasol FOR Howard,Substitution,,0,0,305,0021201228
+338,PT03M28.00S,3,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,57,66,123,h,Blake Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,306,0021201228
+340,PT03M07.00S,3,1610612745,HOU,2568,Delfino,C. Delfino,-243,63,25,Missed,1,0,0,0,v,MISS Delfino 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,307,0021201228
+341,PT03M06.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,308,0021201228
+342,PT02M54.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,-152,4,15,Made,1,59,66,125,h,Gasol 15' Jump Shot (11 PTS) (Morris 2 AST),Made Shot,Jump Shot,0,2,309,0021201228
+343,PT02M33.00S,3,1610612745,HOU,201935,Harden,J. Harden,-35,285,29,Missed,1,0,0,0,v,MISS Harden 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,310,0021201228
+344,PT02M32.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,311,0021201228
+345,PT02M11.00S,3,1610612747,LAL,2581,Blake,S. Blake,241,-10,24,Missed,1,0,0,0,h,MISS Blake 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,312,0021201228
+346,PT02M10.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,313,0021201228
+348,PT02M09.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Traveling Turnover (P5.T10),Turnover,Traveling,0,0,314,0021201228
+349,PT02M09.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,315,0021201228
+351,PT02M09.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Smith FOR Asik,Substitution,,0,0,316,0021201228
+352,PT01M45.00S,3,1610612747,LAL,2200,Gasol,P. Gasol,103,9,10,Missed,1,0,0,0,h,MISS Gasol 10' Jump Shot,Missed Shot,Jump Shot,0,2,317,0021201228
+353,PT01M44.00S,3,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,318,0021201228
+354,PT01M44.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith L.B.FOUL (P2.PN),Foul,Loose Ball,0,0,319,0021201228
+355,PT01M44.00S,3,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,60,66,126,h,Jamison Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,320,0021201228
+357,PT01M44.00S,3,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,61,66,127,h,Jamison Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,321,0021201228
+359,PT01M32.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-18,31,4,Made,1,61,68,129,v,Parsons 4' Driving Reverse Layup (15 PTS) (Delfino 1 AST),Made Shot,Driving Reverse Layup Shot,0,2,322,0021201228
+360,PT01M18.00S,3,1610612747,LAL,1712,Jamison,A. Jamison,-97,15,10,Missed,1,0,0,0,h,MISS Jamison 10' Running Bank Shot,Missed Shot,Running Bank shot,0,2,323,0021201228
+361,PT01M17.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,324,0021201228
+362,PT01M15.00S,3,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris S.FOUL (P4.PN),Foul,Shooting,0,0,325,0021201228
+363,PT01M15.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,326,0021201228
+364,PT01M15.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,61,69,130,v,Harden Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,328,0021201228
+365,PT01M15.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,327,0021201228
+367,PT00M57.40S,3,1610612747,LAL,202721,Morris,D. Morris,-73,272,28,Made,1,64,69,133,h,Morris 28' 3PT Jump Shot (3 PTS) (Gasol 4 AST),Made Shot,Jump Shot,0,3,329,0021201228
+368,PT00M35.60S,3,1610612745,HOU,202718,Parsons,C. Parsons,-24,15,3,Made,1,64,71,135,v,Parsons 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,2,330,0021201228
+369,PT00M23.70S,3,1610612747,LAL,202721,Morris,D. Morris,-70,194,21,Made,1,66,71,137,h,Morris 21' Jump Shot (5 PTS) (Gasol 5 AST),Made Shot,Jump Shot,0,2,331,0021201228
+370,PT00M00.90S,3,1610612745,HOU,202718,Parsons,C. Parsons,-202,175,27,Missed,1,0,0,0,v,MISS Parsons 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,332,0021201228
+370,PT00M00.90S,3,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol BLOCK (1 BLK),,,0,3,333,0021201228
+371,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,334,0021201228
+372,PT00M00.00S,3,0,,0,,,0,0,0,,0,66,71,137, ,End of 3rd Period (12:24 AM EST),period,end,0,0,335,0021201228
+373,PT12M00.00S,4,0,,0,,,0,0,0,,0,66,71,137, ,Start of 4th Period (12:27 AM EST),period,start,0,0,336,0021201228
+374,PT11M52.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino P.FOUL (P2.T1),Foul,Personal,0,0,337,0021201228
+375,PT11M40.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,338,0021201228
+375,PT11M40.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino STEAL (1 STL),,,0,0,339,0021201228
+376,PT11M21.00S,4,1610612745,HOU,101128,Garcia,F. Garcia,114,211,24,Missed,1,0,0,0,v,MISS Garcia 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,340,0021201228
+377,PT11M20.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,341,0021201228
+378,PT11M14.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P3.T2),Foul,Personal,0,0,342,0021201228
+379,PT11M05.00S,4,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,343,0021201228
+379,PT11M05.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley STEAL (1 STL),,,0,0,344,0021201228
+380,PT11M00.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,6,11,1,Made,1,66,73,139,v,Parsons 1' Driving Dunk (19 PTS) (Delfino 2 AST),Made Shot,Driving Dunk Shot,0,2,345,0021201228
+381,PT10M50.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,Delfino P.FOUL (P3.T3),Foul,Personal,0,0,346,0021201228
+382,PT10M50.00S,4,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,SUB: Meeks FOR Morris,Substitution,,0,0,347,0021201228
+383,PT10M40.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,-16,14,2,Made,1,68,73,141,h,Jamison 2' Layup (11 PTS) (Gasol 6 AST),Made Shot,Layup Shot,0,2,348,0021201228
+384,PT10M24.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,106,230,25,Missed,1,0,0,0,v,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,349,0021201228
+385,PT10M23.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,350,0021201228
+386,PT10M17.00S,4,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,351,0021201228
+387,PT10M17.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Asik FOR Smith,Substitution,,0,0,352,0021201228
+388,PT09M59.00S,4,1610612745,HOU,201600,Asik,O. Asik,-8,17,2,Made,1,68,75,143,v,Asik 2' Slam Dunk (6 PTS) (Parsons 2 AST),Made Shot,Slam Dunk Shot,0,2,353,0021201228
+389,PT09M37.00S,4,1610612747,LAL,201975,Meeks,J. Meeks,-147,112,18,Missed,1,0,0,0,h,MISS Meeks 18' Jump Shot,Missed Shot,Jump Shot,0,2,354,0021201228
+390,PT09M35.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,355,0021201228
+391,PT09M33.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik S.FOUL (P3.T4),Foul,Shooting,0,0,356,0021201228
+392,PT09M33.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,69,75,144,h,Howard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,357,0021201228
+394,PT09M32.00S,4,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,359,0021201228
+395,PT09M21.00S,4,1610612747,LAL,2581,Blake,S. Blake,-160,228,28,Missed,1,0,0,0,h,MISS Blake 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,360,0021201228
+396,PT09M20.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,-10,19,2,Made,1,71,75,146,h,Jamison 2' Layup (13 PTS),Made Shot,Layup Shot,0,2,362,0021201228
+397,PT09M33.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,358,0021201228
+398,PT08M55.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,-209,170,27,Missed,1,0,0,0,v,MISS Beverley 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,363,0021201228
+400,PT08M55.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,364,0021201228
+401,PT08M55.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley P.FOUL (P2.PN),Foul,Personal,0,0,365,0021201228
+403,PT08M55.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,366,0021201228
+405,PT09M20.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,361,0021201228
+407,PT08M55.00S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Harden FOR Delfino,Substitution,,0,0,367,0021201228
+408,PT08M55.00S,4,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0,0,0,v,SUB: Jones FOR Garcia,Substitution,,0,0,368,0021201228
+409,PT08M55.00S,4,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,72,75,147,h,Blake Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,369,0021201228
+410,PT08M55.00S,4,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,73,75,148,h,Blake Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,370,0021201228
+412,PT08M39.00S,4,1610612745,HOU,201600,Asik,O. Asik,-29,11,3,Made,1,73,77,150,v,Asik 3' Jump Shot (8 PTS) (Parsons 3 AST),Made Shot,Jump Shot,0,2,371,0021201228
+413,PT08M39.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison S.FOUL (P1.T1),Foul,Shooting,0,0,372,0021201228
+416,PT08M39.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Violation:Lane,Violation,Lane,0,0,373,0021201228
+418,PT08M39.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,MISS Asik Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,374,0021201228
+420,PT08M38.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,375,0021201228
+421,PT08M18.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik P.FOUL (P4.PN),Foul,Personal,0,0,376,0021201228
+422,PT08M18.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,377,0021201228
+423,PT08M18.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,378,0021201228
+424,PT08M18.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,74,77,151,h,Howard Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,379,0021201228
+426,PT07M58.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,10,26,3,Made,1,74,79,153,v,Beverley 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,380,0021201228
+427,PT07M40.00S,4,1610612747,LAL,2730,Howard,D. Howard,17,25,3,Made,1,76,79,155,h,Howard 3' Hook Shot (12 PTS) (Gasol 7 AST),Made Shot,Hook Shot,0,2,381,0021201228
+428,PT07M20.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,37,85,9,Missed,1,0,0,0,v,MISS Parsons 9' Jump Shot,Missed Shot,Jump Shot,0,2,382,0021201228
+429,PT07M18.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,383,0021201228
+430,PT07M07.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,36,137,14,Made,1,78,79,157,h,Gasol 14' Jump Shot (13 PTS) (Blake 6 AST),Made Shot,Jump Shot,0,2,384,0021201228
+431,PT06M52.00S,4,1610612745,HOU,201935,Harden,J. Harden,-73,116,14,Missed,1,0,0,0,v,MISS Harden 14' Jump Shot,Missed Shot,Jump Shot,0,2,385,0021201228
+432,PT06M51.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,386,0021201228
+433,PT06M36.00S,4,1610612747,LAL,2581,Blake,S. Blake,-108,258,28,Made,1,81,79,160,h,Blake 28' 3PT Jump Shot (22 PTS) (Gasol 8 AST),Made Shot,Jump Shot,0,3,387,0021201228
+434,PT06M35.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,388,0021201228
+436,PT06M35.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0,0,0,v,SUB: Smith FOR Jones,Substitution,,0,0,389,0021201228
+437,PT06M27.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard S.FOUL (P2.T2),Foul,Shooting,0,0,390,0021201228
+438,PT06M27.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,81,80,161,v,Beverley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,391,0021201228
+440,PT06M27.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,81,81,162,v,Beverley Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,392,0021201228
+442,PT06M19.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard OFF.Foul (P3),Foul,Offensive,0,0,393,0021201228
+443,PT06M19.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Foul Turnover (P3.T10),Turnover,Foul,0,0,394,0021201228
+444,PT06M19.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Lin FOR Beverley,Substitution,,0,0,395,0021201228
+445,PT06M02.00S,4,1610612745,HOU,202391,Lin,J. Lin,24,134,14,Missed,1,0,0,0,v,MISS Lin 14' Jump Shot,Missed Shot,Jump Shot,0,2,396,0021201228
+446,PT06M01.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,397,0021201228
+447,PT05M48.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,-242,-14,24,Made,1,84,81,165,h,Jamison 24' 3PT Jump Shot (16 PTS) (Gasol 9 AST),Made Shot,Jump Shot,0,3,398,0021201228
+448,PT05M33.00S,4,1610612745,HOU,201935,Harden,J. Harden,-37,156,16,Missed,1,0,0,0,v,MISS Harden 16' Jump Shot,Missed Shot,Jump Shot,0,2,399,0021201228
+449,PT05M32.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,400,0021201228
+450,PT05M19.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,-52,53,7,Missed,1,0,0,0,h,MISS Jamison 7' Jump Shot,Missed Shot,Jump Shot,0,2,401,0021201228
+451,PT05M18.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,402,0021201228
+452,PT05M12.00S,4,1610612745,HOU,202391,Lin,J. Lin,2,36,4,Missed,1,0,0,0,v,MISS Lin 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,403,0021201228
+453,PT05M10.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:12),Rebound,Unknown,0,0,404,0021201228
+454,PT04M55.00S,4,1610612747,LAL,201975,Meeks,J. Meeks,-179,190,26,Missed,1,0,0,0,h,MISS Meeks 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,405,0021201228
+455,PT04M55.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,406,0021201228
+456,PT04M31.00S,4,1610612745,HOU,202962,Smith,G. Smith,-13,31,3,Made,1,84,83,167,v,Smith 3' Slam Dunk (8 PTS) (Lin 7 AST),Made Shot,Slam Dunk Shot,0,2,407,0021201228
+457,PT04M09.00S,4,1610612747,LAL,2581,Blake,S. Blake,-155,230,28,Missed,1,0,0,0,h,MISS Blake 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,408,0021201228
+458,PT04M08.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,409,0021201228
+459,PT03M57.00S,4,1610612745,HOU,202391,Lin,J. Lin,234,74,25,Missed,1,0,0,0,v,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,410,0021201228
+460,PT03M56.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,411,0021201228
+461,PT03M56.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik L.B.FOUL (P5.PN),Foul,Loose Ball,0,0,412,0021201228
+462,PT03M56.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,85,83,168,h,Howard Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,413,0021201228
+463,PT03M56.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,86,83,169,h,Howard Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,414,0021201228
+465,PT03M42.00S,4,1610612745,HOU,201935,Harden,J. Harden,36,279,28,Missed,1,0,0,0,v,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,415,0021201228
+466,PT03M41.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,416,0021201228
+467,PT03M29.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,417,0021201228
+467,PT03M29.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden STEAL (1 STL),,,0,0,418,0021201228
+468,PT03M26.00S,4,1610612745,HOU,201935,Harden,J. Harden,-2,28,3,Made,1,86,85,171,v,Harden 3' Driving Dunk (24 PTS),Made Shot,Driving Dunk Shot,0,2,419,0021201228
+469,PT03M10.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P4.PN),Foul,Personal,0,0,420,0021201228
+470,PT03M10.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,87,85,172,h,Gasol Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,421,0021201228
+472,PT03M10.00S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,88,85,173,h,Gasol Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,422,0021201228
+474,PT02M54.00S,4,1610612745,HOU,201935,Harden,J. Harden,-8,7,1,Missed,1,0,0,0,v,MISS Harden 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,423,0021201228
+475,PT02M51.00S,4,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,0,0,0,h,Blake REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,424,0021201228
+476,PT02M42.00S,4,1610612747,LAL,2730,Howard,D. Howard,-21,11,2,Missed,1,0,0,0,h,MISS Howard 2' Layup,Missed Shot,Layup Shot,0,2,425,0021201228
+476,PT02M42.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik BLOCK (1 BLK),,,0,2,426,0021201228
+477,PT02M39.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,427,0021201228
+478,PT02M35.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,428,0021201228
+479,PT02M35.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,429,0021201228
+482,PT02M10.00S,4,1610612747,LAL,1712,Jamison,A. Jamison,-35,31,5,Missed,1,0,0,0,h,MISS Jamison 5' Jump Shot,Missed Shot,Jump Shot,0,2,430,0021201228
+483,PT02M09.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,431,0021201228
+484,PT01M58.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons S.FOUL (P3.PN),Foul,Shooting,0,0,432,0021201228
+485,PT01M58.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,433,0021201228
+486,PT01M58.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,434,0021201228
+487,PT01M58.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,435,0021201228
+489,PT01M56.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,436,0021201228
+491,PT01M41.00S,4,0,,490,,,0,0,0,,0,0,0,0, ,Overturn Ruling,Instant Replay,Overturn Ruling,0,0,437,0021201228
+492,PT01M41.00S,4,0,,490,,,0,0,0,,0,0,0,0, ,Overturn Ruling,Instant Replay,Overturn Ruling,0,0,438,0021201228
+494,PT01M34.00S,4,1610612745,HOU,201935,Harden,J. Harden,2,19,2,Made,1,88,87,175,v,Harden 2' Finger Roll Layup (26 PTS),Made Shot,Finger Roll Layup Shot,0,2,439,0021201228
+496,PT01M23.00S,4,1610612747,LAL,2581,Blake,S. Blake,-5,148,15,Missed,1,0,0,0,h,MISS Blake 15' Jump Shot,Missed Shot,Jump Shot,0,2,440,0021201228
+497,PT01M20.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,441,0021201228
+499,PT01M13.00S,4,1610612745,HOU,201935,Harden,J. Harden,-79,236,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,442,0021201228
+501,PT01M12.00S,4,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,443,0021201228
+502,PT00M49.90S,4,1610612747,LAL,2200,Gasol,P. Gasol,-149,137,20,Missed,1,0,0,0,h,MISS Gasol 20' Jump Shot,Missed Shot,Jump Shot,0,2,444,0021201228
+502,PT00M49.90S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith BLOCK (4 BLK),,,0,2,445,0021201228
+503,PT00M49.30S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,446,0021201228
+504,PT00M49.00S,4,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,447,0021201228
+507,PT00M49.00S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Short (Reg.4 Short 1),Timeout,Short,0,0,448,0021201228
+508,PT00M49.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Asik,Substitution,,0,0,449,0021201228
+509,PT00M25.90S,4,1610612745,HOU,202391,Lin,J. Lin,-158,227,28,Missed,1,0,0,0,v,MISS Lin 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,450,0021201228
+510,PT00M24.80S,4,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:4 Def:13),Rebound,Unknown,0,0,451,0021201228
+511,PT00M16.70S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin P.FOUL (P3.PN),Foul,Personal,0,0,452,0021201228
+512,PT00M16.70S,4,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,89,87,176,h,Meeks Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,453,0021201228
+515,PT00M16.70S,4,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Asik FOR Delfino,Substitution,,0,0,454,0021201228
+516,PT00M16.70S,4,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,90,87,177,h,Meeks Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,455,0021201228
+518,PT00M16.70S,4,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,0,456,0021201228
+520,PT00M16.70S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Asik,Substitution,,0,0,457,0021201228
+521,PT00M00.90S,4,1610612745,HOU,202718,Parsons,C. Parsons,-78,326,34,Made,1,90,90,180,v,Parsons 34' 3PT Jump Shot (22 PTS) (Lin 8 AST),Made Shot,Jump Shot,0,3,458,0021201228
+522,PT00M00.00S,4,0,,521,,,0,0,0,,0,0,0,0, ,Support Ruling,Instant Replay,Support Ruling,0,0,459,0021201228
+523,PT00M00.00S,4,0,,0,,,0,0,0,,0,90,90,180, ,End of 4th Period (1:06 AM EST),period,end,0,0,460,0021201228
+525,PT05M00.00S,5,0,,0,,,0,0,0,,0,90,90,180, ,Start of 1st OT (1:08 AM EST),period,start,0,0,461,0021201228
+526,PT05M00.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Jump Ball Howard vs. Asik: Tip to Blake,Jump Ball,,0,0,462,0021201228
+527,PT04M35.00S,5,1610612747,LAL,2581,Blake,S. Blake,-168,220,28,Missed,1,0,0,0,h,MISS Blake 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,463,0021201228
+528,PT04M34.00S,5,1610612747,LAL,1712,Jamison,A. Jamison,0,0,0,,0,0,0,0,h,Jamison REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,464,0021201228
+529,PT04M29.00S,5,1610612747,LAL,2581,Blake,S. Blake,-248,9,25,Missed,1,0,0,0,h,MISS Blake 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,465,0021201228
+530,PT04M28.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:5 Def:13),Rebound,Unknown,0,0,466,0021201228
+531,PT04M28.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,1,23,2,Missed,1,0,0,0,h,MISS Gasol 2' Layup,Missed Shot,Layup Shot,0,2,467,0021201228
+532,PT04M28.00S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,468,0021201228
+533,PT04M17.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Shooting Block Foul (P4.T1),Foul,Shooting Block,0,0,469,0021201228
+534,PT04M17.00S,5,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,90,91,181,v,Parsons Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,470,0021201228
+536,PT04M17.00S,5,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,MISS Parsons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,471,0021201228
+538,PT04M16.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:5 Def:14),Rebound,Unknown,0,0,472,0021201228
+539,PT04M04.00S,5,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith P.FOUL (P5.T1),Foul,Personal,0,0,473,0021201228
+540,PT03M56.00S,5,1610612747,LAL,2730,Howard,D. Howard,-10,36,4,Missed,1,0,0,0,h,MISS Howard 4' Hook Shot,Missed Shot,Hook Shot,0,2,474,0021201228
+541,PT03M54.00S,5,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,475,0021201228
+542,PT03M39.00S,5,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0,0,0,v,Parsons Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,476,0021201228
+542,PT03M39.00S,5,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks STEAL (2 STL),,,0,0,477,0021201228
+543,PT03M31.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,-4,203,20,Missed,1,0,0,0,h,MISS Gasol 20' Jump Shot,Missed Shot,Jump Shot,0,2,478,0021201228
+544,PT03M30.00S,5,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,Asik REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,479,0021201228
+545,PT03M07.00S,5,1610612745,HOU,202391,Lin,J. Lin,189,33,19,Missed,1,0,0,0,v,MISS Lin 19' Jump Shot,Missed Shot,Jump Shot,0,2,480,0021201228
+546,PT03M07.00S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,481,0021201228
+547,PT03M07.00S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,482,0021201228
+548,PT02M55.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,483,0021201228
+549,PT02M41.00S,5,1610612745,HOU,201935,Harden,J. Harden,133,233,27,Missed,1,0,0,0,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,484,0021201228
+550,PT02M40.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol REBOUND (Off:5 Def:15),Rebound,Unknown,0,0,485,0021201228
+551,PT02M26.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,-5,75,8,Made,1,92,91,183,h,Gasol 8' Turnaround Jump Shot (17 PTS) (Blake 7 AST),Made Shot,Turnaround Jump Shot,0,2,486,0021201228
+552,PT02M10.00S,5,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Lost Ball Turnover (P6.T14),Turnover,Lost Ball,0,0,487,0021201228
+552,PT02M10.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard STEAL (3 STL),,,0,0,488,0021201228
+553,PT01M57.00S,5,1610612747,LAL,201975,Meeks,J. Meeks,-237,-8,24,Missed,1,0,0,0,h,MISS Meeks 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,489,0021201228
+554,PT01M56.00S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Rebound,Rebound,Unknown,0,0,490,0021201228
+555,PT01M55.00S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,0,491,0021201228
+557,PT01M34.00S,5,1610612745,HOU,202718,Parsons,C. Parsons,-84,26,9,Missed,1,0,0,0,v,MISS Parsons 9' Jump Shot,Missed Shot,Jump Shot,0,2,492,0021201228
+557,PT01M34.00S,5,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,Gasol BLOCK (2 BLK),,,0,2,493,0021201228
+558,PT01M32.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:14),Rebound,Unknown,0,0,494,0021201228
+559,PT01M19.00S,5,1610612747,LAL,2730,Howard,D. Howard,-21,41,5,Made,1,94,91,185,h,Howard 5' Hook Shot (16 PTS) (Gasol 10 AST),Made Shot,Hook Shot,0,2,495,0021201228
+560,PT01M11.00S,5,1610612745,HOU,201935,Harden,J. Harden,-5,22,2,Made,1,94,93,187,v,Harden 2' Driving Finger Roll Layup (28 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,496,0021201228
+561,PT00M56.50S,5,1610612747,LAL,201975,Meeks,J. Meeks,13,6,1,Made,1,96,93,189,h,Meeks 1' Driving Dunk (8 PTS) (Gasol 11 AST),Made Shot,Driving Dunk Shot,0,2,497,0021201228
+562,PT00M47.90S,5,1610612745,HOU,201935,Harden,J. Harden,-171,184,25,Missed,1,0,0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,498,0021201228
+563,PT00M45.90S,5,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,499,0021201228
+564,PT00M20.80S,5,1610612745,HOU,201935,Harden,J. Harden,36,25,4,Missed,1,0,0,0,v,MISS Harden 4' Jump Shot,Missed Shot,Jump Shot,0,2,500,0021201228
+564,PT00M20.80S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard BLOCK (4 BLK),,,0,2,501,0021201228
+565,PT00M16.00S,5,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,0,0,0,h,Howard REBOUND (Off:3 Def:15),Rebound,Unknown,0,0,502,0021201228
+566,PT00M16.00S,5,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0,0,0,v,Lin Personal Take Foul (P4.T2),Foul,Personal Take,0,0,503,0021201228
+567,PT00M16.00S,5,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,504,0021201228
+569,PT00M16.00S,5,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Asik,Substitution,,0,0,505,0021201228
+571,PT00M14.50S,5,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0,0,0,v,Harden Personal Take Foul (P3.PN),Foul,Personal Take,0,0,506,0021201228
+572,PT00M14.50S,5,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,MISS Meeks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,507,0021201228
+573,PT00M14.50S,5,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,508,0021201228
+574,PT00M14.50S,5,1610612745,HOU,2568,Delfino,C. Delfino,0,0,0,,0,0,0,0,v,SUB: Asik FOR Delfino,Substitution,,0,0,509,0021201228
+575,PT00M14.50S,5,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,97,93,190,h,Meeks Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,510,0021201228
+577,PT00M14.50S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Short (Reg.6 Short 2),Timeout,Short,0,0,511,0021201228
+579,PT00M14.50S,5,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0,0,0,v,SUB: Delfino FOR Asik,Substitution,,0,0,512,0021201228
+580,PT00M14.50S,5,0,,1610612745,,,0,0,0,,0,0,0,0,v,Rockets Timeout: Short (Reg.6 Short 3),Timeout,Short,0,0,513,0021201228
+581,PT00M11.30S,5,1610612747,LAL,201975,Meeks,J. Meeks,0,0,0,,0,0,0,0,h,Meeks S.FOUL (P3.T2),Foul,Shooting,0,0,514,0021201228
+582,PT00M11.30S,5,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,97,94,191,v,Harden Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,515,0021201228
+585,PT00M11.30S,5,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0,0,0,v,SUB: Beverley FOR Smith,Substitution,,0,0,516,0021201228
+586,PT00M11.30S,5,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,97,95,192,v,Harden Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,517,0021201228
+588,PT00M11.30S,5,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Timeout: Short (Full 5 Short 1),Timeout,Short,0,0,518,0021201228
+589,PT00M10.50S,5,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,Beverley Personal Take Foul (P3.PN),Foul,Personal Take,0,0,519,0021201228
+591,PT00M10.50S,5,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,98,95,193,h,Blake Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,520,0021201228
+593,PT00M10.50S,5,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0,0,0,v,SUB: Asik FOR Beverley,Substitution,,0,0,521,0021201228
+594,PT00M10.50S,5,1610612747,LAL,2200,Gasol,P. Gasol,0,0,0,,0,0,0,0,h,SUB: Morris FOR Gasol,Substitution,,0,0,522,0021201228
+595,PT00M10.50S,5,1610612747,LAL,2581,Blake,S. Blake,0,0,0,,0,99,95,194,h,Blake Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,523,0021201228
+597,PT00M05.90S,5,1610612745,HOU,2568,Delfino,C. Delfino,217,14,22,Missed,1,0,0,0,v,MISS Delfino 22' Jump Shot,Missed Shot,Jump Shot,0,2,524,0021201228
+598,PT00M03.90S,5,1610612747,LAL,202721,Morris,D. Morris,0,0,0,,0,0,0,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,525,0021201228
+599,PT00M00.00S,5,0,,0,,,0,0,0,,0,99,95,194, ,End of 1st OT (1:27 AM EST),period,end,0,0,526,0021201228

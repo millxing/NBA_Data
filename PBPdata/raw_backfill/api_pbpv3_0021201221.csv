@@ -1,0 +1,452 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:13 PM EST),period,start,0,0,1,0021201221
+1,PT12M00.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Jump Ball Mahinmi vs. Hawes: Tip to Augustin,Jump Ball,,0,0,2,0021201221
+2,PT11M45.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi OFF.Foul (P1),Foul,Offensive,0,0,3,0021201221
+3,PT11M45.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Foul Turnover (P1.T1),Turnover,Foul,0,0,4,0021201221
+4,PT11M31.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,157,88,18,Made,1,0.0,2.0,2,v,Wilkins 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,5,0021201221
+5,PT11M14.00S,1,1610612754,IND,201571,Augustin,D. Augustin,-196,181,27,Missed,1,,,0,h,MISS Augustin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,6,0021201221
+6,PT11M13.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,7,0021201221
+7,PT11M06.00S,1,1610612755,PHI,202323,Turner,E. Turner,94,132,16,Made,1,0.0,4.0,4,v,Turner 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,8,0021201221
+8,PT10M55.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,94,157,18,Missed,1,,,0,h,MISS Stephenson 18' Jump Shot,Missed Shot,Jump Shot,0,2,9,0021201221
+9,PT10M54.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10,0021201221
+10,PT10M31.00S,1,1610612755,PHI,201950,Holiday,J. Holiday,17,-5,2,Made,1,0.0,6.0,6,v,Jr. Holiday 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,11,0021201221
+11,PT10M12.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,10,0,1,Missed,1,,,0,h,MISS T. Hansbrough 1' Layup,Missed Shot,Layup Shot,0,2,12,0021201221
+11,PT10M12.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,0,0,0,,0,,,0,v,Hawes BLOCK (1 BLK),,,0,2,13,0021201221
+12,PT10M10.00S,1,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Jr. Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,14,0021201221
+13,PT10M04.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,189,189,27,Missed,1,,,0,v,MISS Wilkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,15,0021201221
+14,PT10M03.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,16,0021201221
+15,PT09M57.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,-8,272,27,Made,1,0.0,9.0,9,v,Hawes 27' 3PT Jump Shot (3 PTS) (Wilkins 1 AST),Made Shot,Jump Shot,0,3,17,0021201221
+16,PT09M56.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,18,0021201221
+18,PT09M42.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,-111,162,20,Missed,1,,,0,h,MISS T. Hansbrough 20' Jump Shot,Missed Shot,Jump Shot,0,2,19,0021201221
+19,PT09M41.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,20,0021201221
+20,PT09M41.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,0,0,0,,0,,,0,v,Hawes S.FOUL (P1.T1),Foul,Shooting,0,0,21,0021201221
+21,PT09M41.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,22,0021201221
+22,PT09M41.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,23,0021201221
+23,PT09M41.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,24,0021201221
+25,PT09M41.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,25,0021201221
+26,PT09M20.00S,1,1610612755,PHI,201152,Young,T. Young,56,93,11,Made,1,0.0,11.0,11,v,T. Young 11' Hook Shot (2 PTS),Made Shot,Hook Shot,0,2,26,0021201221
+27,PT09M07.00S,1,1610612754,IND,101123,Green,G. Green,-49,257,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,27,0021201221
+28,PT09M06.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,28,0021201221
+29,PT08M57.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,13,268,27,Missed,1,,,0,v,MISS Hawes 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,29,0021201221
+30,PT08M56.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,30,0021201221
+31,PT08M50.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,15,0,2,Made,1,2.0,11.0,13,h,Stephenson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,2,31,0021201221
+32,PT08M24.00S,1,1610612755,PHI,201152,Young,T. Young,-15,153,15,Missed,1,,,0,v,MISS T. Young 15' Jump Shot,Missed Shot,Jump Shot,0,2,32,0021201221
+33,PT08M22.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,33,0021201221
+34,PT08M09.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0,34,0021201221
+34,PT08M09.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young STEAL (1 STL),,,0,0,35,0021201221
+35,PT08M02.00S,1,1610612755,PHI,201152,Young,T. Young,0,-2,0,Made,1,2.0,13.0,15,v,T. Young Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,0,2,36,0021201221
+36,PT07M52.00S,1,1610612754,IND,101123,Green,G. Green,-16,-5,2,Made,1,4.0,13.0,17,h,Green 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,37,0021201221
+37,PT07M52.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner S.FOUL (P1.T2),Foul,Shooting,0,0,38,0021201221
+38,PT07M52.00S,1,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,39,0021201221
+40,PT07M51.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,40,0021201221
+41,PT07M48.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,9,-6,1,Missed,1,,,0,h,MISS T. Hansbrough 1' Layup,Missed Shot,Layup Shot,0,2,41,0021201221
+42,PT07M48.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,42,0021201221
+43,PT07M46.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,0,0,0,,0,,,0,v,Hawes L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,43,0021201221
+44,PT07M46.00S,1,0,,43,Whitney,C. Whitney,0,0,0,,0,,,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0,44,0021201221
+45,PT07M46.00S,1,1610612755,PHI,201150,Hawes,S. Hawes,0,0,0,,0,,,0,v,SUB: Allen FOR Hawes,Substitution,,0,0,45,0021201221
+46,PT07M43.00S,1,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,Augustin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,46,0021201221
+47,PT07M25.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,1,-5,1,Made,1,4.0,15.0,19,v,Wilkins 1' Dunk (4 PTS),Made Shot,Dunk Shot,0,2,47,0021201221
+48,PT07M12.00S,1,1610612754,IND,201571,Augustin,D. Augustin,100,168,20,Made,1,6.0,15.0,21,h,Augustin 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,2,48,0021201221
+49,PT07M04.00S,1,1610612755,PHI,202323,Turner,E. Turner,108,151,19,Made,1,6.0,17.0,23,v,Turner 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,2,49,0021201221
+50,PT06M46.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young P.FOUL (P1.T4),Foul,Personal,0,0,50,0021201221
+51,PT06M46.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,MISS T. Hansbrough Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,51,0021201221
+52,PT06M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,52,0021201221
+53,PT06M46.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,MISS T. Hansbrough Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,53,0021201221
+55,PT06M44.00S,1,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,54,0021201221
+56,PT06M38.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,70,255,26,Missed,1,,,0,h,MISS Stephenson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,55,0021201221
+57,PT06M36.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,56,0021201221
+58,PT06M34.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson P.FOUL (P1.T1),Foul,Personal,0,0,57,0021201221
+59,PT06M25.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,58,0021201221
+60,PT06M13.00S,1,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green Traveling Turnover (P1.T4),Turnover,Traveling,0,0,59,0021201221
+61,PT05M57.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi S.FOUL (P2.T2),Foul,Shooting,0,0,60,0021201221
+62,PT05M57.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,6.0,18.0,24,v,Turner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,61,0021201221
+64,PT05M57.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,SUB: Ayres FOR Mahinmi,Substitution,,0,0,62,0021201221
+65,PT05M57.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,MISS Turner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,63,0021201221
+67,PT05M57.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,64,0021201221
+68,PT05M41.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,-11,67,7,Missed,1,,,0,h,MISS T. Hansbrough 7' Jump Shot,Missed Shot,Jump Shot,0,2,65,0021201221
+69,PT05M39.00S,1,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,66,0021201221
+70,PT05M35.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,67,0021201221
+71,PT05M17.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,-19,-6,2,Made,1,8.0,18.0,26,h,T. Hansbrough 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,68,0021201221
+72,PT05M05.00S,1,1610612755,PHI,201950,Holiday,J. Holiday,48,257,26,Made,1,8.0,21.0,29,v,Jr. Holiday 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,0,3,69,0021201221
+74,PT04M47.00S,1,1610612754,IND,201965,Ayres,J. Ayres,151,0,15,Made,1,10.0,21.0,31,h,Ayres 15' Jump Shot (2 PTS) (Stephenson 1 AST),Made Shot,Jump Shot,0,2,70,0021201221
+76,PT04M36.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins OFF.Foul (P1),Foul,Offensive,0,0,71,0021201221
+77,PT04M36.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins Foul Turnover (P2.T3),Turnover,Foul,0,0,72,0021201221
+78,PT04M36.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Johnson FOR Stephenson,Substitution,,0,0,73,0021201221
+79,PT04M36.00S,1,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,SUB: Young FOR Green,Substitution,,0,0,74,0021201221
+80,PT04M36.00S,1,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,SUB: Wright FOR Turner,Substitution,,0,0,75,0021201221
+81,PT04M25.00S,1,1610612754,IND,201965,Ayres,J. Ayres,73,115,14,Made,1,12.0,21.0,33,h,Ayres 14' Jump Shot (4 PTS) (Augustin 1 AST),Made Shot,Jump Shot,0,2,76,0021201221
+82,PT04M01.00S,1,1610612755,PHI,2748,Wright,D. Wright,-87,189,21,Missed,1,,,0,v,MISS Wright 21' Jump Shot,Missed Shot,Jump Shot,0,2,77,0021201221
+83,PT04M00.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,78,0021201221
+84,PT03M44.00S,1,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,Augustin Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,79,0021201221
+84,PT03M44.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young STEAL (2 STL),,,0,0,80,0021201221
+85,PT03M30.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,4,60,6,Made,1,12.0,23.0,35,v,Wilkins 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,81,0021201221
+86,PT03M06.00S,1,1610612754,IND,203111,Johnson,O. Johnson,242,33,24,Missed,1,,,0,h,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,82,0021201221
+86,PT03M06.00S,1,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins BLOCK (1 BLK),,,0,3,83,0021201221
+87,PT03M03.00S,1,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,84,0021201221
+88,PT03M02.00S,1,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Jr. Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,85,0021201221
+89,PT03M02.00S,1,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,SUB: Moultrie FOR T. Young,Substitution,,0,0,86,0021201221
+90,PT02M44.00S,1,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright S.FOUL (P1.PN),Foul,Shooting,0,0,87,0021201221
+91,PT02M44.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88,0021201221
+93,PT02M44.00S,1,1610612755,PHI,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Ju. Holiday FOR Jr. Holiday,Substitution,,0,0,89,0021201221
+94,PT02M44.00S,1,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,90,0021201221
+95,PT02M44.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,91,0021201221
+96,PT02M44.00S,1,1610612754,IND,201970,Young,S. Young,0,0,0,,0,13.0,23.0,36,h,Young Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,92,0021201221
+98,PT02M28.00S,1,1610612755,PHI,203200,Holiday,J. Holiday,146,104,18,Missed,1,,,0,v,MISS Ju. Holiday 18' Jump Shot,Missed Shot,Jump Shot,0,2,93,0021201221
+99,PT02M28.00S,1,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,94,0021201221
+100,PT02M21.00S,1,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,95,0021201221
+100,PT02M21.00S,1,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,0,0,96,0021201221
+101,PT02M05.00S,1,1610612754,IND,201970,Young,S. Young,-16,-8,2,Made,1,15.0,23.0,38,h,Young 2' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,0,2,97,0021201221
+102,PT01M52.00S,1,1610612755,PHI,203102,Moultrie,A. Moultrie,89,172,19,Made,1,15.0,25.0,40,v,Moultrie 19' Jump Shot (2 PTS) (Ju. Holiday 1 AST),Made Shot,Jump Shot,0,2,98,0021201221
+103,PT01M32.00S,1,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough Traveling Turnover (P1.T6),Turnover,Traveling,0,0,99,0021201221
+104,PT01M13.00S,1,1610612755,PHI,203102,Moultrie,A. Moultrie,-24,-11,3,Missed,1,,,0,v,MISS Moultrie 3' Layup,Missed Shot,Layup Shot,0,2,100,0021201221
+104,PT01M13.00S,1,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres BLOCK (1 BLK),,,0,2,101,0021201221
+105,PT01M11.00S,1,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,102,0021201221
+106,PT01M09.00S,1,1610612755,PHI,202730,Allen,L. Allen,-138,88,16,Missed,1,,,0,v,MISS Allen 16' Jump Shot,Missed Shot,Jump Shot,0,2,103,0021201221
+107,PT01M07.00S,1,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,104,0021201221
+108,PT00M52.90S,1,1610612754,IND,201965,Ayres,J. Ayres,-7,94,9,Missed,1,,,0,h,MISS Ayres 9' Jump Shot,Missed Shot,Jump Shot,0,2,105,0021201221
+109,PT00M50.90S,1,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,Augustin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,106,0021201221
+110,PT00M46.90S,1,1610612754,IND,203111,Johnson,O. Johnson,-204,181,27,Missed,1,,,0,h,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,107,0021201221
+111,PT00M44.90S,1,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,108,0021201221
+112,PT00M30.90S,1,1610612755,PHI,202730,Allen,L. Allen,-46,175,18,Missed,1,,,0,v,MISS Allen 18' Jump Shot,Missed Shot,Jump Shot,0,2,109,0021201221
+113,PT00M29.60S,1,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,110,0021201221
+114,PT00M05.50S,1,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie S.FOUL (P1.PN),Foul,Shooting,0,0,111,0021201221
+115,PT00M05.50S,1,1610612754,IND,201970,Young,S. Young,0,0,0,,0,16.0,25.0,41,h,Young Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,112,0021201221
+117,PT00M05.50S,1,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,113,0021201221
+119,PT00M02.60S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,114,0021201221
+120,PT00M00.00S,1,1610612755,PHI,2748,Wright,D. Wright,-16,457,46,Missed,1,,,0,v,MISS Wright 46' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,115,0021201221
+121,PT00M00.00S,1,0,,0,,,0,0,0,,0,16.0,25.0,41,,End of 1st Period (8:39 PM EST),period,end,0,0,117,0021201221
+122,PT00M00.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,116,0021201221
+124,PT12M00.00S,2,0,,0,,,0,0,0,,0,16.0,25.0,41,,Start of 2nd Period (8:42 PM EST),period,start,0,0,118,0021201221
+125,PT11M47.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,-21,192,19,Made,1,16.0,27.0,43,v,Ju. Holiday 19' Jump Shot (2 PTS) (Wright 1 AST),Made Shot,Jump Shot,0,2,119,0021201221
+126,PT11M34.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,120,0021201221
+126,PT11M34.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday STEAL (1 STL),,,0,0,121,0021201221
+127,PT11M29.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,15,0,2,Made,1,16.0,29.0,45,v,Ju. Holiday 2' Layup (4 PTS) (Wright 2 AST),Made Shot,Layup Shot,0,2,122,0021201221
+128,PT11M14.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,-18,22,3,Made,1,18.0,29.0,47,h,Stephenson 3' Layup (4 PTS),Made Shot,Layup Shot,0,2,123,0021201221
+129,PT11M00.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,105,148,18,Missed,1,,,0,v,MISS Moultrie 18' Jump Shot,Missed Shot,Jump Shot,0,2,124,0021201221
+130,PT10M59.00S,2,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,125,0021201221
+131,PT10M53.00S,2,1610612755,PHI,202730,Allen,L. Allen,15,-6,2,Made,1,18.0,31.0,49,v,Allen 2' Layup (2 PTS) (Ju. Holiday 2 AST),Made Shot,Layup Shot,0,2,126,0021201221
+132,PT10M31.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,-54,7,5,Made,1,20.0,31.0,51,h,Plumlee 5' Hook Bank Shot (2 PTS) (Stephenson 2 AST),Made Shot,Hook Bank Shot,0,2,127,0021201221
+133,PT10M20.00S,2,1610612755,PHI,2748,Wright,D. Wright,-242,-3,24,Missed,1,,,0,v,MISS Wright 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,128,0021201221
+134,PT10M19.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,129,0021201221
+135,PT10M14.00S,2,1610612754,IND,203111,Johnson,O. Johnson,21,11,2,Made,1,22.0,31.0,53,h,Johnson 2' Layup (2 PTS),Made Shot,Layup Shot,0,2,130,0021201221
+136,PT09M59.00S,2,1610612755,PHI,2748,Wright,D. Wright,0,4,0,Made,1,22.0,33.0,55,v,Wright Layup (2 PTS),Made Shot,Layup Shot,0,2,131,0021201221
+137,PT09M52.00S,2,1610612754,IND,203111,Johnson,O. Johnson,10,-3,1,Missed,1,,,0,h,MISS Johnson 1' Layup,Missed Shot,Layup Shot,0,2,132,0021201221
+137,PT09M52.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday BLOCK (1 BLK),,,0,2,133,0021201221
+138,PT09M51.00S,2,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,134,0021201221
+139,PT09M37.00S,2,1610612755,PHI,202730,Allen,L. Allen,152,6,15,Made,1,22.0,35.0,57,v,Allen 15' Jump Shot (4 PTS) (Turner 1 AST),Made Shot,Jump Shot,0,2,135,0021201221
+140,PT09M21.00S,2,1610612754,IND,203111,Johnson,O. Johnson,133,230,27,Missed,1,,,0,h,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,136,0021201221
+141,PT09M20.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,137,0021201221
+142,PT09M03.00S,2,1610612755,PHI,2748,Wright,D. Wright,0,1,0,Missed,1,,,0,v,MISS Wright Layup,Missed Shot,Layup Shot,0,2,138,0021201221
+143,PT09M02.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,1,1,0,Made,1,22.0,37.0,59,v,Moultrie Tip Shot (4 PTS),Made Shot,Tip Shot,0,2,140,0021201221
+144,PT09M02.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,139,0021201221
+145,PT08M45.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,-152,112,19,Missed,1,,,0,h,MISS Stephenson 19' Jump Shot,Missed Shot,Jump Shot,0,2,141,0021201221
+146,PT08M44.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,142,0021201221
+147,PT08M33.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,143,0021201221
+148,PT08M33.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,144,0021201221
+150,PT08M33.00S,2,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,SUB: T. Young FOR Allen,Substitution,,0,0,145,0021201221
+151,PT08M33.00S,2,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,SUB: Green FOR Young,Substitution,,0,0,146,0021201221
+152,PT08M19.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,-21,4,2,Missed,1,,,0,h,MISS Plumlee 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,2,147,0021201221
+153,PT08M18.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,148,0021201221
+154,PT08M05.00S,2,1610612755,PHI,202323,Turner,E. Turner,108,145,18,Missed,1,,,0,v,MISS Turner 18' Jump Shot,Missed Shot,Jump Shot,0,2,149,0021201221
+155,PT08M04.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,150,0021201221
+156,PT07M57.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,7,-6,1,Made,1,24.0,37.0,61,h,Stephenson 1' Layup (6 PTS),Made Shot,Layup Shot,0,2,151,0021201221
+158,PT07M36.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,-8,-2,1,Made,1,24.0,39.0,63,v,Moultrie 1' Layup (6 PTS),Made Shot,Layup Shot,0,2,152,0021201221
+159,PT07M24.00S,2,1610612754,IND,201965,Ayres,J. Ayres,-185,-11,19,Missed,1,,,0,h,MISS Ayres 19' Jump Shot,Missed Shot,Jump Shot,0,2,153,0021201221
+160,PT07M23.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,154,0021201221
+161,PT07M17.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,75,14,8,Missed,1,,,0,h,MISS Plumlee 8' Jump Shot,Missed Shot,Jump Shot,0,2,155,0021201221
+162,PT07M16.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,156,0021201221
+163,PT07M03.00S,2,1610612755,PHI,2748,Wright,D. Wright,-15,0,2,Made,1,24.0,41.0,65,v,Wright 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,157,0021201221
+164,PT06M44.00S,2,1610612754,IND,203111,Johnson,O. Johnson,108,235,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,158,0021201221
+165,PT06M44.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,159,0021201221
+166,PT06M28.00S,2,1610612755,PHI,201152,Young,T. Young,-5,17,2,Made,1,24.0,43.0,67,v,T. Young 2' Layup (6 PTS),Made Shot,Layup Shot,0,2,160,0021201221
+167,PT06M09.00S,2,1610612754,IND,101123,Green,G. Green,-122,94,15,Made,1,26.0,43.0,69,h,Green 15' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,0,2,161,0021201221
+168,PT05M47.00S,2,1610612755,PHI,202323,Turner,E. Turner,6,198,20,Made,1,26.0,45.0,71,v,Turner 20' Jump Shot (7 PTS),Made Shot,Jump Shot,0,2,162,0021201221
+169,PT05M42.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,163,0021201221
+169,PT05M42.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday STEAL (2 STL),,,0,0,164,0021201221
+170,PT05M39.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday Offensive Charge Foul (P1),Foul,Offensive Charge,0,0,165,0021201221
+171,PT05M39.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday Foul Turnover (P1.T7),Turnover,Foul,0,0,166,0021201221
+172,PT05M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,167,0021201221
+174,PT05M39.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Augustin FOR Stephenson,Substitution,,0,0,168,0021201221
+175,PT05M39.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,SUB: B. Hansbrough FOR Johnson,Substitution,,0,0,169,0021201221
+176,PT05M39.00S,2,1610612754,IND,203101,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,SUB: Mahinmi FOR Plumlee,Substitution,,0,0,170,0021201221
+177,PT05M23.00S,2,1610612754,IND,101123,Green,G. Green,-100,145,18,Missed,1,,,0,h,MISS Green 18' Jump Shot,Missed Shot,Jump Shot,0,2,171,0021201221
+177,PT05M23.00S,2,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright BLOCK (1 BLK),,,0,2,172,0021201221
+178,PT05M21.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,173,0021201221
+179,PT05M12.00S,2,1610612755,PHI,201152,Young,T. Young,-161,-2,16,Made,1,26.0,47.0,73,v,T. Young 16' Jump Shot (8 PTS) (Wright 3 AST),Made Shot,Jump Shot,0,2,174,0021201221
+180,PT04M59.00S,2,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner S.FOUL (P2.T1),Foul,Shooting,0,0,175,0021201221
+181,PT04M59.00S,2,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,27.0,47.0,74,h,B. Hansbrough Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,176,0021201221
+182,PT04M59.00S,2,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,28.0,47.0,75,h,B. Hansbrough Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,178,0021201221
+184,PT04M59.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,SUB: Allen FOR Moultrie,Substitution,,0,0,177,0021201221
+186,PT04M38.00S,2,1610612755,PHI,201152,Young,T. Young,1,-3,0,Missed,1,,,0,v,MISS T. Young Dunk,Missed Shot,Dunk Shot,0,2,179,0021201221
+187,PT04M37.00S,2,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,Augustin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,180,0021201221
+188,PT04M30.00S,2,1610612754,IND,203162,Hansbrough,B. Hansbrough,214,149,26,Missed,1,,,0,h,MISS B. Hansbrough 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,181,0021201221
+189,PT04M30.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,182,0021201221
+190,PT04M12.00S,2,1610612755,PHI,202730,Allen,L. Allen,130,97,16,Made,1,28.0,49.0,77,v,Allen 16' Jump Shot (6 PTS) (Ju. Holiday 3 AST),Made Shot,Jump Shot,0,2,183,0021201221
+191,PT03M53.00S,2,1610612754,IND,201965,Ayres,J. Ayres,106,153,19,Missed,1,,,0,h,MISS Ayres 19' Jump Shot,Missed Shot,Jump Shot,0,2,184,0021201221
+192,PT03M52.00S,2,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,185,0021201221
+193,PT03M44.00S,2,1610612755,PHI,202323,Turner,E. Turner,-2,192,19,Made,1,28.0,51.0,79,v,Turner 19' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,186,0021201221
+194,PT03M38.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,0,187,0021201221
+196,PT03M38.00S,2,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,SUB: T. Hansbrough FOR Ayres,Substitution,,0,0,188,0021201221
+197,PT03M25.00S,2,1610612754,IND,201571,Augustin,D. Augustin,-100,247,27,Missed,1,,,0,h,MISS Augustin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,189,0021201221
+198,PT03M24.00S,2,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,190,0021201221
+199,PT03M12.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,191,0021201221
+199,PT03M12.00S,2,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,0,0,192,0021201221
+200,PT02M58.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,13,4,1,Made,1,30.0,51.0,81,h,Mahinmi 1' Layup (2 PTS) (B. Hansbrough 1 AST),Made Shot,Layup Shot,0,2,193,0021201221
+201,PT02M58.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young S.FOUL (P2.T2),Foul,Shooting,0,0,194,0021201221
+202,PT02M58.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,195,0021201221
+204,PT02M58.00S,2,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,SUB: Moultrie FOR T. Young,Substitution,,0,0,196,0021201221
+205,PT02M58.00S,2,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,SUB: Wilkins FOR Allen,Substitution,,0,0,197,0021201221
+206,PT02M58.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,31.0,51.0,82,h,Mahinmi Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,198,0021201221
+208,PT02M47.00S,2,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,,,0,h,B. Hansbrough PUNCH.FOUL (P1.T1),Foul,Punching,0,0,199,0021201221
+209,PT02M41.00S,2,1610612755,PHI,202323,Turner,E. Turner,-105,165,20,Missed,1,,,0,v,MISS Turner 20' Jump Shot,Missed Shot,Jump Shot,0,2,200,0021201221
+210,PT02M40.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,201,0021201221
+211,PT02M30.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,-24,257,26,Made,1,31.0,54.0,85,v,Ju. Holiday 26' 3PT Jump Shot (7 PTS) (Turner 2 AST),Made Shot,Jump Shot,0,3,202,0021201221
+212,PT02M06.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday P.FOUL (P2.T3),Foul,Personal,0,0,203,0021201221
+213,PT01M54.00S,2,1610612754,IND,201946,Hansbrough,T. Hansbrough,-29,-2,3,Made,1,33.0,54.0,87,h,T. Hansbrough 3' Dunk (4 PTS) (Augustin 2 AST),Made Shot,Dunk Shot,0,2,204,0021201221
+214,PT01M39.00S,2,1610612755,PHI,202323,Turner,E. Turner,54,14,6,Missed,1,,,0,v,MISS Turner 6' Jump Shot,Missed Shot,Jump Shot,0,2,205,0021201221
+215,PT01M37.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,-16,-3,2,Made,1,33.0,56.0,89,v,Moultrie 2' Tip Shot (8 PTS),Made Shot,Tip Shot,0,2,207,0021201221
+216,PT01M37.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,206,0021201221
+217,PT01M24.00S,2,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie S.FOUL (P2.T4),Foul,Shooting,0,0,208,0021201221
+218,PT01M24.00S,2,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,MISS Augustin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,209,0021201221
+219,PT01M24.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,210,0021201221
+220,PT01M24.00S,2,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,34.0,56.0,90,h,Augustin Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,211,0021201221
+222,PT01M03.00S,2,1610612755,PHI,203200,Holiday,J. Holiday,-49,206,21,Missed,1,,,0,v,MISS Ju. Holiday 21' Jump Shot,Missed Shot,Jump Shot,0,2,212,0021201221
+223,PT01M02.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,213,0021201221
+224,PT00M52.90S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,214,0021201221
+224,PT00M52.90S,2,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner STEAL (1 STL),,,0,0,215,0021201221
+225,PT00M45.90S,2,1610612755,PHI,2863,Wilkins,D. Wilkins,159,-5,16,Missed,1,,,0,v,MISS Wilkins 16' Jump Shot,Missed Shot,Jump Shot,0,2,216,0021201221
+226,PT00M44.90S,2,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,217,0021201221
+227,PT00M36.60S,2,1610612754,IND,101123,Green,G. Green,-201,186,27,Made,1,37.0,56.0,93,h,Green 27' 3PT Jump Shot (7 PTS) (Mahinmi 1 AST),Made Shot,Jump Shot,0,3,218,0021201221
+228,PT00M25.20S,2,1610612755,PHI,2748,Wright,D. Wright,-169,242,30,Made,1,37.0,59.0,96,v,Wright 30' 3PT Jump Shot (7 PTS) (Turner 3 AST),Made Shot,Jump Shot,0,3,219,0021201221
+229,PT00M02.80S,2,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,220,0021201221
+229,PT00M02.80S,2,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner STEAL (2 STL),,,0,0,221,0021201221
+230,PT00M00.00S,2,1610612755,PHI,202323,Turner,E. Turner,70,263,27,Missed,1,,,0,v,MISS Turner 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,222,0021201221
+231,PT00M00.00S,2,0,,0,,,0,0,0,,0,37.0,59.0,96,,End of 2nd Period (9:06 PM EST),period,end,0,0,224,0021201221
+232,PT00M00.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,223,0021201221
+234,PT12M00.00S,3,0,,0,,,0,0,0,,0,37.0,59.0,96,,Start of 3rd Period (9:22 PM EST),period,start,0,0,225,0021201221
+235,PT11M48.00S,3,1610612755,PHI,201152,Young,T. Young,-76,108,13,Made,1,37.0,61.0,98,v,T. Young 13' Jump Bank Shot (10 PTS),Made Shot,Jump Bank Shot,0,2,226,0021201221
+236,PT11M36.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,227,0021201221
+237,PT11M13.00S,3,1610612755,PHI,202323,Turner,E. Turner,-54,261,27,Missed,1,,,0,v,MISS Turner 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,228,0021201221
+238,PT11M12.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,229,0021201221
+239,PT11M04.00S,3,1610612754,IND,101123,Green,G. Green,-147,227,27,Made,1,40.0,61.0,101,h,Green 27' 3PT Jump Shot (10 PTS) (Augustin 3 AST),Made Shot,Jump Shot,0,3,230,0021201221
+240,PT10M38.00S,3,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,231,0021201221
+241,PT10M28.00S,3,1610612754,IND,101123,Green,G. Green,116,137,18,Missed,1,,,0,h,MISS Green 18' Jump Shot,Missed Shot,Jump Shot,0,2,232,0021201221
+242,PT10M26.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,233,0021201221
+243,PT10M18.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough P.FOUL (P1.T1),Foul,Personal,0,0,234,0021201221
+244,PT10M13.00S,3,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,Augustin S.FOUL (P1.T2),Foul,Shooting,0,0,235,0021201221
+245,PT10M13.00S,3,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,40.0,62.0,102,v,Wright Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,0,0,236,0021201221
+247,PT10M13.00S,3,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,40.0,63.0,103,v,Wright Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,237,0021201221
+249,PT10M13.00S,3,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,40.0,64.0,104,v,Wright Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,238,0021201221
+251,PT10M02.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,-10,145,15,Missed,1,,,0,h,MISS Mahinmi 15' Jump Shot,Missed Shot,Jump Shot,0,2,239,0021201221
+252,PT10M01.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,240,0021201221
+253,PT09M51.00S,3,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,241,0021201221
+253,PT09M51.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi STEAL (1 STL),,,0,0,242,0021201221
+254,PT09M48.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins Personal Take Foul (P2.T1),Foul,Personal Take,0,0,243,0021201221
+255,PT09M40.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,244,0021201221
+255,PT09M40.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young STEAL (3 STL),,,0,0,245,0021201221
+256,PT09M25.00S,3,1610612755,PHI,202730,Allen,L. Allen,7,0,1,Made,1,40.0,66.0,106,v,Allen 1' Layup (8 PTS) (Wright 4 AST),Made Shot,Layup Shot,0,2,246,0021201221
+257,PT09M10.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins P.FOUL (P3.T2),Foul,Personal,0,0,247,0021201221
+258,PT09M06.00S,3,1610612754,IND,101123,Green,G. Green,-87,160,18,Made,1,42.0,66.0,108,h,Green 18' Jump Shot (12 PTS) (Augustin 4 AST),Made Shot,Jump Shot,0,2,248,0021201221
+259,PT08M45.00S,3,1610612755,PHI,202323,Turner,E. Turner,-15,190,19,Missed,1,,,0,v,MISS Turner 19' Jump Shot,Missed Shot,Jump Shot,0,2,249,0021201221
+260,PT08M44.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,250,0021201221
+261,PT08M39.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young S.FOUL (P3.T3),Foul,Shooting,0,0,251,0021201221
+262,PT08M39.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,43.0,66.0,109,h,Stephenson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,252,0021201221
+264,PT08M39.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,44.0,66.0,110,h,Stephenson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,253,0021201221
+267,PT08M14.00S,3,1610612755,PHI,202730,Allen,L. Allen,-161,58,17,Missed,1,,,0,v,MISS Allen 17' Jump Shot,Missed Shot,Jump Shot,0,2,254,0021201221
+268,PT08M13.00S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,255,0021201221
+269,PT08M05.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,-2,0,Made,1,46.0,66.0,112,h,Stephenson Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,256,0021201221
+270,PT07M54.00S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T3),Foul,Shooting,0,0,257,0021201221
+271,PT07M54.00S,3,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,46.0,67.0,113,v,Allen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,258,0021201221
+273,PT07M54.00S,3,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,46.0,68.0,114,v,Allen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,259,0021201221
+275,PT07M41.00S,3,1610612754,IND,201571,Augustin,D. Augustin,-108,250,27,Missed,1,,,0,h,MISS Augustin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,260,0021201221
+276,PT07M39.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,261,0021201221
+277,PT07M33.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,10,-2,1,Made,1,48.0,68.0,116,h,Stephenson 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,2,262,0021201221
+278,PT07M25.00S,3,1610612755,PHI,2748,Wright,D. Wright,-234,168,29,Made,1,48.0,71.0,119,v,Wright 29' 3PT Jump Shot (13 PTS) (Turner 4 AST),Made Shot,Jump Shot,0,3,263,0021201221
+279,PT07M00.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Traveling Turnover (P3.T13),Turnover,Traveling,0,0,264,0021201221
+280,PT06M47.00S,3,1610612755,PHI,202730,Allen,L. Allen,-128,172,21,Missed,1,,,0,v,MISS Allen 21' Jump Shot,Missed Shot,Jump Shot,0,2,265,0021201221
+281,PT06M46.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,266,0021201221
+282,PT06M31.00S,3,1610612754,IND,101123,Green,G. Green,-79,265,28,Made,1,51.0,71.0,122,h,Green 28' 3PT Jump Shot (15 PTS) (Stephenson 3 AST),Made Shot,Jump Shot,0,3,267,0021201221
+283,PT06M19.00S,3,1610612755,PHI,202323,Turner,E. Turner,-175,-13,18,Missed,1,,,0,v,MISS Turner 18' Jump Shot,Missed Shot,Jump Shot,0,2,268,0021201221
+283,PT06M19.00S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green BLOCK (1 BLK),,,0,2,269,0021201221
+284,PT06M17.00S,3,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,270,0021201221
+285,PT06M08.00S,3,1610612755,PHI,2748,Wright,D. Wright,-46,257,26,Made,1,51.0,74.0,125,v,Wright 26' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,0,3,271,0021201221
+286,PT05M53.00S,3,1610612754,IND,101123,Green,G. Green,192,176,26,Made,1,54.0,74.0,128,h,Green 26' 3PT Jump Shot (18 PTS) (Augustin 5 AST),Made Shot,Jump Shot,0,3,272,0021201221
+287,PT05M34.00S,3,1610612755,PHI,2748,Wright,D. Wright,-8,-3,1,Made,1,54.0,76.0,130,v,Wright 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,2,273,0021201221
+288,PT05M13.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young S.FOUL (P4.T4),Foul,Shooting,0,0,274,0021201221
+289,PT05M13.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,0,275,0021201221
+291,PT05M13.00S,3,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,SUB: Ju. Holiday FOR Turner,Substitution,,0,0,276,0021201221
+292,PT05M13.00S,3,1610612755,PHI,201152,Young,T. Young,0,0,0,,0,,,0,v,SUB: Moultrie FOR T. Young,Substitution,,0,0,277,0021201221
+293,PT05M13.00S,3,1610612754,IND,201571,Augustin,D. Augustin,0,0,0,,0,,,0,h,SUB: Johnson FOR Augustin,Substitution,,0,0,278,0021201221
+294,PT05M13.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,55.0,76.0,131,h,T. Hansbrough Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,279,0021201221
+296,PT05M13.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,56.0,76.0,132,h,T. Hansbrough Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,280,0021201221
+299,PT04M55.00S,3,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,281,0021201221
+299,PT04M55.00S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green STEAL (2 STL),,,0,0,282,0021201221
+300,PT04M50.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,283,0021201221
+300,PT04M50.00S,3,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright STEAL (1 STL),,,0,0,284,0021201221
+301,PT04M47.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson S.FOUL (P2.T4),Foul,Shooting,0,0,285,0021201221
+302,PT04M47.00S,3,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Ju. Holiday Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,286,0021201221
+303,PT04M47.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,287,0021201221
+304,PT04M47.00S,3,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,56.0,77.0,133,v,Ju. Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,288,0021201221
+306,PT04M29.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,4,131,13,Made,1,58.0,77.0,135,h,Mahinmi 13' Jump Shot (5 PTS) (Stephenson 4 AST),Made Shot,Jump Shot,0,2,289,0021201221
+307,PT04M08.00S,3,1610612755,PHI,2748,Wright,D. Wright,-199,186,27,Missed,1,,,0,v,MISS Wright 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,290,0021201221
+308,PT04M07.00S,3,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,291,0021201221
+309,PT03M51.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,-2,-6,1,Missed,1,,,0,h,MISS T. Hansbrough 1' Layup,Missed Shot,Layup Shot,0,2,292,0021201221
+309,PT03M51.00S,3,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Ju. Holiday BLOCK (2 BLK),,,0,2,293,0021201221
+310,PT03M49.00S,3,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,294,0021201221
+311,PT03M46.00S,3,1610612755,PHI,2748,Wright,D. Wright,-4,-10,1,Made,1,58.0,79.0,137,v,Wright 1' Dunk (20 PTS) (Moultrie 1 AST),Made Shot,Dunk Shot,0,2,295,0021201221
+312,PT03M32.00S,3,1610612754,IND,101123,Green,G. Green,56,78,10,Made,1,60.0,79.0,139,h,Green 10' Fadeaway Jumper (20 PTS) (Stephenson 5 AST),Made Shot,Fadeaway Jump Shot,0,2,296,0021201221
+313,PT03M10.00S,3,1610612755,PHI,202730,Allen,L. Allen,21,0,2,Missed,1,,,0,v,MISS Allen 2' Layup,Missed Shot,Layup Shot,0,2,297,0021201221
+314,PT03M09.00S,3,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,298,0021201221
+315,PT02M59.00S,3,1610612754,IND,203111,Johnson,O. Johnson,-180,197,27,Missed,1,,,0,h,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,299,0021201221
+316,PT02M58.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,300,0021201221
+317,PT02M55.00S,3,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie S.FOUL (P3.PN),Foul,Shooting,0,0,301,0021201221
+318,PT02M55.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,302,0021201221
+320,PT02M55.00S,3,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,SUB: N. Young FOR Allen,Substitution,,0,0,303,0021201221
+322,PT02M55.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,304,0021201221
+323,PT02M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,305,0021201221
+324,PT02M55.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,306,0021201221
+326,PT02M55.00S,3,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,307,0021201221
+327,PT02M31.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,-37,110,12,Made,1,60.0,81.0,141,v,Wilkins 12' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,2,308,0021201221
+328,PT02M18.00S,3,1610612754,IND,101123,Green,G. Green,20,274,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,309,0021201221
+329,PT02M17.00S,3,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,310,0021201221
+330,PT01M58.00S,3,1610612755,PHI,203200,Holiday,J. Holiday,163,131,21,Missed,1,,,0,v,MISS Ju. Holiday 21' Jump Shot,Missed Shot,Jump Shot,0,2,311,0021201221
+331,PT01M57.00S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,312,0021201221
+332,PT01M44.00S,3,1610612754,IND,203111,Johnson,O. Johnson,105,156,19,Missed,1,,,0,h,MISS Johnson 19' Jump Shot,Missed Shot,Jump Shot,0,2,313,0021201221
+333,PT01M43.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,314,0021201221
+334,PT01M41.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,4,0,Missed,1,,,0,h,MISS Mahinmi Layup,Missed Shot,Layup Shot,0,2,315,0021201221
+335,PT01M40.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,-10,3,1,Missed,1,,,0,h,MISS T. Hansbrough 1' Tip Shot,Missed Shot,Tip Shot,0,2,317,0021201221
+336,PT01M40.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,316,0021201221
+337,PT01M39.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,318,0021201221
+338,PT01M39.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,SUB: Ayres FOR Mahinmi,Substitution,,0,0,319,0021201221
+339,PT01M39.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,Jump Ball T. Hansbrough vs. N. Young: Tip to Stephenson,Jump Ball,,0,0,320,0021201221
+340,PT01M32.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins P.FOUL (P4.PN),Foul,Personal,0,0,321,0021201221
+341,PT01M32.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,61.0,81.0,142,h,T. Hansbrough Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,322,0021201221
+343,PT01M32.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,62.0,81.0,143,h,T. Hansbrough Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,323,0021201221
+345,PT01M21.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough S.FOUL (P2.PN),Foul,Shooting,0,0,324,0021201221
+346,PT01M21.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,62.0,82.0,144,v,Wilkins Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,325,0021201221
+348,PT01M21.00S,3,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Turner FOR Wright,Substitution,,0,0,326,0021201221
+349,PT01M21.00S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,62.0,83.0,145,v,Wilkins Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,327,0021201221
+351,PT01M08.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,-10,7,1,Made,1,64.0,83.0,147,h,T. Hansbrough 1' Dunk (10 PTS) (Stephenson 6 AST),Made Shot,Dunk Shot,0,2,328,0021201221
+352,PT00M55.90S,3,1610612755,PHI,2863,Wilkins,D. Wilkins,121,162,20,Missed,1,,,0,v,MISS Wilkins 20' Jump Shot,Missed Shot,Jump Shot,0,2,329,0021201221
+353,PT00M54.90S,3,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,330,0021201221
+354,PT00M49.90S,3,1610612754,IND,101123,Green,G. Green,-117,143,18,Made,1,66.0,83.0,149,h,Green 18' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,0,2,331,0021201221
+355,PT00M36.30S,3,1610612755,PHI,202323,Turner,E. Turner,0,52,5,Made,1,66.0,85.0,151,v,Turner 5' Jump Shot (11 PTS),Made Shot,Jump Shot,0,2,332,0021201221
+356,PT00M21.30S,3,1610612754,IND,101123,Green,G. Green,34,175,18,Made,1,68.0,85.0,153,h,Green 18' Jump Shot (24 PTS),Made Shot,Jump Shot,0,2,333,0021201221
+357,PT00M01.90S,3,1610612755,PHI,202323,Turner,E. Turner,-19,3,2,Missed,1,,,0,v,MISS Turner 2' Layup,Missed Shot,Layup Shot,0,2,334,0021201221
+358,PT00M01.00S,3,1610612754,IND,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,h,T. Hansbrough REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,335,0021201221
+359,PT00M00.00S,3,0,,0,,,0,0,0,,0,68.0,85.0,153,,End of 3rd Period (9:48 PM EST),period,end,0,0,336,0021201221
+361,PT12M00.00S,4,0,,0,,,0,0,0,,0,68.0,85.0,153,,Start of 4th Period (9:50 PM EST),period,start,0,0,337,0021201221
+362,PT11M36.00S,4,1610612754,IND,201970,Young,S. Young,231,7,0,Missed,1,,,0,h,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,0,3,338,0021201221
+363,PT11M35.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,339,0021201221
+364,PT11M19.00S,4,1610612755,PHI,201156,Young,N. Young,0,0,0,,0,,,0,v,N. Young Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,340,0021201221
+365,PT11M05.00S,4,1610612754,IND,201965,Ayres,J. Ayres,106,160,19,Made,1,70.0,85.0,155,h,Ayres 19' Jump Shot (6 PTS) (Green 1 AST),Made Shot,Jump Shot,0,2,341,0021201221
+366,PT10M48.00S,4,1610612755,PHI,201156,Young,N. Young,-213,145,26,Missed,1,,,0,v,MISS N. Young 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,342,0021201221
+367,PT10M47.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,343,0021201221
+368,PT10M40.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,10,4,1,Missed,1,,,0,h,MISS B. Hansbrough 1' Layup,Missed Shot,Layup Shot,0,2,344,0021201221
+369,PT10M39.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,345,0021201221
+370,PT10M24.00S,4,1610612755,PHI,203200,Holiday,J. Holiday,-157,236,28,Missed,1,,,0,v,MISS Ju. Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,346,0021201221
+371,PT10M22.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,347,0021201221
+372,PT10M14.00S,4,1610612754,IND,101123,Green,G. Green,81,170,19,Made,1,72.0,85.0,157,h,Green 19' Jump Shot (26 PTS),Made Shot,Jump Shot,0,2,348,0021201221
+373,PT09M51.00S,4,1610612755,PHI,201156,Young,N. Young,-73,205,22,Missed,1,,,0,v,MISS N. Young 22' Jump Shot,Missed Shot,Jump Shot,0,2,349,0021201221
+374,PT09M50.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,350,0021201221
+375,PT09M44.00S,4,1610612754,IND,101123,Green,G. Green,157,209,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,351,0021201221
+376,PT09M42.00S,4,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,352,0021201221
+377,PT09M20.00S,4,1610612754,IND,201965,Ayres,J. Ayres,-71,194,21,Missed,1,,,0,h,MISS Ayres 21' Jump Shot,Missed Shot,Jump Shot,0,2,353,0021201221
+378,PT09M18.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,354,0021201221
+379,PT09M09.00S,4,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,355,0021201221
+379,PT09M09.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres STEAL (1 STL),,,0,0,356,0021201221
+380,PT09M03.00S,4,1610612754,IND,101123,Green,G. Green,-138,238,28,Missed,1,,,0,h,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,357,0021201221
+381,PT09M02.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,358,0021201221
+382,PT08M50.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young P.FOUL (P1.T1),Foul,Personal,0,0,359,0021201221
+383,PT08M50.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,360,0021201221
+385,PT08M50.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,SUB: Wright FOR Moultrie,Substitution,,0,0,361,0021201221
+386,PT08M50.00S,4,1610612755,PHI,201156,Young,N. Young,0,0,0,,0,,,0,v,SUB: Wilkins FOR N. Young,Substitution,,0,0,362,0021201221
+387,PT08M37.00S,4,1610612755,PHI,202323,Turner,E. Turner,-179,203,27,Made,1,72.0,88.0,160,v,Turner 27' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,3,363,0021201221
+388,PT08M21.00S,4,1610612754,IND,201965,Ayres,J. Ayres,-108,0,11,Made,1,74.0,88.0,162,h,Ayres 11' Jump Shot (8 PTS) (B. Hansbrough 2 AST),Made Shot,Jump Shot,0,2,364,0021201221
+389,PT08M07.00S,4,1610612755,PHI,202323,Turner,E. Turner,-153,-16,15,Made,1,74.0,90.0,164,v,Turner 15' Jump Shot (16 PTS),Made Shot,Jump Shot,0,2,365,0021201221
+390,PT07M50.00S,4,1610612754,IND,101123,Green,G. Green,78,172,19,Missed,1,,,0,h,MISS Green 19' Jump Shot,Missed Shot,Jump Shot,0,2,366,0021201221
+391,PT07M48.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,,,0,h,B. Hansbrough REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,367,0021201221
+392,PT07M45.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,15,0,2,Made,1,76.0,90.0,166,h,B. Hansbrough 2' Layup (4 PTS),Made Shot,Layup Shot,0,2,368,0021201221
+393,PT07M26.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young P.FOUL (P2.T2),Foul,Personal,0,0,369,0021201221
+394,PT07M26.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,SUB: Moultrie FOR Allen,Substitution,,0,0,370,0021201221
+395,PT07M21.00S,4,1610612755,PHI,203200,Holiday,J. Holiday,144,-19,15,Missed,1,,,0,v,MISS Ju. Holiday 15' Jump Shot,Missed Shot,Jump Shot,0,2,371,0021201221
+396,PT07M20.00S,4,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,372,0021201221
+397,PT07M10.00S,4,1610612754,IND,101123,Green,G. Green,230,-13,0,Made,1,79.0,90.0,169,h,Green 3PT Jump Shot (29 PTS) (Ayres 1 AST),Made Shot,Jump Shot,0,3,373,0021201221
+398,PT06M46.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,-191,194,27,Missed,1,,,0,v,MISS Wilkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,374,0021201221
+399,PT06M45.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,,,0,h,B. Hansbrough REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,375,0021201221
+401,PT06M31.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,4,-2,0,Made,1,81.0,90.0,171,h,B. Hansbrough Layup (6 PTS),Made Shot,Layup Shot,0,2,376,0021201221
+402,PT06M12.00S,4,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,377,0021201221
+402,PT06M12.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,0,0,378,0021201221
+403,PT06M11.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,0,379,0021201221
+405,PT05M57.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,171,190,26,Missed,1,,,0,h,MISS B. Hansbrough 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,380,0021201221
+406,PT05M56.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,381,0021201221
+407,PT05M41.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,382,0021201221
+407,PT05M41.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres STEAL (2 STL),,,0,0,383,0021201221
+408,PT05M38.00S,4,1610612754,IND,201965,Ayres,J. Ayres,15,6,2,Made,1,83.0,90.0,173,h,Ayres 2' Layup (10 PTS),Made Shot,Layup Shot,0,2,384,0021201221
+409,PT05M27.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young P.FOUL (P3.T3),Foul,Personal,0,0,385,0021201221
+410,PT05M27.00S,4,1610612755,PHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Allen FOR Ju. Holiday,Substitution,,0,0,386,0021201221
+411,PT05M17.00S,4,1610612755,PHI,2748,Wright,D. Wright,122,231,26,Made,1,83.0,93.0,176,v,Wright 26' 3PT Jump Shot (23 PTS) (Turner 5 AST),Made Shot,Jump Shot,0,3,387,0021201221
+412,PT05M03.00S,4,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,388,0021201221
+412,PT05M03.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins STEAL (1 STL),,,0,0,389,0021201221
+413,PT05M00.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,10,0,1,Made,1,83.0,95.0,178,v,Wilkins 1' Layup (12 PTS),Made Shot,Layup Shot,0,2,390,0021201221
+414,PT05M00.00S,4,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T4),Foul,Shooting,0,0,391,0021201221
+415,PT05M00.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,83.0,96.0,179,v,Wilkins Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,392,0021201221
+417,PT04M44.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins P.FOUL (P5.T1),Foul,Personal,0,0,393,0021201221
+418,PT04M36.00S,4,1610612754,IND,101123,Green,G. Green,-130,224,26,Made,1,86.0,96.0,182,h,Green 26' 3PT Jump Shot (32 PTS) (B. Hansbrough 3 AST),Made Shot,Jump Shot,0,3,394,0021201221
+419,PT04M18.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,0,0,0,,0,,,0,v,Wilkins Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,395,0021201221
+419,PT04M18.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,,,0,h,B. Hansbrough STEAL (1 STL),,,0,0,396,0021201221
+420,PT04M14.00S,4,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner S.FOUL (P3.T2),Foul,Shooting,0,0,397,0021201221
+421,PT04M14.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,87.0,96.0,183,h,Ayres Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,398,0021201221
+423,PT04M14.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,88.0,96.0,184,h,Ayres Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,399,0021201221
+425,PT04M01.00S,4,1610612755,PHI,202323,Turner,E. Turner,-108,96,14,Missed,1,,,0,v,MISS Turner 14' Jump Shot,Missed Shot,Jump Shot,0,2,400,0021201221
+426,PT03M59.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,401,0021201221
+427,PT03M57.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,4,1,0,Missed,1,,,0,v,MISS Moultrie Layup,Missed Shot,Layup Shot,0,2,402,0021201221
+427,PT03M57.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres BLOCK (2 BLK),,,0,2,403,0021201221
+428,PT03M57.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,0,0,0,,0,,,0,v,Moultrie REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,404,0021201221
+429,PT03M57.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres Violation:Kicked Ball,Violation,Kicked Ball,0,0,405,0021201221
+430,PT03M49.00S,4,1610612755,PHI,2748,Wright,D. Wright,118,107,16,Missed,1,,,0,v,MISS Wright 16' Jump Shot,Missed Shot,Jump Shot,0,2,406,0021201221
+431,PT03M48.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,407,0021201221
+432,PT03M35.00S,4,1610612754,IND,101123,Green,G. Green,-237,11,24,Missed,1,,,0,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,408,0021201221
+432,PT03M35.00S,4,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright BLOCK (2 BLK),,,0,3,409,0021201221
+433,PT03M33.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,410,0021201221
+434,PT03M12.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,-127,12,13,Missed,1,,,0,v,MISS Wilkins 13' Jump Shot,Missed Shot,Jump Shot,0,2,411,0021201221
+435,PT03M10.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,412,0021201221
+436,PT03M10.00S,4,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi S.FOUL (P3.PN),Foul,Shooting,0,0,413,0021201221
+437,PT03M10.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,414,0021201221
+438,PT03M10.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,415,0021201221
+439,PT03M10.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,88.0,97.0,185,v,Allen Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,416,0021201221
+441,PT03M00.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,-116,236,26,Missed,1,,,0,h,MISS B. Hansbrough 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,417,0021201221
+442,PT02M59.00S,4,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,418,0021201221
+443,PT02M46.00S,4,1610612755,PHI,202323,Turner,E. Turner,67,3,7,Missed,1,,,0,v,MISS Turner 7' Jump Shot,Missed Shot,Jump Shot,0,2,419,0021201221
+443,PT02M46.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,,,0,h,B. Hansbrough BLOCK (1 BLK),,,0,2,420,0021201221
+444,PT02M44.00S,4,1610612754,IND,201970,Young,S. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,421,0021201221
+445,PT02M44.00S,4,1610612755,PHI,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner P.FOUL (P4.T3),Foul,Personal,0,0,422,0021201221
+446,PT02M44.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,423,0021201221
+448,PT02M33.00S,4,1610612754,IND,201965,Ayres,J. Ayres,-239,-3,24,Missed,1,,,0,h,MISS Ayres 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,424,0021201221
+449,PT02M32.00S,4,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,425,0021201221
+450,PT02M20.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,100,151,18,Made,1,88.0,99.0,187,v,Moultrie 18' Jump Shot (10 PTS) (Wilkins 2 AST),Made Shot,Jump Shot,0,2,426,0021201221
+451,PT02M03.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,-21,-10,2,Made,1,90.0,99.0,189,h,B. Hansbrough 2' Layup (8 PTS),Made Shot,Layup Shot,0,2,427,0021201221
+452,PT02M03.00S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P1.T4),Foul,Shooting,0,0,428,0021201221
+453,PT02M03.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,91.0,99.0,190,h,B. Hansbrough Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,429,0021201221
+455,PT01M49.00S,4,1610612755,PHI,2863,Wilkins,D. Wilkins,7,124,12,Made,1,91.0,101.0,192,v,Wilkins 12' Jump Shot (15 PTS),Made Shot,Jump Shot,0,2,430,0021201221
+456,PT01M49.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres Inbound Turnover (P1.T16),Turnover,Inbound Turnover,0,0,431,0021201221
+457,PT01M41.00S,4,1610612755,PHI,202323,Turner,E. Turner,-152,0,15,Missed,1,,,0,v,MISS Turner 15' Jump Shot,Missed Shot,Jump Shot,0,2,432,0021201221
+458,PT01M40.00S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,433,0021201221
+459,PT01M34.00S,4,1610612755,PHI,2748,Wright,D. Wright,0,0,0,,0,,,0,v,Wright S.FOUL (P2.PN),Foul,Shooting,0,0,434,0021201221
+460,PT01M34.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,92.0,101.0,193,h,B. Hansbrough Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,435,0021201221
+462,PT01M34.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,0,0,0,,0,93.0,101.0,194,h,B. Hansbrough Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,436,0021201221
+464,PT01M16.00S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,80,187,20,Missed,1,,,0,v,MISS Moultrie 20' Jump Shot,Missed Shot,Jump Shot,0,2,437,0021201221
+465,PT01M14.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,438,0021201221
+466,PT01M14.00S,4,0,,465,,,0,0,0,,0,,,0,,Overturn Ruling,Instant Replay,Overturn Ruling,0,0,439,0021201221
+468,PT00M49.90S,4,1610612755,PHI,2748,Wright,D. Wright,-180,213,28,Missed,1,,,0,v,MISS Wright 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,440,0021201221
+469,PT00M47.90S,4,1610612754,IND,101123,Green,G. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,441,0021201221
+470,PT00M38.90S,4,1610612754,IND,101133,Mahinmi,I. Mahinmi,89,162,18,Missed,1,,,0,h,MISS Mahinmi 18' Jump Shot,Missed Shot,Jump Shot,0,2,442,0021201221
+471,PT00M36.90S,4,1610612754,IND,201965,Ayres,J. Ayres,0,0,0,,0,,,0,h,Ayres REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,443,0021201221
+472,PT00M32.60S,4,1610612754,IND,101123,Green,G. Green,-16,-2,2,Made,1,95.0,101.0,196,h,Green 2' Dunk (34 PTS),Made Shot,Dunk Shot,0,2,444,0021201221
+474,PT00M15.10S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,6,-5,1,Made,1,95.0,103.0,198,v,Moultrie 1' Alley Oop Dunk (12 PTS) (Wright 5 AST),Made Shot,Alley Oop Dunk Shot,0,2,445,0021201221
+475,PT00M10.90S,4,1610612754,IND,101123,Green,G. Green,-114,246,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,446,0021201221
+476,PT00M09.80S,4,1610612755,PHI,202730,Allen,L. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,447,0021201221
+477,PT00M00.70S,4,1610612755,PHI,203102,Moultrie,A. Moultrie,152,164,22,Made,1,95.0,105.0,200,v,Moultrie 22' Jump Shot (14 PTS),Made Shot,Jump Shot,0,2,448,0021201221
+478,PT00M00.00S,4,1610612754,IND,203162,Hansbrough,B. Hansbrough,154,-6,15,Missed,1,,,0,h,MISS B. Hansbrough 15' Jump Shot,Missed Shot,Jump Shot,0,2,449,0021201221
+479,PT00M00.00S,4,0,,0,,,0,0,0,,0,95.0,105.0,200,,End of 4th Period (10:19 PM EST),period,end,0,0,451,0021201221
+480,PT00M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,450,0021201221

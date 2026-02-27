@@ -1,0 +1,465 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052300201,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:14 PM EST),period,start,0,0,1
+0052300201,4,PT12M00.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Jump Ball Adebayo vs. Vucevic: Tip to White,Jump Ball,,1,0,2
+0052300201,7,PT11M36.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-161,38,17,Made,1,0,2,2,v,Vucevic 17' Jump Shot (2 PTS) (Caruso 1 AST),Made Shot,Jump Shot,1,2,3
+0052300201,9,PT11M20.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-68,23,7,Made,1,2,2,4,h,Adebayo 7' Turnaround Fadeaway (2 PTS) (Jaquez Jr. 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,4
+0052300201,10,PT11M06.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,241,92,26,Made,1,2,5,7,v,Caruso 26' 3PT Jump Shot (3 PTS) (Dosunmu 1 AST),Made Shot,Jump Shot,1,3,5
+0052300201,13,PT10M51.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-100,154,18,Made,1,4,5,9,h,Herro 18' Pullup Jump Shot (2 PTS) (Jaquez Jr. 2 AST),Made Shot,Pullup Jump shot,1,2,6
+0052300201,15,PT10M33.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,120,226,26,Made,1,4,8,12,v,Dosunmu 26' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,3,7
+0052300201,17,PT10M12.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-58,65,9,Made,1,6,8,14,h,Jaquez Jr. 9' Driving Floating Jump Shot (2 PTS) (Herro 1 AST),Made Shot,Driving Floating Jump Shot,1,2,8
+0052300201,19,PT09M51.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,244,58,25,Missed,1,,,0,v,MISS Vucevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0052300201,20,PT09M47.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0052300201,21,PT09M42.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-156,221,27,Missed,1,,,0,h,MISS Herro 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,11
+0052300201,22,PT09M37.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0052300201,23,PT09M25.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-83,236,25,Made,1,6,11,17,v,DeRozan 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,1,3,13
+0052300201,25,PT09M16.00S,1,1610612748,MIA,1628997,Martin,C. Martin,49,44,7,Made,1,8,11,19,h,Martin 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,14
+0052300201,26,PT08M54.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,15
+0052300201,27,PT08M33.00S,1,1610612748,MIA,1631107,Jović,N. Jović,222,112,25,Made,1,11,11,22,h,Jovic 25' 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,1,3,16
+0052300201,29,PT08M09.00S,1,1610612741,CHI,1629632,White,C. White,11,267,27,Missed,1,,,0,v,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0052300201,30,PT08M06.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+0052300201,31,PT08M04.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-30,90,9,Made,1,13,11,24,h,Jaquez Jr. 9' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,19
+0052300201,32,PT08M04.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,20
+0052300201,34,PT08M04.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,14,11,25,h,Jaquez Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,21
+0052300201,35,PT07M52.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,97,136,17,Missed,1,,,0,v,MISS DeRozan 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,22
+0052300201,35,PT07M52.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo BLOCK (1 BLK),,,1,2,23
+0052300201,37,PT07M51.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0052300201,38,PT07M44.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,223,2,0,Made,1,17,11,28,h,Jaquez Jr. 3PT Jump Shot (8 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,25
+0052300201,40,PT07M25.00S,1,1610612741,CHI,1629632,White,C. White,31,257,26,Missed,1,,,0,v,MISS White 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,26
+0052300201,41,PT07M22.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0052300201,42,PT07M19.00S,1,1610612748,MIA,1631107,Jović,N. Jović,29,22,4,Made,1,19,11,30,h,Jovic 4' Running Layup (5 PTS) (Adebayo 1 AST),Made Shot,Running Layup Shot,1,2,28
+0052300201,44,PT07M19.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,29
+0052300201,45,PT07M01.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-93,232,25,Missed,1,,,0,v,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+0052300201,46,PT06M58.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+0052300201,47,PT06M45.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-143,49,15,Missed,1,,,0,h,MISS Adebayo 15' Jump Shot,Missed Shot,Jump Shot,1,2,32
+0052300201,48,PT06M43.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,33
+0052300201,49,PT06M40.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-72,48,9,Made,1,21,11,32,h,Herro 9' Driving Floating Jump Shot (4 PTS) (Jaquez Jr. 3 AST),Made Shot,Driving Floating Jump Shot,1,2,34
+0052300201,51,PT06M28.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-232,6,0,Missed,1,,,0,v,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0052300201,52,PT06M25.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,36
+0052300201,53,PT06M09.00S,1,1610612748,MIA,1628997,Martin,C. Martin,201,67,21,Missed,1,,,0,h,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,1,2,37
+0052300201,54,PT06M04.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0052300201,55,PT05M57.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-85,12,9,Missed,1,,,0,v,MISS Vucevic 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,39
+0052300201,56,PT05M55.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0052300201,57,PT05M48.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-5,256,26,Missed,1,,,0,h,MISS Herro 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,41
+0052300201,58,PT05M46.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,1,0,42
+0052300201,59,PT05M46.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan L.B.FOUL (P1.T2) (S.Wright),Foul,Loose Ball,1,0,43
+0052300201,61,PT05M46.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,SUB: Highsmith FOR Jaquez Jr.,Substitution,,0,0,44
+0052300201,62,PT05M46.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,SUB: Terry FOR DeRozan,Substitution,,0,0,45
+0052300201,65,PT05M40.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-26,54,6,Missed,1,,,0,h,MISS Herro 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,46
+0052300201,65,PT05M40.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso BLOCK (1 BLK),,,1,2,47
+0052300201,67,PT05M40.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,48
+0052300201,69,PT05M36.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,0,49
+0052300201,71,PT05M36.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,22,11,33,h,Adebayo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,50
+0052300201,72,PT05M36.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,23,11,34,h,Adebayo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,51
+0052300201,73,PT05M20.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,28,15,3,Missed,1,,,0,v,MISS Dosunmu 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,52
+0052300201,74,PT05M16.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+0052300201,75,PT05M13.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-55,269,27,Missed,1,,,0,h,MISS Herro 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,54
+0052300201,76,PT05M11.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0052300201,77,PT05M02.00S,1,1610612741,CHI,1629632,White,C. White,-127,34,13,Missed,1,,,0,v,MISS White 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,56
+0052300201,78,PT05M01.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,57
+0052300201,79,PT04M52.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,86,5,9,Made,1,25,11,36,h,Highsmith 9' Floating Jump Shot (2 PTS) (Herro 3 AST),Made Shot,Floating Jump shot,1,2,58
+0052300201,81,PT04M46.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P1.T1) (S.Wright),Foul,Personal,1,0,59
+0052300201,83,PT04M46.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Love FOR Adebayo,Substitution,,0,0,60
+0052300201,84,PT04M46.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: DeRozan FOR White,Substitution,,0,0,61
+0052300201,87,PT04M33.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-232,110,26,Missed,1,,,0,v,MISS Caruso 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0052300201,88,PT04M29.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0052300201,89,PT04M24.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-22,13,3,Missed,1,,,0,h,MISS Jovic 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,64
+0052300201,90,PT04M24.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,65
+0052300201,91,PT04M14.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,17,8,2,Made,1,25,13,38,v,Vucevic 2' Driving Reverse Layup (4 PTS) (Caruso 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,66
+0052300201,215,PT04M01.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-1,104,10,Missed,1,,,0,h,MISS Highsmith 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,67
+0052300201,215,PT04M01.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu BLOCK (1 BLK),,,1,2,68
+0052300201,217,PT04M00.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,69
+0052300201,93,PT03M59.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-54,59,8,Missed,1,,,0,h,MISS Highsmith 8' Jump Shot,Missed Shot,Jump Shot,1,2,70
+0052300201,93,PT03M59.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic BLOCK (1 BLK),,,1,2,71
+0052300201,95,PT03M58.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0052300201,96,PT03M49.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-234,4,0,Missed,1,,,0,v,MISS Caruso 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0052300201,97,PT03M45.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+0052300201,98,PT03M34.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,75
+0052300201,98,PT03M34.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,76
+0052300201,100,PT03M23.00S,1,1610612748,MIA,201567,Love,K. Love,10,249,25,Made,1,28,13,41,h,Love 25' 3PT Jump Shot (3 PTS) (Herro 4 AST),Made Shot,Jump Shot,1,3,77
+0052300201,102,PT03M10.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-54,236,24,Missed,1,,,0,v,MISS Vucevic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0052300201,103,PT03M07.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,79
+0052300201,104,PT03M00.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0,80
+0052300201,106,PT03M00.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,29,13,42,h,Herro Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+0052300201,107,PT03M00.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,SUB: Wright FOR Jovic,Substitution,,0,0,82
+0052300201,108,PT03M00.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR Martin,Substitution,,0,0,83
+0052300201,109,PT03M00.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: White FOR Caruso,Substitution,,0,0,84
+0052300201,110,PT03M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,SUB: Drummond FOR Vucevic,Substitution,,0,0,85
+0052300201,111,PT03M00.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Green FOR Dosunmu,Substitution,,0,0,86
+0052300201,117,PT03M00.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,30,13,43,h,Herro Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,87
+0052300201,118,PT02M44.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-78,155,17,Missed,1,,,0,v,MISS DeRozan 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,88
+0052300201,119,PT02M41.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,89
+0052300201,120,PT02M27.00S,1,1610612748,MIA,201567,Love,K. Love,-57,219,23,Missed,1,,,0,h,MISS Love 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,90
+0052300201,121,PT02M23.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0052300201,122,PT02M06.00S,1,1610612741,CHI,1629750,Green,J. Green,137,234,27,Missed,1,,,0,v,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0052300201,123,PT02M03.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,93
+0052300201,124,PT01M58.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-25,2,3,Made,1,32,13,45,h,Highsmith 3' Running Alley Oop Dunk Shot (4 PTS) (Herro 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,94
+0052300201,126,PT01M40.00S,1,1610612741,CHI,1629632,White,C. White,127,241,27,Missed,1,,,0,v,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0052300201,127,PT01M36.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,96
+0052300201,128,PT01M35.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,-13,25,3,Made,1,32,15,47,v,Drummond 3' Layup (2 PTS) (Green 1 AST),Made Shot,Layup Shot,1,2,97
+0052300201,130,PT01M35.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,98
+0052300201,131,PT01M35.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,SUB: D. Robinson FOR Herro,Substitution,,0,0,99
+0052300201,133,PT01M15.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,100
+0052300201,135,PT01M15.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,33,15,48,h,Love Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+0052300201,136,PT01M15.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: Caruso FOR Terry,Substitution,,0,0,102
+0052300201,138,PT01M15.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,34,15,49,h,Love Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+0052300201,139,PT00M53.20S,1,1610612741,CHI,203083,Drummond,A. Drummond,52,8,5,Missed,1,,,0,v,MISS Drummond 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,104
+0052300201,141,PT00M48.20S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0052300201,142,PT00M41.40S,1,1610612748,MIA,201567,Love,K. Love,16,79,8,Missed,1,,,0,h,MISS Love 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,106
+0052300201,143,PT00M39.40S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+0052300201,144,PT00M35.10S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,108
+0052300201,146,PT00M35.10S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,34,16,50,v,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,109
+0052300201,147,PT00M35.10S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,34,17,51,v,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,110
+0052300201,148,PT00M20.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,50,106,12,Missed,1,,,0,h,MISS Jaquez Jr. 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,111
+0052300201,149,PT00M17.70S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+0052300201,150,PT00M00.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-1,62,6,Missed,1,,,0,v,MISS Caruso 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,113
+0052300201,151,PT00M00.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,114
+0052300201,152,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,17,51,,End of 1st Period (7:40 PM EST),period,end,1,0,115
+0052300201,155,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,17,51,,Start of 2nd Period (7:43 PM EST),period,start,0,0,116
+0052300201,156,PT11M42.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,202,157,26,Missed,1,,,0,h,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,117
+0052300201,157,PT11M39.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,118
+0052300201,158,PT11M25.00S,2,1610612741,CHI,1629632,White,C. White,45,8,5,Made,1,34,19,53,v,White 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,119
+0052300201,159,PT11M06.00S,2,1610612748,MIA,1626153,Wright,D. Wright,229,62,24,Missed,1,,,0,h,MISS Wright 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0052300201,160,PT11M02.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,121
+0052300201,161,PT10M56.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. P.FOUL (P2.T1) (S.Wright),Foul,Personal,1,0,122
+0052300201,163,PT10M56.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: Craig FOR Green,Substitution,,0,0,123
+0052300201,165,PT10M51.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,23,61,7,Missed,1,,,0,v,MISS Drummond 7' Hook Shot,Missed Shot,Hook Shot,1,2,124
+0052300201,166,PT10M49.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+0052300201,167,PT10M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,223,-3,0,Missed,1,,,0,h,MISS Adebayo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0052300201,168,PT10M36.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0052300201,169,PT10M28.00S,2,1610612741,CHI,1628470,Craig,T. Craig,245,105,27,Missed,1,,,0,v,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0052300201,170,PT10M25.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,129
+0052300201,171,PT10M12.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,9,36,4,Missed,1,,,0,h,MISS Jaquez Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,130
+0052300201,171,PT10M12.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig BLOCK (1 BLK),,,1,2,131
+0052300201,173,PT10M11.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,132
+0052300201,174,PT10M09.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,13,-8,2,Made,1,36,19,55,h,Jaquez Jr. 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,133
+0052300201,175,PT09M52.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,4,124,12,Made,1,36,21,57,v,DeRozan 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,134
+0052300201,176,PT09M33.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,230,34,0,Missed,1,,,0,h,MISS D. Robinson 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,135
+0052300201,177,PT09M31.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+0052300201,178,PT09M20.00S,2,1610612741,CHI,1629632,White,C. White,86,140,16,Missed,1,,,0,v,MISS White 16' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,137
+0052300201,179,PT09M19.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,138
+0052300201,181,PT09M19.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Vucevic FOR Drummond,Substitution,,0,0,139
+0052300201,184,PT09M10.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,140
+0052300201,184,PT09M10.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig STEAL (1 STL),,,1,0,141
+0052300201,186,PT08M53.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,101,120,16,Missed,1,,,0,v,MISS Vucevic 16' Jump Shot,Missed Shot,Jump Shot,1,2,142
+0052300201,187,PT08M52.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,1,0,143
+0052300201,188,PT08M52.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig L.B.FOUL (P1.T1) (J.Van Duyne),Foul,Loose Ball,1,0,144
+0052300201,190,PT08M52.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Dosunmu FOR White,Substitution,,0,0,145
+0052300201,192,PT08M40.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-65,263,27,Made,1,39,21,60,h,D. Robinson 27' 3PT Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,1,3,146
+0052300201,194,PT08M29.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,147
+0052300201,196,PT08M29.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,148
+0052300201,197,PT08M29.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0,149
+0052300201,198,PT08M29.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: Terry FOR Caruso,Substitution,,0,0,150
+0052300201,200,PT08M29.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,39,22,61,v,DeRozan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,151
+0052300201,202,PT08M18.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,87,246,26,Made,1,42,22,64,h,D. Robinson 26' 3PT Pullup Jump Shot (6 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,1,3,152
+0052300201,204,PT07M51.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-126,248,28,Made,1,42,25,67,v,DeRozan 28' 3PT Jump Shot (9 PTS) (Dosunmu 2 AST),Made Shot,Jump Shot,1,3,153
+0052300201,206,PT07M33.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-23,65,7,Missed,1,,,0,h,MISS Highsmith 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,154
+0052300201,206,PT07M33.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu BLOCK (2 BLK),,,1,2,155
+0052300201,208,PT07M30.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+0052300201,209,PT07M24.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,43,34,5,Made,1,42,27,69,v,DeRozan 5' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,157
+0052300201,210,PT06M58.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,158
+0052300201,210,PT06M58.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic STEAL (1 STL),,,1,0,159
+0052300201,212,PT06M57.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,160
+0052300201,214,PT06M57.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+0052300201,218,PT06M57.00S,2,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,SUB: Herro FOR Wright,Substitution,,0,0,162
+0052300201,219,PT06M57.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,SUB: Martin FOR Jaquez Jr.,Substitution,,0,0,163
+0052300201,222,PT06M57.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,42,28,70,v,Dosunmu Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,164
+0052300201,223,PT06M57.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,42,29,71,v,Dosunmu Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+0052300201,224,PT06M41.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-11,78,8,Missed,1,,,0,h,MISS Herro 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,166
+0052300201,224,PT06M41.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan BLOCK (1 BLK),,,1,2,167
+0052300201,226,PT06M38.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,168
+0052300201,227,PT06M35.00S,2,1610612741,CHI,1628470,Craig,T. Craig,-222,122,25,Missed,1,,,0,v,MISS Craig 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,169
+0052300201,228,PT06M32.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,170
+0052300201,229,PT06M27.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,1,0,171
+0052300201,231,PT06M27.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: Caruso FOR Terry,Substitution,,0,0,172
+0052300201,233,PT06M15.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,173
+0052300201,233,PT06M15.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig STEAL (2 STL),,,1,0,174
+0052300201,235,PT06M03.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,1,0,175
+0052300201,237,PT06M03.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,42,30,72,v,DeRozan Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,176
+0052300201,238,PT06M03.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,SUB: Jovic FOR D. Robinson,Substitution,,0,0,177
+0052300201,240,PT06M03.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,42,31,73,v,DeRozan Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,178
+0052300201,241,PT05M44.00S,2,1610612748,MIA,1629639,Herro,T. Herro,201,139,24,Missed,1,,,0,h,MISS Herro 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0052300201,242,PT05M41.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,180
+0052300201,243,PT05M20.00S,2,1610612741,CHI,1628470,Craig,T. Craig,241,62,25,Missed,1,,,0,v,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0052300201,244,PT05M17.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0052300201,245,PT05M11.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,229,10,0,Missed,1,,,0,h,MISS Highsmith 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,183
+0052300201,246,PT05M10.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,1,0,184
+0052300201,249,PT05M10.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,SUB: White FOR Craig,Substitution,,0,0,185
+0052300201,251,PT05M02.00S,2,1610612748,MIA,1631107,Jović,N. Jović,241,76,25,Missed,1,,,0,h,MISS Jovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+0052300201,252,PT04M58.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,187
+0052300201,253,PT04M47.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,188
+0052300201,253,PT04M47.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith STEAL (1 STL),,,1,0,189
+0052300201,255,PT04M44.00S,2,1610612748,MIA,1628997,Martin,C. Martin,34,39,5,Missed,1,,,0,h,MISS Martin 5' Running Layup,Missed Shot,Running Layup Shot,1,2,190
+0052300201,257,PT04M44.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,191
+0052300201,259,PT04M44.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,192
+0052300201,261,PT04M34.00S,2,1610612748,MIA,1628997,Martin,C. Martin,-50,89,10,Missed,1,,,0,h,MISS Martin 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,193
+0052300201,262,PT04M34.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,194
+0052300201,263,PT04M29.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,31,35,5,Missed,1,,,0,v,MISS Dosunmu 5' Running Layup,Missed Shot,Running Layup Shot,1,2,195
+0052300201,263,PT04M29.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,2,196
+0052300201,265,PT04M29.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,1,0,197
+0052300201,267,PT04M10.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,50,52,7,Missed,1,,,0,h,MISS Jaquez Jr. 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,198
+0052300201,268,PT04M07.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,199
+0052300201,269,PT03M48.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-229,1,0,Missed,1,,,0,v,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0052300201,270,PT03M46.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,201
+0052300201,271,PT03M42.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-230,97,25,Made,1,45,31,76,h,Herro 25' 3PT Running Jump Shot (9 PTS) (Jaquez Jr. 4 AST),Made Shot,Running Jump Shot,1,3,202
+0052300201,273,PT03M40.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,203
+0052300201,274,PT03M26.00S,2,1610612741,CHI,1629632,White,C. White,-235,56,24,Made,1,45,34,79,v,White 24' 3PT Jump Shot (5 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,1,3,204
+0052300201,276,PT02M57.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-9,94,9,Made,1,47,34,81,h,Adebayo 9' Driving Floating Jump Shot (6 PTS) (Herro 6 AST),Made Shot,Driving Floating Jump Shot,1,2,205
+0052300201,278,PT02M40.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,-207,127,24,Missed,1,,,0,v,MISS Caruso 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0052300201,279,PT02M36.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,207
+0052300201,280,PT02M32.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,208
+0052300201,280,PT02M32.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (1 STL),,,1,0,209
+0052300201,282,PT02M25.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,37,238,24,Missed,1,,,0,v,MISS Dosunmu 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,210
+0052300201,283,PT02M23.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,211
+0052300201,284,PT02M14.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,228,1,0,Missed,1,,,0,h,MISS Jaquez Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0052300201,285,PT02M12.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,213
+0052300201,286,PT02M08.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,214
+0052300201,288,PT02M08.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,215
+0052300201,289,PT02M08.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0,216
+0052300201,290,PT02M08.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: Green FOR Caruso,Substitution,,0,0,217
+0052300201,292,PT02M08.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,47,35,82,v,White Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,218
+0052300201,293,PT01M55.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,219
+0052300201,293,PT01M55.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White STEAL (1 STL),,,1,0,220
+0052300201,295,PT01M52.00S,2,1610612741,CHI,1629632,White,C. White,-50,20,5,Missed,1,,,0,v,MISS White 5' Running Layup,Missed Shot,Running Layup Shot,1,2,221
+0052300201,295,PT01M52.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic BLOCK (1 BLK),,,1,2,222
+0052300201,297,PT01M52.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,223
+0052300201,299,PT01M41.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-130,37,14,Made,1,47,37,84,v,DeRozan 14' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,224
+0052300201,301,PT01M21.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,225
+0052300201,301,PT01M21.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic STEAL (2 STL),,,1,0,226
+0052300201,303,PT01M02.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-223,16,0,Missed,1,,,0,v,MISS DeRozan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0052300201,304,PT00M58.50S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,228
+0052300201,305,PT00M56.30S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,229
+0052300201,305,PT00M56.30S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (2 STL),,,1,0,230
+0052300201,308,PT00M54.10S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,231
+0052300201,309,PT00M54.10S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,SUB: Highsmith FOR Jaquez Jr.,Substitution,,0,0,232
+0052300201,311,PT00M45.50S,2,1610612748,MIA,1631107,Jović,N. Jović,218,96,24,Missed,1,,,0,h,MISS Jovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0052300201,312,PT00M42.30S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,234
+0052300201,313,PT00M26.80S,2,1610612741,CHI,1629632,White,C. White,-1,45,5,Missed,1,,,0,v,MISS White 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,235
+0052300201,313,PT00M26.80S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (2 BLK),,,1,2,236
+0052300201,315,PT00M26.80S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,237
+0052300201,317,PT00M20.40S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-230,42,0,Missed,1,,,0,v,MISS DeRozan 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,238
+0052300201,318,PT00M16.80S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,239
+0052300201,319,PT00M06.80S,2,1610612741,CHI,1629632,White,C. White,11,262,26,Missed,1,,,0,v,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,240
+0052300201,320,PT00M05.20S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,241
+0052300201,321,PT00M00.90S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,242
+0052300201,323,PT00M00.90S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,MISS Adebayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,243
+0052300201,324,PT00M00.90S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0,244
+0052300201,325,PT00M00.90S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,MISS Adebayo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,245
+0052300201,326,PT00M00.90S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,246
+0052300201,327,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,37,84,,End of 2nd Period (8:11 PM EST),period,end,1,0,247
+0052300201,332,PT12M00.00S,3,0,,0,,,0,0,0,,0,47,37,84,,Start of 3rd Period (8:28 PM EST),period,start,0,0,248
+0052300201,333,PT11M37.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-126,20,13,Made,1,49,37,86,h,Adebayo 13' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,249
+0052300201,334,PT11M28.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,250
+0052300201,335,PT11M12.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,27,29,4,Missed,1,,,0,h,MISS Jaquez Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,251
+0052300201,336,PT11M09.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,252
+0052300201,337,PT11M05.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,6,260,26,Made,1,49,40,89,v,Vucevic 26' 3PT Running Jump Shot (7 PTS) (Caruso 3 AST),Made Shot,Running Jump Shot,1,3,253
+0052300201,339,PT10M48.00S,3,1610612748,MIA,1629639,Herro,T. Herro,36,263,27,Missed,1,,,0,h,MISS Herro 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,254
+0052300201,340,PT10M45.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,255
+0052300201,341,PT10M36.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,46,44,6,Made,1,49,42,91,v,DeRozan 6' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,256
+0052300201,342,PT10M16.00S,3,1610612748,MIA,1629639,Herro,T. Herro,191,194,27,Made,1,52,42,94,h,Herro 27' 3PT Jump Shot (12 PTS) (Jaquez Jr. 5 AST),Made Shot,Jump Shot,1,3,257
+0052300201,344,PT09M53.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-27,28,4,Made,1,52,44,96,v,Vucevic 4' Turnaround Hook Shot (9 PTS) (Dosunmu 3 AST),Made Shot,Turnaround Hook Shot,1,2,258
+0052300201,346,PT09M32.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-36,10,4,Missed,1,,,0,h,MISS Jaquez Jr. 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,259
+0052300201,347,PT09M30.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,260
+0052300201,348,PT09M15.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,16,26,3,Missed,1,,,0,v,MISS Vucevic 3' Layup,Missed Shot,Layup Shot,1,2,261
+0052300201,349,PT09M15.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,262
+0052300201,350,PT09M15.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin L.B.FOUL (P2.T1) (Z.Zarba),Foul,Loose Ball,1,0,263
+0052300201,352,PT09M04.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,34,36,5,Missed,1,,,0,v,MISS DeRozan 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,264
+0052300201,354,PT09M01.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,265
+0052300201,355,PT08M56.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-237,38,24,Made,1,55,44,99,h,Martin 24' 3PT Running Jump Shot (5 PTS) (Jovic 1 AST),Made Shot,Running Jump Shot,1,3,266
+0052300201,357,PT08M42.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Violation:Kicked Ball (J.Van Duyne),Violation,Kicked Ball,0,0,267
+0052300201,358,PT08M32.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,27,18,3,Missed,1,,,0,v,MISS Caruso 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,268
+0052300201,358,PT08M32.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo BLOCK (2 BLK),,,1,2,269
+0052300201,360,PT08M32.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,270
+0052300201,362,PT08M30.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White Traveling Turnover (P3.T6),Turnover,Traveling,1,0,271
+0052300201,363,PT08M09.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-140,19,14,Made,1,57,44,101,h,Herro 14' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,272
+0052300201,364,PT07M58.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,1,0,273
+0052300201,366,PT07M45.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,6,44,4,Missed,1,,,0,v,MISS Vucevic 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,274
+0052300201,367,PT07M42.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,275
+0052300201,368,PT07M35.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,11,16,2,Made,1,59,44,103,h,Jaquez Jr. 2' Driving Dunk (12 PTS) (Jovic 2 AST),Made Shot,Driving Dunk Shot,1,2,276
+0052300201,370,PT07M35.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,277
+0052300201,371,PT07M22.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,48,31,6,Made,1,59,46,105,v,Dosunmu 6' Driving Layup (7 PTS) (DeRozan 2 AST),Made Shot,Driving Layup Shot,1,2,278
+0052300201,373,PT06M56.00S,3,1610612748,MIA,1631107,Jović,N. Jović,-211,138,25,Missed,1,,,0,h,MISS Jovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+0052300201,374,PT06M54.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,280
+0052300201,375,PT06M44.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-234,15,0,Made,1,59,49,108,v,Dosunmu 3PT Jump Shot (10 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,281
+0052300201,377,PT06M21.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-1,9,1,Made,1,61,49,110,h,Jaquez Jr. 1' Cutting Dunk Shot (14 PTS) (Adebayo 4 AST),Made Shot,Cutting Dunk Shot,1,2,282
+0052300201,379,PT06M02.00S,3,1610612741,CHI,1629632,White,C. White,50,15,5,Made,1,61,51,112,v,White 5' Driving Layup (8 PTS) (Vucevic 3 AST),Made Shot,Driving Layup Shot,1,2,283
+0052300201,380,PT05M52.00S,3,1610612748,MIA,1629639,Herro,T. Herro,43,36,6,Made,1,63,51,114,h,Herro 6' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,284
+0052300201,381,PT05M34.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,234,-5,0,Missed,1,,,0,v,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+0052300201,382,PT05M32.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,286
+0052300201,383,PT05M26.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu P.FOUL (P1.T1) (S.Wright),Foul,Personal,1,0,287
+0052300201,385,PT05M26.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: Green FOR Caruso,Substitution,,0,0,288
+0052300201,387,PT05M19.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,6,42,4,Missed,1,,,0,h,MISS Jaquez Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+0052300201,388,PT05M18.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,290
+0052300201,389,PT05M18.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. L.B.FOUL (P3.T3) (J.Van Duyne),Foul,Loose Ball,1,0,291
+0052300201,391,PT05M18.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,SUB: Highsmith FOR Jaquez Jr.,Substitution,,0,0,292
+0052300201,393,PT05M05.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-23,258,26,Made,1,63,54,117,v,Vucevic 26' 3PT Jump Shot (12 PTS) (White 2 AST),Made Shot,Jump Shot,1,3,293
+0052300201,395,PT04M49.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,0,294
+0052300201,398,PT04M49.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,64,54,118,h,Herro Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,295
+0052300201,399,PT04M49.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,65,54,119,h,Herro Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,296
+0052300201,400,PT04M35.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-23,31,4,Missed,1,,,0,v,MISS Vucevic 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,297
+0052300201,401,PT04M32.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,298
+0052300201,402,PT04M23.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-202,62,21,Made,1,67,54,121,h,Martin 21' Running Jump Shot (7 PTS) (Herro 7 AST),Made Shot,Running Jump Shot,1,2,299
+0052300201,404,PT04M11.00S,3,1610612741,CHI,1629632,White,C. White,38,41,6,Made,1,67,56,123,v,White 6' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,300
+0052300201,405,PT03M56.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,176,183,25,Made,1,70,56,126,h,Adebayo 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,301
+0052300201,406,PT03M44.00S,3,1610612741,CHI,1629750,Green,J. Green,15,5,2,Made,1,70,58,128,v,Green 2' Layup (4 PTS) (White 3 AST),Made Shot,Layup Shot,1,2,302
+0052300201,408,PT03M36.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,303
+0052300201,409,PT03M36.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Love FOR Adebayo,Substitution,,0,0,304
+0052300201,410,PT03M36.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,SUB: Terry FOR Vucevic,Substitution,,0,0,305
+0052300201,411,PT03M36.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,SUB: Caruso FOR DeRozan,Substitution,,0,0,306
+0052300201,416,PT03M18.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,307
+0052300201,416,PT03M18.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,308
+0052300201,418,PT03M15.00S,3,1610612741,CHI,1629750,Green,J. Green,46,20,5,Made,1,70,60,130,v,Green 5' Running Layup (6 PTS) (White 4 AST),Made Shot,Running Layup Shot,1,2,309
+0052300201,420,PT03M00.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-62,257,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0052300201,421,PT02M57.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,311
+0052300201,422,PT02M54.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-54,17,6,Missed,1,,,0,h,MISS Herro 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,312
+0052300201,423,PT02M51.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,313
+0052300201,424,PT02M45.00S,3,1610612748,MIA,1629639,Herro,T. Herro,9,61,6,Missed,1,,,0,h,MISS Herro 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,314
+0052300201,425,PT02M44.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,315
+0052300201,426,PT02M44.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,316
+0052300201,428,PT02M44.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,71,60,131,h,Love Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,317
+0052300201,429,PT02M44.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,SUB: Wright FOR Jovic,Substitution,,0,0,318
+0052300201,430,PT02M44.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR Martin,Substitution,,0,0,319
+0052300201,433,PT02M44.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,72,60,132,h,Love Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,320
+0052300201,435,PT02M30.00S,3,1610612741,CHI,1631207,Terry,D. Terry,225,25,0,Missed,1,,,0,v,MISS Terry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0052300201,436,PT02M26.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,322
+0052300201,437,PT02M15.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White S.FOUL (P3.T4) (J.Van Duyne),Foul,Shooting,1,0,323
+0052300201,439,PT02M15.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,73,60,133,h,Love Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+0052300201,440,PT02M15.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: DeRozan FOR White,Substitution,,0,0,325
+0052300201,441,PT02M15.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: Drummond FOR Green,Substitution,,0,0,326
+0052300201,444,PT02M15.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,74,60,134,h,Love Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0052300201,445,PT02M12.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,328
+0052300201,445,PT02M12.00S,3,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright STEAL (1 STL),,,0,0,329
+0052300201,447,PT01M53.00S,3,1610612748,MIA,1626153,Wright,D. Wright,248,55,25,Made,1,77,60,137,h,Wright 25' 3PT Jump Shot (3 PTS) (Herro 8 AST),Made Shot,Jump Shot,1,3,330
+0052300201,449,PT01M44.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0,331
+0052300201,451,PT01M44.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,332
+0052300201,452,PT01M44.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: White FOR Terry,Substitution,,0,0,333
+0052300201,454,PT01M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,334
+0052300201,454,PT01M25.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (1 STL),,,1,0,335
+0052300201,456,PT01M22.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,336
+0052300201,456,PT01M22.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith STEAL (2 STL),,,1,0,337
+0052300201,458,PT01M14.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-234,43,24,Missed,1,,,0,h,MISS Jaquez Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,338
+0052300201,459,PT01M12.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,339
+0052300201,460,PT01M09.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,340
+0052300201,460,PT01M09.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith STEAL (3 STL),,,1,0,341
+0052300201,462,PT01M04.00S,3,1610612748,MIA,1629639,Herro,T. Herro,182,210,28,Made,1,80,60,140,h,Herro 28' 3PT Running Pull-Up Jump Shot (21 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,342
+0052300201,463,PT00M40.80S,3,1610612741,CHI,203083,Drummond,A. Drummond,-51,48,7,Missed,1,,,0,v,MISS Drummond 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,343
+0052300201,464,PT00M36.40S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,344
+0052300201,465,PT00M20.10S,3,1610612748,MIA,201567,Love,K. Love,-29,47,6,Missed,1,,,0,h,MISS Love 6' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,345
+0052300201,466,PT00M18.30S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,346
+0052300201,467,PT00M04.50S,3,1610612741,CHI,1629632,White,C. White,190,175,26,Missed,1,,,0,v,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0052300201,468,PT00M02.40S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,348
+0052300201,469,PT00M02.40S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond L.B.FOUL (P3.PN) (J.Van Duyne),Foul,Loose Ball,1,0,349
+0052300201,471,PT00M02.40S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,81,60,141,h,Love Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+0052300201,472,PT00M02.40S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,82,60,142,h,Love Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+0052300201,475,PT00M00.70S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-179,473,51,Missed,1,,,0,v,MISS Dosunmu 51' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,352
+0052300201,476,PT00M00.10S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,353
+0052300201,477,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,60,142,,End of 3rd Period (8:55 PM EST),period,end,1,0,354
+0052300201,480,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,60,142,,Start of 4th Period (8:58 PM EST),period,start,0,0,355
+0052300201,481,PT11M40.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,37,7,4,Missed,1,,,0,v,MISS DeRozan 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,356
+0052300201,481,PT11M40.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright BLOCK (1 BLK),,,1,2,357
+0052300201,483,PT11M37.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,358
+0052300201,484,PT11M35.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-5,31,3,Made,1,84,60,144,h,Jaquez Jr. 3' Running Dunk (16 PTS) (Herro 9 AST),Made Shot,Running Dunk Shot,1,2,359
+0052300201,486,PT11M25.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-21,57,6,Made,1,84,62,146,v,Vucevic 6' Driving Floating Jump Shot (14 PTS) (Caruso 4 AST),Made Shot,Driving Floating Jump Shot,1,2,360
+0052300201,488,PT11M10.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,361
+0052300201,490,PT11M10.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,85,62,147,h,Love Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+0052300201,491,PT11M10.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,86,62,148,h,Love Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0052300201,492,PT10M58.00S,4,1610612741,CHI,1629632,White,C. White,190,185,27,Missed,1,,,0,v,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0052300201,493,PT10M53.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,365
+0052300201,494,PT10M51.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,-87,247,26,Made,1,86,65,151,v,Caruso 26' 3PT Jump Shot (6 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,3,366
+0052300201,496,PT10M35.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,118,243,27,Missed,1,,,0,h,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0052300201,497,PT10M31.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic REBOUND (Off:1 Def:13),Rebound,Unknown,1,0,368
+0052300201,498,PT10M20.00S,4,1610612741,CHI,1629632,White,C. White,27,14,3,Missed,1,,,0,v,MISS White 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,369
+0052300201,499,PT10M17.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,370
+0052300201,500,PT10M05.00S,4,1610612748,MIA,1629639,Herro,T. Herro,222,131,26,Made,1,89,65,154,h,Herro 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,371
+0052300201,501,PT09M52.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,87,0,9,Missed,1,,,0,v,MISS DeRozan 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,372
+0052300201,502,PT09M52.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,373
+0052300201,504,PT09M52.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,374
+0052300201,505,PT09M52.00S,4,0,,503,,,0,0,0,,0,89,65,154,,Instant Replay4th Period (9:02 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,375
+0052300201,506,PT09M41.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,1,179,18,Missed,1,,,0,v,MISS Vucevic 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,376
+0052300201,507,PT09M39.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,377
+0052300201,508,PT09M25.00S,4,1610612748,MIA,201567,Love,K. Love,-233,-2,0,Made,1,92,65,157,h,Love 3PT Jump Shot (16 PTS) (Jaquez Jr. 6 AST),Made Shot,Jump Shot,1,3,378
+0052300201,510,PT09M10.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-91,131,16,Made,1,92,67,159,v,DeRozan 16' Pullup Jump Shot (19 PTS) (Dosunmu 4 AST),Made Shot,Pullup Jump shot,1,2,379
+0052300201,511,PT08M53.00S,4,1610612748,MIA,201567,Love,K. Love,-17,260,26,Missed,1,,,0,h,MISS Love 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0052300201,512,PT08M49.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,381
+0052300201,513,PT08M39.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,-170,221,28,Missed,1,,,0,v,MISS Caruso 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0052300201,514,PT08M35.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,383
+0052300201,515,PT08M22.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Lost Ball Turnover (P5.T10),Turnover,Lost Ball,1,0,384
+0052300201,515,PT08M22.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan STEAL (1 STL),,,1,0,385
+0052300201,517,PT08M17.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-234,15,0,Missed,1,,,0,v,MISS Dosunmu 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,386
+0052300201,518,PT08M14.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,Love REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,387
+0052300201,519,PT08M04.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,16,10,2,Made,1,94,67,161,h,Jaquez Jr. 2' Cutting Layup Shot (18 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,1,2,388
+0052300201,521,PT08M04.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,0,389
+0052300201,523,PT08M04.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,SUB: D. Robinson FOR Herro,Substitution,,0,0,390
+0052300201,524,PT08M04.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,h,SUB: Adebayo FOR Love,Substitution,,0,0,391
+0052300201,525,PT08M04.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Green FOR White,Substitution,,0,0,392
+0052300201,529,PT08M04.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,95,67,162,h,Jaquez Jr. Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,393
+0052300201,531,PT07M54.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-235,49,24,Made,1,95,70,165,v,DeRozan 24' 3PT Jump Shot (22 PTS) (Vucevic 4 AST),Made Shot,Jump Shot,1,3,394
+0052300201,533,PT07M29.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,44,25,5,Missed,1,,,0,h,MISS D. Robinson 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,395
+0052300201,534,PT07M29.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+0052300201,535,PT07M28.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,10,46,5,Made,1,97,70,167,h,D. Robinson 5' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,397
+0052300201,536,PT07M16.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,165,193,25,Missed,1,,,0,v,MISS DeRozan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0052300201,537,PT07M14.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,Jaquez Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,399
+0052300201,538,PT07M05.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,Vucevic S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,400
+0052300201,540,PT07M05.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,98,70,168,h,Jaquez Jr. Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0052300201,541,PT07M05.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: White FOR Caruso,Substitution,,0,0,402
+0052300201,543,PT07M05.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,99,70,169,h,Jaquez Jr. Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,403
+0052300201,544,PT06M47.00S,4,1610612741,CHI,1629750,Green,J. Green,1,6,1,Made,1,99,72,171,v,Green 1' Cutting Layup Shot (8 PTS) (Vucevic 5 AST),Made Shot,Cutting Layup Shot,1,2,404
+0052300201,546,PT06M31.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,17,17,2,Made,1,101,72,173,h,Adebayo 2' Alley Oop Dunk (13 PTS) (D. Robinson 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,405
+0052300201,548,PT06M18.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-237,75,25,Missed,1,,,0,v,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0052300201,549,PT06M15.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,407
+0052300201,550,PT06M13.00S,4,1610612741,CHI,1629750,Green,J. Green,-27,10,3,Made,1,101,74,175,v,Green 3' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,408
+0052300201,551,PT05M53.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,409
+0052300201,551,PT05M53.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (3 STL),,,1,0,410
+0052300201,553,PT05M51.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,411
+0052300201,554,PT05M33.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,205,150,25,Missed,1,,,0,h,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+0052300201,555,PT05M30.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,413
+0052300201,556,PT05M24.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,173,202,27,Missed,1,,,0,v,MISS Dosunmu 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,414
+0052300201,557,PT05M21.00S,4,1610612748,MIA,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,415
+0052300201,558,PT05M07.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,91,142,17,Missed,1,,,0,h,MISS Adebayo 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,416
+0052300201,559,PT05M06.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,417
+0052300201,560,PT05M06.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,Made,1,103,74,177,h,Highsmith Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,418
+0052300201,561,PT04M52.00S,4,1610612741,CHI,1629632,White,C. White,-148,218,26,Made,1,103,77,180,v,White 26' 3PT Jump Shot (13 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,1,3,419
+0052300201,563,PT04M52.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,420
+0052300201,564,PT04M52.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,h,SUB: Jovic FOR Jaquez Jr.,Substitution,,0,0,421
+0052300201,565,PT04M52.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,SUB: Terry FOR DeRozan,Substitution,,0,0,422
+0052300201,566,PT04M52.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Craig FOR White,Substitution,,0,0,423
+0052300201,570,PT04M34.00S,4,1610612748,MIA,1626153,Wright,D. Wright,-3,72,7,Made,1,105,77,182,h,Wright 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,424
+0052300201,571,PT04M13.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,7,43,4,Missed,1,,,0,v,MISS Vucevic 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,425
+0052300201,572,PT04M10.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,426
+0052300201,573,PT04M06.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,20,1,2,Missed,1,,,0,v,MISS Dosunmu 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+0052300201,575,PT04M02.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,428
+0052300201,576,PT03M59.00S,4,1610612741,CHI,1631207,Terry,D. Terry,-195,90,21,Missed,1,,,0,v,MISS Terry 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,429
+0052300201,577,PT03M59.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,1,0,430
+0052300201,578,PT03M59.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,D. Robinson L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,1,0,431
+0052300201,580,PT03M59.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Bryant FOR Adebayo,Substitution,,0,0,432
+0052300201,581,PT03M59.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Carter FOR Dosunmu,Substitution,,0,0,433
+0052300201,584,PT03M51.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,28,72,8,Made,1,105,79,184,v,Vucevic 8' Driving Hook Shot (16 PTS) (Green 2 AST),Made Shot,Driving Hook Shot,1,2,434
+0052300201,586,PT03M39.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,Jovic Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,435
+0052300201,586,PT03M39.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green STEAL (2 STL),,,1,0,436
+0052300201,588,PT03M32.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-27,267,27,Missed,1,,,0,v,MISS Vucevic 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,437
+0052300201,589,PT03M30.00S,4,1610612748,MIA,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,438
+0052300201,590,PT03M17.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith Traveling Turnover (P1.T13),Turnover,Traveling,1,0,439
+0052300201,591,PT03M17.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,SUB: Mills FOR D. Robinson,Substitution,,0,0,440
+0052300201,592,PT03M17.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,,,0,v,SUB: Dosunmu FOR Vucevic,Substitution,,0,0,441
+0052300201,595,PT03M02.00S,4,1610612741,CHI,1628470,Craig,T. Craig,232,73,24,Made,1,105,82,187,v,Craig 24' 3PT Jump Shot (3 PTS) (Green 3 AST),Made Shot,Jump Shot,1,3,442
+0052300201,597,PT02M51.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P2.T4) (Z.Zarba),Foul,Personal,1,0,443
+0052300201,599,PT02M26.00S,4,1610612748,MIA,1628418,Bryant,T. Bryant,33,43,5,Missed,1,,,0,h,MISS Bryant 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,444
+0052300201,600,PT02M24.00S,4,1610612748,MIA,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,445
+0052300201,601,PT02M24.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,446
+0052300201,603,PT02M24.00S,4,1610612748,MIA,1628418,Bryant,T. Bryant,0,0,0,,0,106,82,188,h,Bryant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0052300201,604,PT02M24.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,h,SUB: O. Robinson FOR Jovic,Substitution,,0,0,448
+0052300201,606,PT02M24.00S,4,1610612748,MIA,1628418,Bryant,T. Bryant,0,0,0,,0,107,82,189,h,Bryant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+0052300201,607,PT02M10.00S,4,1610612741,CHI,1629750,Green,J. Green,-37,105,11,Made,1,107,84,191,v,Green 11' Driving Floating Jump Shot (12 PTS) (Terry 1 AST),Made Shot,Driving Floating Jump Shot,1,2,450
+0052300201,609,PT01M49.00S,4,1610612748,MIA,1626153,Wright,D. Wright,77,67,10,Missed,1,,,0,h,MISS Wright 10' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,451
+0052300201,610,PT01M46.00S,4,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,452
+0052300201,611,PT01M40.00S,4,1610612741,CHI,1628470,Craig,T. Craig,59,259,27,Made,1,107,87,194,v,Craig 27' 3PT Jump Shot (6 PTS) (Carter 1 AST),Made Shot,Jump Shot,1,3,453
+0052300201,613,PT01M39.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,454
+0052300201,614,PT01M34.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,455
+0052300201,614,PT01M34.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson STEAL (1 STL),,,1,0,456
+0052300201,616,PT01M23.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-222,130,26,Made,1,110,87,197,h,Highsmith 26' 3PT Jump Shot (9 PTS) (O. Robinson 1 AST),Made Shot,Jump Shot,1,3,457
+0052300201,618,PT01M14.00S,4,1610612741,CHI,1628975,Carter,J. Carter,-179,21,18,Made,1,110,89,199,v,Carter 18' Pullup Jump Shot (2 PTS) (Craig 1 AST),Made Shot,Pullup Jump shot,1,2,458
+0052300201,620,PT00M58.80S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,459
+0052300201,621,PT00M48.80S,4,1610612741,CHI,1631207,Terry,D. Terry,-23,40,5,Missed,1,,,0,v,MISS Terry 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,460
+0052300201,622,PT00M46.60S,4,1610612748,MIA,1628418,Bryant,T. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,461
+0052300201,623,PT00M24.40S,4,1610612748,MIA,1628418,Bryant,T. Bryant,168,108,20,Made,1,112,89,201,h,Bryant 20' Fadeaway Bank Shot (4 PTS) (Mills 1 AST),Made Shot,Fadeaway Bank shot,1,2,462
+0052300201,625,PT00M17.80S,4,1610612741,CHI,1631207,Terry,D. Terry,-13,20,2,Made,1,112,91,203,v,Terry 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,463
+0052300201,626,PT00M00.00S,4,0,,0,,,0,0,0,,0,112,91,203,,End of 4th Period (9:23 PM EST),period,end,1,0,464

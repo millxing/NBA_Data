@@ -1,0 +1,422 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0, ,Start of 1st Period (8:11 PM EST),period,start,0,0,1,0021201226
+1,PT12M00.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Jump Ball Thabeet vs. Henson: Tip to Jennings,Jump Ball,,0,0,2,0021201226
+2,PT11M40.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,196,157,25,Missed,1,0,0,0,v,MISS Jennings 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,3,0021201226
+3,PT11M38.00S,1,1610612749,MIL,203089,Henson,J. Henson,-2,17,2,Missed,1,0,0,0,v,MISS Henson 2' Putback Layup,Missed Shot,Putback Layup Shot,0,2,5,0021201226
+4,PT11M38.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,4,0021201226
+5,PT11M36.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,6,0021201226
+6,PT11M32.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones P.FOUL (P1.T1),Foul,Personal,0,0,7,0021201226
+7,PT11M23.00S,1,1610612749,MIL,203089,Henson,J. Henson,69,20,7,Missed,1,0,0,0,v,MISS Henson 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,8,0021201226
+8,PT11M22.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,9,0021201226
+9,PT10M59.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-13,47,5,Missed,1,0,0,0,h,MISS Ibaka 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,10,0021201226
+10,PT10M58.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,11,0021201226
+11,PT10M55.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-100,222,24,Made,1,3,0,3,h,Sefolosha 24' 3PT Jump Shot (3 PTS) (Thabeet 1 AST),Made Shot,Jump Shot,0,3,12,0021201226
+12,PT10M40.00S,1,1610612749,MIL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,Ellis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,13,0021201226
+12,PT10M40.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0,0,0,h,Sefolosha STEAL (1 STL),,,0,0,14,0021201226
+13,PT10M32.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,22,2,Made,1,5,0,5,h,Westbrook 2' Driving Jump Shot (2 PTS),Made Shot,Driving Jump shot,0,2,15,0021201226
+14,PT10M16.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,231,0,0,Missed,1,0,0,0,v,MISS Mbah a Moute  3PT Jump Shot,Missed Shot,Jump Shot,0,3,16,0021201226
+15,PT10M15.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0,17,0021201226
+16,PT10M02.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-41,33,5,Made,1,7,0,7,h,Westbrook 5' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,2,18,0021201226
+17,PT09M46.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,-35,17,4,Missed,1,0,0,0,v,MISS Mbah a Moute 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,19,0021201226
+17,PT09M46.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka BLOCK (1 BLK),,,0,2,20,0021201226
+18,PT09M44.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0,0,0,h,Sefolosha REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,21,0021201226
+19,PT09M35.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-11,6,1,Missed,1,0,0,0,h,MISS Westbrook 1' Dunk,Missed Shot,Dunk Shot,0,2,22,0021201226
+20,PT09M33.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,23,0021201226
+21,PT09M27.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet S.FOUL (P1.T2),Foul,Shooting,0,0,24,0021201226
+22,PT09M27.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,7,1,8,v,Henson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,25,0021201226
+24,PT09M27.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,MISS Henson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,26,0021201226
+26,PT09M26.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,27,0021201226
+27,PT09M14.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,2,6,1,Made,1,9,1,10,h,Thabeet 1' Dunk (2 PTS) (Sefolosha 1 AST),Made Shot,Dunk Shot,0,2,28,0021201226
+28,PT08M53.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,83,228,24,Made,1,9,4,13,v,Jennings 24' 3PT Jump Shot (3 PTS) (Mbah a Moute 1 AST),Made Shot,Jump Shot,0,3,29,0021201226
+29,PT08M33.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,13,3,1,Made,1,11,4,15,h,Ibaka 1' Dunk (2 PTS) (Westbrook 1 AST),Made Shot,Dunk Shot,0,2,30,0021201226
+30,PT08M21.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,132,208,25,Made,1,11,7,18,v,Jennings 25' 3PT Jump Shot (6 PTS) (Ellis 1 AST),Made Shot,Jump Shot,0,3,31,0021201226
+32,PT07M59.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,9,241,24,Made,1,14,7,21,h,Sefolosha 24' 3PT Jump Shot (6 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,0,3,32,0021201226
+33,PT07M44.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh Traveling Turnover (P1.T2),Turnover,Traveling,0,0,33,0021201226
+35,PT07M34.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-7,3,1,Made,1,16,7,23,h,Ibaka 1' Dunk (4 PTS) (Sefolosha 2 AST),Made Shot,Dunk Shot,0,2,34,0021201226
+36,PT07M27.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,35,0021201226
+38,PT07M16.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,189,15,19,Missed,1,0,0,0,v,MISS Mbah a Moute 19' Jump Shot,Missed Shot,Jump Shot,0,2,36,0021201226
+39,PT07M15.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,37,0021201226
+40,PT07M07.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,2,42,4,Missed,1,0,0,0,h,MISS Westbrook 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,38,0021201226
+41,PT07M06.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,39,0021201226
+42,PT07M02.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,40,0021201226
+43,PT06M45.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-45,30,5,Missed,1,0,0,0,h,MISS Ibaka 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,41,0021201226
+44,PT06M44.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,42,0021201226
+45,PT06M36.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,43,0021201226
+45,PT06M36.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh STEAL (1 STL),,,0,0,44,0021201226
+46,PT06M26.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,34,137,14,Missed,1,0,0,0,v,MISS Jennings 14' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,45,0021201226
+47,PT06M25.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,46,0021201226
+48,PT06M21.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,Mbah a Moute Personal Block Foul (P1.T1),Foul,Personal Block,0,0,47,0021201226
+49,PT06M21.00S,1,1610612749,MIL,201601,Mbah a Moute,L. Mbah a Moute,0,0,0,,0,0,0,0,v,SUB: Dunleavy FOR Mbah a Moute,Substitution,,0,0,48,0021201226
+50,PT06M10.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,140,-6,14,Missed,1,0,0,0,h,MISS Sefolosha 14' Jump Shot,Missed Shot,Jump Shot,0,2,49,0021201226
+51,PT06M09.00S,1,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,50,0021201226
+52,PT06M01.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,24,93,10,Missed,1,0,0,0,v,MISS Udoh 10' Jump Shot,Missed Shot,Jump Shot,0,2,51,0021201226
+53,PT05M58.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,52,0021201226
+55,PT05M46.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson Violation:Kicked Ball,Violation,Kicked Ball,0,0,53,0021201226
+56,PT05M35.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,65,44,8,Missed,1,0,0,0,h,MISS Westbrook 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,54,0021201226
+57,PT05M34.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,1,1,0,Made,1,18,7,25,h,Jones  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,2,56,0021201226
+58,PT05M34.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,55,0021201226
+59,PT05M16.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,-7,12,1,Made,1,18,9,27,v,Jennings 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,57,0021201226
+60,PT05M08.00S,1,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy Personal Take Foul (P1.T2),Foul,Personal Take,0,0,58,0021201226
+61,PT05M08.00S,1,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,SUB: Smith FOR Jennings,Substitution,,0,0,59,0021201226
+62,PT05M08.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0,0,0,h,SUB: Lamb FOR Sefolosha,Substitution,,0,0,60,0021201226
+63,PT04M58.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-89,34,10,Made,1,20,9,29,h,Ibaka 10' Jump Shot (6 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,0,2,61,0021201226
+64,PT04M42.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet S.FOUL (P2.T3),Foul,Shooting,0,0,62,0021201226
+65,PT04M42.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,20,10,30,v,Udoh Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,63,0021201226
+67,PT04M42.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Westbrook,Substitution,,0,0,64,0021201226
+68,PT04M42.00S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,SUB: Orton FOR Thabeet,Substitution,,0,0,65,0021201226
+69,PT04M42.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,MISS Udoh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,66,0021201226
+71,PT04M41.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,67,0021201226
+72,PT04M23.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-152,71,17,Made,1,22,10,32,h,Ibaka 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,2,68,0021201226
+73,PT04M14.00S,1,1610612749,MIL,2399,Dunleavy,M. Dunleavy,-155,195,25,Made,1,22,13,35,v,Dunleavy 25' 3PT Jump Shot (3 PTS) (Ellis 2 AST),Made Shot,Jump Shot,0,3,69,0021201226
+75,PT03M53.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,118,211,24,Missed,1,0,0,0,h,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,70,0021201226
+76,PT03M52.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,71,0021201226
+77,PT03M43.00S,1,1610612749,MIL,101145,Ellis,M. Ellis,12,247,25,Missed,1,0,0,0,v,MISS Ellis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,72,0021201226
+78,PT03M42.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,73,0021201226
+79,PT03M38.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,74,0021201226
+81,PT03M38.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0,0,0,h,SUB: Brewer FOR Ibaka,Substitution,,0,0,75,0021201226
+82,PT03M38.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,SUB: Ayon FOR Henson,Substitution,,0,0,76,0021201226
+83,PT03M38.00S,1,1610612749,MIL,101145,Ellis,M. Ellis,0,0,0,,0,0,0,0,v,SUB: Redick FOR Ellis,Substitution,,0,0,77,0021201226
+84,PT03M25.00S,1,1610612760,OKC,203087,Lamb,J. Lamb,-193,153,25,Missed,1,0,0,0,h,MISS Lamb 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,78,0021201226
+85,PT03M24.00S,1,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,79,0021201226
+86,PT03M22.00S,1,1610612749,MIL,202970,Ayon,G. Ayon,1,6,1,Made,1,22,15,37,v,Ayon 1' Dunk (2 PTS) (Smith 1 AST),Made Shot,Dunk Shot,0,2,80,0021201226
+87,PT03M01.00S,1,1610612760,OKC,203087,Lamb,J. Lamb,-134,121,18,Made,1,24,15,39,h,Lamb 18' Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,2,81,0021201226
+88,PT02M48.00S,1,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton P.FOUL (P1.T4),Foul,Personal,0,0,82,0021201226
+89,PT02M41.00S,1,1610612749,MIL,2399,Dunleavy,M. Dunleavy,17,-2,2,Made,1,24,17,41,v,Dunleavy 2' Layup (5 PTS),Made Shot,Layup Shot,0,2,83,0021201226
+90,PT02M41.00S,1,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton S.FOUL (P2.PN),Foul,Shooting,0,0,84,0021201226
+91,PT02M41.00S,1,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,24,18,42,v,Dunleavy Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,85,0021201226
+93,PT02M24.00S,1,1610612760,OKC,202350,Orton,D. Orton,10,6,1,Made,1,26,18,44,h,Orton 1' Dunk (2 PTS) (Jackson 2 AST),Made Shot,Dunk Shot,0,2,86,0021201226
+94,PT01M59.00S,1,1610612749,MIL,202397,Smith,I. Smith,-226,8,0,Missed,1,0,0,0,v,MISS Smith  3PT Jump Shot,Missed Shot,Jump Shot,0,3,87,0021201226
+95,PT01M58.00S,1,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,88,0021201226
+96,PT01M49.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,9,6,1,Made,1,28,18,46,h,Jackson 1' Driving Slam Dunk (2 PTS),Made Shot,Driving Slam Dunk Shot,0,2,89,0021201226
+97,PT01M32.00S,1,1610612749,MIL,202970,Ayon,G. Ayon,24,23,3,Missed,1,0,0,0,v,MISS Ayon 3' Driving Jump Shot,Missed Shot,Driving Jump shot,0,2,90,0021201226
+98,PT01M31.00S,1,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,91,0021201226
+99,PT01M26.00S,1,1610612749,MIL,200755,Redick,J. Redick,2,124,12,Made,1,28,20,48,v,Redick 12' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,2,92,0021201226
+100,PT01M06.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,1,1,0,Made,1,30,20,50,h,Jones  Driving Layup (4 PTS) (Jackson 3 AST),Made Shot,Driving Layup Shot,0,2,93,0021201226
+101,PT01M06.00S,1,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon S.FOUL (P1.T3),Foul,Shooting,0,0,94,0021201226
+102,PT01M06.00S,1,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,95,0021201226
+104,PT01M05.00S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,96,0021201226
+105,PT00M49.90S,1,1610612749,MIL,202397,Smith,I. Smith,36,30,5,Missed,1,0,0,0,v,MISS Smith 5' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,97,0021201226
+106,PT00M48.90S,1,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,98,0021201226
+107,PT00M29.90S,1,1610612760,OKC,203087,Lamb,J. Lamb,-146,198,25,Missed,1,0,0,0,h,MISS Lamb 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,99,0021201226
+108,PT00M27.90S,1,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,100,0021201226
+109,PT00M05.70S,1,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton S.FOUL (P3.PN),Foul,Shooting,0,0,101,0021201226
+110,PT00M05.70S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,MISS Udoh Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,102,0021201226
+111,PT00M05.70S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0,103,0021201226
+112,PT00M05.70S,1,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,30,21,51,v,Udoh Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,104,0021201226
+114,PT00M00.00S,1,1610612760,OKC,202704,Jackson,R. Jackson,141,220,26,Missed,1,0,0,0,h,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,105,0021201226
+115,PT00M00.00S,1,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0,106,0021201226
+116,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,21,51, ,End of 1st Period (8:35 PM EST),period,end,0,0,107,0021201226
+118,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,21,51, ,Start of 2nd Period (8:38 PM EST),period,start,0,0,108,0021201226
+119,PT11M44.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,-13,-3,1,Made,1,32,21,53,h,Lamb 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,109,0021201226
+120,PT11M30.00S,2,1610612749,MIL,200755,Redick,J. Redick,-114,235,26,Missed,1,0,0,0,v,MISS Redick 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,110,0021201226
+121,PT11M29.00S,2,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,111,0021201226
+122,PT11M25.00S,2,1610612749,MIL,200755,Redick,J. Redick,-133,201,24,Missed,1,0,0,0,v,MISS Redick 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,112,0021201226
+123,PT11M24.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,113,0021201226
+124,PT11M06.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,29,184,19,Missed,1,0,0,0,h,MISS Jones 19' Jump Shot,Missed Shot,Jump Shot,0,2,114,0021201226
+125,PT11M05.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,115,0021201226
+126,PT10M58.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,146,151,21,Missed,1,0,0,0,v,MISS Dunleavy 21' Jump Shot,Missed Shot,Jump Shot,0,2,116,0021201226
+127,PT10M55.00S,2,1610612749,MIL,203089,Henson,J. Henson,20,0,2,Missed,1,0,0,0,v,MISS Henson 2' Tip Shot,Missed Shot,Tip Shot,0,2,118,0021201226
+128,PT10M55.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,117,0021201226
+129,PT10M54.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0,119,0021201226
+130,PT10M39.00S,2,1610612749,MIL,202970,Ayon,G. Ayon,-123,0,12,Missed,1,0,0,0,v,MISS Ayon 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,120,0021201226
+131,PT10M38.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,121,0021201226
+132,PT10M18.00S,2,1610612760,OKC,965,Fisher,D. Fisher,-122,74,14,Made,1,34,21,55,h,Fisher 14' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,0,2,122,0021201226
+133,PT09M57.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,17,0,2,Made,1,34,23,57,v,Dunleavy 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,123,0021201226
+134,PT09M28.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,-119,74,14,Missed,1,0,0,0,h,MISS Jackson 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,124,0021201226
+135,PT09M27.00S,2,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,125,0021201226
+136,PT09M21.00S,2,1610612749,MIL,203089,Henson,J. Henson,21,-8,2,Made,1,34,25,59,v,Henson 2' Layup (3 PTS) (Smith 2 AST),Made Shot,Layup Shot,0,2,126,0021201226
+137,PT09M00.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,114,129,17,Missed,1,0,0,0,h,MISS Lamb 17' Jump Shot,Missed Shot,Jump Shot,0,2,127,0021201226
+137,PT09M00.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy BLOCK (1 BLK),,,0,2,128,0021201226
+138,PT08M58.00S,2,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,129,0021201226
+139,PT08M54.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,108,107,15,Missed,1,0,0,0,h,MISS Jones 15' Jump Shot,Missed Shot,Jump Shot,0,2,130,0021201226
+140,PT08M52.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,-16,12,2,Missed,1,0,0,0,h,MISS Jackson 2' Tip Shot,Missed Shot,Tip Shot,0,2,132,0021201226
+141,PT08M52.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,131,0021201226
+142,PT08M50.00S,2,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,133,0021201226
+143,PT08M44.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,-212,126,25,Missed,1,0,0,0,v,MISS Dunleavy 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,134,0021201226
+144,PT08M41.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0,135,0021201226
+145,PT08M41.00S,2,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,136,0021201226
+147,PT08M41.00S,2,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,SUB: Jennings FOR Smith,Substitution,,0,0,137,0021201226
+148,PT08M41.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,SUB: Thabeet FOR Jones,Substitution,,0,0,138,0021201226
+149,PT08M24.00S,2,1610612760,OKC,965,Fisher,D. Fisher,0,225,23,Missed,1,0,0,0,h,MISS Fisher 23' Jump Shot,Missed Shot,Jump Shot,0,2,139,0021201226
+150,PT08M22.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,140,0021201226
+151,PT08M13.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,-100,89,13,Missed,1,0,0,0,h,MISS Jackson 13' Jump Shot,Missed Shot,Jump Shot,0,2,141,0021201226
+152,PT08M12.00S,2,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,142,0021201226
+153,PT07M57.00S,2,1610612749,MIL,203089,Henson,J. Henson,114,77,14,Made,1,34,27,61,v,Henson 14' Jump Shot (5 PTS) (Jennings 1 AST),Made Shot,Jump Shot,0,2,143,0021201226
+155,PT07M31.00S,2,1610612760,OKC,965,Fisher,D. Fisher,116,220,25,Made,1,37,27,64,h,Fisher 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,0,3,144,0021201226
+156,PT07M10.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,45,235,24,Missed,1,0,0,0,v,MISS Dunleavy 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,145,0021201226
+157,PT07M09.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,146,0021201226
+158,PT06M49.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,20,-3,2,Made,1,39,27,66,h,Jackson 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,147,0021201226
+159,PT06M27.00S,2,1610612749,MIL,201943,Jennings,B. Jennings,-82,222,24,Missed,1,0,0,0,v,MISS Jennings 24' Jump Shot,Missed Shot,Jump Shot,0,2,148,0021201226
+160,PT06M26.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,149,0021201226
+161,PT06M13.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb OFF.Foul (P1),Foul,Offensive,0,0,150,0021201226
+162,PT06M13.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb Foul Turnover (P1.T2),Turnover,Foul,0,0,151,0021201226
+163,PT06M13.00S,2,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,152,0021201226
+165,PT06M13.00S,2,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,SUB: Udoh FOR Ayon,Substitution,,0,0,153,0021201226
+167,PT06M00.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson Traveling Turnover (P1.T4),Turnover,Traveling,0,0,154,0021201226
+168,PT05M43.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,155,0021201226
+169,PT05M32.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,166,33,17,Missed,1,0,0,0,v,MISS Dunleavy 17' Jump Shot,Missed Shot,Jump Shot,0,2,156,0021201226
+170,PT05M31.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,157,0021201226
+171,PT05M28.00S,2,1610612749,MIL,203089,Henson,J. Henson,20,52,6,Made,1,39,29,68,v,Henson 6' Running Hook Shot (7 PTS),Made Shot,Running Hook Shot,0,2,158,0021201226
+172,PT05M11.00S,2,1610612760,OKC,965,Fisher,D. Fisher,-93,19,9,Missed,1,0,0,0,h,MISS Fisher 9' Running Bank Shot,Missed Shot,Running Bank shot,0,2,159,0021201226
+173,PT05M10.00S,2,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,160,0021201226
+174,PT05M03.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,17,0,2,Made,1,39,31,70,v,Dunleavy 2' Layup (10 PTS) (Redick 1 AST),Made Shot,Layup Shot,0,2,161,0021201226
+175,PT04M38.00S,2,1610612760,OKC,200758,Brewer,R. Brewer,-150,45,16,Made,1,41,31,72,h,Brewer 16' Jump Bank Shot (2 PTS) (Fisher 1 AST),Made Shot,Jump Bank Shot,0,2,162,0021201226
+176,PT04M20.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,84,224,24,Made,1,41,34,75,v,Dunleavy 24' 3PT Jump Shot (13 PTS) (Jennings 2 AST),Made Shot,Jump Shot,0,3,163,0021201226
+177,PT03M54.00S,2,1610612760,OKC,965,Fisher,D. Fisher,-205,123,24,Missed,1,0,0,0,h,MISS Fisher 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,164,0021201226
+178,PT03M53.00S,2,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,165,0021201226
+179,PT03M51.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,2,58,6,Made,1,43,34,77,h,Jackson 6' Jump Shot (6 PTS) (Brewer 1 AST),Made Shot,Jump Shot,0,2,166,0021201226
+180,PT03M31.00S,2,1610612749,MIL,203089,Henson,J. Henson,-5,4,1,Made,1,43,36,79,v,Henson 1' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,0,2,167,0021201226
+181,PT03M10.00S,2,1610612760,OKC,200758,Brewer,R. Brewer,0,-3,0,Missed,1,0,0,0,h,MISS Brewer  Layup,Missed Shot,Layup Shot,0,2,168,0021201226
+182,PT03M08.00S,2,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,169,0021201226
+183,PT02M59.00S,2,1610612749,MIL,201943,Jennings,B. Jennings,56,224,23,Missed,1,0,0,0,v,MISS Jennings 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,170,0021201226
+184,PT02M58.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,171,0021201226
+185,PT02M53.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,73,97,12,Made,1,45,36,81,h,Lamb 12' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,0,2,172,0021201226
+186,PT02M46.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,173,0021201226
+188,PT02M46.00S,2,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,SUB: Ellis FOR Dunleavy,Substitution,,0,0,174,0021201226
+189,PT02M46.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,SUB: Liggins FOR Thabeet,Substitution,,0,0,175,0021201226
+190,PT02M46.00S,2,1610612760,OKC,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,SUB: Jones FOR Fisher,Substitution,,0,0,176,0021201226
+191,PT02M39.00S,2,1610612749,MIL,200755,Redick,J. Redick,24,-5,2,Missed,1,0,0,0,v,MISS Redick 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,177,0021201226
+192,PT02M37.00S,2,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,178,0021201226
+193,PT02M22.00S,2,1610612760,OKC,202732,Liggins,D. Liggins,80,179,20,Made,1,47,36,83,h,Liggins 20' Jump Shot (2 PTS) (Lamb 1 AST),Made Shot,Jump Shot,0,2,179,0021201226
+194,PT02M10.00S,2,1610612749,MIL,203089,Henson,J. Henson,-24,53,6,Made,1,47,38,85,v,Henson 6' Jump Hook Shot (11 PTS),Made Shot,Jump Hook Shot,0,2,180,0021201226
+195,PT01M45.00S,2,1610612760,OKC,200758,Brewer,R. Brewer,-30,159,16,Missed,1,0,0,0,h,MISS Brewer 16' Jump Shot,Missed Shot,Jump Shot,0,2,181,0021201226
+195,PT01M45.00S,2,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh BLOCK (1 BLK),,,0,2,182,0021201226
+196,PT01M44.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,183,0021201226
+197,PT01M43.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,-10,1,1,Missed,1,0,0,0,h,MISS Lamb 1' Putback Layup,Missed Shot,Putback Layup Shot,0,2,184,0021201226
+198,PT01M38.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,185,0021201226
+199,PT01M23.00S,2,1610612749,MIL,202327,Udoh,E. Udoh,17,-6,2,Made,1,47,40,87,v,Udoh 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,186,0021201226
+201,PT01M11.00S,2,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh S.FOUL (P1.T1),Foul,Shooting,0,0,187,0021201226
+202,PT01M11.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,48,40,88,h,Jackson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,188,0021201226
+204,PT01M11.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,49,40,89,h,Jackson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,189,0021201226
+206,PT00M47.40S,2,1610612749,MIL,101145,Ellis,M. Ellis,146,20,15,Made,1,49,42,91,v,Ellis 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,2,190,0021201226
+207,PT00M34.90S,2,1610612760,OKC,203087,Lamb,J. Lamb,-164,184,25,Missed,1,0,0,0,h,MISS Lamb 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,191,0021201226
+208,PT00M33.50S,2,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,192,0021201226
+209,PT00M24.90S,2,1610612749,MIL,101145,Ellis,M. Ellis,47,233,24,Missed,1,0,0,0,v,MISS Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,193,0021201226
+210,PT00M23.80S,2,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,194,0021201226
+211,PT00M04.40S,2,1610612760,OKC,202704,Jackson,R. Jackson,17,0,2,Made,1,51,42,93,h,Jackson 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,195,0021201226
+212,PT00M01.20S,2,1610612749,MIL,201943,Jennings,B. Jennings,-134,277,31,Made,1,51,45,96,v,Jennings 31' 3PT Jump Shot (11 PTS) (Udoh 1 AST),Made Shot,Jump Shot,0,3,196,0021201226
+213,PT00M00.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,177,605,63,Missed,1,0,0,0,h,MISS Jackson 63' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,197,0021201226
+214,PT00M00.00S,2,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0,198,0021201226
+215,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,45,96, ,End of 2nd Period (9:00 PM EST),period,end,0,0,199,0021201226
+217,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,45,96, ,Start of 3rd Period (9:16 PM EST),period,start,0,0,200,0021201226
+218,PT11M42.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,84,60,10,Missed,1,0,0,0,h,MISS Jones 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,201,0021201226
+219,PT11M41.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,202,0021201226
+220,PT11M24.00S,3,1610612749,MIL,202327,Udoh,E. Udoh,95,-2,10,Missed,1,0,0,0,v,MISS Udoh 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,203,0021201226
+221,PT11M23.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,204,0021201226
+222,PT11M04.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,-68,119,14,Made,1,53,45,98,h,Jones 14' Jump Shot (6 PTS),Made Shot,Jump Shot,0,2,205,0021201226
+223,PT10M47.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,162,186,25,Made,1,53,48,101,v,Jennings 25' 3PT Jump Shot (14 PTS) (Redick 2 AST),Made Shot,Jump Shot,0,3,206,0021201226
+224,PT10M32.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,80,162,18,Made,1,55,48,103,h,Jones 18' Jump Shot (8 PTS) (Jackson 4 AST),Made Shot,Jump Shot,0,2,207,0021201226
+225,PT10M18.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,208,0021201226
+225,PT10M18.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson STEAL (1 STL),,,0,0,209,0021201226
+226,PT10M13.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,-108,153,19,Missed,1,0,0,0,h,MISS Lamb 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,210,0021201226
+227,PT10M12.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,211,0021201226
+228,PT10M03.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,-133,101,17,Missed,1,0,0,0,v,MISS Jennings 17' Jump Shot,Missed Shot,Jump Shot,0,2,212,0021201226
+229,PT10M02.00S,3,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,213,0021201226
+230,PT09M56.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,138,254,29,Missed,1,0,0,0,v,MISS Dunleavy 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,214,0021201226
+231,PT09M55.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,215,0021201226
+232,PT09M35.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,138,61,15,Missed,1,0,0,0,h,MISS Jones 15' Jump Shot,Missed Shot,Jump Shot,0,2,216,0021201226
+233,PT09M34.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,217,0021201226
+234,PT09M30.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson S.FOUL (P1.T1),Foul,Shooting,0,0,218,0021201226
+235,PT09M30.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,MISS Dunleavy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,219,0021201226
+236,PT09M30.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0,220,0021201226
+237,PT09M30.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,55,49,104,v,Dunleavy Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,221,0021201226
+239,PT09M20.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,77,167,18,Missed,1,0,0,0,h,MISS Jones 18' Jump Shot,Missed Shot,Jump Shot,0,2,222,0021201226
+240,PT09M19.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,223,0021201226
+241,PT09M10.00S,3,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,224,0021201226
+241,PT09M10.00S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet STEAL (1 STL),,,0,0,225,0021201226
+242,PT09M06.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,-10,0,1,Missed,1,0,0,0,h,MISS Lamb 1' Slam Dunk,Missed Shot,Slam Dunk Shot,0,2,226,0021201226
+243,PT09M04.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,227,0021201226
+244,PT08M52.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings P.FOUL (P1.T1),Foul,Personal,0,0,228,0021201226
+245,PT08M38.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,42,247,25,Missed,1,0,0,0,h,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,229,0021201226
+246,PT08M37.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0,230,0021201226
+247,PT08M28.00S,3,1610612749,MIL,200755,Redick,J. Redick,28,148,15,Missed,1,0,0,0,v,MISS Redick 15' Jump Shot,Missed Shot,Jump Shot,0,2,231,0021201226
+248,PT08M27.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,232,0021201226
+249,PT08M24.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,34,3,Missed,1,0,0,0,v,MISS Henson 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,2,233,0021201226
+250,PT08M23.00S,3,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,234,0021201226
+251,PT08M21.00S,3,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,Udoh Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,235,0021201226
+251,PT08M21.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer STEAL (1 STL),,,0,0,236,0021201226
+252,PT08M10.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,-2,39,4,Made,1,57,49,106,h,Jackson 4' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,2,237,0021201226
+253,PT08M02.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,138,205,25,Made,1,57,52,109,v,Jennings 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,0,3,238,0021201226
+255,PT07M33.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,0,96,10,Missed,1,0,0,0,h,MISS Lamb 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,239,0021201226
+256,PT07M32.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,240,0021201226
+257,PT07M27.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,47,236,24,Missed,1,0,0,0,v,MISS Jennings 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,241,0021201226
+258,PT07M25.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,242,0021201226
+259,PT07M07.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings S.FOUL (P2.T2),Foul,Shooting,0,0,243,0021201226
+260,PT07M07.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,58,52,110,h,Jackson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,244,0021201226
+262,PT07M07.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,59,52,111,h,Jackson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,245,0021201226
+264,PT06M54.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,246,0021201226
+264,PT06M54.00S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet STEAL (2 STL),,,0,0,247,0021201226
+265,PT06M46.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,147,105,18,Made,1,61,52,113,h,Jones 18' Jump Shot (10 PTS) (Thabeet 2 AST),Made Shot,Jump Shot,0,2,248,0021201226
+266,PT06M34.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,228,-3,0,Missed,1,0,0,0,v,MISS Dunleavy  3PT Jump Shot,Missed Shot,Jump Shot,0,3,249,0021201226
+267,PT06M33.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,250,0021201226
+268,PT06M12.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,-87,241,26,Missed,1,0,0,0,h,MISS Lamb 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,251,0021201226
+269,PT06M11.00S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,Thabeet REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,252,0021201226
+270,PT06M10.00S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,24,0,2,Made,1,63,52,115,h,Thabeet 2' Layup (4 PTS),Made Shot,Layup Shot,0,2,253,0021201226
+271,PT06M03.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,254,0021201226
+273,PT06M03.00S,3,1610612749,MIL,202327,Udoh,E. Udoh,0,0,0,,0,0,0,0,v,SUB: Ayon FOR Udoh,Substitution,,0,0,255,0021201226
+275,PT05M51.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,Jennings Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,256,0021201226
+275,PT05M51.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones STEAL (1 STL),,,0,0,257,0021201226
+276,PT05M35.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,92,224,24,Missed,1,0,0,0,h,MISS Lamb 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,258,0021201226
+277,PT05M34.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,-13,0,1,Missed,1,0,0,0,h,MISS Brewer 1' Putback Dunk,Missed Shot,Putback Dunk Shot,0,2,260,0021201226
+278,PT05M34.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,Brewer REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,259,0021201226
+279,PT05M32.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,261,0021201226
+280,PT05M26.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,193,154,25,Missed,1,0,0,0,v,MISS Jennings 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,262,0021201226
+281,PT05M25.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,263,0021201226
+282,PT05M10.00S,3,1610612749,MIL,200755,Redick,J. Redick,184,156,24,Missed,1,0,0,0,v,MISS Redick 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,264,0021201226
+283,PT05M09.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,265,0021201226
+285,PT04M48.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,-125,132,18,Missed,1,0,0,0,h,MISS Lamb 18' Jump Shot,Missed Shot,Jump Shot,0,2,266,0021201226
+286,PT04M47.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,267,0021201226
+287,PT04M36.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,-18,6,2,Missed,1,0,0,0,v,MISS Jennings 2' Layup,Missed Shot,Layup Shot,0,2,268,0021201226
+288,PT04M36.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,269,0021201226
+289,PT04M36.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb S.FOUL (P2.T2),Foul,Shooting,0,0,270,0021201226
+290,PT04M36.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,MISS Henson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,271,0021201226
+291,PT04M36.00S,3,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0,272,0021201226
+292,PT04M36.00S,3,1610612749,MIL,201943,Jennings,B. Jennings,0,0,0,,0,0,0,0,v,SUB: Smith FOR Jennings,Substitution,,0,0,273,0021201226
+293,PT04M36.00S,3,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,SUB: Daniels FOR Redick,Substitution,,0,0,274,0021201226
+294,PT04M36.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,63,53,116,v,Henson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,276,0021201226
+296,PT04M22.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,277,0021201226
+296,PT04M22.00S,3,1610612749,MIL,2399,Dunleavy,M. Dunleavy,0,0,0,,0,0,0,0,v,Dunleavy STEAL (1 STL),,,0,0,278,0021201226
+297,PT04M17.00S,3,1610612749,MIL,202397,Smith,I. Smith,78,22,8,Missed,1,0,0,0,v,MISS Smith 8' Jump Shot,Missed Shot,Jump Shot,0,2,279,0021201226
+298,PT04M16.00S,3,1610612749,MIL,203089,Henson,J. Henson,18,-5,2,Made,1,63,55,118,v,Henson 2' Tip Shot (14 PTS),Made Shot,Tip Shot,0,2,281,0021201226
+299,PT04M16.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,280,0021201226
+300,PT03M53.00S,3,1610612760,OKC,202350,Orton,D. Orton,14,6,2,Made,1,65,55,120,h,Orton 2' Layup (4 PTS) (Lamb 2 AST),Made Shot,Layup Shot,0,2,282,0021201226
+301,PT03M53.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon S.FOUL (P2.T3),Foul,Shooting,0,0,283,0021201226
+302,PT03M53.00S,3,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,66,55,121,h,Orton Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,284,0021201226
+304,PT04M36.00S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0,0,0,h,SUB: Orton FOR Thabeet,Substitution,,0,0,275,0021201226
+305,PT03M40.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,-10,-3,1,Missed,1,0,0,0,v,MISS Ayon 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,2,285,0021201226
+306,PT03M39.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,286,0021201226
+307,PT03M38.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,-19,11,2,Made,1,66,57,123,v,Ayon 2' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,2,287,0021201226
+309,PT03M14.00S,3,1610612760,OKC,203087,Lamb,J. Lamb,-116,121,17,Made,1,68,57,125,h,Lamb 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,2,288,0021201226
+310,PT03M01.00S,3,1610612749,MIL,203089,Henson,J. Henson,-144,72,16,Made,1,68,59,127,v,Henson 16' Jump Shot (16 PTS),Made Shot,Jump Shot,0,2,289,0021201226
+312,PT02M44.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,-221,3,0,Missed,1,0,0,0,h,MISS Brewer  3PT Jump Shot,Missed Shot,Jump Shot,0,3,290,0021201226
+313,PT02M43.00S,3,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,291,0021201226
+315,PT02M31.00S,3,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton P.FOUL (P4.T3),Foul,Personal,0,0,292,0021201226
+316,PT02M31.00S,3,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,293,0021201226
+318,PT02M31.00S,3,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,SUB: Liggins FOR Jones,Substitution,,0,0,294,0021201226
+319,PT02M31.00S,3,1610612760,OKC,200758,Brewer,R. Brewer,0,0,0,,0,0,0,0,h,SUB: Fisher FOR Brewer,Substitution,,0,0,295,0021201226
+321,PT02M31.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,68,60,128,v,Henson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,296,0021201226
+323,PT02M31.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,68,61,129,v,Henson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,297,0021201226
+327,PT02M10.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,298,0021201226
+328,PT01M57.00S,3,1610612749,MIL,203089,Henson,J. Henson,6,39,4,Made,1,68,63,131,v,Henson 4' Running Jump Shot (20 PTS),Made Shot,Running Jump Shot,0,2,299,0021201226
+329,PT01M34.00S,3,1610612760,OKC,965,Fisher,D. Fisher,-158,189,25,Missed,1,0,0,0,h,MISS Fisher 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,300,0021201226
+330,PT01M33.00S,3,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,301,0021201226
+331,PT01M09.00S,3,1610612749,MIL,202970,Ayon,G. Ayon,-10,-6,1,Made,1,68,65,133,v,Ayon 1' Reverse Layup (6 PTS) (Daniels 1 AST),Made Shot,Reverse Layup Shot,0,2,302,0021201226
+332,PT00M50.90S,3,1610612760,OKC,202732,Liggins,D. Liggins,-142,211,25,Missed,1,0,0,0,h,MISS Liggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,303,0021201226
+333,PT00M50.30S,3,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,304,0021201226
+334,PT00M32.20S,3,1610612749,MIL,202397,Smith,I. Smith,13,238,24,Made,1,68,68,136,v,Smith 24' 3PT Jump Shot (3 PTS) (Henson 1 AST),Made Shot,Jump Shot,0,3,305,0021201226
+335,PT00M23.60S,3,1610612760,OKC,202704,Jackson,R. Jackson,-75,45,9,Made,1,70,68,138,h,Jackson 9' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,0,2,306,0021201226
+336,PT00M04.90S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson P.FOUL (P2.T4),Foul,Personal,0,0,307,0021201226
+337,PT00M00.90S,3,1610612749,MIL,202397,Smith,I. Smith,99,170,20,Missed,1,0,0,0,v,MISS Smith 20' Jump Shot,Missed Shot,Jump Shot,0,2,308,0021201226
+339,PT00M00.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,309,0021201226
+340,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,68,138, ,End of 3rd Period (9:38 PM EST),period,end,0,0,310,0021201226
+342,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,68,138, ,Start of 4th Period (9:40 PM EST),period,start,0,0,311,0021201226
+343,PT11M47.00S,4,1610612749,MIL,203089,Henson,J. Henson,83,12,8,Missed,1,0,0,0,v,MISS Henson 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,312,0021201226
+344,PT11M46.00S,4,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,313,0021201226
+345,PT11M29.00S,4,1610612760,OKC,965,Fisher,D. Fisher,-155,148,21,Missed,1,0,0,0,h,MISS Fisher 21' Jump Shot,Missed Shot,Jump Shot,0,2,314,0021201226
+346,PT11M28.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,315,0021201226
+347,PT11M11.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,Liggins S.FOUL (P1.T1),Foul,Shooting,0,0,316,0021201226
+348,PT11M11.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,70,69,139,v,Henson Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,317,0021201226
+351,PT11M11.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,SUB: Jones FOR Jackson,Substitution,,0,0,318,0021201226
+352,PT11M11.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,70,70,140,v,Henson Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,319,0021201226
+354,PT10M58.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,Liggins Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,320,0021201226
+354,PT10M58.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels STEAL (1 STL),,,0,0,321,0021201226
+355,PT10M53.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,6,1,Made,1,70,72,142,v,Henson 1' Dunk (24 PTS) (Daniels 2 AST),Made Shot,Dunk Shot,0,2,322,0021201226
+356,PT10M30.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,-45,47,7,Made,1,72,72,144,h,Jones 7' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,2,323,0021201226
+357,PT10M14.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,-105,97,14,Missed,1,0,0,0,v,MISS Daniels 14' Jump Shot,Missed Shot,Jump Shot,0,2,324,0021201226
+358,PT10M13.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,325,0021201226
+359,PT10M07.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,-111,211,24,Missed,1,0,0,0,h,MISS Lamb 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,326,0021201226
+360,PT10M05.00S,4,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,327,0021201226
+361,PT09M59.00S,4,1610612749,MIL,200755,Redick,J. Redick,-147,203,25,Made,1,72,75,147,v,Redick 25' 3PT Jump Shot (5 PTS) (Smith 3 AST),Made Shot,Jump Shot,0,3,328,0021201226
+362,PT09M34.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,-152,44,16,Missed,1,0,0,0,h,MISS Jones 16' Jump Shot,Missed Shot,Jump Shot,0,2,329,0021201226
+363,PT09M33.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,330,0021201226
+364,PT09M22.00S,4,1610612749,MIL,202397,Smith,I. Smith,-11,34,4,Made,1,72,77,149,v,Smith 4' Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,0,2,331,0021201226
+365,PT09M11.00S,4,1610612760,OKC,965,Fisher,D. Fisher,-177,170,25,Missed,1,0,0,0,h,MISS Fisher 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,332,0021201226
+366,PT09M10.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,333,0021201226
+367,PT09M04.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels OFF.Foul (P1),Foul,Offensive,0,0,334,0021201226
+368,PT09M04.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels Foul Turnover (P1.T10),Turnover,Foul,0,0,335,0021201226
+369,PT09M04.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,336,0021201226
+373,PT08M48.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick S.FOUL (P1.T1),Foul,Shooting,0,0,337,0021201226
+374,PT08M48.00S,4,1610612760,OKC,965,Fisher,D. Fisher,0,0,0,,0,73,77,150,h,Fisher Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,338,0021201226
+376,PT08M48.00S,4,1610612760,OKC,965,Fisher,D. Fisher,0,0,0,,0,74,77,151,h,Fisher Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,339,0021201226
+378,PT08M37.00S,4,1610612749,MIL,200755,Redick,J. Redick,36,239,24,Missed,1,0,0,0,v,MISS Redick 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,340,0021201226
+379,PT08M36.00S,4,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,341,0021201226
+380,PT08M27.00S,4,1610612749,MIL,200755,Redick,J. Redick,75,12,8,Made,1,74,79,153,v,Redick 8' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,0,2,342,0021201226
+381,PT08M27.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones S.FOUL (P2.T2),Foul,Shooting,0,0,343,0021201226
+382,PT08M27.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,74,80,154,v,Redick Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,344,0021201226
+384,PT08M10.00S,4,1610612760,OKC,202350,Orton,D. Orton,21,26,3,Missed,1,0,0,0,h,MISS Orton 3' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,345,0021201226
+385,PT08M09.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,346,0021201226
+386,PT07M57.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,-29,3,3,Missed,1,0,0,0,v,MISS Daniels 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,347,0021201226
+386,PT07M57.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb BLOCK (1 BLK),,,0,2,348,0021201226
+387,PT07M56.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,349,0021201226
+388,PT07M53.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,0,0,0,,0,0,0,0,v,Daniels Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,350,0021201226
+388,PT07M53.00S,4,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton STEAL (1 STL),,,0,0,351,0021201226
+389,PT07M47.00S,4,1610612760,OKC,965,Fisher,D. Fisher,56,242,25,Missed,1,0,0,0,h,MISS Fisher 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,352,0021201226
+390,PT07M46.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,353,0021201226
+391,PT07M38.00S,4,1610612749,MIL,203089,Henson,J. Henson,18,203,20,Missed,1,0,0,0,v,MISS Henson 20' Jump Shot,Missed Shot,Jump Shot,0,2,354,0021201226
+392,PT07M37.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,355,0021201226
+394,PT07M23.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,-56,66,9,Missed,1,0,0,0,h,MISS Lamb 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,356,0021201226
+395,PT07M22.00S,4,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,357,0021201226
+396,PT07M17.00S,4,1610612749,MIL,202397,Smith,I. Smith,4,41,4,Made,1,74,82,156,v,Smith 4' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,0,2,358,0021201226
+397,PT07M00.00S,4,1610612760,OKC,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,Fisher Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,359,0021201226
+397,PT07M00.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick STEAL (1 STL),,,0,0,360,0021201226
+398,PT06M55.00S,4,1610612749,MIL,200755,Redick,J. Redick,12,-8,1,Made,1,74,84,158,v,Redick 1' Reverse Layup (10 PTS) (Smith 4 AST),Made Shot,Reverse Layup Shot,0,2,361,0021201226
+399,PT06M54.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,362,0021201226
+402,PT06M54.00S,4,1610612760,OKC,965,Fisher,D. Fisher,0,0,0,,0,0,0,0,h,SUB: Jackson FOR Fisher,Substitution,,0,0,363,0021201226
+403,PT06M40.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,-133,126,18,Missed,1,0,0,0,h,MISS Jones 18' Jump Shot,Missed Shot,Jump Shot,0,2,364,0021201226
+404,PT06M39.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,365,0021201226
+405,PT06M18.00S,4,1610612749,MIL,202397,Smith,I. Smith,122,209,24,Missed,1,0,0,0,v,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,366,0021201226
+406,PT06M17.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:8 Def:7),Rebound,Unknown,0,0,367,0021201226
+407,PT06M13.00S,4,1610612749,MIL,203089,Henson,J. Henson,-81,23,8,Made,1,74,86,160,v,Henson 8' Jump Bank Shot (26 PTS),Made Shot,Jump Bank Shot,0,2,368,0021201226
+408,PT05M59.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,-68,83,11,Missed,1,0,0,0,h,MISS Lamb 11' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,369,0021201226
+409,PT05M58.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,370,0021201226
+410,PT05M47.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,91,1,9,Missed,1,0,0,0,v,MISS Ayon 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,371,0021201226
+411,PT05M47.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,Liggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,372,0021201226
+412,PT05M38.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,12,4,1,Made,1,76,86,162,h,Jackson 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,2,373,0021201226
+413,PT05M17.00S,4,1610612749,MIL,203089,Henson,J. Henson,-45,26,5,Missed,1,0,0,0,v,MISS Henson 5' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,374,0021201226
+414,PT05M16.00S,4,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,375,0021201226
+415,PT05M07.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,6,1,Made,1,78,86,164,h,Jackson 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,2,376,0021201226
+416,PT04M44.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,-231,7,0,Made,1,78,89,167,v,Daniels  3PT Jump Shot (3 PTS) (Smith 5 AST),Made Shot,Jump Shot,0,3,377,0021201226
+417,PT04M23.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,70,34,8,Missed,1,0,0,0,h,MISS Jackson 8' Driving Jump Shot,Missed Shot,Driving Jump shot,0,2,378,0021201226
+418,PT04M23.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Rebound,Rebound,Unknown,0,0,379,0021201226
+420,PT04M05.00S,4,1610612749,MIL,2605,Daniels,M. Daniels,91,23,9,Missed,1,0,0,0,v,MISS Daniels 9' Jump Shot,Missed Shot,Jump Shot,0,2,380,0021201226
+421,PT04M04.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,381,0021201226
+422,PT03M49.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,-106,224,25,Missed,1,0,0,0,h,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,382,0021201226
+423,PT03M47.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,383,0021201226
+424,PT03M29.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,15,7,2,Made,1,78,91,169,v,Ayon 2' Layup (8 PTS) (Redick 3 AST),Made Shot,Layup Shot,0,2,384,0021201226
+425,PT03M10.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick S.FOUL (P2.T2),Foul,Shooting,0,0,385,0021201226
+426,PT03M10.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,MISS Liggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,386,0021201226
+427,PT03M10.00S,4,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,387,0021201226
+428,PT03M10.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,79,91,170,h,Liggins Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,388,0021201226
+430,PT02M56.00S,4,1610612760,OKC,202350,Orton,D. Orton,0,0,0,,0,0,0,0,h,Orton S.FOUL (P5.T3),Foul,Shooting,0,0,389,0021201226
+431,PT02M56.00S,4,0,,0,,,0,0,0,,0,0,0,0, ,Timeout: Official,Timeout,Official,0,0,390,0021201226
+435,PT02M56.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,79,92,171,v,Redick Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,391,0021201226
+437,PT02M56.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,79,93,172,v,Redick Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,392,0021201226
+439,PT02M44.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Bucks T.Foul (Def. 3 Sec Henson ),Foul,Defense 3 Second,0,0,393,0021201226
+440,PT02M44.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,80,93,173,h,Lamb Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0,394,0021201226
+443,PT02M33.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,395,0021201226
+443,PT02M33.00S,4,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith STEAL (1 STL),,,0,0,396,0021201226
+444,PT02M16.00S,4,1610612749,MIL,200755,Redick,J. Redick,0,0,0,,0,0,0,0,v,Redick Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,397,0021201226
+444,PT02M16.00S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,Liggins STEAL (1 STL),,,0,0,398,0021201226
+445,PT02M12.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,-10,1,1,Made,1,82,93,175,h,Lamb 1' Alley Oop Dunk (11 PTS) (Jackson 5 AST),Made Shot,Alley Oop Dunk Shot,0,2,399,0021201226
+447,PT01M48.00S,4,1610612749,MIL,203089,Henson,J. Henson,1,1,0,Made,1,82,95,177,v,Henson  Dunk (28 PTS) (Ayon 1 AST),Made Shot,Dunk Shot,0,2,400,0021201226
+448,PT01M27.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,70,154,17,Missed,1,0,0,0,h,MISS Jones 17' Jump Shot,Missed Shot,Jump Shot,0,2,401,0021201226
+449,PT01M26.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,402,0021201226
+450,PT01M26.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,-2,0,Made,1,84,95,179,h,Lamb  Layup (13 PTS),Made Shot,Layup Shot,0,2,403,0021201226
+451,PT01M08.00S,4,1610612749,MIL,202970,Ayon,G. Ayon,31,1,3,Missed,1,0,0,0,v,MISS Ayon 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,404,0021201226
+452,PT01M07.00S,4,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0,0,0,h,Lamb REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,405,0021201226
+453,PT00M59.90S,4,1610612760,OKC,203087,Lamb,J. Lamb,-23,-14,3,Missed,1,0,0,0,h,MISS Lamb 3' Layup,Missed Shot,Layup Shot,0,2,406,0021201226
+453,PT00M59.90S,4,1610612749,MIL,202970,Ayon,G. Ayon,0,0,0,,0,0,0,0,v,Ayon BLOCK (1 BLK),,,0,2,407,0021201226
+454,PT00M58.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,15,-6,2,Made,1,86,95,181,h,Jones 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,0,2,409,0021201226
+455,PT00M58.00S,4,1610612760,OKC,203103,Jones III,P. Jones III,0,0,0,,0,0,0,0,h,Jones REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,408,0021201226
+456,PT00M58.00S,4,0,,1610612749,,,0,0,0,,0,0,0,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,410,0021201226
+459,PT00M35.80S,4,1610612749,MIL,2605,Daniels,M. Daniels,114,211,24,Missed,1,0,0,0,v,MISS Daniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,411,0021201226
+460,PT00M34.50S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0,0,0,h,Jackson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,412,0021201226
+461,PT00M27.60S,4,1610612749,MIL,202397,Smith,I. Smith,0,0,0,,0,0,0,0,v,Smith S.FOUL (P1.T3),Foul,Shooting,0,0,413,0021201226
+462,PT00M27.60S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,87,95,182,h,Jackson Free Throw 1 of 3 (21 PTS),Free Throw,Free Throw 1 of 3,0,0,414,0021201226
+464,PT00M27.60S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,88,95,183,h,Jackson Free Throw 2 of 3 (22 PTS),Free Throw,Free Throw 2 of 3,0,0,415,0021201226
+466,PT00M27.60S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,89,95,184,h,Jackson Free Throw 3 of 3 (23 PTS),Free Throw,Free Throw 3 of 3,0,0,416,0021201226
+468,PT00M09.80S,4,1610612749,MIL,203089,Henson,J. Henson,-8,148,15,Missed,1,0,0,0,v,MISS Henson 15' Jump Shot,Missed Shot,Jump Shot,0,2,417,0021201226
+469,PT00M08.80S,4,1610612760,OKC,202732,Liggins,D. Liggins,0,0,0,,0,0,0,0,h,Liggins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,418,0021201226
+470,PT00M00.90S,4,1610612760,OKC,202704,Jackson,R. Jackson,72,271,28,Missed,1,0,0,0,h,MISS Jackson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,419,0021201226
+471,PT00M00.20S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0,0,0,v,Henson REBOUND (Off:8 Def:8),Rebound,Unknown,0,0,420,0021201226
+472,PT00M00.00S,4,0,,0,,,0,0,0,,0,89,95,184, ,End of 4th Period (10:08 PM EST),period,end,0,0,421,0021201226

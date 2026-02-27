@@ -1,0 +1,501 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0052200131,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:52 PM EST),period,start,0,0,1
+0052200131,4,PT12M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,2
+0052200131,8,PT11M43.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-116,49,13,Missed,1,,,0,h,MISS Murphy III 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,3
+0052200131,9,PT11M42.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0052200131,10,PT11M41.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,2,0,2,h,Valanciunas Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,5
+0052200131,11,PT11M20.00S,1,1610612760,OKC,1631119,Williams,J. Williams,188,171,25,Missed,1,,,0,v,MISS Jay. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+0052200131,12,PT11M17.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,7
+0052200131,13,PT11M03.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-131,81,15,Missed,1,,,0,h,MISS Murphy III 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0052200131,14,PT10M59.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0052200131,15,PT10M56.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,1,84,8,Missed,1,,,0,v,MISS Gilgeous-Alexander 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,10
+0052200131,15,PT10M56.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,11
+0052200131,17,PT10M55.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0052200131,18,PT10M42.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-70,194,21,Missed,1,,,0,h,MISS Ingram 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,13
+0052200131,19,PT10M37.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,14
+0052200131,20,PT10M37.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,4,0,4,h,Valanciunas Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,15
+0052200131,22,PT10M19.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-6,-4,1,Made,1,4,2,6,v,Dort 1' Driving Dunk (2 PTS) (Giddey 1 AST),Made Shot,Driving Dunk Shot,1,2,16
+0052200131,24,PT10M04.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-64,39,7,Missed,1,,,0,h,MISS Murphy III 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,17
+0052200131,25,PT10M00.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,18
+0052200131,28,PT09M51.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-66,164,18,Missed,1,,,0,v,MISS Gilgeous-Alexander 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,19
+0052200131,29,PT09M49.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0052200131,30,PT09M40.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,31,94,10,Missed,1,,,0,h,MISS Ingram 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,21
+0052200131,31,PT09M38.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,22
+0052200131,32,PT09M36.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,1,62,6,Made,1,6,2,8,h,Valanciunas 6' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,23
+0052200131,33,PT09M25.00S,1,1610612760,OKC,1629652,Dort,L. Dort,169,183,25,Missed,1,,,0,v,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+0052200131,34,PT09M20.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+0052200131,35,PT09M19.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-23,-6,2,Made,1,6,4,10,v,Giddey 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,26
+0052200131,37,PT08M58.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-195,23,20,Made,1,8,4,12,h,McCollum 20' Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,2,27
+0052200131,39,PT08M46.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-40,55,7,Missed,1,,,0,v,MISS Giddey 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,28
+0052200131,40,PT08M43.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,29
+0052200131,41,PT08M37.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,30
+0052200131,43,PT08M37.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,9,4,13,h,Ingram Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+0052200131,44,PT08M37.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,10,4,14,h,Ingram Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,32
+0052200131,45,PT08M27.00S,1,1610612760,OKC,1629652,Dort,L. Dort,21,-10,2,Made,1,10,6,16,v,Dort 2' Driving Layup (4 PTS) (Jay. Williams 1 AST),Made Shot,Driving Layup Shot,1,2,33
+0052200131,46,PT08M27.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,34
+0052200131,49,PT08M27.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,10,7,17,v,Dort Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,35
+0052200131,50,PT08M18.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,130,105,17,Missed,1,,,0,h,MISS Valanciunas 17' Jump Shot,Missed Shot,Jump Shot,1,2,36
+0052200131,51,PT08M16.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,37
+0052200131,53,PT08M13.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,6,4,1,Made,1,12,7,19,h,Ingram 1' Cutting Dunk Shot (4 PTS) (Jones 2 AST),Made Shot,Cutting Dunk Shot,1,2,38
+0052200131,55,PT08M04.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-13,75,8,Missed,1,,,0,v,MISS Jal. Williams 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+0052200131,56,PT08M02.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,40
+0052200131,57,PT08M01.00S,1,1610612760,OKC,1631119,Williams,J. Williams,-72,246,26,Missed,1,,,0,v,MISS Jay. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,41
+0052200131,58,PT07M59.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,42
+0052200131,59,PT07M54.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,49,16,5,Missed,1,,,0,h,MISS McCollum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,43
+0052200131,59,PT07M54.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander BLOCK (1 BLK),,,1,2,44
+0052200131,61,PT07M54.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,45
+0052200131,63,PT07M46.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-163,215,27,Missed,1,,,0,h,MISS Murphy III 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,46
+0052200131,64,PT07M41.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,47
+0052200131,65,PT07M37.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-42,48,6,Missed,1,,,0,h,MISS Jones 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,48
+0052200131,65,PT07M37.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey BLOCK (1 BLK),,,1,2,49
+0052200131,67,PT07M35.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,50
+0052200131,68,PT07M30.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-29,8,3,Made,1,14,7,21,h,Jones 3' Cutting Layup Shot (2 PTS) (Valanciunas 1 AST),Made Shot,Cutting Layup Shot,1,2,51
+0052200131,70,PT07M17.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-224,120,25,Made,1,14,10,24,v,Dort 25' 3PT Jump Shot (8 PTS) (Jay. Williams 2 AST),Made Shot,Jump Shot,1,3,52
+0052200131,72,PT07M06.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,53
+0052200131,74,PT07M06.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,15,10,25,h,Ingram Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,54
+0052200131,75,PT07M06.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,16,10,26,h,Ingram Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,55
+0052200131,76,PT06M57.00S,1,1610612760,OKC,1631119,Williams,J. Williams,-11,252,25,Missed,1,,,0,v,MISS Jay. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0052200131,77,PT06M53.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0052200131,78,PT06M43.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-212,149,26,Made,1,19,10,29,h,Jones 26' 3PT Jump Shot (5 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,3,58
+0052200131,80,PT06M31.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,59
+0052200131,82,PT06M31.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,60
+0052200131,83,PT06M31.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR McCollum,Substitution,,0,0,61
+0052200131,85,PT06M31.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,MISS Dort Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,62
+0052200131,86,PT06M31.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,63
+0052200131,87,PT06M31.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,19,11,30,v,Dort Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,64
+0052200131,88,PT06M15.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,172,194,26,Missed,1,,,0,h,MISS Lewis Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,65
+0052200131,89,PT06M12.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,66
+0052200131,91,PT05M52.00S,1,1610612760,OKC,1629652,Dort,L. Dort,115,218,25,Made,1,19,14,33,v,Dort 25' 3PT Step Back Jump Shot (12 PTS) (Jay. Williams 3 AST),Made Shot,Step Back Jump shot,1,3,67
+0052200131,93,PT05M33.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,4,20,2,Made,1,21,14,35,h,Valanciunas 2' Cutting Layup Shot (8 PTS) (Ingram 2 AST),Made Shot,Cutting Layup Shot,1,2,68
+0052200131,95,PT05M22.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-199,156,25,Made,1,21,17,38,v,Giddey 25' 3PT Jump Shot (5 PTS) (Jay. Williams 4 AST),Made Shot,Jump Shot,1,3,69
+0052200131,97,PT04M56.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-214,143,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0052200131,98,PT04M54.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,Lewis Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,71
+0052200131,99,PT04M52.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-172,199,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0052200131,100,PT04M47.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0052200131,101,PT04M38.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-127,0,13,Made,1,21,19,40,v,Giddey 13' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,74
+0052200131,102,PT04M25.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,75
+0052200131,102,PT04M25.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander STEAL (1 STL),,,1,0,76
+0052200131,104,PT04M19.00S,1,1610612760,OKC,1631114,Williams,J. Williams,43,-8,4,Made,1,21,21,42,v,Jal. Williams 4' Driving Layup (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Driving Layup Shot,1,2,77
+0052200131,106,PT04M05.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,-22,16,3,Missed,1,,,0,h,MISS Lewis Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+0052200131,107,PT04M03.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,79
+0052200131,108,PT04M01.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,142,224,27,Made,1,21,24,45,v,Gilgeous-Alexander 27' 3PT Running Jump Shot (3 PTS) (Giddey 2 AST),Made Shot,Running Jump Shot,1,3,80
+0052200131,109,PT04M01.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,81
+0052200131,111,PT04M01.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Richardson FOR Valanciunas,Substitution,,0,0,82
+0052200131,112,PT04M01.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Hayes FOR Murphy III,Substitution,,0,0,83
+0052200131,113,PT04M01.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Saric FOR Jay. Williams,Substitution,,0,0,84
+0052200131,114,PT04M01.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Joe FOR Jal. Williams,Substitution,,0,0,85
+0052200131,119,PT03M40.00S,1,1610612740,NOP,1629637,Hayes,J. Hayes,-20,42,5,Made,1,23,24,47,h,Hayes 5' Turnaround Hook Shot (2 PTS) (Ingram 3 AST),Made Shot,Turnaround Hook Shot,1,2,86
+0052200131,121,PT03M27.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,59,26,6,Missed,1,,,0,v,MISS Giddey 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,87
+0052200131,122,PT03M25.00S,1,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0052200131,123,PT03M09.00S,1,1610612740,NOP,1626196,Richardson,J. Richardson,2,254,25,Missed,1,,,0,h,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0052200131,124,PT03M06.00S,1,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0052200131,125,PT02M56.00S,1,1610612760,OKC,203967,Šarić,D. Šarić,1,47,5,Made,1,23,26,49,v,Saric 5' Driving Floating Jump Shot (2 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Driving Floating Jump Shot,1,2,91
+0052200131,127,PT02M35.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-13,11,2,Made,1,25,26,51,h,Ingram 2' Cutting Layup Shot (8 PTS) (Jones 3 AST),Made Shot,Cutting Layup Shot,1,2,92
+0052200131,129,PT02M22.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,4,253,25,Missed,1,,,0,v,MISS Giddey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0052200131,130,PT02M18.00S,1,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0052200131,131,PT02M15.00S,1,1610612760,OKC,203967,Šarić,D. Šarić,23,-1,2,Made,1,25,28,53,v,Saric 2' Cutting Layup Shot (4 PTS) (Dort 1 AST),Made Shot,Cutting Layup Shot,1,2,95
+0052200131,133,PT01M52.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander S.FOUL (P1.T3) (E.Lewis),Foul,Shooting,1,0,96
+0052200131,135,PT01M52.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,26,28,54,h,Jones Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,97
+0052200131,136,PT01M52.00S,1,1610612740,NOP,1630184,Lewis Jr.,K. Lewis Jr.,0,0,0,,0,,,0,h,SUB: McCollum FOR Lewis Jr.,Substitution,,0,0,98
+0052200131,137,PT01M52.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,SUB: Waters III FOR Giddey,Substitution,,0,0,99
+0052200131,140,PT01M52.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,27,28,55,h,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0052200131,141,PT01M52.00S,1,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,101
+0052200131,142,PT01M40.00S,1,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,102
+0052200131,143,PT01M39.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.T3) (B.Taylor),Foul,Personal,1,0,103
+0052200131,145,PT01M22.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,1,0,104
+0052200131,147,PT01M22.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,27,29,56,v,Dort Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+0052200131,148,PT01M22.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Murphy III FOR Ingram,Substitution,,0,0,106
+0052200131,150,PT01M22.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,27,30,57,v,Dort Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,107
+0052200131,151,PT01M03.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,105,136,17,Missed,1,,,0,h,MISS McCollum 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,108
+0052200131,152,PT01M00.00S,1,1610612760,OKC,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0052200131,153,PT00M53.90S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,15,-13,2,Made,1,27,32,59,v,Gilgeous-Alexander 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,110
+0052200131,154,PT00M46.10S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-9,11,1,Missed,1,,,0,h,MISS Murphy III 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,111
+0052200131,154,PT00M46.10S,1,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,Saric BLOCK (1 BLK),,,1,2,112
+0052200131,156,PT00M43.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,113
+0052200131,157,PT00M40.70S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,130,216,25,Missed,1,,,0,v,MISS Gilgeous-Alexander 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0052200131,158,PT00M36.70S,1,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0052200131,159,PT00M32.60S,1,1610612740,NOP,1630529,Jones,H. Jones,-9,11,1,Made,1,29,32,61,h,Jones 1' Running Layup (9 PTS) (McCollum 1 AST),Made Shot,Running Layup Shot,1,2,116
+0052200131,161,PT00M18.60S,1,1610612760,OKC,1630198,Joe,I. Joe,1,114,11,Missed,1,,,0,v,MISS Joe 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0052200131,162,PT00M15.70S,1,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,118
+0052200131,163,PT00M02.30S,1,1610612740,NOP,1626196,Richardson,J. Richardson,-170,209,27,Missed,1,,,0,h,MISS Richardson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0052200131,164,PT00M02.30S,1,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0052200131,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,32,61,,End of 1st Period (10:19 PM EST),period,end,1,0,121
+0052200131,174,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,32,61,,Start of 2nd Period (10:23 PM EST),period,start,0,0,122
+0052200131,175,PT11M44.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-49,-2,5,Missed,1,,,0,v,MISS Giddey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,123
+0052200131,176,PT11M41.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0052200131,177,PT11M24.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,126,53,14,Missed,1,,,0,h,MISS McCollum 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,125
+0052200131,178,PT11M19.00S,2,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,126
+0052200131,179,PT11M13.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,22,20,3,Missed,1,,,0,v,MISS Giddey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,127
+0052200131,180,PT11M11.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,128
+0052200131,181,PT10M53.00S,2,1610612740,NOP,1626196,Richardson,J. Richardson,-158,94,18,Made,1,31,32,63,h,Richardson 18' Step Back Jump Shot (2 PTS) (Murphy III 1 AST),Made Shot,Step Back Jump shot,1,2,129
+0052200131,183,PT10M38.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-183,193,27,Missed,1,,,0,v,MISS Jal. Williams 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,130
+0052200131,184,PT10M34.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,131
+0052200131,185,PT10M33.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-7,248,25,Made,1,31,35,66,v,Giddey 25' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,3,132
+0052200131,186,PT10M17.00S,2,1610612760,OKC,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,Waters III S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,1,0,133
+0052200131,188,PT10M17.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,32,35,67,h,Murphy III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,134
+0052200131,189,PT10M17.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,33,35,68,h,Murphy III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,135
+0052200131,190,PT10M05.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-26,59,6,Missed,1,,,0,v,MISS Jal. Williams 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,136
+0052200131,191,PT10M04.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,137
+0052200131,193,PT10M02.00S,2,1610612760,OKC,1630198,Joe,I. Joe,-159,192,25,Made,1,33,38,71,v,Joe 25' 3PT Jump Shot (3 PTS) (Giddey 3 AST),Made Shot,Jump Shot,1,3,138
+0052200131,195,PT09M36.00S,2,1610612740,NOP,1626196,Richardson,J. Richardson,-17,10,2,Made,1,35,38,73,h,Richardson 2' Cutting Layup Shot (4 PTS) (Valanciunas 2 AST),Made Shot,Cutting Layup Shot,1,2,139
+0052200131,197,PT09M30.00S,2,1610612760,OKC,203967,Šarić,D. Šarić,91,240,26,Missed,1,,,0,v,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0052200131,198,PT09M30.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0052200131,199,PT09M18.00S,2,1610612760,OKC,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,Waters III S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,1,0,142
+0052200131,201,PT09M18.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,36,38,74,h,Murphy III Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,143
+0052200131,202,PT09M18.00S,2,1610612760,OKC,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,SUB: Wiggins FOR Waters III,Substitution,,0,0,144
+0052200131,204,PT09M18.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,37,38,75,h,Murphy III Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,145
+0052200131,205,PT09M04.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,-23,-2,2,Made,1,37,40,77,v,Wiggins 2' Cutting Layup Shot (2 PTS) (Jal. Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,146
+0052200131,207,PT08M47.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,234,28,24,Made,1,40,40,80,h,Murphy III 24' 3PT Step Back Jump Shot (7 PTS) (Richardson 1 AST),Made Shot,Step Back Jump shot,1,3,147
+0052200131,209,PT08M34.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,148
+0052200131,209,PT08M34.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III STEAL (1 STL),,,1,0,149
+0052200131,211,PT08M31.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-5,8,1,Made,1,42,40,82,h,Murphy III 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,2,150
+0052200131,212,PT08M31.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,151
+0052200131,215,PT08M12.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-13,1,1,Made,1,42,42,84,v,Giddey 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,152
+0052200131,216,PT07M53.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,4,48,5,Made,1,44,42,86,h,Valanciunas 5' Turnaround Hook Shot (10 PTS) (Richardson 2 AST),Made Shot,Turnaround Hook Shot,1,2,153
+0052200131,218,PT07M47.00S,2,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,154
+0052200131,220,PT07M47.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,44,43,87,v,Wiggins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,155
+0052200131,221,PT07M47.00S,2,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,SUB: Jones FOR Richardson,Substitution,,0,0,156
+0052200131,222,PT07M47.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Jal. Williams,Substitution,,0,0,157
+0052200131,223,PT07M47.00S,2,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Saric,Substitution,,0,0,158
+0052200131,227,PT07M47.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,44,44,88,v,Wiggins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,159
+0052200131,228,PT07M28.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-67,88,11,Missed,1,,,0,h,MISS Jones 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,160
+0052200131,229,PT07M25.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+0052200131,230,PT07M16.00S,2,1610612760,OKC,1630198,Joe,I. Joe,230,62,24,Missed,1,,,0,v,MISS Joe 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+0052200131,231,PT07M11.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,163
+0052200131,232,PT07M02.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-240,26,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0052200131,233,PT06M59.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0052200131,234,PT06M53.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall P.FOUL (P1.T2) (S.Corbin),Foul,Personal,1,0,166
+0052200131,236,PT06M53.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Ingram FOR Marshall,Substitution,,0,0,167
+0052200131,237,PT06M53.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,SUB: Dort FOR Giddey,Substitution,,0,0,168
+0052200131,240,PT06M51.00S,2,1610612760,OKC,1630198,Joe,I. Joe,-82,250,26,Missed,1,,,0,v,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0052200131,241,PT06M46.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,170
+0052200131,243,PT06M33.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-200,173,26,Missed,1,,,0,h,MISS Murphy III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0052200131,244,PT06M28.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,172
+0052200131,245,PT06M23.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-124,227,26,Missed,1,,,0,v,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,173
+0052200131,246,PT06M20.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,174
+0052200131,247,PT06M14.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-4,263,26,Made,1,44,47,91,v,Dort 26' 3PT Jump Shot (17 PTS) (Jay. Williams 5 AST),Made Shot,Jump Shot,1,3,175
+0052200131,249,PT05M50.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,27,5,3,Missed,1,,,0,h,MISS Valanciunas 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,176
+0052200131,250,PT05M49.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,177
+0052200131,251,PT05M48.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,178
+0052200131,253,PT05M48.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,179
+0052200131,254,PT05M48.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,180
+0052200131,255,PT05M48.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,45,47,92,h,Valanciunas Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+0052200131,256,PT05M36.00S,2,1610612760,OKC,1630198,Joe,I. Joe,40,156,16,Missed,1,,,0,v,MISS Joe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,182
+0052200131,257,PT05M32.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,183
+0052200131,258,PT05M30.00S,2,1610612760,OKC,1629652,Dort,L. Dort,225,57,0,Missed,1,,,0,v,MISS Dort 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0052200131,259,PT05M27.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+0052200131,260,PT05M18.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-5,6,1,Made,1,47,47,94,h,Jones 1' Cutting Dunk Shot (11 PTS) (Ingram 4 AST),Made Shot,Cutting Dunk Shot,1,2,186
+0052200131,262,PT05M07.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-129,227,26,Made,1,47,50,97,v,Dort 26' 3PT Jump Shot (20 PTS) (Jay. Williams 6 AST),Made Shot,Jump Shot,1,3,187
+0052200131,264,PT04M51.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P1.T4) (E.Lewis),Foul,Personal,1,0,188
+0052200131,266,PT04M51.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Giddey FOR Jay. Williams,Substitution,,0,0,189
+0052200131,267,PT04M51.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Joe,Substitution,,0,0,190
+0052200131,270,PT04M51.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Hayes FOR Valanciunas,Substitution,,0,0,191
+0052200131,272,PT04M39.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,17,5,2,Made,1,49,50,99,h,McCollum 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,192
+0052200131,273,PT04M26.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,48,193,20,Missed,1,,,0,v,MISS Gilgeous-Alexander 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,193
+0052200131,274,PT04M23.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,194
+0052200131,275,PT04M18.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,195
+0052200131,275,PT04M18.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander STEAL (2 STL),,,1,0,196
+0052200131,277,PT04M16.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum S.FOUL (P1.T3) (E.Lewis),Foul,Shooting,1,0,197
+0052200131,279,PT04M16.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,49,51,100,v,Jal. Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,198
+0052200131,280,PT04M16.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,49,52,101,v,Jal. Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0052200131,302,PT03M57.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-34,54,6,Missed,1,,,0,h,MISS Ingram 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,200
+0052200131,302,PT03M57.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams BLOCK (1 BLK),,,1,2,201
+0052200131,304,PT03M57.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,202
+0052200131,282,PT03M51.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,-233,22,0,Missed,1,,,0,v,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0052200131,283,PT03M47.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,204
+0052200131,284,PT03M40.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,12,13,2,Made,1,51,52,103,h,Hayes 2' Alley Oop Layup (4 PTS) (Murphy III 2 AST),Made Shot,Alley Oop Layup shot,1,2,205
+0052200131,286,PT03M24.00S,2,1610612760,OKC,1631114,Williams,J. Williams,28,22,4,Missed,1,,,0,v,MISS Jal. Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,206
+0052200131,287,PT03M21.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,207
+0052200131,288,PT03M12.00S,2,1610612740,NOP,1630529,Jones,H. Jones,233,59,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0052200131,289,PT03M07.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,209
+0052200131,290,PT03M03.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,1,0,210
+0052200131,292,PT03M03.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,52,52,104,h,Jones Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,211
+0052200131,293,PT03M03.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,53,52,105,h,Jones Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0052200131,294,PT02M44.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,162,14,16,Missed,1,,,0,v,MISS Gilgeous-Alexander 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,213
+0052200131,295,PT02M40.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,214
+0052200131,296,PT02M40.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,215
+0052200131,296,PT02M40.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0,216
+0052200131,298,PT02M40.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,22,10,2,Made,1,53,54,107,v,Wiggins 2' Layup (6 PTS),Made Shot,Layup Shot,1,2,217
+0052200131,299,PT02M40.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,1,0,218
+0052200131,301,PT02M40.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,219
+0052200131,305,PT02M40.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,53,55,108,v,Wiggins Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,220
+0052200131,307,PT02M24.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-233,44,24,Made,1,56,55,111,h,Murphy III 24' 3PT Jump Shot (12 PTS) (Jones 4 AST),Made Shot,Jump Shot,1,3,221
+0052200131,309,PT02M06.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,222
+0052200131,309,PT02M06.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,223
+0052200131,311,PT02M04.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,23,17,3,Missed,1,,,0,h,MISS Ingram 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,224
+0052200131,311,PT02M04.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort BLOCK (1 BLK),,,1,2,225
+0052200131,313,PT02M03.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,226
+0052200131,314,PT02M03.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,Made,1,58,55,113,h,Jones Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,1,2,227
+0052200131,315,PT01M39.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,20,6,2,Made,1,58,57,115,v,Gilgeous-Alexander 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,228
+0052200131,316,PT01M21.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P3.PN) (S.Corbin),Foul,Personal,1,0,229
+0052200131,318,PT01M21.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,59,57,116,h,Ingram Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+0052200131,319,PT01M21.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,60,57,117,h,Ingram Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,231
+0052200131,320,PT01M05.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,120,267,29,Missed,1,,,0,v,MISS Gilgeous-Alexander 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,232
+0052200131,321,PT01M01.00S,2,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,233
+0052200131,322,PT00M41.60S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-219,132,26,Made,1,63,57,120,h,Murphy III 26' 3PT Jump Shot (15 PTS) (Ingram 5 AST),Made Shot,Jump Shot,1,3,234
+0052200131,324,PT00M29.70S,2,1610612760,OKC,1630581,Giddey,J. Giddey,205,151,25,Missed,1,,,0,v,MISS Giddey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+0052200131,325,PT00M25.90S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,236
+0052200131,326,PT00M04.10S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-229,25,0,Missed,1,,,0,h,MISS Murphy III 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0052200131,327,PT00M03.60S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,238
+0052200131,328,PT00M02.40S,2,1610612740,NOP,1627742,Ingram,B. Ingram,108,52,12,Missed,1,,,0,h,MISS Ingram 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,239
+0052200131,329,PT00M01.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,240
+0052200131,332,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,57,120,,End of 2nd Period (10:51 PM EST),period,end,1,0,241
+0052200131,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,57,120,,Start of 3rd Period (11:07 PM EST),period,start,0,0,242
+0052200131,339,PT11M44.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,53,157,17,Made,1,63,59,122,v,Gilgeous-Alexander 17' Pullup Jump Shot (9 PTS) (Giddey 4 AST),Made Shot,Pullup Jump shot,1,2,243
+0052200131,341,PT11M17.00S,3,1610612740,NOP,1630529,Jones,H. Jones,4,36,4,Missed,1,,,0,h,MISS Jones 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,244
+0052200131,342,PT11M17.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,245
+0052200131,344,PT11M03.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,71,251,26,Made,1,63,62,125,v,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (12 PTS) (Giddey 5 AST),Made Shot,Step Back Jump shot,1,3,246
+0052200131,346,PT10M49.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,-237,-4,24,Made,1,66,62,128,h,Murphy III 24' 3PT Jump Shot (18 PTS) (McCollum 2 AST),Made Shot,Jump Shot,1,3,247
+0052200131,348,PT10M38.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,248
+0052200131,348,PT10M38.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum STEAL (1 STL),,,1,0,249
+0052200131,350,PT10M29.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,232,3,0,Missed,1,,,0,h,MISS Murphy III 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+0052200131,351,PT10M27.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,251
+0052200131,352,PT10M27.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,1,0,252
+0052200131,354,PT10M27.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,253
+0052200131,355,PT10M27.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,254
+0052200131,356,PT10M27.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,67,62,129,h,Jones Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,255
+0052200131,358,PT10M07.00S,3,1610612760,OKC,1631119,Williams,J. Williams,172,200,26,Missed,1,,,0,v,MISS Jay. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0052200131,359,PT10M03.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,257
+0052200131,360,PT09M59.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,28,55,6,Made,1,69,62,131,h,Murphy III 6' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,258
+0052200131,361,PT09M45.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,11,4,1,Made,1,69,64,133,v,Giddey 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,259
+0052200131,362,PT09M32.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,260
+0052200131,362,PT09M32.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams STEAL (1 STL),,,1,0,261
+0052200131,364,PT09M29.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,7,5,1,Made,1,69,66,135,v,Giddey 1' Driving Layup (16 PTS) (Jal. Williams 2 AST),Made Shot,Driving Layup Shot,1,2,262
+0052200131,366,PT09M21.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,2,256,26,Missed,1,,,0,h,MISS McCollum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,263
+0052200131,367,PT09M17.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,264
+0052200131,369,PT09M05.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-207,155,26,Missed,1,,,0,v,MISS Dort 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0052200131,370,PT09M02.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,266
+0052200131,371,PT08M56.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,229,31,0,Missed,1,,,0,h,MISS Murphy III 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0052200131,372,PT08M53.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,268
+0052200131,373,PT08M48.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-2,27,3,Missed,1,,,0,v,MISS Dort 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,269
+0052200131,373,PT08M48.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (1 BLK),,,1,2,270
+0052200131,375,PT08M45.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,271
+0052200131,376,PT08M43.00S,3,1610612760,OKC,1631119,Williams,J. Williams,-12,264,26,Missed,1,,,0,v,MISS Jay. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0052200131,377,PT08M39.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,273
+0052200131,378,PT08M34.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-11,41,4,Missed,1,,,0,h,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,274
+0052200131,379,PT08M30.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,275
+0052200131,382,PT08M30.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,276
+0052200131,382,PT08M30.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams STEAL (2 STL),,,1,0,277
+0052200131,380,PT08M25.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-32,17,4,Made,1,69,68,137,v,Dort 4' Driving Layup (22 PTS) (Giddey 6 AST),Made Shot,Driving Layup Shot,1,2,278
+0052200131,381,PT08M25.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,1,0,279
+0052200131,384,PT08M25.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,1,0,280
+0052200131,386,PT08M25.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,69,69,138,v,Dort Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0,281
+0052200131,387,PT08M06.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,140,-1,14,Made,1,71,69,140,h,Ingram 14' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,282
+0052200131,388,PT07M53.00S,3,1610612760,OKC,1631119,Williams,J. Williams,6,23,2,Made,1,71,71,142,v,Jay. Williams 2' Driving Finger Roll Layup (2 PTS) (Giddey 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,283
+0052200131,390,PT07M37.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P3.T2) (B.Taylor),Foul,Personal,1,0,284
+0052200131,392,PT07M31.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,285
+0052200131,393,PT07M19.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-25,8,3,Made,1,71,73,144,v,Gilgeous-Alexander 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,286
+0052200131,394,PT07M19.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,287
+0052200131,396,PT07M19.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,71,74,145,v,Gilgeous-Alexander Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,288
+0052200131,397,PT07M01.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,1,0,289
+0052200131,399,PT07M01.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,72,74,146,h,McCollum Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+0052200131,400,PT07M01.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,MISS McCollum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,291
+0052200131,401,PT06M59.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,292
+0052200131,402,PT06M53.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,-40,73,8,Made,1,72,76,148,v,Giddey 8' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,293
+0052200131,403,PT06M36.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-4,26,3,Made,1,74,76,150,h,Jones 3' Cutting Layup Shot (18 PTS) (McCollum 3 AST),Made Shot,Cutting Layup Shot,1,2,294
+0052200131,405,PT06M15.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-27,15,3,Made,1,74,78,152,v,Gilgeous-Alexander 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,295
+0052200131,406,PT06M08.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Thunder T.Foul (Def. 3 Sec Jay. Williams ) (E.Lewis),Foul,Defense 3 Second,1,0,296
+0052200131,407,PT06M08.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,297
+0052200131,409,PT06M08.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,75,78,153,h,Murphy III Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,1,0,298
+0052200131,410,PT05M58.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,153,200,25,Missed,1,,,0,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+0052200131,411,PT05M53.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,300
+0052200131,412,PT05M38.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-21,1,2,Made,1,75,80,155,v,Dort 2' Driving Reverse Layup (25 PTS) (Giddey 8 AST),Made Shot,Driving Reverse Layup Shot,1,2,301
+0052200131,414,PT05M14.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-51,124,13,Made,1,77,80,157,h,Ingram 13' Step Back Jump Shot (14 PTS) (Valanciunas 3 AST),Made Shot,Step Back Jump shot,1,2,302
+0052200131,416,PT04M59.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,50,74,9,Made,1,77,82,159,v,Gilgeous-Alexander 9' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,2,303
+0052200131,417,PT04M39.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,18,0,2,Made,1,79,82,161,h,Ingram 2' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,304
+0052200131,418,PT04M39.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,1,0,305
+0052200131,420,PT04M39.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,SUB: Hayes FOR McCollum,Substitution,,0,0,306
+0052200131,421,PT04M39.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Richardson FOR Valanciunas,Substitution,,0,0,307
+0052200131,424,PT04M39.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,308
+0052200131,425,PT04M36.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,309
+0052200131,426,PT04M22.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P3.T3) (B.Taylor),Foul,Shooting,1,0,310
+0052200131,428,PT04M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,79,83,162,v,Gilgeous-Alexander Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+0052200131,429,PT04M22.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Joe FOR Jal. Williams,Substitution,,0,0,312
+0052200131,431,PT04M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,79,84,163,v,Gilgeous-Alexander Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,313
+0052200131,432,PT04M08.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,314
+0052200131,432,PT04M08.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams STEAL (1 STL),,,1,0,315
+0052200131,434,PT04M01.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-127,157,20,Missed,1,,,0,v,MISS Gilgeous-Alexander 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,316
+0052200131,435,PT03M59.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,317
+0052200131,436,PT03M58.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,Missed,1,,,0,v,MISS Dort Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,318
+0052200131,437,PT03M57.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,319
+0052200131,438,PT03M44.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-129,-7,13,Made,1,81,84,165,h,Ingram 13' Jump Shot (18 PTS),Made Shot,Jump Shot,1,2,320
+0052200131,439,PT03M32.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-11,22,2,Made,1,81,86,167,v,Gilgeous-Alexander 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,321
+0052200131,440,PT03M11.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort S.FOUL (P4.PN) (E.Lewis),Foul,Shooting,1,0,322
+0052200131,443,PT03M11.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram T.FOUL (P2.T3) (E.Lewis),Foul,Technical,1,0,323
+0052200131,449,PT03M11.00S,3,0,,443,,,0,0,0,,0,81,86,167,,Instant Replay3rd Period (11:29 PM EST),Instant Replay,Overturn Ruling,0,0,324
+0052200131,444,PT03M11.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Dort,Substitution,,0,0,325
+0052200131,446,PT03M11.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,81,87,168,v,Gilgeous-Alexander Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,1,0,326
+0052200131,447,PT03M11.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,82,87,169,h,Ingram Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,327
+0052200131,448,PT03M11.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,83,87,170,h,Ingram Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,328
+0052200131,450,PT02M51.00S,3,1610612760,OKC,1631114,Williams,J. Williams,45,256,26,Missed,1,,,0,v,MISS Jal. Williams 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,329
+0052200131,451,PT02M48.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,330
+0052200131,452,PT02M45.00S,3,1610612760,OKC,1631114,Williams,J. Williams,-17,15,2,Made,1,83,89,172,v,Jal. Williams 2' Driving Layup (6 PTS) (Jay. Williams 7 AST),Made Shot,Driving Layup Shot,1,2,331
+0052200131,454,PT02M21.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,70,156,17,Missed,1,,,0,h,MISS Ingram 17' Jump Shot,Missed Shot,Jump Shot,1,2,332
+0052200131,455,PT02M18.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,333
+0052200131,456,PT02M06.00S,3,1610612760,OKC,1631114,Williams,J. Williams,-55,259,26,Missed,1,,,0,v,MISS Jal. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0052200131,457,PT02M02.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,335
+0052200131,458,PT01M56.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,-22,8,2,Made,1,83,91,174,v,Giddey 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,336
+0052200131,459,PT01M56.00S,3,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,1,0,337
+0052200131,461,PT01M56.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,338
+0052200131,462,PT01M56.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: McCollum FOR Murphy III,Substitution,,0,0,339
+0052200131,464,PT01M56.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,83,92,175,v,Giddey Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,340
+0052200131,465,PT01M45.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-12,3,1,Made,1,85,92,177,h,McCollum 1' Driving Layup (7 PTS) (Jones 5 AST),Made Shot,Driving Layup Shot,1,2,341
+0052200131,467,PT01M25.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-9,111,11,Missed,1,,,0,v,MISS Gilgeous-Alexander 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,342
+0052200131,468,PT01M25.00S,3,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,343
+0052200131,469,PT01M21.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-219,119,25,Missed,1,,,0,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0052200131,470,PT01M16.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,345
+0052200131,471,PT00M56.80S,3,1610612760,OKC,1630581,Giddey,J. Giddey,134,222,26,Made,1,85,95,180,v,Giddey 26' 3PT Pullup Jump Shot (24 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Pullup Jump shot,1,3,346
+0052200131,473,PT00M42.60S,3,1610612740,NOP,203468,McCollum,C. McCollum,-66,51,8,Missed,1,,,0,h,MISS McCollum 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,347
+0052200131,474,PT00M41.10S,3,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,348
+0052200131,475,PT00M41.10S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,1,0,349
+0052200131,477,PT00M41.10S,3,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,86,95,181,h,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,350
+0052200131,478,PT00M41.10S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,SUB: Saric FOR Giddey,Substitution,,0,0,351
+0052200131,479,PT00M41.10S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Wiggins FOR Jay. Williams,Substitution,,0,0,352
+0052200131,482,PT00M41.10S,3,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,87,95,182,h,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0052200131,483,PT00M27.10S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P4.PN) (E.Lewis),Foul,Shooting,1,0,354
+0052200131,485,PT00M27.10S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,87,96,183,v,Jal. Williams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0052200131,486,PT00M27.10S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,SUB: Giddey FOR Gilgeous-Alexander,Substitution,,0,0,356
+0052200131,488,PT00M27.10S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Murphy III FOR Jones,Substitution,,0,0,357
+0052200131,490,PT00M27.10S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,MISS Jal. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,358
+0052200131,491,PT00M25.60S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,359
+0052200131,492,PT00M06.80S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Offensive Charge Foul (P3) (E.Lewis),Foul,Offensive Charge,1,0,360
+0052200131,494,PT00M06.80S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,361
+0052200131,495,PT00M06.80S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,362
+0052200131,496,PT00M06.80S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Marshall FOR Ingram,Substitution,,0,0,363
+0052200131,497,PT00M06.80S,3,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,SUB: Waters III FOR Saric,Substitution,,0,0,364
+0052200131,498,PT00M06.80S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Wiggins,Substitution,,0,0,365
+0052200131,502,PT00M01.60S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,18,5,2,Missed,1,,,0,v,MISS Gilgeous-Alexander 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,366
+0052200131,503,PT00M01.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,367
+0052200131,504,PT00M00.00S,3,0,,0,,,0,0,0,,0,87,96,183,,End of 3rd Period (11:41 PM EST),period,end,1,0,368
+0052200131,511,PT12M00.00S,4,0,,0,,,0,0,0,,0,87,96,183,,Start of 4th Period (11:44 PM EST),period,start,0,0,369
+0052200131,512,PT11M39.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,18,1,2,Made,1,89,96,185,h,Marshall 2' Driving Finger Roll Layup (2 PTS) (Richardson 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,370
+0052200131,514,PT11M30.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,16,4,2,Made,1,89,98,187,v,Giddey 2' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,371
+0052200131,515,PT11M09.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,28,3,3,Made,1,91,98,189,h,McCollum 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,372
+0052200131,516,PT10M45.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Jump Ball Richardson vs. Joe: Tip to Valanciunas,Jump Ball,,0,0,373
+0052200131,519,PT10M45.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,374
+0052200131,519,PT10M45.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson STEAL (1 STL),,,1,0,375
+0052200131,521,PT10M28.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,232,15,0,Made,1,94,98,192,h,Richardson 3PT Jump Shot (7 PTS) (McCollum 4 AST),Made Shot,Jump Shot,1,3,376
+0052200131,523,PT10M13.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,31,2,3,Missed,1,,,0,v,MISS Giddey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,377
+0052200131,524,PT10M11.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:9),Rebound,Unknown,1,0,378
+0052200131,525,PT10M00.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-2,26,3,Made,1,96,98,194,h,Valanciunas 3' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,1,2,379
+0052200131,527,PT09M59.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,380
+0052200131,528,PT09M59.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Giddey,Substitution,,0,0,381
+0052200131,529,PT09M59.00S,4,1610612760,OKC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Saric,Substitution,,0,0,382
+0052200131,532,PT09M35.00S,4,1610612760,OKC,1631114,Williams,J. Williams,22,1,2,Missed,1,,,0,v,MISS Jal. Williams 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,383
+0052200131,533,PT09M33.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:10),Rebound,Unknown,1,0,384
+0052200131,534,PT09M16.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,1,189,19,Missed,1,,,0,h,MISS McCollum 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,385
+0052200131,535,PT09M14.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,386
+0052200131,536,PT09M14.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas L.B.FOUL (P1.T1) (S.Corbin),Foul,Loose Ball,1,0,387
+0052200131,538,PT08M55.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-4,49,5,Made,1,96,100,196,v,Jay. Williams 5' Driving Hook Shot (4 PTS) (Joe 1 AST),Made Shot,Driving Hook Shot,1,2,388
+0052200131,540,PT08M29.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,169,194,26,Missed,1,,,0,h,MISS Marshall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0052200131,541,PT08M26.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,390
+0052200131,543,PT08M26.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Ingram FOR Marshall,Substitution,,0,0,391
+0052200131,544,PT08M26.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Dort FOR Joe,Substitution,,0,0,392
+0052200131,545,PT08M26.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Giddey FOR Wiggins,Substitution,,0,0,393
+0052200131,549,PT08M24.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-230,-20,0,Made,1,99,100,199,h,McCollum 3PT Jump Shot (12 PTS) (Richardson 4 AST),Made Shot,Jump Shot,1,3,394
+0052200131,551,PT08M06.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-222,4,0,Missed,1,,,0,v,MISS Jal. Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0052200131,552,PT08M01.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,396
+0052200131,553,PT07M59.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,-6,-1,1,Made,1,101,100,201,h,Richardson 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,2,397
+0052200131,554,PT07M52.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson FLAGRANT.FOUL.TYPE1 (P2.T2) (B.Taylor),Foul,Flagrant Type 1,1,0,398
+0052200131,556,PT07M52.00S,4,0,,554,,,0,0,0,,0,101,100,201,,Instant Replay4th Period (11:54 PM EST),Instant Replay,Overturn Ruling,0,0,399
+0052200131,557,PT07M52.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,101,101,202,v,Giddey Free Throw Flagrant 1 of 2 (27 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,400
+0052200131,558,PT07M52.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,MISS Giddey Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,1,0,401
+0052200131,559,PT07M52.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,402
+0052200131,560,PT07M52.00S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,SUB: Jones FOR Richardson,Substitution,,0,0,403
+0052200131,562,PT07M35.00S,4,1610612760,OKC,1631114,Williams,J. Williams,23,5,2,Made,1,101,103,204,v,Jal. Williams 2' Driving Layup (9 PTS) (Jay. Williams 8 AST),Made Shot,Driving Layup Shot,1,2,404
+0052200131,564,PT07M18.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-211,150,26,Missed,1,,,0,h,MISS Murphy III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0052200131,565,PT07M16.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,406
+0052200131,566,PT07M12.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,407
+0052200131,566,PT07M12.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum STEAL (2 STL),,,1,0,408
+0052200131,568,PT06M58.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-235,-16,24,Made,1,104,103,207,h,Valanciunas 24' 3PT Jump Shot (16 PTS) (Ingram 6 AST),Made Shot,Jump Shot,1,3,409
+0052200131,570,PT06M37.00S,4,1610612760,OKC,1631119,Williams,J. Williams,179,191,26,Missed,1,,,0,v,MISS Jay. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0052200131,571,PT06M33.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,411
+0052200131,572,PT06M31.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,-34,64,7,Missed,1,,,0,v,MISS Giddey 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,412
+0052200131,573,PT06M29.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:11),Rebound,Unknown,1,0,413
+0052200131,574,PT06M11.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander P.FOUL (P4.T1) (S.Corbin),Foul,Personal,1,0,414
+0052200131,576,PT06M07.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,13,253,25,Missed,1,,,0,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+0052200131,577,PT06M04.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,416
+0052200131,578,PT05M55.00S,4,1610612760,OKC,1631119,Williams,J. Williams,185,178,26,Made,1,104,106,210,v,Jay. Williams 26' 3PT Jump Shot (7 PTS) (Giddey 9 AST),Made Shot,Jump Shot,1,3,417
+0052200131,580,PT05M28.00S,4,1610612740,NOP,1630529,Jones,H. Jones,-194,57,20,Made,1,106,106,212,h,Jones 20' Jump Shot (20 PTS) (Ingram 7 AST),Made Shot,Jump Shot,1,2,418
+0052200131,582,PT05M05.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,-143,246,28,Missed,1,,,0,v,MISS Giddey 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0052200131,583,PT05M02.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:6 Def:12),Rebound,Unknown,1,0,420
+0052200131,584,PT04M42.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-44,250,25,Missed,1,,,0,h,MISS Ingram 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,421
+0052200131,585,PT04M38.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,422
+0052200131,586,PT04M26.00S,4,1610612760,OKC,1631114,Williams,J. Williams,17,16,2,Missed,1,,,0,v,MISS Jal. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+0052200131,587,PT04M26.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,424
+0052200131,588,PT04M26.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,425
+0052200131,590,PT04M26.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,106,107,213,v,Giddey Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,426
+0052200131,591,PT04M26.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Hayes FOR Valanciunas,Substitution,,0,0,427
+0052200131,593,PT04M26.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,106,108,214,v,Giddey Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0052200131,594,PT04M06.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,1,0,429
+0052200131,596,PT04M06.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,107,108,215,h,McCollum Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0052200131,597,PT04M06.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,108,108,216,h,McCollum Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+0052200131,598,PT03M46.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey Traveling Turnover (P2.T7),Turnover,Traveling,1,0,432
+0052200131,599,PT03M32.00S,4,1610612740,NOP,1630529,Jones,H. Jones,-15,16,2,Missed,1,,,0,h,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,433
+0052200131,600,PT03M31.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,v,Giddey REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,434
+0052200131,601,PT03M25.00S,4,1610612760,OKC,1629652,Dort,L. Dort,-91,242,26,Missed,1,,,0,v,MISS Dort 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0052200131,602,PT03M25.00S,4,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,436
+0052200131,603,PT03M13.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-9,57,6,Missed,1,,,0,h,MISS Ingram 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,437
+0052200131,604,PT03M12.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,438
+0052200131,605,PT03M12.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,Made,1,110,108,218,h,Ingram Putback Dunk (22 PTS),Made Shot,Putback Dunk Shot,1,2,439
+0052200131,606,PT03M12.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,440
+0052200131,607,PT03M12.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,441
+0052200131,608,PT02M55.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,-25,76,8,Missed,1,,,0,v,MISS Giddey 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+0052200131,608,PT02M55.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum BLOCK (1 BLK),,,1,2,443
+0052200131,610,PT02M55.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,444
+0052200131,613,PT02M49.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,223,-14,0,Missed,1,,,0,v,MISS Giddey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0052200131,614,PT02M48.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,446
+0052200131,615,PT02M48.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III L.B.FOUL (P3.T4) (E.Lewis),Foul,Loose Ball,1,0,447
+0052200131,617,PT02M38.00S,4,1610612760,OKC,1631114,Williams,J. Williams,1,5,1,Made,1,110,110,220,v,Jal. Williams 1' Cutting Dunk Shot (11 PTS) (Giddey 10 AST),Made Shot,Cutting Dunk Shot,1,2,448
+0052200131,619,PT02M23.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,129,95,16,Made,1,112,110,222,h,Ingram 16' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,449
+0052200131,620,PT02M08.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-232,13,0,Missed,1,,,0,v,MISS Jal. Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+0052200131,621,PT02M04.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,451
+0052200131,622,PT01M44.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,452
+0052200131,622,PT01M44.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander STEAL (3 STL),,,1,0,453
+0052200131,624,PT01M40.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,10,15,2,Made,1,112,112,224,v,Gilgeous-Alexander 2' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,2,454
+0052200131,625,PT01M21.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,75,153,17,Made,1,114,112,226,h,Ingram 17' Pullup Jump Shot (26 PTS) (Hayes 1 AST),Made Shot,Pullup Jump shot,1,2,455
+0052200131,628,PT00M59.80S,4,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,1,0,456
+0052200131,630,PT00M59.80S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,MISS Jay. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,457
+0052200131,631,PT00M59.80S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,458
+0052200131,632,PT00M59.80S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,114,113,227,v,Jay. Williams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+0052200131,633,PT00M37.90S,4,1610612740,NOP,203468,McCollum,C. McCollum,5,113,11,Missed,1,,,0,h,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,460
+0052200131,634,PT00M35.70S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,461
+0052200131,635,PT00M28.30S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-76,21,8,Made,1,114,115,229,v,Gilgeous-Alexander 8' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,1,2,462
+0052200131,636,PT00M28.30S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,463
+0052200131,637,PT00M28.30S,4,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Hayes,Substitution,,0,0,464
+0052200131,639,PT00M18.40S,4,1610612740,NOP,1627742,Ingram,B. Ingram,126,100,16,Missed,1,,,0,h,MISS Ingram 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,465
+0052200131,640,PT00M14.80S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,466
+0052200131,641,PT00M12.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Personal Take Foul (P5.PN) (E.Lewis),Foul,Personal Take,1,0,467
+0052200131,643,PT00M12.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,114,116,230,v,Giddey Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0052200131,644,PT00M12.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,114,117,231,v,Giddey Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0052200131,645,PT00M12.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,470
+0052200131,646,PT00M11.30S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams P.FOUL (P4.T3) (S.Corbin),Foul,Personal,1,0,471
+0052200131,648,PT00M10.40S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P5.PN) (E.Lewis),Foul,Personal,1,0,472
+0052200131,650,PT00M10.40S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,473
+0052200131,651,PT00M10.40S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,474
+0052200131,652,PT00M10.40S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,SUB: Richardson FOR Jones,Substitution,,0,0,475
+0052200131,653,PT00M10.40S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Marshall FOR Valanciunas,Substitution,,0,0,476
+0052200131,656,PT00M10.40S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,115,117,232,h,Ingram Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+0052200131,657,PT00M10.40S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,478
+0052200131,658,PT00M10.40S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Joe FOR Jay. Williams,Substitution,,0,0,479
+0052200131,660,PT00M07.90S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,20,-3,2,Missed,1,,,0,v,MISS Gilgeous-Alexander 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,480
+0052200131,660,PT00M07.90S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,Richardson BLOCK (1 BLK),,,1,2,481
+0052200131,662,PT00M06.20S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,482
+0052200131,663,PT00M06.20S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,Marshall P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,483
+0052200131,665,PT00M06.20S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,115,118,233,v,Dort Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,484
+0052200131,666,PT00M06.20S,4,1610612740,NOP,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,h,SUB: Hayes FOR Richardson,Substitution,,0,0,485
+0052200131,667,PT00M06.20S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,,,0,h,SUB: Jones FOR Marshall,Substitution,,0,0,486
+0052200131,668,PT00M06.20S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Wiggins FOR Joe,Substitution,,0,0,487
+0052200131,672,PT00M06.20S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,115,119,234,v,Dort Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0052200131,673,PT00M04.30S,4,1610612740,NOP,1627742,Ingram,B. Ingram,76,256,27,Made,1,118,119,237,h,Ingram 27' 3PT Jump Shot (30 PTS) (Hayes 2 AST),Made Shot,Jump Shot,1,3,489
+0052200131,675,PT00M02.80S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,,,0,h,McCollum Personal Take Foul (P3.PN) (S.Corbin),Foul,Personal Take,1,0,490
+0052200131,677,PT00M02.80S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,118,120,238,v,Gilgeous-Alexander Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,491
+0052200131,692,PT00M02.80S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Wiggins,Substitution,,0,0,492
+0052200131,687,PT00M02.80S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,118,121,239,v,Gilgeous-Alexander Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+0052200131,680,PT00M02.80S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,,,0,h,Jones Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,494
+0052200131,681,PT00M02.80S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Joe FOR Jay. Williams,Substitution,,0,0,495
+0052200131,683,PT00M02.10S,4,1610612740,NOP,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes Personal Take Foul (P4.PN) (B.Taylor),Foul,Personal Take,1,0,496
+0052200131,685,PT00M02.10S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,118,122,240,v,Gilgeous-Alexander Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,497
+0052200131,690,PT00M02.10S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Joe,Substitution,,0,0,498
+0052200131,686,PT00M02.10S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,118,123,241,v,Gilgeous-Alexander Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,499
+0052200131,688,PT00M00.00S,4,0,,0,,,0,0,0,,0,118,123,241,,End of 4th Period (12:25 AM EST),period,end,1,0,500

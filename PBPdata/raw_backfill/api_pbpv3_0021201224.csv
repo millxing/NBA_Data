@@ -1,0 +1,480 @@
+actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId,gameId
+0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1,0021201224
+1,PT12M00.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Jump Ball Kaman vs. Lopez: Tip to Anderson,Jump Ball,,0,0,2,0021201224
+3,PT11M39.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,2,11,1,Missed,1,,,0,v,MISS Aminu 1' Running Layup,Missed Shot,Running Layup Shot,0,2,3,0021201224
+4,PT11M38.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,1,14,1,Made,1,0.0,2.0,2,v,Lopez 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,2,5,0021201224
+5,PT11M38.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,4,0021201224
+6,PT11M25.00S,1,1610612742,DAL,1890,Marion,S. Marion,-4,19,2,Missed,1,,,0,h,MISS Marion 2' Layup,Missed Shot,Layup Shot,0,2,6,0021201224
+6,PT11M25.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu BLOCK (1 BLK),,,0,2,7,0021201224
+7,PT11M23.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,8,0021201224
+8,PT11M08.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo P.FOUL (P1.T1),Foul,Personal,0,0,9,0021201224
+9,PT10M57.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,1,64,6,Missed,1,,,0,v,MISS Lopez 6' Hook Shot,Missed Shot,Hook Shot,0,2,10,0021201224
+10,PT10M55.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,11,0021201224
+11,PT10M43.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,58,249,26,Missed,1,,,0,v,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,12,0021201224
+12,PT10M42.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,13,0021201224
+13,PT10M29.00S,1,1610612742,DAL,1890,Marion,S. Marion,234,30,24,Missed,1,,,0,h,MISS Marion 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,14,0021201224
+14,PT10M27.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,15,0021201224
+15,PT10M22.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,16,0021201224
+15,PT10M22.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (1 STL),,,0,0,17,0021201224
+16,PT10M18.00S,1,1610612742,DAL,1890,Marion,S. Marion,24,20,3,Made,1,2.0,2.0,4,h,Marion 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,18,0021201224
+17,PT10M18.00S,1,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson S.FOUL (P1.T1),Foul,Shooting,0,0,19,0021201224
+18,PT10M18.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,3.0,2.0,5,h,Marion Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,20,0021201224
+20,PT10M03.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,-16,74,8,Missed,1,,,0,v,MISS Gordon 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,21,0021201224
+21,PT10M01.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,22,0021201224
+22,PT09M46.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,-163,183,25,Missed,1,,,0,h,MISS Mayo 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,0,3,23,0021201224
+23,PT09M44.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,24,0021201224
+24,PT09M38.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,9,11,1,Made,1,3.0,4.0,7,v,Lopez 1' Dunk (4 PTS) (Roberts 1 AST),Made Shot,Dunk Shot,0,2,25,0021201224
+25,PT09M15.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-84,159,18,Missed,1,,,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,2,26,0021201224
+26,PT09M13.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,27,0021201224
+27,PT09M08.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,18,26,3,Made,1,3.0,6.0,9,v,Aminu 3' Driving Slam Dunk (2 PTS) (Roberts 2 AST),Made Shot,Driving Slam Dunk Shot,0,2,28,0021201224
+28,PT09M00.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts P.FOUL (P1.T2),Foul,Personal,0,0,29,0021201224
+29,PT08M43.00S,1,1610612742,DAL,2229,James,M. James,32,48,6,Missed,1,,,0,h,MISS M. James 6' Driving Bank Shot,Missed Shot,Driving Bank shot,0,2,30,0021201224
+30,PT08M41.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,31,0021201224
+31,PT08M36.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,-171,179,25,Missed,1,,,0,v,MISS Roberts 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,32,0021201224
+32,PT08M34.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,33,0021201224
+33,PT08M12.00S,1,1610612742,DAL,2229,James,M. James,162,214,27,Made,1,6.0,6.0,12,h,M. James 27' 3PT Jump Shot (3 PTS) (Marion 1 AST),Made Shot,Jump Shot,0,3,34,0021201224
+34,PT07M54.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,-21,34,4,Missed,1,,,0,v,MISS Gordon 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,35,0021201224
+35,PT07M51.00S,1,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,36,0021201224
+37,PT07M40.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,36,31,5,Made,1,6.0,8.0,14,v,Roberts 5' Driving Jump Shot (2 PTS),Made Shot,Driving Jump shot,0,2,37,0021201224
+38,PT07M13.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-131,60,14,Missed,1,,,0,h,MISS Nowitzki 14' Jump Shot,Missed Shot,Jump Shot,0,2,38,0021201224
+38,PT07M13.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon BLOCK (1 BLK),,,0,2,39,0021201224
+39,PT07M11.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,40,0021201224
+40,PT07M10.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon Traveling Turnover (P1.T2),Turnover,Traveling,0,0,41,0021201224
+41,PT07M03.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,-24,26,4,Missed,1,,,0,h,MISS Kaman 4' Running Bank Hook Shot,Missed Shot,Running Bank Hook Shot,0,2,42,0021201224
+42,PT06M59.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,43,0021201224
+43,PT06M58.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,44,0021201224
+43,PT06M58.00S,1,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James STEAL (1 STL),,,0,0,45,0021201224
+44,PT06M44.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,15,19,2,Made,1,8.0,8.0,16,h,Kaman 2' Driving Finger Roll Layup (2 PTS) (Mayo 1 AST),Made Shot,Driving Finger Roll Layup Shot,0,2,46,0021201224
+45,PT06M42.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47,0021201224
+49,PT06M28.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,48,0021201224
+49,PT06M28.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman STEAL (1 STL),,,0,0,49,0021201224
+50,PT06M21.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-26,250,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,50,0021201224
+51,PT06M19.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,51,0021201224
+52,PT06M08.00S,1,1610612740,NOH,201583,Anderson,R. Anderson,-161,37,17,Missed,1,,,0,v,MISS Anderson 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,52,0021201224
+53,PT06M07.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,10,14,2,Missed,1,,,0,v,MISS Aminu 2' Tip Shot,Missed Shot,Tip Shot,0,2,54,0021201224
+54,PT06M07.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,53,0021201224
+55,PT06M06.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,6,22,2,Missed,1,,,0,v,MISS Aminu 2' Tip Shot,Missed Shot,Tip Shot,0,2,56,0021201224
+56,PT06M06.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,55,0021201224
+57,PT06M05.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,57,0021201224
+58,PT05M58.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,86,192,21,Missed,1,,,0,v,MISS Gordon 21' Jump Shot,Missed Shot,Jump Shot,0,2,60,0021201224
+59,PT05M55.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,61,0021201224
+60,PT05M44.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,-30,42,5,Missed,1,,,0,h,MISS Kaman 5' Running Bank Hook Shot,Missed Shot,Running Bank Hook Shot,0,2,62,0021201224
+61,PT05M39.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,63,0021201224
+62,PT05M36.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,10,20,2,Made,1,8.0,10.0,18,v,Aminu 2' Layup (4 PTS) (Gordon 1 AST),Made Shot,Layup Shot,0,2,64,0021201224
+63,PT05M18.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,152,22,15,Missed,1,,,0,h,MISS Mayo 15' Jump Shot,Missed Shot,Jump Shot,0,2,65,0021201224
+64,PT05M17.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,66,0021201224
+65,PT05M07.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,-18,181,18,Missed,1,,,0,v,MISS Roberts 18' Jump Shot,Missed Shot,Jump Shot,0,2,67,0021201224
+66,PT05M06.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,10,15,2,Made,1,8.0,12.0,20,v,Lopez 2' Tip Shot (6 PTS),Made Shot,Tip Shot,0,2,69,0021201224
+67,PT05M06.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,68,0021201224
+68,PT04M59.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,70,0021201224
+69,PT06M05.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,-3,1,0,Missed,1,,,0,v,MISS Aminu Tip Shot,Missed Shot,Tip Shot,0,2,58,0021201224
+70,PT06M04.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,59,0021201224
+71,PT04M59.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Collison FOR Nowitzki,Substitution,,0,0,71,0021201224
+72,PT04M59.00S,1,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,SUB: Carter FOR Kaman,Substitution,,0,0,72,0021201224
+73,PT04M59.00S,1,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: Wright FOR M. James,Substitution,,0,0,73,0021201224
+75,PT04M46.00S,1,1610612742,DAL,1713,Carter,V. Carter,-141,88,17,Made,1,10.0,12.0,22,h,Carter 17' Jump Shot (2 PTS) (Marion 2 AST),Made Shot,Jump Shot,0,2,74,0021201224
+76,PT04M35.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison P.FOUL (P1.T2),Foul,Personal,0,0,75,0021201224
+78,PT04M35.00S,1,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Amundson FOR Lopez,Substitution,,0,0,76,0021201224
+79,PT04M19.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,-111,183,21,Missed,1,,,0,v,MISS Gordon 21' Jump Shot,Missed Shot,Jump Shot,0,2,77,0021201224
+80,PT04M19.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,78,0021201224
+81,PT04M03.00S,1,1610612742,DAL,1713,Carter,V. Carter,20,53,6,Missed,1,,,0,h,MISS Carter 6' Driving Bank Shot,Missed Shot,Driving Bank shot,0,2,79,0021201224
+82,PT04M01.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,80,0021201224
+83,PT03M55.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,14,1,Made,1,10.0,14.0,24,v,Aminu 1' Layup (6 PTS) (Roberts 3 AST),Made Shot,Layup Shot,0,2,81,0021201224
+84,PT03M41.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,7,14,2,Made,1,12.0,14.0,26,h,Mayo 2' Layup (2 PTS) (Carter 1 AST),Made Shot,Layup Shot,0,2,82,0021201224
+85,PT03M20.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter S.FOUL (P1.T3),Foul,Shooting,0,0,83,0021201224
+86,PT03M20.00S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,MISS Amundson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,84,0021201224
+87,PT03M20.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Normal Rebound,0,0,85,0021201224
+88,PT03M20.00S,1,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Henry FOR Gordon,Substitution,,0,0,86,0021201224
+89,PT03M20.00S,1,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,SUB: Harris FOR Anderson,Substitution,,0,0,87,0021201224
+90,PT03M20.00S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,MISS Amundson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,88,0021201224
+92,PT03M18.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,89,0021201224
+93,PT03M12.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu L.B.FOUL (P1.T3),Foul,Loose Ball,0,0,90,0021201224
+94,PT03M03.00S,1,1610612742,DAL,201954,Collison,D. Collison,-228,22,0,Made,1,15.0,14.0,29,h,Collison 3PT Jump Shot (3 PTS) (Carter 2 AST),Made Shot,Jump Shot,0,3,91,0021201224
+95,PT02M44.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Traveling Turnover (P2.T5),Turnover,Traveling,0,0,92,0021201224
+96,PT02M20.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts S.FOUL (P2.T4),Foul,Shooting,0,0,93,0021201224
+97,PT02M20.00S,1,0,,96,Schrempf,D. Schrempf,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0,94,0021201224
+98,PT02M20.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,MISS Collison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,95,0021201224
+99,PT02M20.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0,96,0021201224
+100,PT02M20.00S,1,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Crowder FOR Mayo,Substitution,,0,0,97,0021201224
+101,PT02M20.00S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,SUB: Miller FOR Roberts,Substitution,,0,0,98,0021201224
+102,PT02M20.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,16.0,14.0,30,h,Collison Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,99,0021201224
+104,PT02M12.00S,1,1610612740,NOH,202227,Harris,T. Harris,0,0,0,,0,,,0,v,Harris Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,100,0021201224
+104,PT02M12.00S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison STEAL (1 STL),,,0,0,101,0021201224
+105,PT02M09.00S,1,1610612742,DAL,201954,Collison,D. Collison,1,14,1,Missed,1,,,0,h,MISS Collison 1' Running Layup,Missed Shot,Running Layup Shot,0,2,102,0021201224
+106,PT02M08.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,0,103,0021201224
+107,PT01M50.00S,1,1610612740,NOH,202227,Harris,T. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,104,0021201224
+107,PT01M50.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (2 STL),,,0,0,105,0021201224
+108,PT01M47.00S,1,1610612742,DAL,1890,Marion,S. Marion,17,12,2,Made,1,18.0,14.0,32,h,Marion 2' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,0,2,106,0021201224
+109,PT01M29.00S,1,1610612740,NOH,203121,Miller,D. Miller,0,0,0,,0,,,0,v,Miller Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,107,0021201224
+110,PT01M29.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Marion,Substitution,,0,0,108,0021201224
+111,PT01M15.00S,1,1610612742,DAL,1713,Carter,V. Carter,125,241,27,Missed,1,,,0,h,MISS Carter 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,109,0021201224
+112,PT01M14.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,110,0021201224
+114,PT01M06.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki S.FOUL (P1.T4),Foul,Shooting,0,0,111,0021201224
+115,PT01M06.00S,1,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,18.0,15.0,33,v,Henry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,112,0021201224
+117,PT01M06.00S,1,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Anderson FOR Aminu,Substitution,,0,0,113,0021201224
+118,PT01M06.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Morrow FOR Carter,Substitution,,0,0,114,0021201224
+119,PT01M06.00S,1,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,MISS Henry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,115,0021201224
+121,PT01M05.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,116,0021201224
+122,PT00M58.60S,1,1610612740,NOH,202227,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P1.PN),Foul,Personal,0,0,117,0021201224
+123,PT00M58.60S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,19.0,15.0,34,h,Collison Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,118,0021201224
+125,PT00M58.60S,1,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,MISS Collison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,119,0021201224
+127,PT00M57.90S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,120,0021201224
+129,PT00M50.10S,1,1610612740,NOH,202227,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Roberts FOR Harris,Substitution,,0,0,121,0021201224
+130,PT00M42.90S,1,1610612740,NOH,201583,Anderson,R. Anderson,20,26,3,Missed,1,,,0,v,MISS Anderson 3' Layup,Missed Shot,Layup Shot,0,2,122,0021201224
+131,PT00M41.90S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,0,123,0021201224
+132,PT00M41.70S,1,1610612742,DAL,201627,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow L.B.FOUL (P1.PN),Foul,Loose Ball,0,0,124,0021201224
+135,PT00M41.70S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,19.0,16.0,35,v,Amundson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,125,0021201224
+137,PT00M41.70S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,MISS Amundson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,126,0021201224
+139,PT00M40.90S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,127,0021201224
+140,PT00M27.90S,1,1610612742,DAL,203109,Crowder,J. Crowder,-152,205,26,Missed,1,,,0,h,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,128,0021201224
+141,PT00M25.90S,1,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,129,0021201224
+142,PT00M03.90S,1,1610612740,NOH,203148,Roberts,B. Roberts,23,22,3,Made,1,19.0,18.0,37,v,Roberts 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,130,0021201224
+143,PT00M00.30S,1,1610612742,DAL,201954,Collison,D. Collison,111,78,14,Missed,1,,,0,h,MISS Collison 14' Running Bank Shot,Missed Shot,Running Bank shot,0,2,131,0021201224
+144,PT00M00.20S,1,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,132,0021201224
+145,PT00M00.00S,1,0,,0,,,0,0,0,,0,19.0,18.0,37,,End of 1st Period (8:40 PM EST),period,end,0,0,133,0021201224
+147,PT12M00.00S,2,0,,0,,,0,0,0,,0,19.0,18.0,37,,Start of 2nd Period (8:42 PM EST),period,start,0,0,134,0021201224
+148,PT11M37.00S,2,1610612742,DAL,201148,Wright,B. Wright,9,64,6,Made,1,21.0,18.0,39,h,Wright 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,2,135,0021201224
+150,PT11M14.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright P.FOUL (P1.T1),Foul,Personal,0,0,136,0021201224
+151,PT10M59.00S,2,1610612740,NOH,203148,Roberts,B. Roberts,-157,192,25,Made,1,21.0,21.0,42,v,Roberts 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,0,3,137,0021201224
+152,PT10M47.00S,2,1610612742,DAL,201148,Wright,B. Wright,-98,52,11,Missed,1,,,0,h,MISS Wright 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,138,0021201224
+153,PT10M45.00S,2,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,139,0021201224
+154,PT10M39.00S,2,1610612740,NOH,202333,Henry,X. Henry,-23,33,4,Missed,1,,,0,v,MISS Henry 4' Running Bank Shot,Missed Shot,Running Bank shot,0,2,140,0021201224
+155,PT10M35.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,141,0021201224
+156,PT10M34.00S,2,1610612742,DAL,201954,Collison,D. Collison,-5,17,2,Made,1,23.0,21.0,44,h,Collison 2' Driving Layup (7 PTS) (Crowder 1 AST),Made Shot,Driving Layup Shot,0,2,142,0021201224
+157,PT10M20.00S,2,1610612740,NOH,203121,Miller,D. Miller,-150,119,19,Missed,1,,,0,v,MISS Miller 19' Jump Shot,Missed Shot,Jump Shot,0,2,143,0021201224
+158,PT10M19.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,144,0021201224
+159,PT10M13.00S,2,1610612742,DAL,201954,Collison,D. Collison,7,20,2,Made,1,25.0,21.0,46,h,Collison 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,2,146,0021201224
+160,PT10M13.00S,2,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,145,0021201224
+161,PT09M54.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,92,20,9,Made,1,25.0,23.0,48,v,Anderson 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,2,147,0021201224
+162,PT09M37.00S,2,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry P.FOUL (P1.T1),Foul,Personal,0,0,148,0021201224
+163,PT09M37.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,SUB: Brand FOR Wright,Substitution,,0,0,149,0021201224
+164,PT09M37.00S,2,1610612740,NOH,203121,Miller,D. Miller,0,0,0,,0,,,0,v,SUB: Lopez FOR Miller,Substitution,,0,0,150,0021201224
+165,PT09M37.00S,2,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,SUB: Gordon FOR Amundson,Substitution,,0,0,151,0021201224
+166,PT09M29.00S,2,1610612742,DAL,1713,Carter,V. Carter,-226,96,25,Made,1,28.0,23.0,51,h,Carter 25' 3PT Jump Shot (5 PTS) (Collison 1 AST),Made Shot,Jump Shot,0,3,152,0021201224
+167,PT09M11.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,-4,23,2,Missed,1,,,0,v,MISS Gordon 2' Layup,Missed Shot,Layup Shot,0,2,153,0021201224
+168,PT09M09.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,0,154,0021201224
+169,PT09M02.00S,2,1610612742,DAL,201954,Collison,D. Collison,12,22,3,Made,1,30.0,23.0,53,h,Collison 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,155,0021201224
+170,PT08M37.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,-175,26,18,Missed,1,,,0,v,MISS Anderson 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,156,0021201224
+171,PT08M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,157,0021201224
+172,PT08M28.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-54,244,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,158,0021201224
+173,PT08M27.00S,2,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,159,0021201224
+174,PT08M24.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,160,0021201224
+176,PT08M24.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Marion FOR Nowitzki,Substitution,,0,0,161,0021201224
+177,PT08M24.00S,2,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,SUB: Aminu FOR Henry,Substitution,,0,0,162,0021201224
+178,PT08M05.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,159,121,20,Made,1,30.0,25.0,55,v,Aminu 20' Jump Shot (8 PTS) (Roberts 4 AST),Made Shot,Jump Shot,0,2,163,0021201224
+179,PT07M43.00S,2,1610612742,DAL,201954,Collison,D. Collison,190,39,19,Made,1,32.0,25.0,57,h,Collison 19' Jump Shot (13 PTS) (Brand 1 AST),Made Shot,Jump Shot,0,2,164,0021201224
+180,PT07M29.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,6,17,2,Made,1,32.0,27.0,59,v,Gordon 2' Running Reverse Layup (2 PTS) (Aminu 1 AST),Made Shot,Running Reverse Layup Shot,0,2,165,0021201224
+181,PT07M10.00S,2,1610612742,DAL,1890,Marion,S. Marion,1,44,4,Made,1,34.0,27.0,61,h,Marion 4' Running Hook Shot (7 PTS),Made Shot,Running Hook Shot,0,2,166,0021201224
+182,PT06M51.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder S.FOUL (P1.T2),Foul,Shooting,0,0,167,0021201224
+183,PT06M51.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,34.0,28.0,62,v,Gordon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,168,0021201224
+185,PT06M51.00S,2,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,SUB: M. James FOR Collison,Substitution,,0,0,169,0021201224
+186,PT06M51.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,34.0,29.0,63,v,Gordon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,170,0021201224
+188,PT06M38.00S,2,1610612742,DAL,1890,Marion,S. Marion,47,42,6,Missed,1,,,0,h,MISS Marion 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,171,0021201224
+189,PT06M35.00S,2,1610612742,DAL,1882,Brand,E. Brand,9,58,6,Made,1,36.0,29.0,65,h,Brand 6' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,2,173,0021201224
+190,PT06M36.00S,2,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,172,0021201224
+191,PT06M13.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,-98,189,21,Missed,1,,,0,v,MISS Gordon 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,2,174,0021201224
+192,PT06M09.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,175,0021201224
+193,PT06M01.00S,2,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,176,0021201224
+193,PT06M01.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion STEAL (3 STL),,,0,0,177,0021201224
+194,PT05M54.00S,2,1610612742,DAL,2229,James,M. James,-134,200,24,Missed,1,,,0,h,MISS M. James 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,178,0021201224
+195,PT05M52.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,179,0021201224
+198,PT05M31.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,-125,28,13,Missed,1,,,0,v,MISS Anderson 13' Jump Shot,Missed Shot,Jump Shot,0,2,180,0021201224
+198,PT05M31.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder BLOCK (1 BLK),,,0,2,181,0021201224
+199,PT05M30.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,182,0021201224
+200,PT05M30.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,183,0021201224
+201,PT05M30.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,184,0021201224
+203,PT05M30.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Mayo FOR Carter,Substitution,,0,0,185,0021201224
+204,PT05M30.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Crowder,Substitution,,0,0,186,0021201224
+206,PT05M16.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,146,30,15,Made,1,38.0,29.0,67,h,Nowitzki 15' Jump Shot (2 PTS) (M. James 1 AST),Made Shot,Jump Shot,0,2,187,0021201224
+207,PT04M51.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,20,42,5,Missed,1,,,0,v,MISS Aminu 5' Hook Shot,Missed Shot,Hook Shot,0,2,188,0021201224
+208,PT04M49.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,189,0021201224
+209,PT04M30.00S,2,1610612742,DAL,1882,Brand,E. Brand,23,41,5,Missed,1,,,0,h,MISS Brand 5' Running Bank Hook Shot,Missed Shot,Running Bank Hook Shot,0,2,190,0021201224
+210,PT04M27.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,191,0021201224
+211,PT04M24.00S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo S.FOUL (P2.T3),Foul,Shooting,0,0,192,0021201224
+212,PT04M24.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,38.0,30.0,68,v,Gordon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,193,0021201224
+214,PT04M24.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,38.0,31.0,69,v,Gordon Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,194,0021201224
+217,PT04M04.00S,2,1610612742,DAL,1882,Brand,E. Brand,135,116,18,Missed,1,,,0,h,MISS Brand 18' Jump Shot,Missed Shot,Jump Shot,0,2,195,0021201224
+218,PT04M02.00S,2,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,196,0021201224
+220,PT03M48.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,SUB: Carter FOR Marion,Substitution,,0,0,197,0021201224
+221,PT03M48.00S,2,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,SUB: Wright FOR Brand,Substitution,,0,0,198,0021201224
+222,PT03M44.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,1,19,2,Made,1,38.0,33.0,71,v,Anderson 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,2,199,0021201224
+223,PT03M32.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon P.FOUL (P1.T2),Foul,Personal,0,0,200,0021201224
+224,PT03M32.00S,2,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: Collison FOR M. James,Substitution,,0,0,201,0021201224
+225,PT03M23.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-157,127,20,Missed,1,,,0,h,MISS Nowitzki 20' Jump Shot,Missed Shot,Jump Shot,0,2,202,0021201224
+226,PT03M21.00S,2,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,203,0021201224
+227,PT03M10.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,15,15,2,Made,1,38.0,35.0,73,v,Gordon 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,204,0021201224
+228,PT03M09.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,205,0021201224
+232,PT02M57.00S,2,1610612742,DAL,1713,Carter,V. Carter,29,34,4,Made,1,40.0,35.0,75,h,Carter 4' Fadeaway Bank Shot (7 PTS),Made Shot,Fadeaway Bank shot,0,2,206,0021201224
+233,PT02M37.00S,2,1610612740,NOH,203148,Roberts,B. Roberts,18,255,26,Missed,1,,,0,v,MISS Roberts 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,207,0021201224
+234,PT02M37.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,208,0021201224
+235,PT02M37.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki L.B.FOUL (P2.T4),Foul,Loose Ball,0,0,209,0021201224
+236,PT02M28.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,-7,31,3,Made,1,40.0,37.0,77,v,Aminu 3' Driving Finger Roll Layup (10 PTS) (Roberts 5 AST),Made Shot,Driving Finger Roll Layup Shot,0,2,210,0021201224
+237,PT02M08.00S,2,1610612742,DAL,201148,Wright,B. Wright,-60,39,7,Made,1,42.0,37.0,79,h,Wright 7' Jump Shot (4 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,0,2,211,0021201224
+238,PT01M42.00S,2,1610612740,NOH,203148,Roberts,B. Roberts,-7,34,3,Missed,1,,,0,v,MISS Roberts 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,212,0021201224
+238,PT01M42.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright BLOCK (1 BLK),,,0,2,213,0021201224
+239,PT01M40.00S,2,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,214,0021201224
+240,PT01M39.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,215,0021201224
+241,PT01M27.00S,2,1610612742,DAL,201954,Collison,D. Collison,-232,42,24,Missed,1,,,0,h,MISS Collison 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,216,0021201224
+242,PT01M26.00S,2,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:6 Def:11),Rebound,Unknown,0,0,217,0021201224
+243,PT01M19.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,-149,123,19,Made,1,42.0,39.0,81,v,Gordon 19' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,0,2,218,0021201224
+244,PT00M58.90S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,78,91,12,Made,1,44.0,39.0,83,h,Nowitzki 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,2,219,0021201224
+245,PT00M48.00S,2,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon Traveling Turnover (P2.T12),Turnover,Traveling,0,0,220,0021201224
+246,PT00M33.90S,2,1610612742,DAL,201148,Wright,B. Wright,94,41,10,Missed,1,,,0,h,MISS Wright 10' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,2,221,0021201224
+247,PT00M33.20S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,222,0021201224
+248,PT00M33.20S,2,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu L.B.FOUL (P2.T3),Foul,Loose Ball,0,0,223,0021201224
+249,PT00M33.20S,2,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,SUB: Henry FOR Roberts,Substitution,,0,0,224,0021201224
+250,PT00M22.30S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-120,83,15,Made,1,46.0,39.0,85,h,Nowitzki 15' Jump Shot (6 PTS) (Carter 3 AST),Made Shot,Jump Shot,0,2,225,0021201224
+251,PT00M22.30S,2,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson S.FOUL (P2.PN),Foul,Shooting,0,0,226,0021201224
+252,PT00M22.30S,2,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Crowder FOR Mayo,Substitution,,0,0,227,0021201224
+254,PT00M22.30S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,47.0,39.0,86,h,Nowitzki Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,228,0021201224
+257,PT00M01.90S,2,1610612740,NOH,201569,Gordon,E. Gordon,-34,168,17,Missed,1,,,0,v,MISS Gordon 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,229,0021201224
+258,PT00M01.30S,2,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,230,0021201224
+259,PT00M00.30S,2,1610612740,NOH,201577,Lopez,R. Lopez,24,14,3,Missed,1,,,0,v,MISS Lopez 3' Layup,Missed Shot,Layup Shot,0,2,231,0021201224
+259,PT00M00.30S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki BLOCK (1 BLK),,,0,2,232,0021201224
+260,PT00M00.20S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,233,0021201224
+261,PT00M00.00S,2,0,,0,,,0,0,0,,0,47.0,39.0,86,,End of 2nd Period (9:10 PM EST),period,end,0,0,234,0021201224
+265,PT12M00.00S,3,0,,0,,,0,0,0,,0,47.0,39.0,86,,Start of 3rd Period (9:27 PM EST),period,start,0,0,235,0021201224
+266,PT11M45.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,9,53,5,Made,1,49.0,39.0,88,h,Kaman 5' Turnaround Hook Shot (4 PTS) (Marion 3 AST),Made Shot,Turnaround Hook Shot,0,2,236,0021201224
+267,PT11M25.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman S.FOUL (P1.T1),Foul,Shooting,0,0,237,0021201224
+268,PT11M25.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,49.0,40.0,89,v,Anderson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,238,0021201224
+270,PT11M25.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,239,0021201224
+272,PT11M24.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,240,0021201224
+273,PT11M02.00S,3,1610612742,DAL,1890,Marion,S. Marion,100,88,13,Missed,1,,,0,h,MISS Marion 13' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,241,0021201224
+274,PT11M00.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,242,0021201224
+275,PT10M55.00S,3,1610612740,NOH,202329,Aminu,A. Aminu,0,14,1,Missed,1,,,0,v,MISS Aminu 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,0,2,243,0021201224
+276,PT10M53.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,244,0021201224
+277,PT10M48.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,245,0021201224
+278,PT10M36.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,108,58,12,Missed,1,,,0,v,MISS Anderson 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,246,0021201224
+279,PT10M32.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,247,0021201224
+280,PT10M30.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,248,0021201224
+280,PT10M30.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (1 STL),,,0,0,249,0021201224
+281,PT10M26.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,9,14,2,Missed,1,,,0,v,MISS Gordon 2' Driving Dunk,Missed Shot,Driving Dunk Shot,0,2,250,0021201224
+282,PT10M25.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,-13,3,1,Made,1,49.0,42.0,91,v,Lopez 1' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,2,253,0021201224
+283,PT10M25.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,251,0021201224
+284,PT10M25.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,0,252,0021201224
+285,PT10M07.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,9,23,2,Made,1,51.0,42.0,93,h,Kaman 2' Layup (6 PTS) (Nowitzki 2 AST),Made Shot,Layup Shot,0,2,254,0021201224
+286,PT09M47.00S,3,1610612740,NOH,203148,Roberts,B. Roberts,-128,213,25,Missed,1,,,0,v,MISS Roberts 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,255,0021201224
+287,PT09M46.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,256,0021201224
+288,PT09M30.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,257,0021201224
+289,PT09M11.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,-133,211,25,Made,1,51.0,45.0,96,v,Anderson 25' 3PT Jump Shot (8 PTS) (Gordon 2 AST),Made Shot,Jump Shot,0,3,258,0021201224
+290,PT08M52.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez P.FOUL (P1.T1),Foul,Personal,0,0,259,0021201224
+291,PT08M45.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,0,0,260,0021201224
+292,PT08M34.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,53,181,19,Missed,1,,,0,v,MISS Lopez 19' Jump Shot,Missed Shot,Jump Shot,0,2,261,0021201224
+293,PT08M32.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,262,0021201224
+294,PT08M32.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James L.B.FOUL (P1.T2),Foul,Loose Ball,0,0,263,0021201224
+295,PT08M26.00S,3,1610612740,NOH,203148,Roberts,B. Roberts,13,15,2,Missed,1,,,0,v,MISS Roberts 2' Running Layup,Missed Shot,Running Layup Shot,0,2,264,0021201224
+296,PT08M24.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,265,0021201224
+297,PT08M10.00S,3,1610612742,DAL,2229,James,M. James,-224,25,0,Made,1,54.0,45.0,99,h,M. James 3PT Jump Shot (6 PTS) (Nowitzki 3 AST),Made Shot,Jump Shot,0,3,266,0021201224
+298,PT07M47.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez OFF.Foul (P2),Foul,Offensive,0,0,267,0021201224
+299,PT07M47.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez Foul Turnover (P2.T13),Turnover,Foul,0,0,268,0021201224
+300,PT07M39.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,269,0021201224
+300,PT07M39.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (2 STL),,,0,0,270,0021201224
+301,PT07M34.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,271,0021201224
+301,PT07M34.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James STEAL (2 STL),,,0,0,272,0021201224
+302,PT07M29.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,9,20,2,Made,1,56.0,45.0,101,h,Nowitzki 2' Running Layup (9 PTS) (M. James 2 AST),Made Shot,Running Layup Shot,0,2,273,0021201224
+303,PT07M07.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,121,33,13,Missed,1,,,0,v,MISS Anderson 13' Jump Shot,Missed Shot,Jump Shot,0,2,274,0021201224
+304,PT07M05.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,-11,14,2,Made,1,56.0,47.0,103,v,Lopez 2' Tip Shot (10 PTS),Made Shot,Tip Shot,0,2,276,0021201224
+305,PT07M05.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,275,0021201224
+306,PT06M42.00S,3,1610612742,DAL,1890,Marion,S. Marion,-93,77,12,Made,1,58.0,47.0,105,h,Marion 12' Jump Shot (9 PTS) (Nowitzki 4 AST),Made Shot,Jump Shot,0,2,277,0021201224
+307,PT06M34.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,278,0021201224
+311,PT06M34.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Carter FOR Nowitzki,Substitution,,0,0,279,0021201224
+312,PT06M21.00S,3,1610612740,NOH,202329,Aminu,A. Aminu,18,22,3,Missed,1,,,0,v,MISS Aminu 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,0,2,280,0021201224
+313,PT06M19.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,281,0021201224
+314,PT06M02.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,Kaman Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,282,0021201224
+314,PT06M02.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (3 STL),,,0,0,283,0021201224
+315,PT06M00.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,15,7,2,Made,1,58.0,49.0,107,v,Gordon 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,2,284,0021201224
+316,PT06M00.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James S.FOUL (P2.T3),Foul,Shooting,0,0,285,0021201224
+317,PT06M00.00S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Amundson FOR Lopez,Substitution,,0,0,286,0021201224
+318,PT06M00.00S,3,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Henry FOR Aminu,Substitution,,0,0,287,0021201224
+319,PT06M00.00S,3,1610612742,DAL,2549,Kaman,C. Kaman,0,0,0,,0,,,0,h,SUB: Wright FOR Kaman,Substitution,,0,0,288,0021201224
+320,PT06M00.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,MISS Gordon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,289,0021201224
+321,PT05M58.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,290,0021201224
+322,PT05M49.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon P.FOUL (P2.T2),Foul,Personal,0,0,291,0021201224
+323,PT05M43.00S,3,1610612742,DAL,1713,Carter,V. Carter,56,124,14,Made,1,60.0,49.0,109,h,Carter 14' Jump Shot (9 PTS),Made Shot,Jump Shot,0,2,292,0021201224
+324,PT05M22.00S,3,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,293,0021201224
+324,PT05M22.00S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter STEAL (1 STL),,,0,0,294,0021201224
+325,PT05M14.00S,3,1610612742,DAL,2229,James,M. James,-152,198,25,Made,1,63.0,49.0,112,h,M. James 25' 3PT Jump Shot (9 PTS) (Mayo 2 AST),Made Shot,Jump Shot,0,3,295,0021201224
+326,PT05M06.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,-4,41,4,Missed,1,,,0,v,MISS Gordon 4' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,0,2,296,0021201224
+327,PT05M02.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,297,0021201224
+328,PT05M00.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,298,0021201224
+328,PT05M00.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (4 STL),,,0,0,299,0021201224
+329,PT04M51.00S,3,1610612740,NOH,202333,Henry,X. Henry,23,17,3,Missed,1,,,0,v,MISS Henry 3' Layup,Missed Shot,Layup Shot,0,2,300,0021201224
+329,PT04M51.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright BLOCK (2 BLK),,,0,2,301,0021201224
+330,PT04M51.00S,3,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,302,0021201224
+331,PT04M51.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,M. James S.FOUL (P3.T4),Foul,Shooting,0,0,303,0021201224
+332,PT04M51.00S,3,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,MISS Amundson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,304,0021201224
+333,PT04M51.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Normal Rebound,0,0,305,0021201224
+334,PT04M51.00S,3,1610612742,DAL,2229,James,M. James,0,0,0,,0,,,0,h,SUB: Collison FOR M. James,Substitution,,0,0,306,0021201224
+335,PT04M51.00S,3,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,SUB: Mason Jr. FOR Roberts,Substitution,,0,0,307,0021201224
+336,PT04M51.00S,3,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,63.0,50.0,113,v,Amundson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,308,0021201224
+338,PT04M37.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,140,216,26,Made,1,66.0,50.0,116,h,Mayo 26' 3PT Jump Shot (5 PTS) (Collison 2 AST),Made Shot,Jump Shot,0,3,309,0021201224
+339,PT04M22.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright S.FOUL (P2.PN),Foul,Shooting,0,0,310,0021201224
+340,PT04M22.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,66.0,51.0,117,v,Gordon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,311,0021201224
+342,PT04M22.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,66.0,52.0,118,v,Gordon Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,312,0021201224
+344,PT04M11.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,313,0021201224
+345,PT03M59.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon Traveling Turnover (P4.T16),Turnover,Traveling,0,0,314,0021201224
+346,PT03M38.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,171,33,17,Missed,1,,,0,h,MISS Mayo 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,315,0021201224
+347,PT03M36.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,316,0021201224
+348,PT03M18.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,4,23,2,Made,1,66.0,54.0,120,v,Anderson 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,2,317,0021201224
+349,PT03M18.00S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter S.FOUL (P2.PN),Foul,Shooting,0,0,318,0021201224
+350,PT03M18.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,319,0021201224
+351,PT03M18.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Marion,Substitution,,0,0,320,0021201224
+353,PT03M18.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,66.0,55.0,121,v,Anderson Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,321,0021201224
+355,PT03M05.00S,3,1610612742,DAL,201148,Wright,B. Wright,2,20,2,Missed,1,,,0,h,MISS Wright 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,0,2,322,0021201224
+356,PT03M04.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,323,0021201224
+357,PT02M48.00S,3,1610612740,NOH,200811,Amundson,L. Amundson,1,12,1,Made,1,66.0,57.0,123,v,Amundson 1' Running Slam Dunk (4 PTS) (Gordon 3 AST),Made Shot,Running Slam Dunk Shot,0,2,324,0021201224
+358,PT02M25.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-160,22,16,Made,1,68.0,57.0,125,h,Nowitzki 16' Jump Shot (11 PTS) (Mayo 3 AST),Made Shot,Jump Shot,0,2,325,0021201224
+360,PT01M59.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,177,167,24,Missed,1,,,0,v,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,326,0021201224
+361,PT01M58.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,327,0021201224
+362,PT01M40.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-146,102,18,Missed,1,,,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,2,328,0021201224
+363,PT01M39.00S,3,1610612740,NOH,2427,Mason Jr.,R. Mason Jr.,0,0,0,,0,,,0,v,Mason Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,329,0021201224
+364,PT01M32.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,Wright S.FOUL (P3.PN),Foul,Shooting,0,0,330,0021201224
+365,PT01M32.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,68.0,58.0,126,v,Gordon Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,331,0021201224
+367,PT01M32.00S,3,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Crowder FOR Mayo,Substitution,,0,0,332,0021201224
+368,PT01M32.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,,,0,h,SUB: Brand FOR Wright,Substitution,,0,0,333,0021201224
+369,PT01M32.00S,3,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,SUB: Lopez FOR Anderson,Substitution,,0,0,334,0021201224
+370,PT01M32.00S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,68.0,59.0,127,v,Gordon Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,335,0021201224
+372,PT01M17.00S,3,1610612742,DAL,201954,Collison,D. Collison,-15,15,2,Made,1,70.0,59.0,129,h,Collison 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,2,336,0021201224
+373,PT00M54.90S,3,1610612740,NOH,2427,Mason Jr.,R. Mason Jr.,15,37,4,Missed,1,,,0,v,MISS Mason Jr. 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,337,0021201224
+374,PT00M54.40S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,338,0021201224
+375,PT00M54.40S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter L.B.FOUL (P3.PN),Foul,Loose Ball,0,0,339,0021201224
+376,PT00M54.40S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,70.0,60.0,130,v,Lopez Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,340,0021201224
+378,PT00M54.40S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Mayo FOR Carter,Substitution,,0,0,341,0021201224
+379,PT00M54.40S,3,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Roberts FOR Gordon,Substitution,,0,0,342,0021201224
+380,PT00M54.40S,3,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,70.0,61.0,131,v,Lopez Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,343,0021201224
+382,PT00M36.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-109,94,14,Made,1,72.0,61.0,133,h,Nowitzki 14' Jump Shot (13 PTS),Made Shot,Jump Shot,0,2,344,0021201224
+383,PT00M36.00S,3,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts S.FOUL (P3.T3),Foul,Shooting,0,0,345,0021201224
+384,PT00M36.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,73.0,61.0,134,h,Nowitzki Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,346,0021201224
+386,PT00M17.90S,3,1610612740,NOH,201577,Lopez,R. Lopez,2,47,5,Missed,1,,,0,v,MISS Lopez 5' Running Hook Shot,Missed Shot,Running Hook Shot,0,2,347,0021201224
+387,PT00M15.80S,3,1610612740,NOH,200811,Amundson,L. Amundson,18,7,2,Missed,1,,,0,v,MISS Amundson 2' Tip Shot,Missed Shot,Tip Shot,0,2,349,0021201224
+388,PT00M15.80S,3,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,348,0021201224
+389,PT00M15.40S,3,1610612740,NOH,202333,Henry,X. Henry,13,17,2,Made,1,73.0,63.0,136,v,Henry 2' Layup (3 PTS),Made Shot,Layup Shot,0,2,351,0021201224
+390,PT00M15.40S,3,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,350,0021201224
+391,PT00M15.40S,3,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand S.FOUL (P1.PN),Foul,Shooting,0,0,352,0021201224
+392,PT00M15.40S,3,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,73.0,64.0,137,v,Henry Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,353,0021201224
+394,PT00M00.30S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,34,118,12,Made,1,75.0,64.0,139,h,Nowitzki 12' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,0,2,354,0021201224
+397,PT00M00.00S,3,0,,394,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,0,355,0021201224
+398,PT00M00.00S,3,0,,0,,,0,0,0,,0,75.0,64.0,139,,End of 3rd Period (9:55 PM EST),period,end,0,0,356,0021201224
+400,PT12M00.00S,4,0,,0,,,0,0,0,,0,75.0,64.0,139,,Start of 4th Period (9:56 PM EST),period,start,0,0,357,0021201224
+401,PT11M46.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,125,154,20,Missed,1,,,0,v,MISS Roberts 20' Jump Shot,Missed Shot,Jump Shot,0,2,358,0021201224
+402,PT11M45.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,359,0021201224
+403,PT11M34.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,151,39,16,Missed,1,,,0,h,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,2,360,0021201224
+404,PT11M33.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,361,0021201224
+405,PT11M25.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,1,41,4,Made,1,75.0,66.0,141,v,Roberts 4' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,0,2,362,0021201224
+406,PT11M04.00S,4,1610612742,DAL,201564,Mayo,O. Mayo,-229,31,0,Missed,1,,,0,h,MISS Mayo 3PT Jump Shot,Missed Shot,Jump Shot,0,3,363,0021201224
+407,PT11M02.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,4,20,2,Missed,1,,,0,h,MISS Crowder 2' Putback Layup,Missed Shot,Putback Layup Shot,0,2,365,0021201224
+408,PT11M02.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,364,0021201224
+409,PT10M59.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,366,0021201224
+410,PT10M48.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,-11,6,1,Missed,1,,,0,v,MISS Lopez 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,367,0021201224
+411,PT10M46.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,368,0021201224
+412,PT10M38.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,4,252,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,369,0021201224
+413,PT10M37.00S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,370,0021201224
+414,PT10M35.00S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,371,0021201224
+414,PT10M35.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder STEAL (1 STL),,,0,0,372,0021201224
+415,PT10M26.00S,4,1610612742,DAL,201954,Collison,D. Collison,-24,39,5,Made,1,77.0,66.0,143,h,Collison 5' Driving Bank Shot (17 PTS),Made Shot,Driving Bank shot,0,2,373,0021201224
+416,PT10M16.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,374,0021201224
+418,PT10M16.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Marion FOR Nowitzki,Substitution,,0,0,375,0021201224
+419,PT10M16.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,SUB: Carter FOR Crowder,Substitution,,0,0,376,0021201224
+421,PT10M04.00S,4,1610612740,NOH,2427,Mason Jr.,R. Mason Jr.,-144,211,26,Made,1,77.0,69.0,146,v,Mason Jr. 26' 3PT Jump Shot (3 PTS) (Roberts 6 AST),Made Shot,Jump Shot,0,3,377,0021201224
+422,PT09M44.00S,4,1610612742,DAL,1713,Carter,V. Carter,69,55,9,Missed,1,,,0,h,MISS Carter 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,378,0021201224
+422,PT09M44.00S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson BLOCK (1 BLK),,,0,2,379,0021201224
+423,PT09M42.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,380,0021201224
+424,PT09M38.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry Offensive Charge Foul (P2),Foul,Offensive Charge,0,0,381,0021201224
+425,PT09M38.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry Foul Turnover (P2.T18),Turnover,Foul,0,0,382,0021201224
+426,PT09M21.00S,4,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,383,0021201224
+426,PT09M21.00S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson STEAL (1 STL),,,0,0,384,0021201224
+427,PT09M04.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,6,56,6,Missed,1,,,0,v,MISS Roberts 6' Driving Jump Shot,Missed Shot,Driving Jump shot,0,2,385,0021201224
+428,PT09M02.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,1,20,2,Made,1,77.0,71.0,148,v,Lopez 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,0,2,387,0021201224
+429,PT09M02.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,386,0021201224
+430,PT08M46.00S,4,1610612742,DAL,1890,Marion,S. Marion,-2,19,2,Made,1,79.0,71.0,150,h,Marion 2' Layup (11 PTS) (Collison 3 AST),Made Shot,Layup Shot,0,2,388,0021201224
+431,PT08M35.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,0,389,0021201224
+431,PT08M35.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison STEAL (2 STL),,,0,0,390,0021201224
+432,PT08M35.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,Henry L.B.FOUL (P3.T1),Foul,Loose Ball,0,0,391,0021201224
+433,PT08M35.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,,,0,v,SUB: Aminu FOR Henry,Substitution,,0,0,392,0021201224
+434,PT08M19.00S,4,1610612742,DAL,1890,Marion,S. Marion,-35,96,10,Made,1,81.0,71.0,152,h,Marion 10' Jump Shot (13 PTS) (Carter 4 AST),Made Shot,Jump Shot,0,2,393,0021201224
+435,PT07M56.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,12,17,2,Made,1,81.0,73.0,154,v,Aminu 2' Layup (12 PTS) (Mason Jr. 1 AST),Made Shot,Layup Shot,0,2,394,0021201224
+436,PT07M49.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts Shooting Block Foul (P4.T2),Foul,Shooting Block,0,0,395,0021201224
+437,PT07M49.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,82.0,73.0,155,h,Collison Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,396,0021201224
+439,PT07M49.00S,4,1610612742,DAL,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Crowder FOR Mayo,Substitution,,0,0,397,0021201224
+440,PT07M49.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,83.0,73.0,156,h,Collison Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,398,0021201224
+442,PT07M27.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,173,26,17,Made,1,83.0,75.0,158,v,Aminu 17' Jump Bank Shot (14 PTS),Made Shot,Jump Bank Shot,0,2,399,0021201224
+443,PT07M16.00S,4,1610612742,DAL,201954,Collison,D. Collison,12,25,3,Made,1,85.0,75.0,160,h,Collison 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,0,2,400,0021201224
+445,PT07M06.00S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,SUB: Anderson FOR Amundson,Substitution,,0,0,401,0021201224
+446,PT07M06.00S,4,1610612740,NOH,2427,Mason Jr.,R. Mason Jr.,0,0,0,,0,,,0,v,SUB: Gordon FOR Mason Jr.,Substitution,,0,0,402,0021201224
+447,PT07M06.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Jump Ball Brand vs. Roberts: Tip to Marion,Jump Ball,,0,0,405,0021201224
+448,PT07M06.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,,,0,v,Roberts Lost Ball Turnover (P3.T20),Turnover,Lost Ball,0,0,403,0021201224
+448,PT07M06.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand STEAL (1 STL),,,0,0,404,0021201224
+449,PT06M56.00S,4,1610612742,DAL,201954,Collison,D. Collison,-153,64,17,Made,1,87.0,75.0,162,h,Collison 17' Jump Shot (23 PTS),Made Shot,Jump Shot,0,2,406,0021201224
+452,PT06M31.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,-160,28,16,Missed,1,,,0,v,MISS Anderson 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,407,0021201224
+453,PT06M29.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,408,0021201224
+454,PT06M23.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,19,2,Missed,1,,,0,h,MISS Collison 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,409,0021201224
+455,PT06M21.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,410,0021201224
+456,PT06M19.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,411,0021201224
+460,PT06M12.00S,4,1610612742,DAL,201954,Collison,D. Collison,-29,52,6,Made,1,89.0,75.0,164,h,Collison 6' Floating Jump Shot (25 PTS) (Brand 2 AST),Made Shot,Floating Jump shot,0,2,412,0021201224
+461,PT05M51.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,-21,247,25,Missed,1,,,0,v,MISS Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,413,0021201224
+462,PT05M50.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,414,0021201224
+463,PT05M39.00S,4,1610612742,DAL,1882,Brand,E. Brand,-122,102,16,Missed,1,,,0,h,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,2,415,0021201224
+464,PT05M37.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,20,2,Missed,1,,,0,h,MISS Crowder 2' Tip Shot,Missed Shot,Tip Shot,0,2,417,0021201224
+465,PT05M37.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,416,0021201224
+466,PT05M35.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,-8,14,2,Made,1,91.0,75.0,166,h,Crowder 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,2,419,0021201224
+467,PT05M36.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,418,0021201224
+468,PT05M19.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Bad Pass Turnover (P3.T21),Turnover,Bad Pass,0,0,420,0021201224
+468,PT05M19.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder STEAL (2 STL),,,0,0,421,0021201224
+469,PT05M07.00S,4,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon S.FOUL (P3.T3),Foul,Shooting,0,0,422,0021201224
+470,PT05M07.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,92.0,75.0,167,h,Crowder Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,423,0021201224
+472,PT05M07.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,93.0,75.0,168,h,Crowder Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,424,0021201224
+474,PT04M58.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder P.FOUL (P2.T1),Foul,Personal,0,0,425,0021201224
+475,PT04M49.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,136,115,18,Missed,1,,,0,v,MISS Roberts 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,426,0021201224
+476,PT04M47.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,Marion REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,427,0021201224
+477,PT04M39.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,-19,26,3,Missed,1,,,0,h,MISS Crowder 3' Running Layup,Missed Shot,Running Layup Shot,0,2,428,0021201224
+478,PT04M37.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,429,0021201224
+479,PT04M32.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,39,25,5,Missed,1,,,0,v,MISS Roberts 5' Jump Shot,Missed Shot,Jump Shot,0,2,430,0021201224
+479,PT04M32.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison BLOCK (1 BLK),,,0,2,431,0021201224
+480,PT04M29.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,432,0021201224
+481,PT04M26.00S,4,1610612742,DAL,1890,Marion,S. Marion,-16,11,2,Missed,1,,,0,h,MISS Marion 2' Running Layup,Missed Shot,Running Layup Shot,0,2,433,0021201224
+482,PT04M25.00S,4,1610612742,DAL,201954,Collison,D. Collison,-34,12,4,Missed,1,,,0,h,MISS Collison 4' Tip Shot,Missed Shot,Tip Shot,0,2,435,0021201224
+483,PT04M25.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,Collison REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,434,0021201224
+484,PT04M24.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:6 Def:12),Rebound,Unknown,0,0,436,0021201224
+485,PT04M11.00S,4,1610612740,NOH,201569,Gordon,E. Gordon,-141,172,22,Missed,1,,,0,v,MISS Gordon 22' Jump Shot,Missed Shot,Jump Shot,0,2,437,0021201224
+486,PT04M09.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:7 Def:12),Rebound,Unknown,0,0,438,0021201224
+487,PT04M05.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,-116,216,25,Missed,1,,,0,v,MISS Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,439,0021201224
+488,PT04M04.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,Brand REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,440,0021201224
+490,PT03M52.00S,4,1610612740,NOH,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Amundson FOR Lopez,Substitution,,0,0,441,0021201224
+491,PT03M41.00S,4,1610612742,DAL,1890,Marion,S. Marion,-98,11,10,Made,1,95.0,75.0,170,h,Marion 10' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,0,2,442,0021201224
+493,PT03M18.00S,4,1610612740,NOH,201569,Gordon,E. Gordon,-138,124,19,Missed,1,,,0,v,MISS Gordon 19' Jump Shot,Missed Shot,Jump Shot,0,2,443,0021201224
+494,PT03M18.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,444,0021201224
+495,PT03M18.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder S.FOUL (P3.T2),Foul,Shooting,0,0,445,0021201224
+496,PT03M18.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,95.0,76.0,171,v,Anderson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,446,0021201224
+499,PT03M18.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,,,0,h,SUB: Morrow FOR Carter,Substitution,,0,0,447,0021201224
+500,PT03M18.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,,,0,h,SUB: B. James FOR Marion,Substitution,,0,0,448,0021201224
+501,PT03M18.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,95.0,77.0,172,v,Anderson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,449,0021201224
+503,PT02M55.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder Traveling Turnover (P1.T10),Turnover,Traveling,0,0,450,0021201224
+504,PT02M55.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,451,0021201224
+505,PT02M55.00S,4,1610612742,DAL,1882,Brand,E. Brand,0,0,0,,0,,,0,h,SUB: Wright FOR Brand,Substitution,,0,0,452,0021201224
+506,PT02M55.00S,4,1610612740,NOH,201583,Anderson,R. Anderson,0,0,0,,0,,,0,v,SUB: Henry FOR Anderson,Substitution,,0,0,453,0021201224
+507,PT02M50.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,26,39,5,Missed,1,,,0,v,MISS Roberts 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,2,454,0021201224
+508,PT02M47.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,4,12,1,Made,1,95.0,79.0,174,v,Aminu 1' Tip Shot (16 PTS),Made Shot,Tip Shot,0,2,456,0021201224
+509,PT02M47.00S,4,1610612740,NOH,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:8 Def:12),Rebound,Unknown,0,0,455,0021201224
+510,PT02M32.00S,4,1610612742,DAL,203108,James,B. James,0,9,1,Made,1,97.0,79.0,176,h,B. James 1' Layup (2 PTS) (Collison 4 AST),Made Shot,Layup Shot,0,2,457,0021201224
+511,PT02M16.00S,4,1610612742,DAL,201627,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow S.FOUL (P2.T3),Foul,Shooting,0,0,458,0021201224
+512,PT02M16.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,97.0,80.0,177,v,Henry Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,459,0021201224
+514,PT02M16.00S,4,1610612742,DAL,201954,Collison,D. Collison,0,0,0,,0,,,0,h,SUB: Akognon FOR Collison,Substitution,,0,0,460,0021201224
+515,PT02M16.00S,4,1610612740,NOH,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Miller FOR Gordon,Substitution,,0,0,461,0021201224
+516,PT02M16.00S,4,1610612740,NOH,202333,Henry,X. Henry,0,0,0,,0,97.0,81.0,178,v,Henry Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,462,0021201224
+518,PT02M02.00S,4,1610612742,DAL,201627,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Traveling Turnover (P1.T11),Turnover,Traveling,0,0,463,0021201224
+519,PT01M49.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder P.FOUL (P4.T4),Foul,Personal,0,0,464,0021201224
+520,PT01M49.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Short (Full 4 Short 1),Timeout,Short,0,0,465,0021201224
+523,PT01M41.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,-78,233,25,Made,1,97.0,84.0,181,v,Roberts 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,3,466,0021201224
+524,PT01M41.00S,4,1610612742,DAL,203108,James,B. James,0,0,0,,0,,,0,h,B. James S.FOUL (P1.PN),Foul,Shooting,0,0,467,0021201224
+525,PT01M41.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,0,0,0,,0,97.0,85.0,182,v,Roberts Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,468,0021201224
+527,PT01M19.00S,4,1610612742,DAL,201148,Wright,B. Wright,-92,20,9,Missed,1,,,0,h,MISS Wright 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,2,469,0021201224
+528,PT01M16.00S,4,1610612740,NOH,203121,Miller,D. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,470,0021201224
+529,PT01M05.00S,4,1610612740,NOH,203148,Roberts,B. Roberts,21,222,22,Missed,1,,,0,v,MISS Roberts 22' Jump Shot,Missed Shot,Jump Shot,0,2,471,0021201224
+530,PT01M03.00S,4,1610612742,DAL,203006,Akognon,J. Akognon,0,0,0,,0,,,0,h,Akognon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,472,0021201224
+532,PT00M41.90S,4,1610612742,DAL,201627,Morrow,A. Morrow,-190,26,19,Made,1,99.0,85.0,184,h,Morrow 19' Jump Shot (2 PTS) (Crowder 2 AST),Made Shot,Jump Shot,0,2,473,0021201224
+533,PT00M25.90S,4,1610612740,NOH,202333,Henry,X. Henry,-21,17,3,Missed,1,,,0,v,MISS Henry 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,2,474,0021201224
+534,PT00M24.90S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,0,475,0021201224
+535,PT00M20.90S,4,1610612740,NOH,202333,Henry,X. Henry,17,19,3,Missed,1,,,0,v,MISS Henry 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,476,0021201224
+536,PT00M19.20S,4,1610612740,NOH,200811,Amundson,L. Amundson,-2,12,1,Made,1,99.0,87.0,186,v,Amundson 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,2,478,0021201224
+537,PT00M19.20S,4,1610612740,NOH,200811,Amundson,L. Amundson,0,0,0,,0,,,0,v,Amundson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,477,0021201224
+539,PT00M00.00S,4,0,,0,,,0,0,0,,0,99.0,87.0,186,,End of 4th Period (10:28 PM EST),period,end,0,0,479,0021201224
