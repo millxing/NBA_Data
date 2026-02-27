@@ -1,0 +1,21 @@
+{
+  "season": "2008-09",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:15:18.701604+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2008.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2008-09",
+  "candidate_games": 85,
+  "processed_games": 85,
+  "skipped_existing_games": 0,
+  "matched_games": 85,
+  "mismatched_games": 0,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 0,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": []
+}

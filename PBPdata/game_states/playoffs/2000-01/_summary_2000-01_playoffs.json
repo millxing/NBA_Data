@@ -1,0 +1,518 @@
+{
+  "season": "2000-01",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:02:52.724001+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2000.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01",
+  "candidate_games": 71,
+  "processed_games": 71,
+  "skipped_existing_games": 0,
+  "matched_games": 55,
+  "mismatched_games": 16,
+  "source_consistent_mismatched_games": 16,
+  "parser_mismatched_games": 0,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0040000002",
+      "home_team": "SAS",
+      "road_team": "MIN",
+      "differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 9,
+          "actual_home": 18,
+          "actual_road": 7,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 9,
+          "actual_home": 18,
+          "actual_road": 7,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_SAS_MIN_0040000002.json"
+    },
+    {
+      "game_id": "0040000007",
+      "home_team": "SAC",
+      "road_team": "PHX",
+      "differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 20,
+          "actual_home": 19,
+          "actual_road": 18,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 20,
+          "actual_home": 19,
+          "actual_road": 18,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_SAC_PHX_0040000007.json"
+    },
+    {
+      "game_id": "0040000010",
+      "home_team": "SAS",
+      "road_team": "MIN",
+      "differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 10,
+          "actual_road": 20,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 10,
+          "actual_road": 20,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_SAS_MIN_0040000010.json"
+    },
+    {
+      "game_id": "0040000012",
+      "home_team": "UTA",
+      "road_team": "DAL",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 12,
+          "actual_road": 15,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 12,
+          "actual_road": 15,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_UTA_DAL_0040000012.json"
+    },
+    {
+      "game_id": "0040000017",
+      "home_team": "CHH",
+      "road_team": "MIA",
+      "differences": {
+        "tov": {
+          "expected_home": 16,
+          "expected_road": 17,
+          "actual_home": 13,
+          "actual_road": 16,
+          "delta_home": -3,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 16,
+          "expected_road": 17,
+          "actual_home": 13,
+          "actual_road": 16,
+          "delta_home": -3,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_CHH_MIA_0040000017.json"
+    },
+    {
+      "game_id": "0040000023",
+      "home_team": "PHX",
+      "road_team": "SAC",
+      "differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 22,
+          "actual_home": 17,
+          "actual_road": 22,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 22,
+          "actual_home": 17,
+          "actual_road": 22,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_PHX_SAC_0040000023.json"
+    },
+    {
+      "game_id": "0040000040",
+      "home_team": "NYK",
+      "road_team": "TOR",
+      "differences": {
+        "tov": {
+          "expected_home": 21,
+          "expected_road": 13,
+          "actual_home": 19,
+          "actual_road": 12,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 21,
+          "expected_road": 13,
+          "actual_home": 19,
+          "actual_road": 12,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_NYK_TOR_0040000040.json"
+    },
+    {
+      "game_id": "0040000057",
+      "home_team": "DAL",
+      "road_team": "SAS",
+      "differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 11,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 11,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_DAL_SAS_0040000057.json"
+    },
+    {
+      "game_id": "0040000063",
+      "home_team": "PHI",
+      "road_team": "TOR",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 13,
+          "actual_home": 11,
+          "actual_road": 11,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 13,
+          "actual_home": 11,
+          "actual_road": 11,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_PHI_TOR_0040000063.json"
+    },
+    {
+      "game_id": "0040000058",
+      "home_team": "DAL",
+      "road_team": "SAS",
+      "differences": {
+        "tov": {
+          "expected_home": 7,
+          "expected_road": 16,
+          "actual_home": 7,
+          "actual_road": 14,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 7,
+          "expected_road": 16,
+          "actual_home": 7,
+          "actual_road": 14,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_DAL_SAS_0040000058.json"
+    },
+    {
+      "game_id": "0040000065",
+      "home_team": "TOR",
+      "road_team": "PHI",
+      "differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 13,
+          "actual_home": 15,
+          "actual_road": 13,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 13,
+          "actual_home": 15,
+          "actual_road": 13,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_TOR_PHI_0040000065.json"
+    },
+    {
+      "game_id": "0040000066",
+      "home_team": "PHI",
+      "road_team": "TOR",
+      "differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 19,
+          "actual_home": 11,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 11,
+          "expected_road": 19,
+          "actual_home": 11,
+          "actual_road": 16,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_PHI_TOR_0040000066.json"
+    },
+    {
+      "game_id": "0040000077",
+      "home_team": "PHI",
+      "road_team": "MIL",
+      "differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 13,
+          "actual_road": 8,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 13,
+          "actual_road": 8,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_PHI_MIL_0040000077.json"
+    },
+    {
+      "game_id": "0040000078",
+      "home_team": "MIL",
+      "road_team": "PHI",
+      "differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 18,
+          "actual_home": 14,
+          "actual_road": 16,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 18,
+          "actual_home": 14,
+          "actual_road": 16,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_MIL_PHI_0040000078.json"
+    },
+    {
+      "game_id": "0040000072",
+      "home_team": "LAL",
+      "road_team": "SAS",
+      "differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 13,
+          "actual_home": 15,
+          "actual_road": 13,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 13,
+          "actual_home": 15,
+          "actual_road": 13,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_LAL_SAS_0040000072.json"
+    },
+    {
+      "game_id": "0040000079",
+      "home_team": "MIL",
+      "road_team": "PHI",
+      "differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 12,
+          "actual_home": 15,
+          "actual_road": 9,
+          "delta_home": -2,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 12,
+          "actual_home": 15,
+          "actual_road": 9,
+          "delta_home": -2,
+          "delta_road": -3
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2000-01/2000-01_MIL_PHI_0040000079.json"
+    }
+  ]
+}

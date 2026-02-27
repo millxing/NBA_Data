@@ -1,0 +1,51 @@
+{
+  "season": "2012-13",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:23:38.762436+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2012.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2012-13",
+  "candidate_games": 85,
+  "processed_games": 85,
+  "skipped_existing_games": 0,
+  "matched_games": 84,
+  "mismatched_games": 1,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 1,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0041200215",
+      "home_team": "NYK",
+      "road_team": "IND",
+      "differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 19,
+          "actual_home": 14,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 14,
+          "expected_road": 19,
+          "actual_home": 14,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2012-13/2012-13_NYK_IND_0041200215.json"
+    }
+  ]
+}

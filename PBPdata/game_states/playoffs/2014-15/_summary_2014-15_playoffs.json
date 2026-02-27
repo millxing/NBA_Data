@@ -1,0 +1,80 @@
+{
+  "season": "2014-15",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:26:54.366129+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2014.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2014-15",
+  "candidate_games": 81,
+  "processed_games": 81,
+  "skipped_existing_games": 0,
+  "matched_games": 79,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 2,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0041400166",
+      "home_team": "SAS",
+      "road_team": "LAC",
+      "differences": {
+        "pf": {
+          "expected_home": 27,
+          "expected_road": 18,
+          "actual_home": 25,
+          "actual_road": 18,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 27,
+          "expected_road": 18,
+          "actual_home": 25,
+          "actual_road": 18,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2014-15/2014-15_SAS_LAC_0041400166.json"
+    },
+    {
+      "game_id": "0041400235",
+      "home_team": "HOU",
+      "road_team": "LAC",
+      "differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 18,
+          "actual_home": 24,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 23,
+          "expected_road": 18,
+          "actual_home": 24,
+          "actual_road": 18,
+          "delta_home": 1,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2014-15/2014-15_HOU_LAC_0041400235.json"
+    }
+  ]
+}

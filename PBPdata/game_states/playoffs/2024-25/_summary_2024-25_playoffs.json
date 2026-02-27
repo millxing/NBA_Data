@@ -1,0 +1,21 @@
+{
+  "season": "2024-25",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:42:48.190921+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2024.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2024-25",
+  "candidate_games": 90,
+  "processed_games": 90,
+  "skipped_existing_games": 0,
+  "matched_games": 90,
+  "mismatched_games": 0,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 0,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": []
+}

@@ -1,0 +1,80 @@
+{
+  "season": "2015-16",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:28:32.225605+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2015.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2015-16",
+  "candidate_games": 86,
+  "processed_games": 86,
+  "skipped_existing_games": 0,
+  "matched_games": 84,
+  "mismatched_games": 2,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 2,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0041500203",
+      "home_team": "ATL",
+      "road_team": "CLE",
+      "differences": {
+        "pf": {
+          "expected_home": 21,
+          "expected_road": 21,
+          "actual_home": 18,
+          "actual_road": 21,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {
+        "pf": {
+          "expected_home": 21,
+          "expected_road": 21,
+          "actual_home": 18,
+          "actual_road": 21,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2015-16/2015-16_ATL_CLE_0041500203.json"
+    },
+    {
+      "game_id": "0041500311",
+      "home_team": "GSW",
+      "road_team": "OKC",
+      "differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 11,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 11,
+          "expected_road": 22,
+          "actual_home": 11,
+          "actual_road": 23,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2015-16/2015-16_GSW_OKC_0041500311.json"
+    }
+  ]
+}

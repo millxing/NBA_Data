@@ -1,0 +1,828 @@
+{
+  "season": "2003-04",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:07:27.223638+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2003.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04",
+  "candidate_games": 82,
+  "processed_games": 82,
+  "skipped_existing_games": 0,
+  "matched_games": 56,
+  "mismatched_games": 26,
+  "source_consistent_mismatched_games": 26,
+  "parser_mismatched_games": 0,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0040300101",
+      "home_team": "IND",
+      "road_team": "BOS",
+      "differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 26,
+          "actual_home": 18,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": -4
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 26,
+          "actual_home": 18,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": -4
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_IND_BOS_0040300101.json"
+    },
+    {
+      "game_id": "0040300151",
+      "home_team": "LAL",
+      "road_team": "HOU",
+      "differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 24,
+          "actual_home": 15,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 24,
+          "actual_home": 15,
+          "actual_road": 22,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_LAL_HOU_0040300151.json"
+    },
+    {
+      "game_id": "0040300121",
+      "home_team": "DET",
+      "road_team": "MIL",
+      "differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 26,
+          "actual_home": 13,
+          "actual_road": 25,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 26,
+          "actual_home": 13,
+          "actual_road": 25,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_MIL_0040300121.json"
+    },
+    {
+      "game_id": "0040300131",
+      "home_team": "MIA",
+      "road_team": "NOH",
+      "differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 26,
+          "actual_home": 18,
+          "actual_road": 23,
+          "delta_home": -2,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 26,
+          "actual_home": 18,
+          "actual_road": 23,
+          "delta_home": -2,
+          "delta_road": -3
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_MIA_NOH_0040300131.json"
+    },
+    {
+      "game_id": "0040300152",
+      "home_team": "LAL",
+      "road_team": "HOU",
+      "differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 14,
+          "actual_home": 9,
+          "actual_road": 12,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 14,
+          "actual_home": 9,
+          "actual_road": 12,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_LAL_HOU_0040300152.json"
+    },
+    {
+      "game_id": "0040300112",
+      "home_team": "NJN",
+      "road_team": "NYK",
+      "differences": {
+        "tov": {
+          "expected_home": 27,
+          "expected_road": 20,
+          "actual_home": 25,
+          "actual_road": 19,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 27,
+          "expected_road": 20,
+          "actual_home": 25,
+          "actual_road": 19,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_NJN_NYK_0040300112.json"
+    },
+    {
+      "game_id": "0040300122",
+      "home_team": "DET",
+      "road_team": "MIL",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 22,
+          "actual_home": 13,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 22,
+          "actual_home": 13,
+          "actual_road": 20,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_MIL_0040300122.json"
+    },
+    {
+      "game_id": "0040300132",
+      "home_team": "MIA",
+      "road_team": "NOH",
+      "differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 15,
+          "expected_road": 19,
+          "actual_home": 15,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_MIA_NOH_0040300132.json"
+    },
+    {
+      "game_id": "0040300133",
+      "home_team": "NOH",
+      "road_team": "MIA",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 11,
+          "actual_road": 17,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 17,
+          "actual_home": 11,
+          "actual_road": 17,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_NOH_MIA_0040300133.json"
+    },
+    {
+      "game_id": "0040300143",
+      "home_team": "DEN",
+      "road_team": "MIN",
+      "differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 18,
+          "actual_home": 12,
+          "actual_road": 16,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 13,
+          "expected_road": 18,
+          "actual_home": 12,
+          "actual_road": 16,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DEN_MIN_0040300143.json"
+    },
+    {
+      "game_id": "0040300173",
+      "home_team": "DAL",
+      "road_team": "SAC",
+      "differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 26,
+          "actual_home": 17,
+          "actual_road": 26,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 26,
+          "actual_home": 17,
+          "actual_road": 26,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DAL_SAC_0040300173.json"
+    },
+    {
+      "game_id": "0040300134",
+      "home_team": "NOH",
+      "road_team": "MIA",
+      "differences": {
+        "tov": {
+          "expected_home": 16,
+          "expected_road": 16,
+          "actual_home": 14,
+          "actual_road": 14,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 16,
+          "expected_road": 16,
+          "actual_home": 14,
+          "actual_road": 14,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_NOH_MIA_0040300134.json"
+    },
+    {
+      "game_id": "0040300175",
+      "home_team": "SAC",
+      "road_team": "DAL",
+      "differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 16,
+          "actual_home": 15,
+          "actual_road": 16,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 17,
+          "expected_road": 16,
+          "actual_home": 15,
+          "actual_road": 16,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_SAC_DAL_0040300175.json"
+    },
+    {
+      "game_id": "0040300211",
+      "home_team": "DET",
+      "road_team": "NJN",
+      "differences": {
+        "tov": {
+          "expected_home": 22,
+          "expected_road": 12,
+          "actual_home": 19,
+          "actual_road": 12,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 22,
+          "expected_road": 12,
+          "actual_home": 19,
+          "actual_road": 12,
+          "delta_home": -3,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_NJN_0040300211.json"
+    },
+    {
+      "game_id": "0040300137",
+      "home_team": "MIA",
+      "road_team": "NOH",
+      "differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 22,
+          "actual_home": 8,
+          "actual_road": 21,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 22,
+          "actual_home": 8,
+          "actual_road": 21,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_MIA_NOH_0040300137.json"
+    },
+    {
+      "game_id": "0040300213",
+      "home_team": "NJN",
+      "road_team": "DET",
+      "differences": {
+        "tov": {
+          "expected_home": 25,
+          "expected_road": 18,
+          "actual_home": 20,
+          "actual_road": 18,
+          "delta_home": -5,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 25,
+          "expected_road": 18,
+          "actual_home": 20,
+          "actual_road": 18,
+          "delta_home": -5,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_NJN_DET_0040300213.json"
+    },
+    {
+      "game_id": "0040300233",
+      "home_team": "LAL",
+      "road_team": "SAS",
+      "differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 23,
+          "actual_home": 19,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 23,
+          "actual_home": 19,
+          "actual_road": 21,
+          "delta_home": 0,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_LAL_SAS_0040300233.json"
+    },
+    {
+      "game_id": "0040300234",
+      "home_team": "LAL",
+      "road_team": "SAS",
+      "differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 13,
+          "actual_home": 8,
+          "actual_road": 13,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 13,
+          "actual_home": 8,
+          "actual_road": 13,
+          "delta_home": -2,
+          "delta_road": 0
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_LAL_SAS_0040300234.json"
+    },
+    {
+      "game_id": "0040300235",
+      "home_team": "SAS",
+      "road_team": "LAL",
+      "differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 16,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 20,
+          "expected_road": 16,
+          "actual_home": 18,
+          "actual_road": 15,
+          "delta_home": -2,
+          "delta_road": -1
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_SAS_LAL_0040300235.json"
+    },
+    {
+      "game_id": "0040300215",
+      "home_team": "DET",
+      "road_team": "NJN",
+      "differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 34,
+          "actual_home": 17,
+          "actual_road": 28,
+          "delta_home": -2,
+          "delta_road": -6
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 19,
+          "expected_road": 34,
+          "actual_home": 17,
+          "actual_road": 28,
+          "delta_home": -2,
+          "delta_road": -6
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_NJN_0040300215.json"
+    },
+    {
+      "game_id": "0040300216",
+      "home_team": "NJN",
+      "road_team": "DET",
+      "differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 22,
+          "actual_home": 16,
+          "actual_road": 20,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 18,
+          "expected_road": 22,
+          "actual_home": 16,
+          "actual_road": 20,
+          "delta_home": -2,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_NJN_DET_0040300216.json"
+    },
+    {
+      "game_id": "0040300301",
+      "home_team": "IND",
+      "road_team": "DET",
+      "differences": {
+        "tov": {
+          "expected_home": 12,
+          "expected_road": 21,
+          "actual_home": 11,
+          "actual_road": 19,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 12,
+          "expected_road": 21,
+          "actual_home": 11,
+          "actual_road": 19,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_IND_DET_0040300301.json"
+    },
+    {
+      "game_id": "0040300312",
+      "home_team": "MIN",
+      "road_team": "LAL",
+      "differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 15,
+          "actual_home": 9,
+          "actual_road": 13,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 10,
+          "expected_road": 15,
+          "actual_home": 9,
+          "actual_road": 13,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_MIN_LAL_0040300312.json"
+    },
+    {
+      "game_id": "0040300304",
+      "home_team": "DET",
+      "road_team": "IND",
+      "differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 15,
+          "actual_home": 13,
+          "actual_road": 13,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 15,
+          "actual_home": 13,
+          "actual_road": 13,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_IND_0040300304.json"
+    },
+    {
+      "game_id": "0040300306",
+      "home_team": "DET",
+      "road_team": "IND",
+      "differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 17,
+          "actual_home": 13,
+          "actual_road": 15,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 17,
+          "actual_home": 13,
+          "actual_road": 15,
+          "delta_home": -1,
+          "delta_road": -2
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_DET_IND_0040300306.json"
+    },
+    {
+      "game_id": "0040300402",
+      "home_team": "LAL",
+      "road_team": "DET",
+      "differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 20,
+          "actual_home": 14,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "parser_differences": {},
+      "source_consistent_differences": {
+        "tov": {
+          "expected_home": 14,
+          "expected_road": 20,
+          "actual_home": 14,
+          "actual_road": 17,
+          "delta_home": 0,
+          "delta_road": -3
+        }
+      },
+      "source_consistency_reasons": {
+        "tov": "turnover_counter_t_tag"
+      },
+      "source_consistent_mismatch": true,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2003-04/2003-04_LAL_DET_0040300402.json"
+    }
+  ]
+}

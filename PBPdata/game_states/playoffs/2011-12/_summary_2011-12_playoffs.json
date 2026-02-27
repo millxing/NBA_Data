@@ -1,0 +1,51 @@
+{
+  "season": "2011-12",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-02-26T21:22:01.883469+00:00",
+  "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2011.parquet",
+  "pbp_source": "nbastatsv3",
+  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2011-12",
+  "candidate_games": 84,
+  "processed_games": 84,
+  "skipped_existing_games": 0,
+  "matched_games": 83,
+  "mismatched_games": 1,
+  "source_consistent_mismatched_games": 0,
+  "parser_mismatched_games": 1,
+  "mixed_mismatched_games": 0,
+  "missing_pbp_games": 0,
+  "missing_pbp_game_ids": [],
+  "pending_pbp_games": 0,
+  "pending_pbp_game_ids": [],
+  "mismatches": [
+    {
+      "game_id": "0041100167",
+      "home_team": "LAL",
+      "road_team": "DEN",
+      "differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 15,
+          "actual_road": 11,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "parser_differences": {
+        "ftm": {
+          "expected_home": 15,
+          "expected_road": 10,
+          "actual_home": 15,
+          "actual_road": 11,
+          "delta_home": 0,
+          "delta_road": 1
+        }
+      },
+      "source_consistent_differences": {},
+      "source_consistency_reasons": {},
+      "source_consistent_mismatch": false,
+      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/playoffs/2011-12/2011-12_LAL_DEN_0041100167.json"
+    }
+  ]
+}
