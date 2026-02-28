@@ -1,17 +1,17 @@
 {
   "season": "2025-26",
   "phase": "regular",
-  "generated_at_utc": "2026-02-27T11:02:26.290671+00:00",
+  "generated_at_utc": "2026-02-28T11:02:04.516022+00:00",
   "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2025.parquet",
   "pbp_source": "nbastatsv3",
   "fallback_source_file": "",
   "fallback_source": "",
   "fallback_source_games_used": 0,
-  "output_dir": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2025-26",
-  "candidate_games": 885,
-  "processed_games": 885,
+  "output_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2025-26",
+  "candidate_games": 890,
+  "processed_games": 890,
   "skipped_existing_games": 0,
-  "matched_games": 884,
+  "matched_games": 889,
   "mismatched_games": 1,
   "source_consistent_mismatched_games": 0,
   "parser_mismatched_games": 1,
@@ -80,7 +80,7 @@
       "source_consistent_differences": {},
       "source_consistency_reasons": {},
       "source_consistent_mismatch": false,
-      "output_file": "/Users/robschoen/Dropbox/CC/GLA/data/pbp/processed/game_states/regular/2025-26/2025-26_WAS_CLE_0022500029.json"
+      "output_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2025-26/2025-26_WAS_CLE_0022500029.json"
     }
   ]
 }

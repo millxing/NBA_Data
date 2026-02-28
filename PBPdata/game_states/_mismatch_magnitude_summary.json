@@ -1,0 +1,28 @@
+{
+  "regular": {
+    "mismatch_games": 143,
+    "avg_total_abs_delta": 1.67,
+    "median_total_abs_delta": 1.0,
+    "p90_total_abs_delta": 3,
+    "max_total_abs_delta": 11,
+    "avg_max_abs_delta": 1.42,
+    "max_abs_delta": 4,
+    "games_max_abs_ge_10": 0,
+    "games_max_abs_6_9": 0,
+    "games_max_abs_3_5": 13,
+    "games_max_abs_1_2": 130
+  },
+  "playoffs": {
+    "mismatch_games": 72,
+    "avg_total_abs_delta": 2.9,
+    "median_total_abs_delta": 3.0,
+    "p90_total_abs_delta": 4,
+    "max_total_abs_delta": 8,
+    "avg_max_abs_delta": 2.26,
+    "max_abs_delta": 6,
+    "games_max_abs_ge_10": 0,
+    "games_max_abs_6_9": 1,
+    "games_max_abs_3_5": 16,
+    "games_max_abs_1_2": 55
+  }
+}
