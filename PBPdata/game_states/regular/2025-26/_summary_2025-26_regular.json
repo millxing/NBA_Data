@@ -1,86 +1,24 @@
 {
   "season": "2025-26",
   "phase": "regular",
-  "generated_at_utc": "2026-03-02T11:02:15.968699+00:00",
+  "generated_at_utc": "2026-03-02T12:29:53.721879+00:00",
   "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2025.parquet",
   "pbp_source": "nbastatsv3",
   "fallback_source_file": "",
   "fallback_source": "",
   "fallback_source_games_used": 0,
   "output_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2025-26",
-  "candidate_games": 906,
-  "processed_games": 906,
+  "candidate_games": 1,
+  "processed_games": 1,
   "skipped_existing_games": 0,
-  "matched_games": 905,
-  "mismatched_games": 1,
+  "matched_games": 1,
+  "mismatched_games": 0,
   "source_consistent_mismatched_games": 0,
-  "parser_mismatched_games": 1,
+  "parser_mismatched_games": 0,
   "mixed_mismatched_games": 0,
   "missing_pbp_games": 0,
   "missing_pbp_game_ids": [],
   "pending_pbp_games": 0,
   "pending_pbp_game_ids": [],
-  "mismatches": [
-    {
-      "game_id": "0022500029",
-      "home_team": "WAS",
-      "road_team": "CLE",
-      "differences": {
-        "ftm": {
-          "expected_home": 18,
-          "expected_road": 24,
-          "actual_home": 17,
-          "actual_road": 24,
-          "delta_home": -1,
-          "delta_road": 0
-        },
-        "pts": {
-          "expected_home": 115,
-          "expected_road": 148,
-          "actual_home": 114,
-          "actual_road": 148,
-          "delta_home": -1,
-          "delta_road": 0
-        },
-        "plus_minus": {
-          "expected_home": -33,
-          "expected_road": 33,
-          "actual_home": -34,
-          "actual_road": 34,
-          "delta_home": -1,
-          "delta_road": 1
-        }
-      },
-      "parser_differences": {
-        "ftm": {
-          "expected_home": 18,
-          "expected_road": 24,
-          "actual_home": 17,
-          "actual_road": 24,
-          "delta_home": -1,
-          "delta_road": 0
-        },
-        "pts": {
-          "expected_home": 115,
-          "expected_road": 148,
-          "actual_home": 114,
-          "actual_road": 148,
-          "delta_home": -1,
-          "delta_road": 0
-        },
-        "plus_minus": {
-          "expected_home": -33,
-          "expected_road": 33,
-          "actual_home": -34,
-          "actual_road": 34,
-          "delta_home": -1,
-          "delta_road": 1
-        }
-      },
-      "source_consistent_differences": {},
-      "source_consistency_reasons": {},
-      "source_consistent_mismatch": false,
-      "output_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2025-26/2025-26_WAS_CLE_0022500029.json"
-    }
-  ]
+  "mismatches": []
 }

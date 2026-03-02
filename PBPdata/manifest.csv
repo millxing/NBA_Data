@@ -58,7 +58,7 @@ nbastatsv3,2021-22,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2021.parquet,60
 nbastatsv3,2022-23,playoffs,PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2022.parquet,43186,90,682ff7a7b0acf4ca6a1b6ce27e3e97b7df7f8875b20d52765f6d62db2e1a423b,2026-02-25T09:04:50
 nbastatsv3,2022-23,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2022.parquet,603785,1230,3461fe8a3bb916d4b0e21974f6f60ee04f238797a4f234b78607a1513f21ab48,2026-02-25T07:52:57
 nbastatsv3,2023-24,playoffs,PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2023.parquet,41188,88,3c43440a578ae4f56bd16b44b9255e30904d3f911a90746f6f9688a9e09baff9,2026-02-25T09:05:04
-nbastatsv3,2023-24,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2023.parquet,598705,1230,b5f615dfa73a309b108846e9560c2c000b409e23b54cc2b49d207ca6f387b907,2026-02-25T07:53:06
+nbastatsv3,2023-24,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2023.parquet,599282,1231,62e495bef31eaa6c51e2eef0484e9303e1acd4bf472a61b76c70e3159295eede,2026-03-02T07:29:06
 nbastatsv3,2024-25,playoffs,PBPdata/nbastatsv3/playoffs/nbastatsv3_po_2024.parquet,44786,90,f9f96ed669b29347bb18b71b10d7011e708e5fb7486c5fb8c5ec275eac3aca75,2026-02-25T09:05:20
-nbastatsv3,2024-25,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2024.parquet,606538,1230,48b19c2ad5e7092d5d994181813643b116b072cedb5c4c2fa023b3caf541409a,2026-02-25T07:53:15
-nbastatsv3,2025-26,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2025.parquet,519477,907,594fb4c7913ca0d55b7dabe0ae5128f18acb985a6fb585b18d15d8a42a331158,2026-03-02T06:00:59
+nbastatsv3,2024-25,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2024.parquet,607027,1231,e51bb3d5716a7094e59600fe4aa21edd58f2e346a340f56a09e6af2f7e877e9e,2026-03-02T07:29:12
+nbastatsv3,2025-26,regular,PBPdata/nbastatsv3/regular/nbastatsv3_2025.parquet,519402,907,b1e742e858029fd8c838ab3d88da4ec45cd2c01c242c2c77e9113a7ead7e91ce,2026-03-02T07:29:16
