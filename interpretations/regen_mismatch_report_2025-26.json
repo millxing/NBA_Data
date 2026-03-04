@@ -1,0 +1,46 @@
+{
+  "season": "2025-26",
+  "generated_at": "2026-03-04T08:19:18.436790",
+  "target_game_count": 2,
+  "mismatches_before": 2,
+  "regen_success_count": 2,
+  "regen_fail_count": 0,
+  "mismatches_after": 0,
+  "before": [
+    {
+      "game_id": "0022500026",
+      "expected_bullets": 7,
+      "actual_bullets": 6
+    },
+    {
+      "game_id": "0022500091",
+      "expected_bullets": 7,
+      "actual_bullets": 6
+    }
+  ],
+  "after": [],
+  "regen_stats": [
+    {
+      "game_id": "0022500026",
+      "status": "regenerated",
+      "attempts": [
+        {
+          "attempt": 1,
+          "nonempty": true,
+          "line_count": 7
+        }
+      ]
+    },
+    {
+      "game_id": "0022500091",
+      "status": "regenerated",
+      "attempts": [
+        {
+          "attempt": 1,
+          "nonempty": true,
+          "line_count": 7
+        }
+      ]
+    }
+  ]
+}
