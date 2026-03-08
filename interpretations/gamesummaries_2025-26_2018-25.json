@@ -4716,6 +4716,36 @@
       "generated_at": "2026-03-07T09:05:50.225578",
       "model": "gpt-5.4",
       "eight_factors": "- San Antonio's efficient 57% eFG was a major driver of the home win.\n- Los Angeles' dismal 16% OREB left them with almost no second-chance opportunities for themselves.\n- Los Angeles' clean 90% ball handling kept possessions secure and denied San Antonio extra opportunities, but it wasn't enough to overcome the loss.\n- San Antonio crashed the offensive glass at a 31% OREB clip, creating valuable second-chance chances for itself.\n- San Antonio's anemic 7% FT rate meant they rarely got to the stripe.\n- Los Angeles' efficient 56% eFG kept the visitors competitive, but it wasn't enough to carry them through."
+    },
+    "0022500920": {
+      "generated_at": "2026-03-08T06:07:18.794885",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's shaky 49% eFG was the biggest four-factor swing, and their inefficient shooting undercut the road offense.\n- Golden State crashed the offensive glass at a 30% OREB, creating valuable second-chance opportunities for itself, but it wasn't enough to overcome Oklahoma City.\n- Oklahoma City's 18% OREB left the home side with very few second-chance opportunities for itself.\n- Oklahoma City's 52% eFG was a bright spot, even if their shooting efficiency wasn't the main driver of the win.\n- Oklahoma City lived at the line with a 30% free-throw rate, adding needed scoring margin in a seven-point win.\n- Oklahoma City's shaky 85% ball handling gave away some possessions via turnovers, a mild opening Golden State couldn't fully capitalize on.\n- Golden State's anemic 13% free-throw rate meant the visitors rarely got to the stripe."
+    },
+    "0022500919": {
+      "generated_at": "2026-03-08T06:07:23.515754",
+      "model": "gpt-5.4",
+      "eight_factors": "- Utah's frigid 41% eFG was the biggest driver of Milwaukee's win, with the visitors never finding efficient offense.\n- Milwaukee's efficient 57% eFG gave the home side a major scoring foundation throughout the night.\n- Milwaukee's dismal 15% OREB left them with almost no second-chance opportunities for themselves, a clear bright spot for Utah in defeat.\n- Milwaukee's clean 89% ball handling kept possessions secure and denied Utah extra opportunities.\n- Utah's 28% FT rate kept the visitors in the game by getting them to the stripe, but it wasn't enough to overcome their shooting woes.\n- Utah's solid 88% ball handling helped them avoid empty possessions and limited Milwaukee's turnover-driven chances."
+    },
+    "0022500915": {
+      "generated_at": "2026-03-08T06:07:28.370799",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's frigid 41% eFG was the game's biggest swing, as their offense never found efficient shooting.\n- Orlando crashed the offensive glass at 34% OREB, creating a steady stream of second-chance opportunities for itself.\n- Orlando held only a 51% eFG, but that shooting was still more than enough to drive the road win.\n- Minnesota's 16% OREB left them with almost no second-chance opportunities for themselves.\n- Minnesota's solid 88% ball handling was a bright spot in defeat, keeping their possessions relatively secure.\n- Orlando lived at the line with a 29% FT rate, adding to the visitors' offensive control.\n- Minnesota's 27% FT rate was one of the few things that kept them from being completely overwhelmed, but it wasn't enough to change the result."
+    },
+    "0022500917": {
+      "generated_at": "2026-03-08T06:07:32.919221",
+      "model": "gpt-5.4",
+      "eight_factors": "- Atlanta's blistering 63% eFG was the biggest driver of the win, powering its offense all night.\n- Philadelphia's elite 61% eFG kept the visitors in striking distance, but it wasn't enough to overcome Atlanta.\n- Atlanta's loose 80% ball handling hurt its control of the game, with turnovers gifting Philadelphia extra possessions.\n- Philadelphia's equally sloppy 80% ball handling gave Atlanta possessions right back and blunted the road push.\n- Atlanta crashed the offensive glass at 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Philadelphia's 27% OREB helped the home side by limiting the visitors' second-chance opportunities for themselves.\n- Philadelphia's anemic 14% FT rate meant the visitors rarely got to the stripe.\n- Atlanta's 24% FT rate added another layer to the win by getting the home team to the line regularly."
+    },
+    "0022500918": {
+      "generated_at": "2026-03-08T06:07:37.755360",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles crashed the offensive glass at 41% OREB, generating a huge stream of second-chance opportunities for itself.\n- Los Angeles lived at the line with a 45% free-throw rate, a major driver of the road win.\n- Memphis' hot 58% eFG was a bright spot in defeat and kept this game tight.\n- Los Angeles' sloppy 83% ball handling gifted Memphis extra possessions via turnovers.\n- Memphis created extra chances for itself with a 28% OREB, another bright spot that wasn't enough to overcome the loss.\n- Los Angeles' 52% eFG was merely steady, and that limited their shot-making impact even in the win.\n- Memphis' shaky 85% ball handling cost them possessions and helped fuel the Clippers' edge."
+    },
+    "0022500916": {
+      "generated_at": "2026-03-08T06:07:41.218330",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's frigid 48% eFG was the biggest drag on the game, and that shooting inefficiency opened the door for Brooklyn's road win.\n- Brooklyn's sloppy 80% ball handling gifted Detroit extra possessions via turnovers, a major reason the home side stayed in it.\n- Brooklyn crashed the offensive glass at 32% OREB, creating valuable second-chance opportunities for itself in a two-point win.\n- Brooklyn lived at the line with a 34% free-throw rate, a key source of offense that helped carry the visitors.\n- Detroit's 27% free-throw rate was a bright spot in defeat, as they consistently got to the stripe and kept pressure on the game."
     }
   },
   "decomposition_model_id": "json_contributions"
