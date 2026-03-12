@@ -4876,6 +4876,36 @@
       "generated_at": "2026-03-11T06:08:36.900058",
       "model": "gpt-5.4",
       "eight_factors": "- Detroit's blistering 66% eFG was the game's biggest driver, powering the road blowout.\n- Brooklyn's sloppy 80% ball handling gifted Detroit a stream of extra possessions via turnovers.\n- Brooklyn's 42% free-throw rate was a bright spot in defeat, as they consistently got to the stripe.\n- Detroit's clean 91% ball handling kept possessions secure and denied Brooklyn extra opportunities.\n- Brooklyn's frigid 51% eFG left too much offense on the table.\n- Detroit's 29% OREB created steady second-chance opportunities for the visitors.\n- Detroit's 31% free-throw rate added another layer to the road attack, with the visitors regularly getting to the line.\n- Brooklyn's 19% OREB left them with few second-chance looks for themselves."
+    },
+    "0022500950": {
+      "generated_at": "2026-03-12T06:07:42.802805",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's elite 65% eFG set the tone in a blowout home win.\n- Houston's frigid 45% eFG cratered its offense and heavily favored Denver.\n- Denver's clean 90% ball handling kept possessions secure and sustained its control.\n- Houston crashed the offensive glass at 32% OREB, a bright spot in defeat that created second-chance opportunities for itself.\n- Houston's anemic 5% FT rate meant it almost never got to the stripe.\n- Houston's shaky 84% ball handling gifted Denver extra possessions via turnovers."
+    },
+    "0022500949": {
+      "generated_at": "2026-03-12T06:07:47.805122",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's elite 61% eFG was the biggest driver of the road win, powering an offense Utah couldn't keep pace with.\n- New York crashed the offensive glass at a dominant 39% OREB, creating a steady stream of second-chance opportunities for itself.\n- Utah's efficient 59% eFG was a bright spot in defeat and helped keep the offense afloat.\n- Utah's 32% OREB gave them strong second-chance creation, but it wasn't enough to overcome New York's bigger advantages.\n- New York's steady 88% ball handling kept possessions secure and denied Utah extra opportunities.\n- Utah's shaky 85% ball handling cost them possessions and helped New York control the game."
+    },
+    "0022500952": {
+      "generated_at": "2026-03-12T06:07:53.064438",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' blistering 75% eFG was the biggest driver of the rout, as the home side scored with outrageous efficiency all night.\n- Minnesota's own hot shooting at 67% eFG kept the visitors productive offensively, but it wasn't enough to overcome Los Angeles' even bigger shot-making avalanche.\n- Minnesota's sloppy 79% ball handling gifted Los Angeles extra possessions via turnovers, a major swing in a game that got away quickly.\n- Los Angeles' clean 90% ball handling kept possessions secure and denied Minnesota easy turnover-based chances.\n- Los Angeles lived at the line with a 37% free-throw rate, adding another layer to an already overwhelming offensive performance.\n- Minnesota also got to the stripe at a strong 33% free-throw rate, a bright spot in defeat that helped keep their offense afloat."
+    },
+    "0022500951": {
+      "generated_at": "2026-03-12T06:07:57.853550",
+      "model": "gpt-5.4",
+      "eight_factors": "- Sacramento's efficient 59% eFG was a bright spot in defeat, but it wasn't enough to overcome the rest of the shot profile.\n- Charlotte's 33% offensive rebound rate created a steady stream of second-chance opportunities for the visitors.\n- Charlotte's 56% eFG gave the road offense a major lift.\n- Charlotte's shaky 83% ball handling gifted Sacramento extra possessions via turnovers, a key opening the home side couldn't fully capitalize on.\n- Sacramento's anemic 13% free-throw rate meant they rarely got to the stripe.\n- Sacramento's loose 85% ball handling coughed up possessions and helped fuel the Charlotte win."
+    },
+    "0022500947": {
+      "generated_at": "2026-03-12T06:08:02.750115",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's pristine 94% ball handling was the biggest driver of the win, keeping possessions secure and denying Cleveland extra opportunities.\n- Cleveland's efficient 59% eFG kept the visitors in it, but it wasn't enough to overcome Orlando.\n- Orlando's 59% eFG fueled the offense throughout and was a major reason the home side got to 128.\n- Cleveland's clean 90% ball handling helped the visitors stay organized offensively and limited their turnover damage.\n- Orlando lived at the line with a 33% free-throw rate, another key scoring lever in the home win.\n- Orlando's 21% OREB left them with limited second-chance opportunities for themselves.\n- Cleveland's 26% OREB created extra chances for the visitors and helped keep the game tight."
+    },
+    "0022500948": {
+      "generated_at": "2026-03-12T06:08:08.453175",
+      "model": "gpt-5.4",
+      "eight_factors": "- New Orleans' efficient 59% eFG was the biggest driver of the home win.\n- Toronto's shaky 49% eFG undercut its offense and played straight into New Orleans' favor.\n- Toronto's clean 89% ball handling kept possessions secure and was a real bright spot in defeat.\n- New Orleans' sloppy 85% ball handling gifted Toronto extra possessions via turnovers.\n- Toronto crashed the offensive glass at 26% OREB, creating second-chance opportunities for itself that kept the visitors in it.\n- New Orleans' 26% OREB added a useful layer of second-chance opportunities for the home side."
     }
   },
   "decomposition_model_id": "json_contributions"
