@@ -5026,6 +5026,41 @@
       "generated_at": "2026-03-15T06:09:00.196611",
       "model": "gpt-5.4",
       "eight_factors": "- Brooklyn's frigid 44% eFG was the biggest four-factor swing, and Philadelphia capitalized on the visitors' inefficient shooting.\n- Philadelphia's own 48% eFG was shaky and kept Brooklyn within striking distance despite the home win.\n- Brooklyn's sloppy 83% ball handling gifted Philadelphia extra possessions via turnovers.\n- Philadelphia lived at the line with a 31% FT rate, a key boost in a game where half-court efficiency was limited.\n- Philadelphia's 21% OREB meant it generated few second-chance opportunities for itself."
+    },
+    "0022500980": {
+      "generated_at": "2026-03-16T06:07:05.894453",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 48% eFG was a major swing factor toward Philadelphia.\n- Philadelphia's shaky 49% eFG was the biggest thing keeping Portland in the game.\n- Portland's sloppy 82% ball handling gifted Philadelphia extra possessions via turnovers.\n- Philadelphia crashed the offensive glass at 29% OREB, creating valuable second-chance opportunities for itself.\n- Portland generated second-chance opportunities for itself with a 29% OREB, a bright spot that kept the game tight.\n- Philadelphia's anemic 14% FT rate meant they rarely got to the stripe.\n- Portland's shaky 15% FT rate limited its trips to the line, helping Philadelphia."
+    },
+    "0022500979": {
+      "generated_at": "2026-03-16T06:07:10.557236",
+      "model": "gpt-5.4",
+      "eight_factors": "- Milwaukee's elite 67% eFG was the biggest driver of the win, as the home side scored with extreme efficiency all night.\n- Indiana's sloppy 80% ball handling gifted Milwaukee extra possessions via turnovers.\n- Indiana's blistering 65% eFG kept the visitors competitive, but it wasn't enough to overcome Milwaukee's shot-making.\n- Milwaukee's clean 91% ball handling kept possessions secure and denied Indiana extra chances.\n- Milwaukee crashed the offensive glass at 30% OREB, creating a steady stream of second-chance opportunities for itself.\n- Indiana's 27% OREB gave the visitors useful second-chance opportunities for themselves, a modest bright spot in defeat.\n- Milwaukee's anemic 14% FT rate meant the home team rarely got to the stripe."
+    },
+    "0022500981": {
+      "generated_at": "2026-03-16T06:07:15.917510",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's dominant 40% offensive rebound rate was the biggest swing factor, creating a steady stream of second-chance opportunities for the home side.\n- Golden State's sloppy 80% ball handling gifted New York extra possessions via turnovers.\n- Golden State's efficient 57% eFG kept the visitors competitive, but it wasn't enough to overcome New York.\n- Golden State's 28% offensive rebound rate gave them a useful dose of second-chance opportunities in a narrow loss.\n- New York's shaky 84% ball handling nearly undercut the win by giving away too many possessions.\n- New York's 52% eFG was a weak spot, with the home team failing to convert efficiently from the floor.\n- New York's strong 26% free-throw rate helped by getting them to the line consistently.\n- Golden State's anemic 16% free-throw rate helped New York by keeping the visitors off the stripe."
+    },
+    "0022500977": {
+      "generated_at": "2026-03-16T06:07:21.007340",
+      "model": "gpt-5.4",
+      "eight_factors": "- Dallas' elite 62% eFG was the biggest driver of the win, as the visitors scorched their own shooting possessions all night.\n- Cleveland's blistering 60% eFG was a major bright spot in defeat and kept the home side within reach offensively.\n- Cleveland's shaky ball handling hurt, with an 85% ball-handling rate gifting Dallas extra possessions via turnovers.\n- Dallas' 26% free-throw rate added to the road win, with the visitors consistently getting to the stripe.\n- Dallas' steady 87% ball handling helped close the door, as they protected possessions and denied Cleveland extra opportunities.\n- Cleveland's anemic 16% free-throw rate limited their offense, with the home team rarely getting to the line."
+    },
+    "0022500976": {
+      "generated_at": "2026-03-16T06:07:25.054853",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's sloppy 75% ball handling gifted Oklahoma City a stream of extra possessions via turnovers.\n- Oklahoma City's clean 93% ball handling kept possessions secure and denied Minnesota extra opportunities.\n- Oklahoma City's frigid 49% eFG was the one major offensive blemish in an otherwise comfortable home win.\n- Minnesota's efficient 57% eFG kept the visitors competitive, but it wasn't enough to overcome their turnover problems.\n- Oklahoma City crashed the offensive glass at 28% OREB, creating useful second-chance opportunities for itself.\n- Minnesota's 22% OREB limited its second-chance opportunities."
+    },
+    "0022500978": {
+      "generated_at": "2026-03-16T06:07:29.504025",
+      "model": "gpt-5.4",
+      "eight_factors": "- Toronto's dominant 44% offensive rebound rate was the biggest swing factor, creating a steady stream of second-chance opportunities in the home win.\n- Detroit's 32% offensive rebound rate was a real bright spot in defeat, as the visitors still generated plenty of second-chance opportunities for themselves.\n- Toronto's 53% eFG was a mild drag on an otherwise strong night, with their shooting efficiency helping Detroit more than the final score suggested.\n- Toronto's 25% free-throw rate added value in the win, as the home side consistently got to the stripe."
+    },
+    "0022500982": {
+      "generated_at": "2026-03-16T06:07:34.364469",
+      "model": "gpt-5.4",
+      "eight_factors": "- Sacramento's sloppy ball security was the biggest drag on its night, with 83% ball handling gifting Utah extra possessions via turnovers.\n- Sacramento's work on the offensive glass was a major swing point, as a 29% OREB created valuable second-chance opportunities for the home side.\n- Utah's shaky 21% OREB limited its second-chance opportunities and tilted a key possession battle toward Sacramento.\n- Sacramento lived at the line, posting a 27% free-throw rate that helped power the home win.\n- Sacramento's 55% eFG provided efficient scoring support in a tight five-point victory.\n- Utah's 55% eFG kept the visitors competitive, but it wasn't enough to overcome Sacramento."
     }
   },
   "decomposition_model_id": "json_contributions"
