@@ -5381,6 +5381,26 @@
       "generated_at": "2026-03-24T06:08:57.806404",
       "model": "gpt-5.4",
       "eight_factors": "- Miami's frigid 48% eFG was a central problem, and it set the tone for the home loss.\n- San Antonio crashed the offensive glass at a 35% OREB clip, creating a steady stream of second-chance opportunities for itself.\n- Miami's dismal 14% OREB left it with almost no second-chance offense of its own.\n- Miami's clean 89% ball handling was a bright spot in defeat, keeping possessions secure and limiting its own turnover damage.\n- San Antonio's 55% eFG kept the visitors firmly in control with efficient shot-making.\n- San Antonio's strong 25% FT rate added to the road win by keeping them active at the stripe."
+    },
+    "0022501050": {
+      "generated_at": "2026-03-25T06:07:15.979419",
+      "model": "gpt-5.4",
+      "eight_factors": "- Phoenix's elite 97% ball handling was a major bright spot in defeat, as they protected the ball and denied Denver extra possessions.\n- Denver's efficient 59% eFG kept the visitors humming offensively and was a central driver of the road win.\n- Denver's clean 90% ball handling kept possessions secure and limited Phoenix's chances to cash in on turnovers.\n- Denver crashed the offensive glass at a 31% clip, creating a steady stream of second-chance opportunities for itself.\n- Phoenix's strong 32% free-throw rate helped keep them in it by getting them to the stripe consistently.\n- Denver's 25% free-throw rate gave the visitors another useful source of offense by getting them to the line.\n- Phoenix's 22% OREB left them short on second-chance opportunities for themselves."
+    },
+    "0022501048": {
+      "generated_at": "2026-03-25T06:07:20.386595",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's elite 59% eFG powered the home win, turning its shot-making into the biggest four-factor advantage on the night.\n- New Orleans' blistering 60% eFG kept the visitors in it, but that shot efficiency wasn't enough to carry them through.\n- New Orleans' clean 92% ball handling denied New York the extra possessions that usually come from turnovers.\n- New Orleans' dismal 16% OREB left the visitors with almost no second-chance opportunities for themselves.\n- New York's 88% ball handling kept possessions secure and helped the home side avoid giving away too many empty trips.\n- New Orleans' anemic 13% FT rate meant the visitors rarely got to the stripe."
+    },
+    "0022501047": {
+      "generated_at": "2026-03-25T06:07:25.687976",
+      "model": "gpt-5.4",
+      "eight_factors": "- Charlotte's blistering 65% eFG was the biggest driver of the blowout.\n- Sacramento's frigid 46% eFG cratered its offense and heavily favored Charlotte.\n- Charlotte crashed the offensive glass at 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Sacramento's anemic 8% FT rate meant it almost never got to the stripe, which played into Charlotte's rout.\n- Sacramento's 18% OREB left the visitors with very few second-chance opportunities for themselves.\n- Sacramento's steady 88% ball handling was a bright spot in defeat, helping them avoid giving away even more possessions.\n- Charlotte's shaky 85% ball handling gifted Sacramento some extra possessions via turnovers.\n- Charlotte's anemic 13% FT rate was one area where the home side rarely got to the line, even in a dominant win."
+    },
+    "0022501049": {
+      "generated_at": "2026-03-25T06:07:30.946510",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's scorching 68% eFG was the biggest driver of the win, powering an elite offensive night.\n- Cleveland's clean 92% ball handling kept possessions secure and denied Orlando extra opportunities.\n- Orlando lived at the line with a 42% free-throw rate, a major reason the visitors stayed within striking distance.\n- Orlando's efficient 57% eFG kept the pressure on and was a real bright spot in defeat.\n- Orlando crashed the offensive glass at 33% OREB, creating a steady stream of second-chance opportunities for itself.\n- Orlando's 90% ball handling was another strength in defeat, as the visitors largely avoided giveaways.\n- Cleveland's 32% free-throw rate added another layer to the home attack by repeatedly getting them to the stripe.\n- Cleveland's 19% OREB was a soft spot even in victory, limiting their own second-chance opportunities."
     }
   },
   "decomposition_model_id": "json_contributions"
