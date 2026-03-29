@@ -5526,6 +5526,36 @@
       "generated_at": "2026-03-28T06:08:59.487577",
       "model": "gpt-5.4",
       "eight_factors": "- Chicago's shaky 50% eFG was a major drag, and that cold shooting helped Oklahoma City seize control.\n- Oklahoma City's clean 90% ball handling kept possessions secure and denied Chicago extra opportunities.\n- Chicago's strong 89% ball handling was a bright spot in defeat, but it wasn't enough to swing the game.\n- Oklahoma City crashed the offensive glass at 29% OREB, creating valuable second-chance opportunities for itself.\n- Chicago's thin 19% OREB left the visitors with very few second-chance chances for themselves.\n- Chicago's anemic 16% FT rate meant they rarely got to the stripe."
+    },
+    "0022501078": {
+      "generated_at": "2026-03-29T06:07:52.934070",
+      "model": "gpt-5.4",
+      "eight_factors": "- Atlanta's elite 60% eFG set the tone in the home win, giving the offense its clearest four-factor advantage.\n- Sacramento crashed the offensive glass at 37% OREB and created a steady stream of second-chance opportunities for itself, a major bright spot that kept the visitors in it.\n- Atlanta answered by attacking its own misses too, posting a 33% OREB to generate valuable extra chances.\n- Sacramento's shaky ball handling helped Atlanta, as the visitors coughed up possessions and gave the home side extra opportunities.\n- Sacramento's anemic 12% free-throw rate meant the visitors rarely got to the stripe.\n- Sacramento's 55% eFG was still an efficient offensive note, but it wasn't enough to overcome Atlanta's stronger overall profile."
+    },
+    "0022501079": {
+      "generated_at": "2026-03-29T06:07:58.918536",
+      "model": "gpt-5.4",
+      "eight_factors": "- Chicago's sloppy ball security was the biggest swing factor, with a 80% ball-handling mark gifting Memphis extra possessions via turnovers.\n- Chicago lived at the line with a 39% free-throw rate, a major reason the visitors stayed within a point before falling short.\n- Chicago's efficient 56% eFG kept the road offense humming, but it wasn't enough to overcome the turnover damage.\n- Memphis couldn't generate much at the stripe, posting an anemic 12% free-throw rate.\n- Memphis' shaky 19% OREB left the home side with limited second-chance opportunities for itself.\n- Memphis' 52% eFG was a shooting drag in a game they survived by the slimmest margin.\n- Memphis' clean 87% ball handling helped steady the offense and denied Chicago extra opportunities.\n- Chicago's 27% OREB created useful second-chance chances for the visitors in a narrow loss."
+    },
+    "0022501077": {
+      "generated_at": "2026-03-29T06:08:04.297267",
+      "model": "gpt-5.4",
+      "eight_factors": "- Charlotte's frigid 46% eFG was the biggest swing in the game, and it undercut an otherwise competitive effort.\n- Charlotte crashed the offensive glass at 38% OREB, creating a steady stream of second-chance opportunities that kept them in it.\n- Philadelphia's efficient 59% eFG was a major driver of the road win.\n- Charlotte's clean 91% ball handling kept possessions secure and gave them a real chance down the stretch.\n- Philadelphia's sharp 91% ball handling denied Charlotte extra possessions and helped steady the visitors late.\n- Philadelphia's shaky 18% OREB limited its own second-chance opportunities.\n- Philadelphia lived at the line with a 27% free-throw rate, adding another layer to the winning offensive profile.\n- Charlotte's 26% free-throw rate was a bright spot in defeat, as they consistently got to the stripe."
+    },
+    "0022501081": {
+      "generated_at": "2026-03-29T06:08:09.566675",
+      "model": "gpt-5.4",
+      "eight_factors": "- Phoenix's dominant 40% offensive rebound rate created a steady stream of second-chance opportunities and was a major driver of the blowout.\n- Phoenix's efficient 58% eFG powered the home offense and gave the game early separation.\n- Utah's shaky 14% free-throw rate meant the visitors rarely got to the stripe, removing one path back into the game.\n- Phoenix's clean 88% ball handling kept possessions secure and denied Utah easy opportunities off turnovers.\n- Phoenix's anemic 13% free-throw rate was one of the few areas that didn't click, but it barely mattered in a 25-point win.\n- Utah's 52% eFG was a bright spot in defeat and kept the offense from looking even worse on the scoreboard."
+    },
+    "0022501080": {
+      "generated_at": "2026-03-29T06:08:13.763207",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's frigid 37% eFG was the game's biggest swing, with their offense never finding efficient looks.\n- Detroit's sloppy 80% ball handling gifted Minnesota extra possessions via turnovers, a rare bright spot for the home side.\n- Detroit's efficient 59% eFG powered the visitors offensively and helped break the game open.\n- Detroit crashed the offensive glass at 29% OREB, creating steady second-chance opportunities for itself.\n- Minnesota's anemic ball handling led to too many giveaways, costing them possessions.\n- Minnesota's 28% FT rate was one of the few things that kept them afloat, as they consistently got to the stripe.\n- Detroit's 16% FT rate meant the visitors rarely got to the line."
+    },
+    "0022501076": {
+      "generated_at": "2026-03-29T06:08:16.547153",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's elite 63% eFG fueled the blowout and was the biggest four-factor driver of the night.\n- Milwaukee's sloppy 80% ball handling gifted San Antonio a stream of extra possessions via turnovers.\n- Milwaukee's anemic 6% FT rate meant they almost never got to the stripe.\n- San Antonio's clean 89% ball handling kept its possessions secure and denied Milwaukee extra chances.\n- Milwaukee's shaky 52% eFG left the home offense without enough shot-making to keep pace."
     }
   },
   "decomposition_model_id": "json_contributions"
