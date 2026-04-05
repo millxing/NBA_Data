@@ -5796,6 +5796,21 @@
       "generated_at": "2026-04-04T08:02:42.517380",
       "model": "gpt-5.4",
       "eight_factors": "- Boston's blistering 66% eFG was the game's biggest driver, powering the road rout with elite shot-making.\n- Boston's clean 90% ball handling kept possessions secure and denied Milwaukee extra opportunities.\n- Boston crashed the offensive glass at 31% OREB, creating a steady stream of second-chance opportunities for itself.\n- Milwaukee's 17% OREB left the home side with almost no second-chance looks of its own.\n- Milwaukee's anemic 12% FT rate meant they rarely got to the stripe.\n- Milwaukee's 55% eFG was a bright spot in defeat, but it wasn't nearly enough to offset Boston's control elsewhere."
+    },
+    "0022501130": {
+      "generated_at": "2026-04-05T06:10:49.517778",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's clean 94% ball handling was the biggest driver of the win, keeping possessions secure and denying San Antonio extra opportunities.\n- Denver's efficient 58% eFG powered the offense and gave the home side a major scoring lift.\n- San Antonio's strong 90% ball handling kept the visitors competitive by limiting turnovers, but it wasn't enough to overcome Denver.\n- Denver's shaky 17% OREB left them with limited second-chance opportunities for themselves.\n- San Antonio's 25% FT rate helped the visitors stay within reach by getting to the stripe regularly."
+    },
+    "0022501131": {
+      "generated_at": "2026-04-05T06:10:54.033998",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's dominant 41% offensive rebound rate was the biggest four-factor driver, creating a steady stream of second-chance opportunities for the visitors.\n- Philadelphia's frigid 49% eFG was a central reason the offense stalled in the loss.\n- Detroit's efficient 56% eFG kept the visitors in control offensively throughout.\n- Philadelphia's sloppy 84% ball handling gifted Detroit extra possessions via turnovers.\n- Detroit's steady 87% ball handling kept its possessions secure and denied Philadelphia extra opportunities.\n- Philadelphia's 26% offensive rebound rate was a bright spot in defeat, creating some second-chance chances for the home side."
+    },
+    "0022501129": {
+      "generated_at": "2026-04-05T06:10:58.739718",
+      "model": "gpt-5.4",
+      "eight_factors": "- Miami's blistering 67% eFG was the biggest driver of the win, powering a hyper-efficient offensive night.\n- Washington's elite 92% ball handling kept possessions secure and denied Miami extra turnover chances, a major reason the visitors stayed offensively dangerous despite the loss.\n- Washington crashed the offensive glass at 30% OREB, creating a steady stream of second-chance opportunities that kept them competitive.\n- Miami got to the line often with a 29% FT rate, adding another efficient scoring channel in the home win.\n- Washington's 55% eFG was a bright spot in defeat, but it wasn't enough to overcome Miami's even hotter shooting.\n- Miami's 27% OREB gave them useful second-chance opportunities and helped reinforce their control of the game."
     }
   },
   "decomposition_model_id": "json_contributions"
