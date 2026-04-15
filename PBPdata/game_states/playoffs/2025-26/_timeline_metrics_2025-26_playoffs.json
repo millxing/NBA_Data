@@ -1,0 +1,41 @@
+{
+  "season": "2025-26",
+  "phase": "playoffs",
+  "generated_at_utc": "2026-04-15T10:13:33.546521+00:00",
+  "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
+  "source": "parquet",
+  "games_processed": 2,
+  "games_missing_win_prob": 0,
+  "games": [
+    {
+      "game_id": "0052500111",
+      "game_date": "2026-04-14",
+      "game_type": "play_in",
+      "home_team": "CHA",
+      "road_team": "MIA",
+      "home_score": 127,
+      "road_score": 126,
+      "winner": "home",
+      "excitement_factor": 4.6726857546199705,
+      "comeback_factor": 0.9192598809737644,
+      "possession_changes": 201,
+      "min_home_win_prob": 0.0807401190262356,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0052500121",
+      "game_date": "2026-04-14",
+      "game_type": "play_in",
+      "home_team": "PHX",
+      "road_team": "POR",
+      "home_score": 110,
+      "road_score": 114,
+      "winner": "road",
+      "excitement_factor": 3.8548695209606008,
+      "comeback_factor": 0.9429190942559079,
+      "possession_changes": 195,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.9429190942559079
+    }
+  ]
+}
