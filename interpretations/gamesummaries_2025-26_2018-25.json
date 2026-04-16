@@ -6151,6 +6151,16 @@
       "generated_at": "2026-04-15T06:14:16.011003",
       "model": "gpt-5.4",
       "eight_factors": "- Portland's 31% offensive rebound rate was the biggest swing factor, creating a steady stream of second-chance opportunities for the visitors.\n- Phoenix lived at the line with a 29% free-throw rate, a key bright spot that kept the home side in it.\n- Portland's shaky 84% ball handling gifted Phoenix extra possessions via turnovers.\n- Portland's 55% eFG kept the visitors efficient enough to survive the Suns' push.\n- Phoenix shot an efficient 55% eFG, but that boost wasn't enough to overcome Portland's work on the offensive glass."
+    },
+    "0052500101": {
+      "generated_at": "2026-04-16T06:15:39.521993",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's frigid 45% eFG was the biggest four-factor swing, leaving the visitors without enough shooting efficiency to keep pace.\n- Philadelphia's shaky 52% eFG was a clear blemish in a win, but the home side overcame its own shooting inefficiency.\n- Philadelphia's thin 18% OREB limited its second-chance opportunities for itself.\n- Orlando lived at the line with a 30% FT rate, a real source of offense that kept the visitors competitive for stretches.\n- Philadelphia's clean 88% ball handling kept possessions secure and denied Orlando extra opportunities.\n- Orlando's loose 85% ball handling gifted Philadelphia extra possessions via turnovers.\n- Philadelphia's 25% FT rate gave the home side a steady stream of trips to the stripe.\n- Orlando's 21% OREB left the visitors with only limited second-chance opportunities for themselves."
+    },
+    "0052500131": {
+      "generated_at": "2026-04-16T06:15:45.135756",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's blistering 68% eFG was the biggest driver of the win, overwhelming everything else in this matchup.\n- Golden State's sloppy 80% ball handling still gifted Los Angeles extra possessions via turnovers, a major swing that kept the home side alive.\n- Los Angeles countered with elite shot-making of its own, posting a 61% eFG that kept it competitive in defeat.\n- Los Angeles' shaky 82% ball handling was another costly weakness, handing Golden State extra possessions.\n- Golden State crashed the offensive glass at 27% OREB, creating useful second-chance opportunities for itself.\n- Los Angeles generated some extra offense with a 26% OREB, a smaller bright spot that wasn't enough to overcome the loss.\n- Golden State's low 16% free-throw rate meant it rarely got to the stripe, a mild factor working in Los Angeles' favor."
     }
   },
   "decomposition_model_id": "json_contributions"
