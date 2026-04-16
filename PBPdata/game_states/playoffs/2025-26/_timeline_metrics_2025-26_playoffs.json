@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-04-15T10:13:33.546521+00:00",
+  "generated_at_utc": "2026-04-16T10:15:02.110731+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 2,
+  "games_processed": 4,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -36,6 +36,36 @@
       "possession_changes": 195,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.9429190942559079
+    },
+    {
+      "game_id": "0052500101",
+      "game_date": "2026-04-15",
+      "game_type": "play_in",
+      "home_team": "PHI",
+      "road_team": "ORL",
+      "home_score": 109,
+      "road_score": 97,
+      "winner": "home",
+      "excitement_factor": 3.1834490263712745,
+      "comeback_factor": 0.5807683520017073,
+      "possession_changes": 193,
+      "min_home_win_prob": 0.4192316479982927,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0052500131",
+      "game_date": "2026-04-15",
+      "game_type": "play_in",
+      "home_team": "LAC",
+      "road_team": "GSW",
+      "home_score": 121,
+      "road_score": 126,
+      "winner": "road",
+      "excitement_factor": 3.5340928923205355,
+      "comeback_factor": 0.9388852061362094,
+      "possession_changes": 200,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.9388852061362094
     }
   ]
 }
