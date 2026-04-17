@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-04-16T10:15:02.110731+00:00",
+  "generated_at_utc": "2026-04-17T10:09:02.018126+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
   "games_processed": 4,
@@ -46,7 +46,7 @@
       "home_score": 109,
       "road_score": 97,
       "winner": "home",
-      "excitement_factor": 3.1834490263712745,
+      "excitement_factor": 3.1834490263712976,
       "comeback_factor": 0.5807683520017073,
       "possession_changes": 193,
       "min_home_win_prob": 0.4192316479982927,
