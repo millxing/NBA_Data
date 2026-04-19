@@ -6171,6 +6171,26 @@
       "generated_at": "2026-04-18T06:09:13.354616",
       "model": "gpt-5.4",
       "eight_factors": "- Golden State's shaky 78% ball handling was the biggest swing of the night, as their turnovers gifted Phoenix extra possessions.\n- Phoenix's efficient 59% eFG powered the home offense and set the tone for the win.\n- Golden State crashed the offensive glass at 31% OREB, generating second-chance opportunities for itself and keeping the visitors competitive for stretches.\n- Golden State's solid 26% free-throw rate was a bright spot in defeat, giving them steady trips to the stripe.\n- Golden State's 52% eFG wasn't enough to overcome Phoenix, with the visitors unable to turn that shooting into a real comeback push.\n- Phoenix's sloppy 84% ball handling was one area that kept Golden State within range, as the home side gave away too many possessions."
+    },
+    "0042500161": {
+      "generated_at": "2026-04-19T06:11:00.945685",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's frigid 49% eFG was the biggest drag on its offense, but it wasn't enough to derail the home win.\n- Minnesota's dismal 15% OREB left the visitors with almost no second-chance opportunities, a major boost for Denver.\n- Denver lived at the line with a 35% free-throw rate, a key scoring engine in the victory.\n- Denver's 18% OREB meant few second-chance looks for the home side, one of the main bright spots keeping Minnesota in the game.\n- Minnesota's steady 52% eFG kept the visitors competitive, but it wasn't enough to overcome Denver.\n- Minnesota's solid 87% ball handling kept possessions secure and denied Denver extra opportunities.\n- Minnesota's shaky 16% free-throw rate meant they rarely got to the stripe."
+    },
+    "0042500121": {
+      "generated_at": "2026-04-19T06:11:06.442571",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's dismal 16% OREB left the home side with almost no second-chance opportunities for itself.\n- Atlanta's shaky 17% OREB also dried up second-chance looks, a major boost to New York's win.\n- New York's clean 89% ball handling kept possessions secure and denied Atlanta extra opportunities.\n- Atlanta's 52% eFG was too flat to carry the offense, a key reason the visitors came up short.\n- New York lived at the line with a 31% free-throw rate, giving the home offense a steady scoring lift.\n- Atlanta's solid ball handling was a bright spot in defeat, helping the visitors avoid empty possessions.\n- New York's 55% eFG supplied efficient enough shooting to support the win.\n- Atlanta's anemic 14% free-throw rate meant they rarely got to the stripe."
+    },
+    "0042500131": {
+      "generated_at": "2026-04-19T06:11:10.667528",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's blistering 64% eFG was the biggest driver of the home win.\n- Toronto's own shot-making was a bright spot in defeat, with an elite 61% eFG that kept them in range.\n- Toronto's dismal 13% OREB left the visitors with almost no second-chance opportunities for themselves.\n- Toronto's sloppy 82% ball handling gifted Cleveland extra possessions via turnovers.\n- Toronto lived at the line with a 37% free-throw rate, a key source of offense that wasn't enough to overcome the loss.\n- Cleveland's shaky 83% ball handling gave Toronto extra possessions and kept the visitors competitive.\n- Cleveland's 27% free-throw rate added steady scoring by getting the home side to the stripe."
+    },
+    "0042500171": {
+      "generated_at": "2026-04-19T06:11:14.963603",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' blistering 68% eFG was the biggest driver of the win, with the home side scoring efficiently all night.\n- Houston's frigid 44% eFG played straight into Los Angeles' hands and left the visitors chasing the game offensively.\n- Houston crashed the offensive glass at a dominant 40% OREB, creating a steady stream of second-chance opportunities that kept them competitive.\n- Los Angeles' sloppy 79% ball handling gifted Houston extra possessions via turnovers and was a major drag on the home offense.\n- Los Angeles generated almost no second-chance offense, with an anemic 12% OREB limiting follow-up chances on its own misses.\n- Los Angeles' 26% free-throw rate added a smaller but real edge, as the home team got to the stripe at a healthy clip."
     }
   },
   "decomposition_model_id": "json_contributions"
