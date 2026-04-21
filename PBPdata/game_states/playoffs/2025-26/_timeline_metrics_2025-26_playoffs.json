@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-04-20T10:09:31.411972+00:00",
+  "generated_at_utc": "2026-04-21T10:08:36.951682+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 14,
+  "games_processed": 17,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -46,7 +46,7 @@
       "home_score": 109,
       "road_score": 97,
       "winner": "home",
-      "excitement_factor": 3.1834490263712976,
+      "excitement_factor": 3.18344902637129,
       "comeback_factor": 0.5807683520017073,
       "possession_changes": 193,
       "min_home_win_prob": 0.4192316479982927,
@@ -216,6 +216,51 @@
       "possession_changes": 191,
       "min_home_win_prob": 0.4502296613887353,
       "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500122",
+      "game_date": "2026-04-20",
+      "game_type": "playoffs",
+      "home_team": "NYK",
+      "road_team": "ATL",
+      "home_score": 106,
+      "road_score": 107,
+      "winner": "road",
+      "excitement_factor": 3.2583602842453567,
+      "comeback_factor": 0.9239414911412599,
+      "possession_changes": 184,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.9239414911412599
+    },
+    {
+      "game_id": "0042500132",
+      "game_date": "2026-04-20",
+      "game_type": "playoffs",
+      "home_team": "CLE",
+      "road_team": "TOR",
+      "home_score": 115,
+      "road_score": 105,
+      "winner": "home",
+      "excitement_factor": 2.31016239155654,
+      "comeback_factor": 0.5,
+      "possession_changes": 199,
+      "min_home_win_prob": 0.5,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500162",
+      "game_date": "2026-04-20",
+      "game_type": "playoffs",
+      "home_team": "DEN",
+      "road_team": "MIN",
+      "home_score": 114,
+      "road_score": 119,
+      "winner": "road",
+      "excitement_factor": 3.325341323218397,
+      "comeback_factor": 0.8779345794102363,
+      "possession_changes": 207,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.8779345794102363
     }
   ]
 }
