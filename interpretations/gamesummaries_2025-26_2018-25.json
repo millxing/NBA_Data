@@ -6211,6 +6211,21 @@
       "generated_at": "2026-04-20T06:10:24.964709",
       "model": "gpt-5.4",
       "eight_factors": "- Detroit's frigid 47% eFG was the game's biggest drag, and Orlando punished that shooting slump in the road win.\n- Detroit's dismal 15% OREB left them with almost no second-chance opportunities for themselves.\n- Detroit's strong 38% free-throw rate was a bright spot in defeat, keeping them afloat even as the rest of the offense lagged.\n- Orlando's clean 88% ball handling kept possessions secure and denied Detroit extra opportunities.\n- Orlando's anemic 16% free-throw rate helped Detroit by keeping the visitors off the line."
+    },
+    "0042500162": {
+      "generated_at": "2026-04-21T06:09:14.835397",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's dismal 11% OREB left them with almost no second-chance opportunities, a major swing in a five-point loss.\n- Denver's clean 91% ball handling kept possessions secure and denied Minnesota extra opportunities, but it wasn't enough to carry the home side.\n- Minnesota's steady 19% OREB still helped Denver by limiting the visitors' second-chance looks.\n- Minnesota's strong 88% ball handling denied Denver extra possessions and helped steady the road win.\n- Minnesota's efficient 56% eFG was a key scoring driver for the visitors.\n- Denver's 27% free-throw rate was a bright spot in defeat, helping them stay within striking distance.\n- Denver's 53% eFG was a bit light for a game of this caliber and tilted some value toward Minnesota."
+    },
+    "0042500132": {
+      "generated_at": "2026-04-21T06:09:19.747641",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's elite 61% eFG was the biggest driver of the win, powering one of the night's clearest efficiency advantages.\n- Toronto's dismal 78% ball handling gifted Cleveland extra possessions via turnovers and put the visitors on the back foot.\n- Toronto crashed the offensive glass at 31% OREB, creating a steady stream of second-chance opportunities for itself, but it wasn't enough to overcome Cleveland.\n- Cleveland's shaky 21% OREB limited its own second-chance opportunities.\n- Toronto's solid 55% eFG kept the game within reach, but Cleveland still controlled the result through stronger overall four-factor play."
+    },
+    "0042500122": {
+      "generated_at": "2026-04-21T06:09:24.468596",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's 32% OREB was a major bright spot in defeat, creating a steady stream of second-chance opportunities for itself.\n- Atlanta's dismal 15% OREB helped New York by leaving the visitors with almost no second-chance opportunities for themselves.\n- New York's frigid 51% eFG was the biggest drag on the home side, and that shooting dip proved costly in a one-point loss.\n- Atlanta's 55% eFG kept the visitors efficient enough offensively to survive the close finish.\n- New York's shaky 85% ball handling gifted Atlanta extra possessions via turnovers.\n- Atlanta's solid 87% ball handling helped the visitors by keeping possessions secure and limiting their own turnovers."
     }
   },
   "decomposition_model_id": "json_contributions"
