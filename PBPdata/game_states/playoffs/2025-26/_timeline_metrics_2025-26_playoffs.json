@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-04-21T10:08:36.951682+00:00",
+  "generated_at_utc": "2026-04-22T10:14:15.317575+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 17,
+  "games_processed": 20,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -261,6 +261,51 @@
       "possession_changes": 207,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.8779345794102363
+    },
+    {
+      "game_id": "0042500112",
+      "game_date": "2026-04-21",
+      "game_type": "playoffs",
+      "home_team": "BOS",
+      "road_team": "PHI",
+      "home_score": 97,
+      "road_score": 111,
+      "winner": "road",
+      "excitement_factor": 2.731506170046396,
+      "comeback_factor": 0.7318226079999173,
+      "possession_changes": 175,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.7318226079999173
+    },
+    {
+      "game_id": "0042500152",
+      "game_date": "2026-04-21",
+      "game_type": "playoffs",
+      "home_team": "SAS",
+      "road_team": "POR",
+      "home_score": 103,
+      "road_score": 106,
+      "winner": "road",
+      "excitement_factor": 3.3576557463770937,
+      "comeback_factor": 0.9672904417547218,
+      "possession_changes": 196,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.9672904417547218
+    },
+    {
+      "game_id": "0042500172",
+      "game_date": "2026-04-21",
+      "game_type": "playoffs",
+      "home_team": "LAL",
+      "road_team": "HOU",
+      "home_score": 101,
+      "road_score": 94,
+      "winner": "home",
+      "excitement_factor": 2.8615968271599814,
+      "comeback_factor": 0.578854142808966,
+      "possession_changes": 176,
+      "min_home_win_prob": 0.42114585719103403,
+      "max_home_win_prob": 1.0
     }
   ]
 }
