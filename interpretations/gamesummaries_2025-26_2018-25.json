@@ -6226,6 +6226,21 @@
       "generated_at": "2026-04-21T06:09:24.468596",
       "model": "gpt-5.4",
       "eight_factors": "- New York's 32% OREB was a major bright spot in defeat, creating a steady stream of second-chance opportunities for itself.\n- Atlanta's dismal 15% OREB helped New York by leaving the visitors with almost no second-chance opportunities for themselves.\n- New York's frigid 51% eFG was the biggest drag on the home side, and that shooting dip proved costly in a one-point loss.\n- Atlanta's 55% eFG kept the visitors efficient enough offensively to survive the close finish.\n- New York's shaky 85% ball handling gifted Atlanta extra possessions via turnovers.\n- Atlanta's solid 87% ball handling helped the visitors by keeping possessions secure and limiting their own turnovers."
+    },
+    "0042500172": {
+      "generated_at": "2026-04-22T06:14:52.982408",
+      "model": "gpt-5.4",
+      "eight_factors": "- Houston's frigid 44% eFG was the biggest driver of the Lakers' win, as the visitors simply couldn't shoot efficiently.\n- Houston crashed the offensive glass at a 38% OREB, creating a steady stream of second-chance opportunities that kept them competitive in defeat.\n- Houston's sloppy 83% ball handling gifted the Lakers extra possessions via turnovers.\n- The Lakers' shaky 83% ball handling gave Houston extra possessions and was their clearest weakness in an otherwise winning effort.\n- The Lakers lived at the line with a 31% FT rate, a key source of offense in a seven-point win.\n- The Lakers created extra chances for themselves on the offensive glass, turning a 27% OREB into a useful edge.\n- The Lakers' 55% eFG was a solid offensive plus, giving them enough shooting efficiency to support the win."
+    },
+    "0042500152": {
+      "generated_at": "2026-04-22T06:14:56.312512",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's frigid 48% eFG was the biggest swing in a three-point loss.\n- San Antonio's sloppy 83% ball handling gifted Portland too many extra possessions via turnovers.\n- Portland's 31% OREB was a major driver, as the visitors repeatedly created second-chance opportunities for themselves.\n- San Antonio's 30% OREB was a bright spot in defeat, generating extra chances that kept them in it.\n- Portland's shaky 85% ball handling also helped San Antonio, handing the home side some extra possessions through turnovers."
+    },
+    "0042500112": {
+      "generated_at": "2026-04-22T06:15:00.485782",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's frigid 47% eFG was the biggest swing factor, leaving the home offense without enough efficient scoring.\n- Boston's 38% OREB was a bright spot in defeat, repeatedly creating second-chance opportunities for itself.\n- Philadelphia shot an efficient 58% eFG, a major driver of the road win.\n- Philadelphia's clean 90% ball handling kept its possessions intact and denied Boston extra opportunities.\n- Philadelphia's 27% OREB helped the visitors by generating additional chances on their own misses.\n- Philadelphia's anemic 7% FT rate was one area that favored Boston, as the visitors rarely got to the stripe.\n- Boston's 16% FT rate added to the problem, with the home side struggling to draw fouls and reach the line."
     }
   },
   "decomposition_model_id": "json_contributions"
