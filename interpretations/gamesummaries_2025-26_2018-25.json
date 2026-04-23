@@ -6241,6 +6241,16 @@
       "generated_at": "2026-04-22T06:15:00.485782",
       "model": "gpt-5.4",
       "eight_factors": "- Boston's frigid 47% eFG was the biggest swing factor, leaving the home offense without enough efficient scoring.\n- Boston's 38% OREB was a bright spot in defeat, repeatedly creating second-chance opportunities for itself.\n- Philadelphia shot an efficient 58% eFG, a major driver of the road win.\n- Philadelphia's clean 90% ball handling kept its possessions intact and denied Boston extra opportunities.\n- Philadelphia's 27% OREB helped the visitors by generating additional chances on their own misses.\n- Philadelphia's anemic 7% FT rate was one area that favored Boston, as the visitors rarely got to the stripe.\n- Boston's 16% FT rate added to the problem, with the home side struggling to draw fouls and reach the line."
+    },
+    "0042500102": {
+      "generated_at": "2026-04-23T06:13:16.251673",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's frigid 38% eFG was the biggest driver of Detroit's win, as the visitors simply couldn't score efficiently.\n- Detroit's sloppy 77% ball handling was a major blemish in an otherwise comfortable win, gifting Orlando extra possessions via turnovers.\n- Detroit dominated the offensive glass at 37% OREB, creating a steady stream of second-chance opportunities for itself.\n- Detroit's shaky 49% eFG was a clear weak point, but Orlando's even colder shooting kept it from becoming costly.\n- Orlando's loose 81% ball handling handed Detroit extra possessions and undercut the visitors' offensive chances.\n- Orlando lived at the line with a 29% free-throw rate, a bright spot in defeat that wasn't enough to offset the shooting woes."
+    },
+    "0042500142": {
+      "generated_at": "2026-04-23T06:13:20.400289",
+      "model": "gpt-5.4",
+      "eight_factors": "- Phoenix's dismal 78% ball handling gifted Oklahoma City a stream of extra possessions via turnovers.\n- Phoenix crashed the offensive glass at an elite 35% clip, creating second-chance opportunities for itself, but it wasn't enough to overcome the loss.\n- Oklahoma City's clean 90% ball handling kept possessions secure and denied Phoenix extra chances.\n- Oklahoma City generated extra looks for itself with a strong 29% offensive rebound rate.\n- Phoenix's 52% eFG was a bright spot in defeat and helped keep the game competitive.\n- Oklahoma City's 55% eFG provided efficient enough shooting to support the home win."
     }
   },
   "decomposition_model_id": "json_contributions"
