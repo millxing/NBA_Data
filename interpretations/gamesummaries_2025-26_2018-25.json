@@ -6266,6 +6266,21 @@
       "generated_at": "2026-04-24T06:09:29.135059",
       "model": "gpt-5.4",
       "eight_factors": "- New York's frigid 48% eFG was the biggest four-factor swing toward Atlanta in a one-point home win.\n- New York's sloppy 82% ball handling gifted Atlanta extra possessions via turnovers.\n- New York crashed the offensive glass at 30% OREB, creating second-chance opportunities for itself and keeping the visitors in it.\n- Atlanta's strong 29% OREB created valuable second-chance opportunities and helped swing the result.\n- Atlanta's shaky 84% ball handling gave New York extra possessions and nearly cost the home side.\n- Atlanta's 53% eFG wasn't enough to help here, with their shooting efficiency registering as a mild drag despite the win."
+    },
+    "0042500113": {
+      "generated_at": "2026-04-25T06:09:24.629266",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's dominant 39% OREB created a steady stream of second-chance opportunities and was the biggest four-factor driver of the road win.\n- Boston's sloppy 81% ball handling gifted Philadelphia extra possessions via turnovers, a major opening the home side couldn't fully cash in.\n- Philadelphia's frigid 51% eFG was a central offensive drag in defeat.\n- Boston's efficient 57% eFG kept its offense humming and played a major role in the victory.\n- Philadelphia's strong 30% OREB was a bright spot in defeat, generating valuable second-chance looks.\n- Philadelphia rarely got to the stripe, with an anemic 14% FT rate limiting easy scoring chances.\n- Philadelphia's solid 88% ball handling kept possessions secure and helped keep the game within reach."
+    },
+    "0042500173": {
+      "generated_at": "2026-04-25T06:09:28.516476",
+      "model": "gpt-5.4",
+      "eight_factors": "- Houston's frigid 46% eFG was the game's biggest swing, leaving the home side without enough shot-making.\n- Los Angeles' sloppy 80% ball handling gifted Houston extra possessions via turnovers, a major bright spot for the home team in defeat.\n- Houston crashed the offensive glass at a 33% clip, generating a steady diet of second-chance opportunities for itself.\n- Houston's shaky ball handling coughed up possessions and gave Los Angeles extra opportunities.\n- Los Angeles shot an efficient 56% eFG, and that scoring punch helped carry the visitors to the win.\n- Los Angeles lived at the line with a 30% FT rate, giving the road team another key source of offense."
+    },
+    "0042500153": {
+      "generated_at": "2026-04-25T06:09:32.491009",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 49% eFG was the biggest swing factor, a shooting slump that undercut the home offense.\n- San Antonio's 33% OREB created a steady stream of second-chance opportunities for the visitors.\n- Portland's 31% OREB was a bright spot in defeat, generating extra chances that kept them in the fight.\n- San Antonio shot an efficient 56% eFG, and that scoring efficiency helped power the road win.\n- Portland's clean 89% ball handling kept possessions secure and denied San Antonio extra opportunities.\n- San Antonio's shaky 85% ball handling gifted Portland some extra possessions via turnovers.\n- San Antonio's 25% FT rate added another boost, with the visitors getting to the stripe at a healthy clip."
     }
   },
   "decomposition_model_id": "json_contributions"
