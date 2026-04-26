@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-04-25T10:08:47.465695+00:00",
+  "generated_at_utc": "2026-04-26T10:09:33.839845+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 28,
+  "games_processed": 32,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -361,7 +361,7 @@
       "home_score": 126,
       "road_score": 104,
       "winner": "home",
-      "excitement_factor": 3.229309165148378,
+      "excitement_factor": 3.2293091651484023,
       "comeback_factor": 0.5751539834330697,
       "possession_changes": 189,
       "min_home_win_prob": 0.4248460165669304,
@@ -426,6 +426,66 @@
       "possession_changes": 205,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.9350689694475576
+    },
+    {
+      "game_id": "0042500103",
+      "game_date": "2026-04-25",
+      "game_type": "playoffs",
+      "home_team": "ORL",
+      "road_team": "DET",
+      "home_score": 113,
+      "road_score": 105,
+      "winner": "home",
+      "excitement_factor": 2.9947150646119254,
+      "comeback_factor": 0.619701859966157,
+      "possession_changes": 193,
+      "min_home_win_prob": 0.38029814003384305,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500124",
+      "game_date": "2026-04-25",
+      "game_type": "playoffs",
+      "home_team": "ATL",
+      "road_team": "NYK",
+      "home_score": 98,
+      "road_score": 114,
+      "winner": "road",
+      "excitement_factor": 1.4957541533126129,
+      "comeback_factor": 0.5294015724206188,
+      "possession_changes": 188,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5294015724206188
+    },
+    {
+      "game_id": "0042500143",
+      "game_date": "2026-04-25",
+      "game_type": "playoffs",
+      "home_team": "PHX",
+      "road_team": "OKC",
+      "home_score": 109,
+      "road_score": 121,
+      "winner": "road",
+      "excitement_factor": 2.319944399374021,
+      "comeback_factor": 0.6867343665947526,
+      "possession_changes": 195,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.6867343665947526
+    },
+    {
+      "game_id": "0042500164",
+      "game_date": "2026-04-25",
+      "game_type": "playoffs",
+      "home_team": "MIN",
+      "road_team": "DEN",
+      "home_score": 112,
+      "road_score": 96,
+      "winner": "home",
+      "excitement_factor": 2.761779132778472,
+      "comeback_factor": 0.717768872919109,
+      "possession_changes": 186,
+      "min_home_win_prob": 0.2822311270808911,
+      "max_home_win_prob": 1.0
     }
   ]
 }
