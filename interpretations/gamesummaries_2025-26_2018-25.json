@@ -6316,6 +6316,26 @@
       "generated_at": "2026-04-26T06:10:36.535850",
       "model": "gpt-5.4",
       "eight_factors": "- Atlanta's frigid 47% eFG was the game's biggest drag, leaving the home side without enough efficient offense.\n- Atlanta's shaky 80% ball handling fed New York extra possessions with too many empty trips.\n- New York's 58% eFG was a major driver of the road win, powering an efficient scoring night.\n- New York crashed the offensive glass at 32% OREB, creating steady second-chance opportunities for itself.\n- Atlanta's 28% OREB was a bright spot in defeat, giving them some extra chances after misses.\n- New York's loose 84% ball handling gifted Atlanta a few extra possessions, but it wasn't enough to swing the result.\n- Atlanta's 24% free-throw rate helped keep them afloat for stretches by getting them to the stripe."
+    },
+    "0042500174": {
+      "generated_at": "2026-04-27T06:13:34.708048",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' sloppy 74% ball handling gifted Houston a stream of extra possessions via turnovers, the biggest four-factor swing in the game.\n- Los Angeles crashed the offensive glass at 29% OREB, creating second-chance opportunities for itself and giving the visitors a brief foothold that wasn't enough to change the result.\n- Houston got to the line relentlessly, posting a 31% free-throw rate and piling up efficient offense at the stripe.\n- Houston generated extra chances with a strong 29% offensive rebound rate, consistently extending its own trips.\n- Houston's efficient 56% eFG added another layer to the home win, turning solid shot quality into steady scoring."
+    },
+    "0042500134": {
+      "generated_at": "2026-04-27T06:13:38.875955",
+      "model": "gpt-5.4",
+      "eight_factors": "- Toronto's frigid 34% eFG was the game's biggest drag, and Cleveland stayed alive because the home side simply could not make shots.\n- Cleveland's poor 43% eFG was just as damaging on the other end, with the visitors' inefficient shooting helping Toronto survive a grind.\n- Toronto crashed the offensive glass at 34% OREB, creating a steady stream of second-chance opportunities that proved pivotal in a four-point win.\n- Cleveland's sloppy 81% ball handling gifted Toronto extra possessions via turnovers.\n- Cleveland's 30% OREB was a bright spot in defeat, as the visitors created second-chance opportunities for themselves and stayed within striking distance.\n- Toronto's 88% ball handling kept possessions secure and denied Cleveland extra opportunities.\n- Toronto lived at the line with a 28% free-throw rate, another important source of offense in an otherwise ugly shooting performance."
+    },
+    "0042500154": {
+      "generated_at": "2026-04-27T06:13:45.103677",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 46% eFG was the biggest driver of the loss, as their shot-making never gave the offense a chance to stabilize.\n- Portland's shaky 82% ball handling compounded the damage, with turnovers gifting San Antonio extra possessions.\n- Portland's 18% OREB left them with very few second-chance opportunities for themselves.\n- Portland's 24% FT rate was a minor bright spot in defeat, helping them get to the stripe at a decent clip.\n- San Antonio's efficient 58% eFG kept the visitors firmly in control offensively.\n- San Antonio's low 16% FT rate was one area that favored Portland, as the visitors rarely got to the line."
+    },
+    "0042500114": {
+      "generated_at": "2026-04-27T06:13:49.872854",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's elite 62% eFG was the game's biggest driver, powering the visitors' offensive avalanche.\n- Philadelphia's frigid 47% eFG was a central reason the home offense stalled out.\n- Boston crashed the offensive glass at 37% OREB, creating a steady stream of second-chance opportunities for itself.\n- Philadelphia's dismal 14% OREB left the home side with almost no second-chance looks for itself.\n- Philadelphia's clean 90% ball handling was a bright spot in defeat, keeping possessions secure and limiting self-inflicted damage.\n- Philadelphia's 26% free-throw rate was another bright spot in defeat, as they still found ways to get to the stripe despite the blowout."
     }
   },
   "decomposition_model_id": "json_contributions"
