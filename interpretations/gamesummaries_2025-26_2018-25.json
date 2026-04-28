@@ -6336,6 +6336,21 @@
       "generated_at": "2026-04-27T06:13:49.872854",
       "model": "gpt-5.4",
       "eight_factors": "- Boston's elite 62% eFG was the game's biggest driver, powering the visitors' offensive avalanche.\n- Philadelphia's frigid 47% eFG was a central reason the home offense stalled out.\n- Boston crashed the offensive glass at 37% OREB, creating a steady stream of second-chance opportunities for itself.\n- Philadelphia's dismal 14% OREB left the home side with almost no second-chance looks for itself.\n- Philadelphia's clean 90% ball handling was a bright spot in defeat, keeping possessions secure and limiting self-inflicted damage.\n- Philadelphia's 26% free-throw rate was another bright spot in defeat, as they still found ways to get to the stripe despite the blowout."
+    },
+    "0042500104": {
+      "generated_at": "2026-04-28T06:14:07.753955",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando won despite a frigid 38% eFG, the biggest drag on the home side all night.\n- Detroit's dismal 42% eFG was a major reason Orlando controlled the game.\n- Detroit's sloppy 80% ball handling gifted Orlando extra possessions via turnovers.\n- Orlando's 30% OREB created valuable second-chance opportunities for itself.\n- Orlando's steady 88% ball handling kept possessions secure and denied Detroit extra opportunities.\n- Orlando lived at the line with a 27% free-throw rate.\n- Detroit's 24% free-throw rate was a bright spot in defeat, helping keep the visitors within reach."
+    },
+    "0042500144": {
+      "generated_at": "2026-04-28T06:14:13.876954",
+      "model": "gpt-5.4",
+      "eight_factors": "- Oklahoma City's blistering 64% eFG was the biggest driver of the road win.\n- Phoenix's elite 61% eFG kept them in it, but it wasn't enough to overcome Oklahoma City's even hotter shooting.\n- Oklahoma City crashed the offensive glass at 36% OREB, creating a steady stream of second-chance opportunities for itself.\n- Oklahoma City's shaky 82% ball handling gifted Phoenix extra possessions via turnovers, a bright spot for the home side in defeat.\n- Oklahoma City lived at the line with a 32% free-throw rate, giving the visitors another major boost.\n- Phoenix's strong 28% OREB created useful second-chance opportunities for itself.\n- Phoenix's anemic 13% free-throw rate meant they rarely got to the stripe.\n- Phoenix's 88% ball handling kept possessions secure and denied Oklahoma City extra opportunities."
+    },
+    "0042500165": {
+      "generated_at": "2026-04-28T06:14:18.382442",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver\u2019s blistering 63% eFG was the biggest driver of the win, powering an elite offensive night.\n- Minnesota\u2019s sloppy 76% ball handling gifted Denver a stream of extra possessions via turnovers.\n- Minnesota\u2019s efficient 58% eFG kept the visitors competitive, but it wasn\u2019t enough to overcome Denver\u2019s shot-making.\n- Denver\u2019s 15% OREB left them with almost no second-chance opportunities for themselves.\n- Denver\u2019s shaky 84% ball handling gave Minnesota extra possessions and was a real blemish in an otherwise strong home performance.\n- Minnesota\u2019s 27% OREB created useful second-chance opportunities for the visitors, a bright spot in defeat.\n- Denver\u2019s 24% free-throw rate added another smaller edge by getting the home side to the stripe regularly."
     }
   },
   "decomposition_model_id": "json_contributions"
