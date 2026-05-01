@@ -6381,6 +6381,21 @@
       "generated_at": "2026-04-30T06:13:20.877973",
       "model": "gpt-5.4",
       "eight_factors": "- Los Angeles' frigid 47% eFG was the biggest swing in the game, a shooting drought that undercut the home offense.\n- Los Angeles' 32% OREB was a bright spot in defeat, as they consistently created second-chance opportunities for themselves.\n- Houston's 18% OREB helped tilt the game by leaving the visitors with few second-chance opportunities for themselves.\n- Los Angeles' shaky 83% ball handling gifted Houston extra possessions via turnovers.\n- Los Angeles' 29% FT rate kept them competitive by getting to the stripe regularly, but it wasn't enough to overcome the loss.\n- Houston's clean 88% ball handling kept possessions secure and denied Los Angeles extra opportunities.\n- Houston's 25% FT rate gave the visitors a steady stream of trips to the line."
+    },
+    "0042500126": {
+      "generated_at": "2026-05-01T06:09:49.390328",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's blistering 67% eFG was the biggest driver of the rout, with the visitors scoring with elite efficiency all night.\n- Atlanta's frigid 43% eFG was the other side of the blowout, leaving the home offense with almost no efficient scoring.\n- Atlanta's sloppy 81% ball handling gifted New York extra possessions via turnovers.\n- New York's clean 90% ball handling kept its offense on schedule and denied Atlanta extra opportunities.\n- New York lived at the line with a 32% free-throw rate, adding another layer to the offensive avalanche.\n- New York also generated extra chances for itself on the offensive glass, posting a 27% OREB in support of the runaway win."
+    },
+    "0042500116": {
+      "generated_at": "2026-05-01T06:09:56.802801",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's shaky 49% eFG was the biggest swing factor, as the visitors never found efficient offense in a 93-point night.\n- Philadelphia's 50% eFG was a clear weak point even in the win, but it wasn't enough to derail the home side.\n- Boston's dismal 17% OREB left the visitors with almost no second-chance opportunities for themselves.\n- Philadelphia's 17% OREB was another soft spot in the victory, limiting their own second-chance looks.\n- Boston's anemic 11% FT rate meant they rarely got to the stripe, a major boost for Philadelphia.\n- Philadelphia's clean 88% ball handling kept possessions secure and denied Boston extra opportunities.\n- Boston's solid 87% ball handling was a bright spot in defeat, helping the visitors avoid empty trips via turnovers."
+    },
+    "0042500166": {
+      "generated_at": "2026-05-01T06:10:01.909821",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's dominant 41% offensive rebound rate fueled a steady stream of second-chance opportunities for itself.\n- Minnesota's clean 91% ball handling kept possessions secure and denied Denver extra chances.\n- Minnesota's frigid 50% eFG was the main offensive drag, but it wasn't enough to spoil the home win.\n- Denver's dismal 16% offensive rebound rate left the visitors with almost no second-chance looks.\n- Denver's strong 27% free-throw rate kept the visitors within reach by getting them to the stripe.\n- Denver's shaky 52% eFG helped Minnesota's cause, with the visitors unable to generate enough shooting efficiency."
     }
   },
   "decomposition_model_id": "json_contributions"
