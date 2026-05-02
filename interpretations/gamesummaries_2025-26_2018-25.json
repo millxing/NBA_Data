@@ -6396,6 +6396,21 @@
       "generated_at": "2026-05-01T06:10:01.909821",
       "model": "gpt-5.4",
       "eight_factors": "- Minnesota's dominant 41% offensive rebound rate fueled a steady stream of second-chance opportunities for itself.\n- Minnesota's clean 91% ball handling kept possessions secure and denied Denver extra chances.\n- Minnesota's frigid 50% eFG was the main offensive drag, but it wasn't enough to spoil the home win.\n- Denver's dismal 16% offensive rebound rate left the visitors with almost no second-chance looks.\n- Denver's strong 27% free-throw rate kept the visitors within reach by getting them to the stripe.\n- Denver's shaky 52% eFG helped Minnesota's cause, with the visitors unable to generate enough shooting efficiency."
+    },
+    "0042500176": {
+      "generated_at": "2026-05-02T06:08:10.158489",
+      "model": "gpt-5.4",
+      "eight_factors": "- Houston's frigid 38% eFG was the game\u2019s defining weakness, leaving the home offense with almost no efficient scoring.\n- Los Angeles' own 47% eFG was hardly explosive, but Houston's even worse shooting made it a major bright spot for the visitors.\n- Houston's 17% OREB left them with very few second-chance opportunities for themselves.\n- Los Angeles crashed the offensive glass at 29% OREB, creating extra chances for itself that helped widen the gap.\n- Los Angeles' clean 88% ball handling kept possessions secure and denied Houston extra opportunities.\n- Houston's shaky 85% ball handling cost the home side possessions and helped fuel the road win.\n- Los Angeles' low 16% FT rate meant the visitors rarely got to the stripe, one area that did little to drive their offense."
+    },
+    "0042500136": {
+      "generated_at": "2026-05-02T06:08:13.802871",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's dominant 40% offensive rebound rate created a steady stream of second-chance opportunities and nearly swung the game their way.\n- Cleveland's shaky 49% eFG was a major boost for Toronto, as the visitors simply didn't shoot it well enough.\n- Cleveland's sloppy 82% ball handling gifted Toronto extra possessions via turnovers in a two-point home win.\n- Toronto's loose 84% ball handling was a clear weakness, handing Cleveland extra possessions and keeping the visitors in it."
+    },
+    "0042500106": {
+      "generated_at": "2026-05-02T06:08:18.757959",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's frigid 40% eFG was the game's biggest swing, and the home offense never recovered.\n- Detroit's own 46% eFG was hardly explosive, but Orlando benefited from the visitors' inefficient shooting less than it needed to.\n- Detroit crashed the offensive glass at 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Orlando's 17% OREB left the home side with almost no second-chance offense.\n- Orlando's steady ball handling at 88% was a rare bright spot in defeat, keeping possessions secure.\n- Detroit's matching 88% ball handling helped the visitors by limiting turnovers and denying Orlando extra possessions.\n- Detroit's 25% free-throw rate added to the road win, with the visitors getting to the stripe at a healthy clip."
     }
   },
   "decomposition_model_id": "json_contributions"
