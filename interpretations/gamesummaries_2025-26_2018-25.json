@@ -6411,6 +6411,11 @@
       "generated_at": "2026-05-02T06:08:18.757959",
       "model": "gpt-5.4",
       "eight_factors": "- Orlando's frigid 40% eFG was the game's biggest swing, and the home offense never recovered.\n- Detroit's own 46% eFG was hardly explosive, but Orlando benefited from the visitors' inefficient shooting less than it needed to.\n- Detroit crashed the offensive glass at 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Orlando's 17% OREB left the home side with almost no second-chance offense.\n- Orlando's steady ball handling at 88% was a rare bright spot in defeat, keeping possessions secure.\n- Detroit's matching 88% ball handling helped the visitors by limiting turnovers and denying Orlando extra possessions.\n- Detroit's 25% free-throw rate added to the road win, with the visitors getting to the stripe at a healthy clip."
+    },
+    "0042500117": {
+      "generated_at": "2026-05-03T06:09:43.613115",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's frigid 47% eFG was the biggest reason the home offense stalled.\n- Boston's clean 95% ball handling was a bright spot in defeat, keeping possessions secure and denying Philadelphia extra chances via turnovers.\n- Philadelphia's dismal 8% OREB helped Boston by leaving the visitors with almost no second-chance opportunities for themselves.\n- Philadelphia's sharp 90% ball handling helped fuel the road win, with the visitors taking care of the ball and avoiding empty trips.\n- Boston's 20% OREB limited the home side's second-chance opportunities.\n- Boston's anemic 14% FT rate meant they rarely got to the stripe.\n- Philadelphia's 24% FT rate added to the road win, with the visitors drawing fouls and getting to the line consistently."
     }
   },
   "decomposition_model_id": "json_contributions"
