@@ -6416,6 +6416,16 @@
       "generated_at": "2026-05-03T06:09:43.613115",
       "model": "gpt-5.4",
       "eight_factors": "- Boston's frigid 47% eFG was the biggest reason the home offense stalled.\n- Boston's clean 95% ball handling was a bright spot in defeat, keeping possessions secure and denying Philadelphia extra chances via turnovers.\n- Philadelphia's dismal 8% OREB helped Boston by leaving the visitors with almost no second-chance opportunities for themselves.\n- Philadelphia's sharp 90% ball handling helped fuel the road win, with the visitors taking care of the ball and avoiding empty trips.\n- Boston's 20% OREB limited the home side's second-chance opportunities.\n- Boston's anemic 14% FT rate meant they rarely got to the stripe.\n- Philadelphia's 24% FT rate added to the road win, with the visitors drawing fouls and getting to the line consistently."
+    },
+    "0042500137": {
+      "generated_at": "2026-05-04T06:09:43.478951",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's dominant 44% OREB fueled a huge stream of second-chance opportunities for itself.\n- Toronto's frigid 48% eFG was a major drag, with the visitors unable to score efficiently from the floor.\n- Toronto's dismal 15% OREB left it with almost no second-chance opportunities.\n- Cleveland's shaky 51% eFG was the main thing keeping Toronto within reach.\n- Cleveland's sloppy 83% ball handling gifted Toronto extra possessions via turnovers.\n- Cleveland lived at the line with a 32% free-throw rate, adding another edge in the home win."
+    },
+    "0042500107": {
+      "generated_at": "2026-05-04T06:09:48.892785",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's elite 61% eFG powered the home offense and set the tone in a 22-point win.\n- Orlando's frigid 48% eFG was a major drag on the visitors' attack.\n- Detroit crashed the offensive glass at a 31% clip, creating a steady stream of second-chance opportunities for itself.\n- Orlando's sloppy 83% ball handling gifted Detroit extra possessions via turnovers.\n- Orlando's 29% free-throw rate was a bright spot in defeat, helping the visitors stay connected at the stripe for stretches.\n- Detroit's shaky 85% ball handling was one area that kept them from a cleaner offensive night, coughing up possessions that helped Orlando."
     }
   },
   "decomposition_model_id": "json_contributions"
