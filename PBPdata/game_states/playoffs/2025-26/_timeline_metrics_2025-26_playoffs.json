@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-05-03T10:09:06.937550+00:00",
+  "generated_at_utc": "2026-05-04T10:09:07.514646+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 52,
+  "games_processed": 54,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -46,7 +46,7 @@
       "home_score": 109,
       "road_score": 97,
       "winner": "home",
-      "excitement_factor": 3.1834490263712976,
+      "excitement_factor": 3.18344902637129,
       "comeback_factor": 0.5807683520017073,
       "possession_changes": 193,
       "min_home_win_prob": 0.4192316479982927,
@@ -616,7 +616,7 @@
       "home_score": 126,
       "road_score": 97,
       "winner": "home",
-      "excitement_factor": 1.2253526444129599,
+      "excitement_factor": 1.2253526444129592,
       "comeback_factor": 0.5372358740324714,
       "possession_changes": 194,
       "min_home_win_prob": 0.46276412596752853,
@@ -766,7 +766,7 @@
       "home_score": 78,
       "road_score": 98,
       "winner": "road",
-      "excitement_factor": 1.0896412611005313,
+      "excitement_factor": 1.0896412611005302,
       "comeback_factor": 0.5931030057950104,
       "possession_changes": 184,
       "min_home_win_prob": 0.0,
@@ -786,6 +786,36 @@
       "possession_changes": 185,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.5282294209309081
+    },
+    {
+      "game_id": "0042500107",
+      "game_date": "2026-05-03",
+      "game_type": "playoffs",
+      "home_team": "DET",
+      "road_team": "ORL",
+      "home_score": 116,
+      "road_score": 94,
+      "winner": "home",
+      "excitement_factor": 1.809932307211719,
+      "comeback_factor": 0.6137572141198295,
+      "possession_changes": 185,
+      "min_home_win_prob": 0.3862427858801705,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500137",
+      "game_date": "2026-05-03",
+      "game_type": "playoffs",
+      "home_team": "CLE",
+      "road_team": "TOR",
+      "home_score": 114,
+      "road_score": 102,
+      "winner": "home",
+      "excitement_factor": 1.7906368801169439,
+      "comeback_factor": 0.7497820116881939,
+      "possession_changes": 197,
+      "min_home_win_prob": 0.250217988311806,
+      "max_home_win_prob": 1.0
     }
   ]
 }
