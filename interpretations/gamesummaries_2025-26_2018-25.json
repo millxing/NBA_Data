@@ -6426,6 +6426,16 @@
       "generated_at": "2026-05-04T06:09:48.892785",
       "model": "gpt-5.4",
       "eight_factors": "- Detroit's elite 61% eFG powered the home offense and set the tone in a 22-point win.\n- Orlando's frigid 48% eFG was a major drag on the visitors' attack.\n- Detroit crashed the offensive glass at a 31% clip, creating a steady stream of second-chance opportunities for itself.\n- Orlando's sloppy 83% ball handling gifted Detroit extra possessions via turnovers.\n- Orlando's 29% free-throw rate was a bright spot in defeat, helping the visitors stay connected at the stripe for stretches.\n- Detroit's shaky 85% ball handling was one area that kept them from a cleaner offensive night, coughing up possessions that helped Orlando."
+    },
+    "0042500231": {
+      "generated_at": "2026-05-05T06:13:21.930446",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's shaky 51% eFG was the biggest swing factor, and that inefficient shooting helped Minnesota survive a two-point game.\n- Minnesota's own 51% eFG still wasn't enough to tilt the shot-making battle in its favor, giving San Antonio a modest opening that the home side ultimately couldn't convert.\n- San Antonio's 28% OREB was a bright spot in defeat, creating valuable second-chance opportunities that kept them within striking distance.\n- Minnesota's 13% FT rate meant the visitors rarely got to the stripe, a miss that helped keep San Antonio in the game.\n- Minnesota's 26% OREB gave the road team useful second-chance chances for itself in a game decided on the margins.\n- San Antonio's 16% FT rate was anemic, leaving the home team with very few trips to the line in a two-point loss."
+    },
+    "0042500211": {
+      "generated_at": "2026-05-05T06:13:27.455613",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's scorching 74% eFG was the overwhelming driver of the blowout.\n- Philadelphia's shaky 49% eFG kept the road offense from generating enough efficient scoring.\n- Philadelphia's dismal 81% ball handling gifted New York extra possessions via turnovers.\n- Philadelphia lived at the line with a 37% free-throw rate, a clear bright spot in an otherwise lopsided loss.\n- New York's 29% OREB added a steady stream of second-chance opportunities for itself.\n- Philadelphia's 21% OREB limited its own second-chance opportunities.\n- New York's shaky ball handling gave away some extra possessions, but it barely dented the final margin.\n- New York's anemic 14% free-throw rate showed they did little damage at the stripe despite everything else clicking."
     }
   },
   "decomposition_model_id": "json_contributions"
