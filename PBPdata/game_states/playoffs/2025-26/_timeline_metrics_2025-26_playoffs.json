@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-05-05T10:12:42.804335+00:00",
+  "generated_at_utc": "2026-05-06T10:08:54.153787+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 56,
+  "games_processed": 58,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -361,7 +361,7 @@
       "home_score": 126,
       "road_score": 104,
       "winner": "home",
-      "excitement_factor": 3.2293091651483854,
+      "excitement_factor": 3.2293091651484023,
       "comeback_factor": 0.5751539834330697,
       "possession_changes": 189,
       "min_home_win_prob": 0.4248460165669304,
@@ -846,6 +846,36 @@
       "possession_changes": 191,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.6953104674059771
+    },
+    {
+      "game_id": "0042500201",
+      "game_date": "2026-05-05",
+      "game_type": "playoffs",
+      "home_team": "DET",
+      "road_team": "CLE",
+      "home_score": 111,
+      "road_score": 101,
+      "winner": "home",
+      "excitement_factor": 2.4814727587095686,
+      "comeback_factor": 0.5737130094868603,
+      "possession_changes": 191,
+      "min_home_win_prob": 0.4262869905131397,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500221",
+      "game_date": "2026-05-05",
+      "game_type": "playoffs",
+      "home_team": "OKC",
+      "road_team": "LAL",
+      "home_score": 108,
+      "road_score": 90,
+      "winner": "home",
+      "excitement_factor": 2.1443507867731277,
+      "comeback_factor": 0.6014823318605289,
+      "possession_changes": 184,
+      "min_home_win_prob": 0.39851766813947104,
+      "max_home_win_prob": 1.0
     }
   ]
 }
