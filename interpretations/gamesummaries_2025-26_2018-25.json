@@ -6436,6 +6436,16 @@
       "generated_at": "2026-05-05T06:13:27.455613",
       "model": "gpt-5.4",
       "eight_factors": "- New York's scorching 74% eFG was the overwhelming driver of the blowout.\n- Philadelphia's shaky 49% eFG kept the road offense from generating enough efficient scoring.\n- Philadelphia's dismal 81% ball handling gifted New York extra possessions via turnovers.\n- Philadelphia lived at the line with a 37% free-throw rate, a clear bright spot in an otherwise lopsided loss.\n- New York's 29% OREB added a steady stream of second-chance opportunities for itself.\n- Philadelphia's 21% OREB limited its own second-chance opportunities.\n- New York's shaky ball handling gave away some extra possessions, but it barely dented the final margin.\n- New York's anemic 14% free-throw rate showed they did little damage at the stripe despite everything else clicking."
+    },
+    "0042500221": {
+      "generated_at": "2026-05-06T06:09:32.443903",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' frigid 47% eFG was the biggest four-factor swing of the game, leaving the visitors without enough shot-making to keep pace.\n- Los Angeles' sloppy 81% ball handling gifted Oklahoma City extra possessions via turnovers and fueled the home win.\n- Oklahoma City's efficient 57% eFG gave the home side a major scoring lift.\n- Oklahoma City's shaky 83% ball handling was a bright spot for Los Angeles, as Thunder turnovers gave the visitors extra possessions.\n- Los Angeles' anemic 12% FT rate meant they rarely got to the stripe, another edge that tilted toward Oklahoma City.\n- Oklahoma City's low 13% FT rate kept them off the line and was one area that favored Los Angeles.\n- Los Angeles' 26% OREB kept some second-chance opportunities alive, but it wasn't enough to overcome the broader deficit."
+    },
+    "0042500201": {
+      "generated_at": "2026-05-06T06:09:36.332632",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's sloppy 79% ball handling gifted Detroit a steady stream of extra possessions via turnovers.\n- Detroit crashed the offensive glass at 35% OREB, generating a wave of second-chance opportunities for itself.\n- Detroit's frigid 50% eFG was the main thing keeping Cleveland in the game.\n- Detroit lived at the line with a 32% free-throw rate, adding efficient offense without needing extra shot volume.\n- Cleveland's 28% OREB was a bright spot in defeat, creating some second-chance opportunities, but it wasn't enough to swing the game.\n- Detroit's steady 87% ball handling kept its possessions intact and denied Cleveland easy turnover chances."
     }
   },
   "decomposition_model_id": "json_contributions"
