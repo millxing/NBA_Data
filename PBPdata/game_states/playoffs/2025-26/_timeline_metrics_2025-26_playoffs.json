@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-05-06T10:08:54.153787+00:00",
+  "generated_at_utc": "2026-05-07T10:10:04.958218+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 58,
+  "games_processed": 60,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -286,7 +286,7 @@
       "home_score": 103,
       "road_score": 106,
       "winner": "road",
-      "excitement_factor": 3.3576557463770937,
+      "excitement_factor": 3.357655746377085,
       "comeback_factor": 0.9672904417547218,
       "possession_changes": 196,
       "min_home_win_prob": 0.0,
@@ -301,7 +301,7 @@
       "home_score": 101,
       "road_score": 94,
       "winner": "home",
-      "excitement_factor": 2.8615968271599814,
+      "excitement_factor": 2.8615968271599126,
       "comeback_factor": 0.578854142808966,
       "possession_changes": 176,
       "min_home_win_prob": 0.42114585719103403,
@@ -691,7 +691,7 @@
       "home_score": 106,
       "road_score": 93,
       "winner": "home",
-      "excitement_factor": 1.7164834022584154,
+      "excitement_factor": 1.7164834022584157,
       "comeback_factor": 0.6120631258097629,
       "possession_changes": 198,
       "min_home_win_prob": 0.38793687419023715,
@@ -875,6 +875,36 @@
       "comeback_factor": 0.6014823318605289,
       "possession_changes": 184,
       "min_home_win_prob": 0.39851766813947104,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500212",
+      "game_date": "2026-05-06",
+      "game_type": "playoffs",
+      "home_team": "NYK",
+      "road_team": "PHI",
+      "home_score": 108,
+      "road_score": 102,
+      "winner": "home",
+      "excitement_factor": 3.532424246178368,
+      "comeback_factor": 0.6790243104737486,
+      "possession_changes": 186,
+      "min_home_win_prob": 0.3209756895262514,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500232",
+      "game_date": "2026-05-06",
+      "game_type": "playoffs",
+      "home_team": "SAS",
+      "road_team": "MIN",
+      "home_score": 133,
+      "road_score": 95,
+      "winner": "home",
+      "excitement_factor": 1.0565209647101959,
+      "comeback_factor": 0.5225525132905477,
+      "possession_changes": 220,
+      "min_home_win_prob": 0.4774474867094523,
       "max_home_win_prob": 1.0
     }
   ]
