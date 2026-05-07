@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "data_scope": "garbage_filtered",
-  "generated_at": "2026-05-06T06:09:20",
+  "generated_at": "2026-05-07T06:10:33",
   "games": [
     {
       "game_id": "0022500001",
@@ -228120,6 +228120,360 @@
           "ball_handling": 118.2,
           "orebounding": 55.4,
           "free_throws": 25.6
+        },
+        "league_averages": {
+          "efg": 53.8,
+          "ball_handling": 86.0,
+          "oreb": 23.6,
+          "ft_rate": 20.1,
+          "off_rating": 112.5,
+          "pace": 99.7,
+          "efg_p10": 45.5,
+          "efg_p25": 49.4,
+          "efg_p40": 52.0,
+          "efg_p60": 55.4,
+          "efg_p75": 58.2,
+          "efg_p90": 62.5,
+          "ball_handling_p10": 81.0,
+          "ball_handling_p25": 83.5,
+          "ball_handling_p40": 85.2,
+          "ball_handling_p60": 87.1,
+          "ball_handling_p75": 88.7,
+          "ball_handling_p90": 90.8,
+          "oreb_p10": 14.3,
+          "oreb_p25": 18.4,
+          "oreb_p40": 21.4,
+          "oreb_p60": 25.5,
+          "oreb_p75": 28.6,
+          "oreb_p90": 33.3,
+          "ft_rate_p10": 11.1,
+          "ft_rate_p25": 14.8,
+          "ft_rate_p40": 17.6,
+          "ft_rate_p60": 21.3,
+          "ft_rate_p75": 24.7,
+          "ft_rate_p90": 29.8
+        }
+      },
+      "data_scope": "garbage_filtered"
+    },
+    {
+      "game_id": "0042500212",
+      "game_info": {
+        "road": "PHI",
+        "home": "NYK",
+        "game_date": "2026-05-06",
+        "game_type": "Playoffs"
+      },
+      "linescore": {
+        "road": {
+          "Q1": 33,
+          "Q2": 29,
+          "Q3": 28,
+          "Q4": 12,
+          "OT": 0,
+          "Total": 102,
+          "Minutes": 240,
+          "Possessions": 93
+        },
+        "home": {
+          "Q1": 31,
+          "Q2": 30,
+          "Q3": 28,
+          "Q4": 19,
+          "OT": 0,
+          "Total": 108,
+          "Minutes": 240,
+          "Possessions": 94
+        }
+      },
+      "factors": {
+        "road": [
+          {
+            "factor": "Shooting (eFG%)",
+            "contribution": -0.2,
+            "value": 54.0,
+            "vs_avg": 0.2
+          },
+          {
+            "factor": "Ball Handling",
+            "contribution": 6.3,
+            "value": 80.6,
+            "vs_avg": -5.4
+          },
+          {
+            "factor": "Off Rebounding",
+            "contribution": -2.5,
+            "value": 28.2,
+            "vs_avg": 4.6
+          },
+          {
+            "factor": "Free Throw Rate",
+            "contribution": -2.0,
+            "value": 28.0,
+            "vs_avg": 7.9
+          }
+        ],
+        "home": [
+          {
+            "factor": "Shooting (eFG%)",
+            "contribution": 1.8,
+            "value": 55.1,
+            "vs_avg": 1.3
+          },
+          {
+            "factor": "Ball Handling",
+            "contribution": 0.2,
+            "value": 86.2,
+            "vs_avg": 0.2
+          },
+          {
+            "factor": "Off Rebounding",
+            "contribution": 0.4,
+            "value": 24.3,
+            "vs_avg": 0.7
+          },
+          {
+            "factor": "Free Throw Rate",
+            "contribution": 1.7,
+            "value": 26.6,
+            "vs_avg": 6.5
+          }
+        ]
+      },
+      "ratings": {
+        "road": [
+          {
+            "metric": "Offensive Rating",
+            "value": 109.7,
+            "vs_avg": -2.9
+          },
+          {
+            "metric": "Defensive Rating",
+            "value": 114.9,
+            "vs_avg": 2.4
+          },
+          {
+            "metric": "Net Rating",
+            "value": -5.2,
+            "vs_avg": -5.2
+          },
+          {
+            "metric": "Pace",
+            "value": 93.5,
+            "vs_avg": -6.2
+          }
+        ],
+        "home": [
+          {
+            "metric": "Offensive Rating",
+            "value": 114.9,
+            "vs_avg": 2.4
+          },
+          {
+            "metric": "Defensive Rating",
+            "value": 109.7,
+            "vs_avg": -2.9
+          },
+          {
+            "metric": "Net Rating",
+            "value": 5.2,
+            "vs_avg": 5.2
+          },
+          {
+            "metric": "Pace",
+            "value": 93.5,
+            "vs_avg": -6.2
+          }
+        ]
+      },
+      "model": {
+        "training_games": 20396,
+        "training_start_date": "2018-10-16",
+        "training_end_date": "2026-05-05",
+        "r_squared": 0.928,
+        "intercept": -0.03,
+        "coefficients": {
+          "shooting": 148.6,
+          "ball_handling": 118.2,
+          "orebounding": 55.4,
+          "free_throws": 25.7
+        },
+        "league_averages": {
+          "efg": 53.8,
+          "ball_handling": 86.0,
+          "oreb": 23.6,
+          "ft_rate": 20.1,
+          "off_rating": 112.5,
+          "pace": 99.7,
+          "efg_p10": 45.5,
+          "efg_p25": 49.4,
+          "efg_p40": 52.0,
+          "efg_p60": 55.4,
+          "efg_p75": 58.2,
+          "efg_p90": 62.5,
+          "ball_handling_p10": 81.0,
+          "ball_handling_p25": 83.5,
+          "ball_handling_p40": 85.2,
+          "ball_handling_p60": 87.1,
+          "ball_handling_p75": 88.7,
+          "ball_handling_p90": 90.8,
+          "oreb_p10": 14.3,
+          "oreb_p25": 18.4,
+          "oreb_p40": 21.4,
+          "oreb_p60": 25.5,
+          "oreb_p75": 28.6,
+          "oreb_p90": 33.3,
+          "ft_rate_p10": 11.1,
+          "ft_rate_p25": 14.8,
+          "ft_rate_p40": 17.6,
+          "ft_rate_p60": 21.3,
+          "ft_rate_p75": 24.7,
+          "ft_rate_p90": 29.8
+        }
+      },
+      "data_scope": "garbage_filtered"
+    },
+    {
+      "game_id": "0042500232",
+      "game_info": {
+        "road": "MIN",
+        "home": "SAS",
+        "game_date": "2026-05-06",
+        "game_type": "Playoffs"
+      },
+      "linescore": {
+        "road": {
+          "Q1": 17,
+          "Q2": 18,
+          "Q3": 28,
+          "Q4": 32,
+          "OT": 0,
+          "Total": 95,
+          "Minutes": 122,
+          "Possessions": 54
+        },
+        "home": {
+          "Q1": 24,
+          "Q2": 35,
+          "Q3": 39,
+          "Q4": 35,
+          "OT": 0,
+          "Total": 133,
+          "Minutes": 122,
+          "Possessions": 55
+        }
+      },
+      "factors": {
+        "road": [
+          {
+            "factor": "Shooting (eFG%)",
+            "contribution": 32.6,
+            "value": 31.9,
+            "vs_avg": -21.9
+          },
+          {
+            "factor": "Ball Handling",
+            "contribution": 7.5,
+            "value": 79.6,
+            "vs_avg": -6.4
+          },
+          {
+            "factor": "Off Rebounding",
+            "contribution": 2.7,
+            "value": 18.8,
+            "vs_avg": -4.8
+          },
+          {
+            "factor": "Free Throw Rate",
+            "contribution": 2.4,
+            "value": 10.6,
+            "vs_avg": -9.5
+          }
+        ],
+        "home": [
+          {
+            "factor": "Shooting (eFG%)",
+            "contribution": -5.7,
+            "value": 50.0,
+            "vs_avg": -3.8
+          },
+          {
+            "factor": "Ball Handling",
+            "contribution": 1.5,
+            "value": 87.3,
+            "vs_avg": 1.3
+          },
+          {
+            "factor": "Off Rebounding",
+            "contribution": 1.4,
+            "value": 26.1,
+            "vs_avg": 2.5
+          },
+          {
+            "factor": "Free Throw Rate",
+            "contribution": 2.1,
+            "value": 28.3,
+            "vs_avg": 8.2
+          }
+        ]
+      },
+      "ratings": {
+        "road": [
+          {
+            "metric": "Offensive Rating",
+            "value": 64.8,
+            "vs_avg": -47.7
+          },
+          {
+            "metric": "Defensive Rating",
+            "value": 107.3,
+            "vs_avg": -5.3
+          },
+          {
+            "metric": "Net Rating",
+            "value": -42.5,
+            "vs_avg": -42.5
+          },
+          {
+            "metric": "Pace",
+            "value": 107.2,
+            "vs_avg": 7.5
+          }
+        ],
+        "home": [
+          {
+            "metric": "Offensive Rating",
+            "value": 107.3,
+            "vs_avg": -5.3
+          },
+          {
+            "metric": "Defensive Rating",
+            "value": 64.8,
+            "vs_avg": -47.7
+          },
+          {
+            "metric": "Net Rating",
+            "value": 42.5,
+            "vs_avg": 42.5
+          },
+          {
+            "metric": "Pace",
+            "value": 107.2,
+            "vs_avg": 7.5
+          }
+        ]
+      },
+      "model": {
+        "training_games": 20396,
+        "training_start_date": "2018-10-16",
+        "training_end_date": "2026-05-05",
+        "r_squared": 0.928,
+        "intercept": -0.03,
+        "coefficients": {
+          "shooting": 148.6,
+          "ball_handling": 118.2,
+          "orebounding": 55.4,
+          "free_throws": 25.7
         },
         "league_averages": {
           "efg": 53.8,
