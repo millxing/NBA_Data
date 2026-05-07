@@ -6446,6 +6446,16 @@
       "generated_at": "2026-05-06T06:09:36.332632",
       "model": "gpt-5.4",
       "eight_factors": "- Cleveland's sloppy 79% ball handling gifted Detroit a steady stream of extra possessions via turnovers.\n- Detroit crashed the offensive glass at 35% OREB, generating a wave of second-chance opportunities for itself.\n- Detroit's frigid 50% eFG was the main thing keeping Cleveland in the game.\n- Detroit lived at the line with a 32% free-throw rate, adding efficient offense without needing extra shot volume.\n- Cleveland's 28% OREB was a bright spot in defeat, creating some second-chance opportunities, but it wasn't enough to swing the game.\n- Detroit's steady 87% ball handling kept its possessions intact and denied Cleveland easy turnover chances."
+    },
+    "0042500212": {
+      "generated_at": "2026-05-07T06:10:44.991667",
+      "model": "gpt-5.4",
+      "eight_factors": "- Philadelphia's sloppy 81% ball handling gifted New York extra possessions via turnovers, a major swing in a six-point game.\n- Philadelphia crashed the offensive glass at 28% OREB, creating second-chance opportunities for itself and keeping the pressure on New York.\n- Philadelphia lived at the line with a 28% free-throw rate, a key source of offense that kept the visitors within reach.\n- New York's efficient 55% eFG gave the home side a needed scoring lift.\n- New York got to the stripe often with a 27% free-throw rate, helping fuel enough offense to close out the win."
+    },
+    "0042500232": {
+      "generated_at": "2026-05-07T06:10:48.823373",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's frigid 45% eFG was the biggest driver of San Antonio's blowout win.\n- San Antonio's efficient 59% eFG powered the home side offensively from the outset.\n- Minnesota's sloppy 80% ball handling gifted San Antonio extra possessions via turnovers.\n- San Antonio crashed the offensive glass at a 30% clip, creating a steady stream of second-chance opportunities for itself.\n- San Antonio's 30% free-throw rate kept pressure on the game by getting the home team to the stripe consistently."
     }
   },
   "decomposition_model_id": "json_contributions"
