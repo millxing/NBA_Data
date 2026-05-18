@@ -6516,6 +6516,21 @@
       "generated_at": "2026-05-14T06:11:14.297600",
       "model": "gpt-5.4",
       "eight_factors": "- Cleveland\u2019s dominant 34% offensive rebound rate created a steady stream of second-chance opportunities and was a major driver of the road win.\n- Detroit\u2019s frigid 50% eFG was the biggest offensive drag on the home side and a central reason they came up short.\n- Detroit\u2019s 33% offensive rebound rate was a bright spot in defeat, generating valuable second-chance looks that kept them in the game.\n- Cleveland lived at the line with a 39% free-throw rate, giving the visitors a crucial scoring lift.\n- Cleveland\u2019s sloppy 83% ball handling gifted Detroit extra possessions via turnovers, but it wasn\u2019t enough to swing the result.\n- Detroit\u2019s shaky 85% ball handling also hurt, as turnovers gave away too many possessions in a four-point loss."
+    },
+    "0042500206": {
+      "generated_at": "2026-05-18T06:09:54.256848",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's elite 62% eFG was the game's biggest driver, as the visitors scorched their own looks throughout the blowout.\n- Cleveland's frigid 47% eFG was a defining problem, leaving the home offense without enough efficient scoring.\n- Cleveland's shaky 79% ball handling compounded the damage, as turnovers gifted Detroit extra possessions.\n- Detroit crashed the offensive glass at 35% OREB, creating a steady stream of second-chance opportunities for itself.\n- Cleveland's 35% OREB was a bright spot in defeat, generating extra chances even as the rest of the offense sputtered.\n- Detroit's sloppy 81% ball handling gave Cleveland some extra possessions, but it wasn't nearly enough to change the game.\n- Cleveland's 29% FT rate was another positive in a loss, with the home side drawing fouls and getting to the stripe at a healthy clip.\n- Detroit's shaky 16% FT rate meant the visitors rarely got to the line, a minor area that still favored Cleveland."
+    },
+    "0042500236": {
+      "generated_at": "2026-05-18T06:10:01.168293",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's elite 66% eFG was the biggest driver of the rout, as the visitors scored with ruthless efficiency all night.\n- Minnesota's frigid 43% eFG was the home side's clearest undoing, leaving too many possessions empty.\n- Minnesota's elite 95% ball handling was a bright spot in defeat, as they took care of the ball and denied San Antonio extra possessions via turnovers.\n- San Antonio crashed the offensive glass at a dominant 38% OREB, generating a steady stream of second-chance opportunities for itself.\n- Minnesota's dismal 16% OREB left the home team with almost no second-chance looks of its own.\n- San Antonio's shaky 85% ball handling still helped Minnesota a bit, with the visitors coughing up enough turnovers to gift the home side a few extra possessions.\n- San Antonio lived at the line with a 26% FT rate, adding another layer to an already overwhelming offensive night.\n- Minnesota's anemic 16% FT rate meant they rarely got to the stripe."
+    },
+    "0042500207": {
+      "generated_at": "2026-05-18T06:10:05.799828",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's frigid 42% eFG was the game's biggest drag, with their shot-making collapsing in a 31-point home loss.\n- Cleveland's efficient 57% eFG powered the rout and set the tone offensively for the visitors.\n- Cleveland crashed the offensive glass at 31% OREB, creating a steady stream of second-chance opportunities for itself.\n- Cleveland lived at the line with a 33% free-throw rate, adding another major scoring lever in the blowout.\n- Detroit's strong 26% free-throw rate was a rare bright spot in defeat, helping them generate points without enough support elsewhere.\n- Detroit's shaky ball handling gave Cleveland extra possessions via turnovers.\n- Cleveland's steady 87% ball handling kept possessions secure and denied Detroit extra opportunities.\n- Detroit's 22% OREB left them with limited second-chance opportunities for themselves."
     }
   },
   "decomposition_model_id": "json_contributions"
