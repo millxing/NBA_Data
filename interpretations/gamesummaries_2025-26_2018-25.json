@@ -6531,6 +6531,11 @@
       "generated_at": "2026-05-18T06:10:05.799828",
       "model": "gpt-5.4",
       "eight_factors": "- Detroit's frigid 42% eFG was the game's biggest drag, with their shot-making collapsing in a 31-point home loss.\n- Cleveland's efficient 57% eFG powered the rout and set the tone offensively for the visitors.\n- Cleveland crashed the offensive glass at 31% OREB, creating a steady stream of second-chance opportunities for itself.\n- Cleveland lived at the line with a 33% free-throw rate, adding another major scoring lever in the blowout.\n- Detroit's strong 26% free-throw rate was a rare bright spot in defeat, helping them generate points without enough support elsewhere.\n- Detroit's shaky ball handling gave Cleveland extra possessions via turnovers.\n- Cleveland's steady 87% ball handling kept possessions secure and denied Detroit extra opportunities.\n- Detroit's 22% OREB left them with limited second-chance opportunities for themselves."
+    },
+    "0042500311": {
+      "generated_at": "2026-05-19T06:08:59.393907",
+      "model": "gpt-5.4",
+      "eight_factors": "- Oklahoma City's frigid 49% eFG was the biggest drag on the home side and a major reason the offense stalled in a seven-point loss.\n- San Antonio's sloppy 80% ball handling gifted Oklahoma City extra possessions via turnovers, a bright spot for the home team that wasn't enough to swing the result.\n- San Antonio crashed the offensive glass at 33% OREB, creating a steady stream of second-chance opportunities for itself.\n- San Antonio's 50% eFG wasn't overwhelming, but Oklahoma City still benefited from the visitors' shaky shooting enough to keep the game tight.\n- Oklahoma City's dismal 16% OREB left it with almost no second-chance opportunities for itself.\n- San Antonio lived at the line with a 28% FT rate, giving the visitors a meaningful scoring lift.\n- Oklahoma City's 16% FT rate reflected how rarely it got to the stripe, another factor that hurt the home offense."
     }
   },
   "decomposition_model_id": "json_contributions"
