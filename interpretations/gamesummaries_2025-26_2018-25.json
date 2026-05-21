@@ -6541,6 +6541,11 @@
       "generated_at": "2026-05-20T06:09:10.843373",
       "model": "gpt-5.4",
       "eight_factors": "- Cleveland's frigid 49% eFG was the biggest four-factor swing, and New York capitalized on the visitors' poor shooting all night.\n- Cleveland's sloppy 81% ball handling gifted New York extra possessions via turnovers, another major driver of the home win.\n- New York's own shaky 83% ball handling was the main thing that kept Cleveland within reach, as the home side gave away too many possessions.\n- New York's 24% free-throw rate gave the home team a modest boost by getting them to the stripe often enough."
+    },
+    "0042500312": {
+      "generated_at": "2026-05-21T06:09:04.517762",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's sloppy 78% ball handling gifted Oklahoma City extra possessions via turnovers and swung a major part of the game.\n- San Antonio crashed the offensive glass at 40% OREB, creating a steady stream of second-chance opportunities for itself, but it wasn't enough to overcome the loss.\n- Oklahoma City attacked the offensive glass at 37% OREB, repeatedly extending its own trips with second-chance chances.\n- San Antonio's efficient 58% eFG kept the visitors within range, but Oklahoma City still had the answers.\n- Oklahoma City's clean 90% ball handling kept possessions secure and denied San Antonio extra opportunities.\n- Oklahoma City shot a solid 55% eFG, adding another layer to an offense that produced 122 points."
     }
   },
   "decomposition_model_id": "json_contributions"
