@@ -6551,6 +6551,11 @@
       "generated_at": "2026-05-22T06:09:06.765181",
       "model": "gpt-5.4",
       "eight_factors": "- Cleveland's frigid 44% eFG was the biggest driver of New York's win, as the visitors simply couldn't convert efficiently.\n- New York's elite 59% eFG powered the offense and set the tone in a 16-point home win.\n- New York's clean 91% ball handling kept possessions secure and denied Cleveland extra chances.\n- Cleveland's own 91% ball handling was a bright spot in defeat, helping the visitors avoid giveaways and stay organized offensively.\n- New York's dismal 15% OREB left the home side with almost no second-chance opportunities for itself.\n- New York's anemic 9% FT rate meant the home team rarely got to the stripe.\n- Cleveland's 27% OREB kept the visitors supplied with some second-chance opportunities, but it wasn't enough to swing the game.\n- Cleveland's strong 28% FT rate was another bright spot in defeat, with the visitors getting to the line far more often than most losing teams manage."
+    },
+    "0042500313": {
+      "generated_at": "2026-05-23T06:08:04.437887",
+      "model": "gpt-5.4",
+      "eight_factors": "- Oklahoma City's efficient 59% eFG was the biggest offensive driver in the road win.\n- San Antonio's shaky 51% eFG was a major weakness and left the home side chasing the game.\n- Oklahoma City lived at the line with a 35% free-throw rate, a major source of offense in the win.\n- San Antonio's strong 34% free-throw rate was a bright spot in defeat, but it wasn't enough to overcome the larger gaps.\n- Oklahoma City's clean 89% ball handling kept its possessions secure and denied San Antonio extra opportunities.\n- Oklahoma City's 20% OREB limited its own second-chance opportunities, one of the few areas that tilted toward San Antonio.\n- San Antonio's shaky 85% ball handling gifted Oklahoma City extra possessions via turnovers.\n- San Antonio's 21% OREB meant the home team generated few second-chance opportunities for itself."
     }
   },
   "decomposition_model_id": "json_contributions"
