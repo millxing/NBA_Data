@@ -6556,6 +6556,11 @@
       "generated_at": "2026-05-23T06:08:04.437887",
       "model": "gpt-5.4",
       "eight_factors": "- Oklahoma City's efficient 59% eFG was the biggest offensive driver in the road win.\n- San Antonio's shaky 51% eFG was a major weakness and left the home side chasing the game.\n- Oklahoma City lived at the line with a 35% free-throw rate, a major source of offense in the win.\n- San Antonio's strong 34% free-throw rate was a bright spot in defeat, but it wasn't enough to overcome the larger gaps.\n- Oklahoma City's clean 89% ball handling kept its possessions secure and denied San Antonio extra opportunities.\n- Oklahoma City's 20% OREB limited its own second-chance opportunities, one of the few areas that tilted toward San Antonio.\n- San Antonio's shaky 85% ball handling gifted Oklahoma City extra possessions via turnovers.\n- San Antonio's 21% OREB meant the home team generated few second-chance opportunities for itself."
+    },
+    "0042500303": {
+      "generated_at": "2026-05-24T10:13:12.452486",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's blistering 63% eFG was the biggest driver of the road win.\n- Cleveland's sloppy 82% ball handling gifted New York extra possessions via turnovers.\n- Cleveland's efficient 57% eFG was a bright spot in defeat, but it wasn't enough to overcome New York's shot-making.\n- New York lived at the line with a 31% free-throw rate, another key boost for the visitors.\n- New York's shaky 85% ball handling still helped Cleveland by coughing up extra possessions.\n- Cleveland's anemic 14% free-throw rate meant they rarely got to the stripe."
     }
   },
   "decomposition_model_id": "json_contributions"
