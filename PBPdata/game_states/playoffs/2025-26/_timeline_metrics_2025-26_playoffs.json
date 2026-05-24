@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-05-23T10:07:26.453324+00:00",
+  "generated_at_utc": "2026-05-24T14:09:05.641037+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 80,
+  "games_processed": 81,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -361,7 +361,7 @@
       "home_score": 126,
       "road_score": 104,
       "winner": "home",
-      "excitement_factor": 3.229309165148378,
+      "excitement_factor": 3.2293091651483854,
       "comeback_factor": 0.5751539834330697,
       "possession_changes": 189,
       "min_home_win_prob": 0.4248460165669304,
@@ -766,7 +766,7 @@
       "home_score": 78,
       "road_score": 98,
       "winner": "road",
-      "excitement_factor": 1.0896412611005302,
+      "excitement_factor": 1.0896412611005313,
       "comeback_factor": 0.5931030057950104,
       "possession_changes": 184,
       "min_home_win_prob": 0.0,
@@ -916,7 +916,7 @@
       "home_score": 107,
       "road_score": 97,
       "winner": "home",
-      "excitement_factor": 3.0887800271216213,
+      "excitement_factor": 3.08878002712163,
       "comeback_factor": 0.5921446473660501,
       "possession_changes": 178,
       "min_home_win_prob": 0.40785535263394995,
@@ -1021,7 +1021,7 @@
       "home_score": 114,
       "road_score": 109,
       "winner": "home",
-      "excitement_factor": 3.202350041631493,
+      "excitement_factor": 3.2023500416315542,
       "comeback_factor": 0.8478948686081287,
       "possession_changes": 198,
       "min_home_win_prob": 0.15210513139187135,
@@ -1206,6 +1206,21 @@
       "possession_changes": 190,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.7307552444012145
+    },
+    {
+      "game_id": "0042500303",
+      "game_date": "2026-05-23",
+      "game_type": "playoffs",
+      "home_team": "CLE",
+      "road_team": "NYK",
+      "home_score": 108,
+      "road_score": 121,
+      "winner": "road",
+      "excitement_factor": 2.293339083095014,
+      "comeback_factor": 0.5113561038002339,
+      "possession_changes": 193,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5113561038002339
     }
   ]
 }
