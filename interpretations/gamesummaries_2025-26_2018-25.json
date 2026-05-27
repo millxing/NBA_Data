@@ -6571,6 +6571,11 @@
       "generated_at": "2026-05-26T06:09:46.737257",
       "model": "gpt-5.4",
       "eight_factors": "- New York's dominant 43% offensive rebound rate was the biggest driver, creating a steady stream of second-chance opportunities for the visitors.\n- Cleveland's dismal 78% ball handling gifted New York extra possessions via turnovers and deepened the blowout.\n- Cleveland's frigid 13% offensive rebound rate left them with almost no second-chance opportunities for themselves.\n- Cleveland's shaky 49% eFG sent their offense into long stretches of inefficient shooting.\n- New York's efficient 59% eFG kept the visitors in complete control offensively.\n- New York's anemic 15% free-throw rate mattered on the margins, as they rarely got to the stripe."
+    },
+    "0042500315": {
+      "generated_at": "2026-05-27T06:09:47.867809",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's frigid 47% eFG was the biggest swing of the night, leaving the visitors without enough shot-making to keep pace.\n- Oklahoma City's 35% offensive rebound rate was a major driver, repeatedly creating second-chance opportunities for the home side.\n- Oklahoma City lived at the line with a 40% free-throw rate, adding steady offense beyond its half-court shooting.\n- Oklahoma City's efficient 57% eFG gave the Thunder a strong scoring foundation from the floor.\n- San Antonio's 31% offensive rebound rate kept the visitors competitive by generating extra chances for themselves, but it wasn't enough to overcome the final margin.\n- Oklahoma City's shaky ball handling at 83% gifted San Antonio extra possessions via turnovers.\n- San Antonio's 30% free-throw rate was another bright spot in defeat, as the Spurs consistently got to the stripe.\n- San Antonio's inconsistent 85% ball handling also helped Oklahoma City, with turnovers handing the home team extra possessions."
     }
   },
   "decomposition_model_id": "json_contributions"
