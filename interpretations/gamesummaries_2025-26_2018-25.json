@@ -6581,6 +6581,11 @@
       "generated_at": "2026-05-29T12:58:43.232326",
       "model": "gpt-5.4",
       "eight_factors": "- Oklahoma City's frigid 43% eFG was the biggest driver of San Antonio's blowout win.\n- Oklahoma City's anemic 12% free-throw rate meant they rarely got to the stripe, another major swing toward San Antonio.\n- San Antonio's 55% eFG gave the home side efficient offense throughout.\n- San Antonio's 27% OREB created a steady stream of second-chance opportunities.\n- Oklahoma City's clean 87% ball handling was a small bright spot in defeat, keeping their possessions relatively secure.\n- San Antonio's 87% ball handling helped keep turnovers in check.\n- San Antonio's 24% free-throw rate added extra scoring chances at the line."
+    },
+    "0042500317": {
+      "generated_at": "2026-05-31T07:29:12.884258",
+      "model": "gpt-5.4",
+      "eight_factors": "- Oklahoma City's shaky 52% eFG was a major drag, and that cold shooting helped San Antonio seize control.\n- San Antonio crashed the offensive glass at 35% OREB, creating a steady stream of second-chance opportunities for itself.\n- Oklahoma City's 29% OREB was a bright spot in defeat, generating extra chances that kept them within reach.\n- San Antonio's efficient 55% eFG helped power the road win.\n- Oklahoma City's loose ball security gave possessions away at the wrong times and helped San Antonio.\n- San Antonio's clean 87% ball handling kept possessions secure and denied Oklahoma City extra opportunities.\n- San Antonio's anemic 16% FT rate meant the visitors rarely got to the stripe, a small break for Oklahoma City."
     }
   },
   "decomposition_model_id": "json_contributions"
