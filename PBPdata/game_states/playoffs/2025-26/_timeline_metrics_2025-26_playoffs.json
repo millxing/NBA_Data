@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-05-30T10:01:33.186475+00:00",
+  "generated_at_utc": "2026-05-31T11:28:41.035662+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 85,
+  "games_processed": 86,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -1281,6 +1281,21 @@
       "possession_changes": 196,
       "min_home_win_prob": 0.5,
       "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0042500317",
+      "game_date": "2026-05-30",
+      "game_type": "playoffs",
+      "home_team": "OKC",
+      "road_team": "SAS",
+      "home_score": 103,
+      "road_score": 111,
+      "winner": "road",
+      "excitement_factor": 2.854858766002228,
+      "comeback_factor": 0.6090145089406286,
+      "possession_changes": 184,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.6090145089406286
     }
   ]
 }
