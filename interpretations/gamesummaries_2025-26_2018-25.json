@@ -6586,6 +6586,11 @@
       "generated_at": "2026-05-31T07:29:12.884258",
       "model": "gpt-5.4",
       "eight_factors": "- Oklahoma City's shaky 52% eFG was a major drag, and that cold shooting helped San Antonio seize control.\n- San Antonio crashed the offensive glass at 35% OREB, creating a steady stream of second-chance opportunities for itself.\n- Oklahoma City's 29% OREB was a bright spot in defeat, generating extra chances that kept them within reach.\n- San Antonio's efficient 55% eFG helped power the road win.\n- Oklahoma City's loose ball security gave possessions away at the wrong times and helped San Antonio.\n- San Antonio's clean 87% ball handling kept possessions secure and denied Oklahoma City extra opportunities.\n- San Antonio's anemic 16% FT rate meant the visitors rarely got to the stripe, a small break for Oklahoma City."
+    },
+    "0042500401": {
+      "generated_at": "2026-06-04T07:04:47.859767",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's frigid 42% eFG was the game's biggest drag, and New York rode that shooting collapse to the road win.\n- New York's clean 91% ball handling kept possessions secure and denied San Antonio extra opportunities.\n- New York's shaky 20% OREB limited its own second-chance opportunities, a small opening San Antonio couldn't turn into enough offense.\n- San Antonio's 26% OREB was a bright spot in defeat, creating some second-chance chances for itself.\n- San Antonio's steady ball handling helped keep turnovers from becoming a larger problem."
     }
   },
   "decomposition_model_id": "json_contributions"
