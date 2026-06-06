@@ -1,10 +1,10 @@
 {
   "season": "2025-26",
   "phase": "playoffs",
-  "generated_at_utc": "2026-06-05T10:01:39.103305+00:00",
+  "generated_at_utc": "2026-06-06T10:01:43.257611+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/playoffs/2025-26",
   "source": "parquet",
-  "games_processed": 87,
+  "games_processed": 88,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -1311,6 +1311,21 @@
       "possession_changes": 197,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.9117645619395542
+    },
+    {
+      "game_id": "0042500402",
+      "game_date": "2026-06-05",
+      "game_type": "playoffs",
+      "home_team": "SAS",
+      "road_team": "NYK",
+      "home_score": 104,
+      "road_score": 105,
+      "winner": "road",
+      "excitement_factor": 3.1282340642607958,
+      "comeback_factor": 0.7495276255041747,
+      "possession_changes": 193,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.7495276255041747
     }
   ]
 }
