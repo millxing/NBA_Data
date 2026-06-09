@@ -6596,6 +6596,11 @@
       "generated_at": "2026-06-06T06:02:15.290767",
       "model": "gpt-5.4",
       "eight_factors": "- San Antonio's dismal 13% OREB left them with almost no second-chance opportunities, a major swing in New York's one-point win.\n- New York's shaky 50% eFG kept the visitors from separating, but their inefficient shooting still helped San Antonio stay within a possession.\n- San Antonio's sloppy 84% ball handling gifted New York extra possessions via turnovers.\n- New York's loose 85% ball handling also handed San Antonio extra opportunities, a bright spot the home side couldn't fully cash in.\n- New York's 21% OREB limited its own second-chance production and gave San Antonio some breathing room.\n- San Antonio's 24% FT rate was a small bright spot in defeat, as they still found their way to the stripe.\n- San Antonio's 55% eFG was an efficient offensive note, but it wasn't enough to overcome the turnover and offensive-rebounding gaps."
+    },
+    "0042500403": {
+      "generated_at": "2026-06-09T06:02:20.179366",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's elite 91% ball handling was the biggest driver, as the visitors protected the ball and denied New York extra possessions.\n- San Antonio's dismal 15% OREB left them with almost no second-chance opportunities, a major opening New York couldn't fully turn into a win.\n- New York's strong 28% OREB was a bright spot in defeat, creating valuable second-chance opportunities for the home side.\n- San Antonio lived at the line with a 30% FT rate, a key support factor in the road win.\n- New York's 53% eFG was merely steady, and that shooting efficiency gap still tilted the game toward San Antonio."
     }
   },
   "decomposition_model_id": "json_contributions"
