@@ -6606,6 +6606,11 @@
       "generated_at": "2026-06-11T06:02:17.202155",
       "model": "gpt-5.4",
       "eight_factors": "- San Antonio's shaky 52% eFG left points on the table, a major swing in New York's one-point escape.\n- New York's efficient 56% eFG was the clearest offensive boost in a game decided by a single point.\n- New York's sloppy 84% ball handling gifted San Antonio extra possessions via turnovers and nearly swung the result.\n- San Antonio crashed the offensive glass at 28%, creating valuable second-chance opportunities for itself and keeping the pressure on.\n- New York's 26% free-throw rate helped fuel just enough offense to survive the finish.\n- New York's 21% OREB limited its own second-chance opportunities.\n- San Antonio's steady 87% ball handling kept possessions secure and denied New York extra chances."
+    },
+    "0042500405": {
+      "generated_at": "2026-06-14T06:02:19.243147",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's frigid 43% eFG still wasn't enough to sink them, but San Antonio's even colder 45% eFG was the game's biggest offensive problem.\n- San Antonio's strong 29% OREB was a bright spot in defeat, creating second-chance opportunities that kept the game tight.\n- New York crashed the offensive glass at 28% OREB, generating useful second-chance chances for itself in a low-scoring win.\n- San Antonio's anemic 14% FT rate meant it rarely got to the stripe, a meaningful drag in a four-point loss.\n- New York's shaky 85% ball handling gifted San Antonio extra possessions via turnovers, but the visitors overcame it."
     }
   },
   "decomposition_model_id": "json_contributions"
