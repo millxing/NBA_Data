@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "phase": "regular",
-  "generated_at_utc": "2026-06-16T10:01:30.160294+00:00",
+  "generated_at_utc": "2026-06-17T10:01:35.313918+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2025-26",
   "source": "parquet",
   "games_processed": 1231,
