@@ -1,0 +1,5 @@
+game_id,game_date,season,team_id_home,team_abbreviation_home,minutes_home,possessions_home,team_id_road,team_abbreviation_road,minutes_road,possessions_road
+0022600001,2026-10-20,2026-27,1610612765,DET,5,2.0,1610612738,BOS,5,0.0
+0022600002,2026-10-20,2026-27,1610612752,NYK,17,6.0,1610612755,PHI,17,8.0
+0022600085,2026-10-21,2026-27,1610612753,ORL,21,10.0,1610612737,ATL,21,9.0
+0022600090,2026-10-21,2026-27,1610612740,NOP,24,13.0,1610612754,IND,24,12.0
