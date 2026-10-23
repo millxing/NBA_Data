@@ -71,6 +71,16 @@
       "generated_at": "2026-10-22T15:51:56.706864",
       "model": "gpt-5.4",
       "eight_factors": "- Sacramento's frigid 47% eFG was a central reason the road offense never got going.\n- Los Angeles shot a blistering 61% eFG, the clearest driver of the home blowout.\n- Los Angeles' sloppy ball handling gifted Sacramento extra possessions via turnovers, a rare blemish in an otherwise comfortable win.\n- Sacramento's loose ball security also helped Los Angeles, as the visitors' 84% ball handling gave away too many possessions.\n- Los Angeles' 26% OREB created useful second-chance opportunities for the home side.\n- Los Angeles got to the line at a 26% free-throw rate, adding another steady source of offense."
+    },
+    "0022600006": {
+      "generated_at": "2026-10-23T06:00:37.012143",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's frigid 49% eFG was a major swing factor toward Philadelphia.\n- Philadelphia overcame its own shaky 50% eFG, but the home shooting still stood out as a weakness in a win.\n- Cleveland's sloppy 81% ball handling gifted Philadelphia extra possessions via turnovers.\n- Philadelphia's 20% OREB left them with very few second-chance opportunities for themselves.\n- Philadelphia's loose 85% ball handling gave Cleveland extra possessions and kept the visitors in the game.\n- Philadelphia's 25% free-throw rate helped offset other offensive issues by getting the home side to the stripe.\n- Cleveland's 24% free-throw rate was a bright spot in defeat, giving the visitors some needed scoring relief at the line."
+    },
+    "0022600007": {
+      "generated_at": "2026-10-23T06:00:41.006987",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's frigid 43% eFG was the biggest driver of Oklahoma City's win, as the visitors simply could not score efficiently.\n- Oklahoma City's own 44% eFG was a major weakness even in victory, but Denver couldn't capitalize on it.\n- Denver's sloppy 77% ball handling gifted Oklahoma City extra possessions via turnovers.\n- Denver crashed the offensive glass at 39%, creating a steady stream of second-chance opportunities for itself, but it wasn't enough to overcome the rest of the damage.\n- Oklahoma City generated extra chances for itself with a strong 32% OREB.\n- Oklahoma City's 14% free-throw rate was another drag on its offense, with the home side rarely getting to the stripe."
     }
   },
   "decomposition_model_id": "json_contributions"
