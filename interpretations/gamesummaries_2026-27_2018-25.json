@@ -211,6 +211,11 @@
       "generated_at": "2026-10-26T10:14:27.026710",
       "model": "gpt-5.4",
       "eight_factors": "- Memphis' 39% OREB was the biggest swing in the game, as the visitors repeatedly created second-chance opportunities for themselves.\n- Sacramento's 31% OREB was a bright spot in defeat, with the home side generating plenty of extra chances on its own misses.\n- Sacramento's 52% eFG wasn't enough to keep pace, as their shot-making still tilted this game toward Memphis.\n- Memphis matched that 52% eFG, and that steady shooting helped the visitors maintain control.\n- Memphis' clean 87% ball handling kept possessions secure and denied Sacramento extra opportunities.\n- Sacramento's anemic 15% FT rate meant they rarely got to the stripe.\n- Memphis' 25% FT rate gave the visitors another boost, with consistent trips to the line helping them finish the road win."
+    },
+    "0022600114": {
+      "generated_at": "2026-10-26T10:19:02.799944",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's frigid 46% eFG was the game's biggest swing, with their offense never finding efficient shots.\n- Orlando's sloppy 84% ball handling gifted New York extra possessions via turnovers, a bright spot for the home side in defeat.\n- New York's shaky 84% ball handling gave Orlando extra possessions and added to the home team's offensive problems.\n- Orlando's 53% eFG kept the visitors efficient enough offensively, and it helped power the road win."
     }
   },
   "decomposition_model_id": "json_contributions"
