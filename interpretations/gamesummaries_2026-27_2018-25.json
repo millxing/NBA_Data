@@ -261,6 +261,26 @@
       "generated_at": "2026-10-27T06:01:46.071802",
       "model": "gpt-5.4",
       "eight_factors": "- Golden State's blistering 67% eFG was the game's biggest driver, powering the visitors' offense in a runaway win.\n- Golden State crashed the offensive glass at 37% OREB, creating a steady stream of second-chance opportunities for itself.\n- Golden State's sloppy 81% ball handling gifted Denver extra possessions via turnovers, but it wasn't nearly enough to swing the result.\n- Denver's efficient 56% eFG was a bright spot in defeat and helped keep the offense productive.\n- Denver's 88% ball handling kept possessions secure and denied Golden State additional turnover chances.\n- Denver's 24% FT rate got them to the stripe at a healthy clip, a smaller positive that wasn't enough to overcome Golden State's shot-making."
+    },
+    "0022600129": {
+      "generated_at": "2026-10-28T06:00:47.572198",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's frigid 48% eFG was a major driver of New York's win, with the visitors struggling to score efficiently.\n- New York crashed the offensive glass at a dominant 39% OREB, creating a steady stream of second-chance opportunities for itself.\n- New York's shaky 50% eFG was the biggest thing keeping Detroit within reach, even in a comfortable home win.\n- New York's sloppy 81% ball handling gifted Detroit extra possessions via turnovers, a clear blemish in an otherwise strong result.\n- Detroit's strong 33% OREB kept the visitors competitive by generating second-chance opportunities for themselves.\n- New York lived at the line with a 26% FT rate, adding needed offense around a mediocre shooting night.\n- Detroit's anemic 16% FT rate meant the visitors rarely got to the stripe, further tilting the game toward New York."
+    },
+    "0022600130": {
+      "generated_at": "2026-10-28T06:00:52.961386",
+      "model": "gpt-5.4",
+      "eight_factors": "- San Antonio's elite 64% eFG was the biggest driver of the blowout, as the home side scored with ruthless efficiency all night.\n- Sacramento's shaky 50% eFG also tilted the game toward San Antonio, with the visitors unable to generate enough shot-making to keep pace.\n- Sacramento's dismal 11% FT rate helped bury them further, as they rarely got to the stripe.\n- San Antonio's 27% OREB added another layer, creating valuable second-chance opportunities for the home side.\n- Sacramento's sloppy 85% ball handling gifted San Antonio extra possessions via turnovers.\n- Sacramento's 26% OREB was a bright spot in defeat, with the visitors still creating some second-chance opportunities for themselves."
+    },
+    "0022600128": {
+      "generated_at": "2026-10-28T06:00:57.033488",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's frigid 51% eFG was the biggest drag on its profile and nearly swung the game to Brooklyn.\n- Boston's 32% free-throw rate was a major counterweight, with the home side drawing fouls and living at the line.\n- Brooklyn's 55% eFG kept the visitors highly efficient and was a major reason this stayed a one-point game.\n- Boston's clean ball handling helped steady the win, as the home team protected possessions and avoided giving Brooklyn extra chances."
+    },
+    "0022600131": {
+      "generated_at": "2026-10-28T06:01:02.435484",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's blistering 71% eFG was the biggest driver of the win, as the visitors scored with elite efficiency all night.\n- Los Angeles' own 67% eFG was a major bright spot in defeat, keeping them in an offense-heavy game even though it wasn't enough to overcome Portland.\n- Los Angeles' dismal 16% OREB left them with very few second-chance opportunities for themselves.\n- Portland lived at the line with a 33% FT rate, another key factor that helped power the road win.\n- Los Angeles' 28% FT rate was a bright spot in defeat, with the home side getting to the stripe regularly.\n- Los Angeles' shaky 85% ball handling cost them extra possessions with turnovers.\n- Portland's 22% OREB limited its own second-chance opportunities, a smaller factor that helped Los Angeles."
     }
   },
   "decomposition_model_id": "json_contributions"
