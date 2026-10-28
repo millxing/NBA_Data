@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-10-27T10:00:53.305743+00:00",
+  "generated_at_utc": "2026-10-28T10:00:27.629020+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 52,
+  "games_processed": 56,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -786,6 +786,66 @@
       "possession_changes": 186,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.6459265655429017
+    },
+    {
+      "game_id": "0022600128",
+      "game_date": "2026-10-27",
+      "game_type": "regular_season",
+      "home_team": "BOS",
+      "road_team": "BKN",
+      "home_score": 125,
+      "road_score": 124,
+      "winner": "home",
+      "excitement_factor": 4.31611597415075,
+      "comeback_factor": 0.8821403038411444,
+      "possession_changes": 218,
+      "min_home_win_prob": 0.1178596961588556,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600129",
+      "game_date": "2026-10-27",
+      "game_type": "regular_season",
+      "home_team": "NYK",
+      "road_team": "DET",
+      "home_score": 111,
+      "road_score": 97,
+      "winner": "home",
+      "excitement_factor": 1.6478256060752168,
+      "comeback_factor": 0.78769944398609,
+      "possession_changes": 195,
+      "min_home_win_prob": 0.21230055601390993,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600130",
+      "game_date": "2026-10-27",
+      "game_type": "regular_season",
+      "home_team": "SAS",
+      "road_team": "SAC",
+      "home_score": 130,
+      "road_score": 103,
+      "winner": "home",
+      "excitement_factor": 1.0886657274936145,
+      "comeback_factor": 0.5164450896784556,
+      "possession_changes": 194,
+      "min_home_win_prob": 0.48355491032154435,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600131",
+      "game_date": "2026-10-27",
+      "game_type": "regular_season",
+      "home_team": "LAL",
+      "road_team": "POR",
+      "home_score": 129,
+      "road_score": 136,
+      "winner": "road",
+      "excitement_factor": 3.6893109305314122,
+      "comeback_factor": 0.8299413214149447,
+      "possession_changes": 202,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.8299413214149447
     }
   ]
 }
