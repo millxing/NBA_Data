@@ -2,3 +2,4 @@ game_id,game_date,season,game_type,neutral_site,team_id_home,team_abbreviation_h
 0022600110,2026-10-24,2026-27,regular_season,False,1610612743,DEN,Denver Nuggets,1610612740,NOP,New Orleans Pelicans,15,9,W,4,9,0.444,1,5,0.2,6,8,0.75,3,9,12,1,0,2,1,6,6,1,11,0.091,0,3,0.0,7,9,0.778,3,3,6,0,1,0,0,5,-6
 0022600120,2026-10-26,2026-27,regular_season,False,1610612739,CLE,Cleveland Cavaliers,1610612750,MIN,Minnesota Timberwolves,14,12,W,4,8,0.5,1,5,0.2,5,5,1.0,1,6,7,1,0,2,2,3,2,4,12,0.333,3,7,0.429,1,4,0.25,4,3,7,2,2,0,1,5,-2
 0022600128,2026-10-27,2026-27,regular_season,False,1610612738,BOS,Boston Celtics,1610612751,BKN,Brooklyn Nets,8,7,W,2,10,0.2,0,3,0.0,4,4,1.0,2,4,6,2,0,1,0,2,1,3,11,0.273,1,6,0.167,0,0,0.0,2,6,8,1,0,3,1,3,-1
+0022600141,2026-10-28,2026-27,regular_season,False,1610612762,UTA,Utah Jazz,1610612759,SAS,San Antonio Spurs,6,12,L,2,7,0.286,2,4,0.5,0,0,0.0,1,3,4,1,0,1,4,2,-6,5,9,0.556,0,2,0.0,2,2,1.0,1,4,5,3,4,0,1,1,6
