@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-10-29T10:01:02.366861+00:00",
+  "generated_at_utc": "2026-10-30T10:00:25.699991+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 68,
+  "games_processed": 71,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -1026,6 +1026,51 @@
       "possession_changes": 193,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.6140768052043234
+    },
+    {
+      "game_id": "0022600144",
+      "game_date": "2026-10-29",
+      "game_type": "regular_season",
+      "home_team": "ATL",
+      "road_team": "CLE",
+      "home_score": 114,
+      "road_score": 111,
+      "winner": "home",
+      "excitement_factor": 3.137900419289085,
+      "comeback_factor": 0.8261928839165547,
+      "possession_changes": 194,
+      "min_home_win_prob": 0.17380711608344535,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600145",
+      "game_date": "2026-10-29",
+      "game_type": "regular_season",
+      "home_team": "NOP",
+      "road_team": "SAC",
+      "home_score": 132,
+      "road_score": 120,
+      "winner": "home",
+      "excitement_factor": 2.0866677234587416,
+      "comeback_factor": 0.6585244808266157,
+      "possession_changes": 233,
+      "min_home_win_prob": 0.3414755191733842,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600146",
+      "game_date": "2026-10-29",
+      "game_type": "regular_season",
+      "home_team": "POR",
+      "road_team": "MEM",
+      "home_score": 103,
+      "road_score": 124,
+      "winner": "road",
+      "excitement_factor": 2.4411981079091265,
+      "comeback_factor": 0.7187523095260856,
+      "possession_changes": 204,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.7187523095260856
     }
   ]
 }
