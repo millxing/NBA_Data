@@ -341,6 +341,21 @@
       "generated_at": "2026-10-29T06:02:05.755185",
       "model": "gpt-5.4",
       "eight_factors": "- Clippers' frigid 42% eFG was the biggest driver of the loss, with their shot-making never giving the offense a chance to stabilize.\n- Clippers' shaky 75% ball handling repeatedly cost them possessions, a massive swing in a 16-point defeat.\n- Lakers' dominant 37% offensive rebound rate created a steady stream of second-chance opportunities for the visitors.\n- Lakers' sloppy 79% ball handling gifted the Clippers extra possessions, a bright spot the home side couldn't turn into a comeback.\n- Lakers' 50% eFG wasn't spectacular, but their inefficient shooting still left points on the table and helped the Clippers stay within reach.\n- Clippers lived at the line with a 34% free-throw rate, one of the few offensive areas that kept them competitive.\n- Lakers' 30% free-throw rate showed they still got to the stripe consistently, helping fuel the road win.\n- Clippers' 28% offensive rebound rate gave them some useful second-chance chances, but it wasn't enough to overcome everything else."
+    },
+    "0022600144": {
+      "generated_at": "2026-10-30T06:00:48.752212",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland protected the ball at an elite 91% ball-handling rate, keeping possessions secure and denying Atlanta extra opportunities.\n- Cleveland's shaky 51% eFG was a major reason Atlanta came out on top, as the visitors never found efficient shooting.\n- Atlanta's clean 89% ball handling helped fuel the win by limiting giveaways and keeping its offense on schedule.\n- Atlanta crashed the offensive glass at a strong 29% OREB, creating valuable second-chance opportunities for itself.\n- At just 19% OREB, Cleveland generated few second-chance opportunities for itself, a miss that tilted the game toward Atlanta.\n- Free throws were scarce for Atlanta, which posted an anemic 14% FT rate in a weakness that kept Cleveland within reach.\n- Shooting was a bright spot in defeat for Atlanta, whose 53% eFG kept the home side productive even if it wasn't their biggest separator.\n- Cleveland lived at the line with a 25% FT rate, a plus for the visitors that wasn't enough to overcome Atlanta's edge elsewhere."
+    },
+    "0022600145": {
+      "generated_at": "2026-10-30T06:00:55.697796",
+      "model": "gpt-5.4",
+      "eight_factors": "- New Orleans' elite 65% eFG was the game's biggest driver, powering the home offense throughout the win.\n- Sacramento's sloppy 78% ball handling gifted New Orleans extra possessions via turnovers, a major swing in a 12-point result.\n- Even in defeat, Sacramento shot an efficient 59% eFG, keeping the visitors competitive before other areas gave way.\n- Second-chance chances were scarce for New Orleans at a dismal 13% OREB, a clear weak spot that wasn't enough to derail the win.\n- Ball security hurt the Pelicans too: their shaky 82% ball handling handed Sacramento extra possessions.\n- Sacramento generated few second-chance opportunities for itself, posting just 18% OREB.\n- New Orleans added another smaller boost by getting to the line often, finishing with a 26% FT rate."
+    },
+    "0022600146": {
+      "generated_at": "2026-10-30T06:01:02.099039",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 47% eFG was the game's biggest drag, leaving the home side chasing offense all night in a lopsided loss.\n- Memphis crashed the offensive glass at an elite 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Clean 89% ball handling from Memphis kept its possessions intact and denied Portland extra chances off turnovers.\n- Portland's shaky ball handling also fed the road win, as an 84% mark meant too many empty possessions via turnovers.\n- A rare weakness for Memphis came at the stripe, where an anemic 12% FT rate limited its trips to the line.\n- Memphis shot a solid 55% eFG, another plus that kept the visitors comfortably in control."
     }
   },
   "decomposition_model_id": "json_contributions"
