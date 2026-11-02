@@ -441,6 +441,26 @@
       "generated_at": "2026-11-01T06:01:29.351393",
       "model": "gpt-5.4",
       "eight_factors": "- Oklahoma City's frigid 49% eFG was the biggest four-factor swing, a major reason the road offense never found enough efficiency.\n- Houston protected the ball with strong 89% ball handling, keeping possessions secure and denying Oklahoma City extra opportunities.\n- Crashing the offensive glass at 29% OREB, Houston created a steady stream of second-chance opportunities for itself.\n- Houston's efficient 56% eFG added another clear edge in a home win.\n- Sloppy 85% ball handling from Oklahoma City gifted Houston extra possessions via turnovers."
+    },
+    "0022600156": {
+      "generated_at": "2026-11-02T06:00:51.980129",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's blistering 66% eFG was the game's biggest driver, powering the home side's offensive edge.\n- Los Angeles generated plenty of second-chance opportunities for itself with a 30% OREB, a key reason the visitors stayed within reach.\n- On the other side of the glass, Golden State's 28% OREB created extra chances for itself and added to the winning margin.\n- At just 12% FT rate, Golden State rarely got to the stripe, one area that worked against them despite the win.\n- The Clippers' shaky 52% eFG also tilted this toward Golden State, as the visitors simply didn't shoot well enough.\n- Ball security was a mild drag on Golden State, with 85% ball handling gifting Los Angeles some extra possessions via turnovers."
+    },
+    "0022600154": {
+      "generated_at": "2026-11-02T06:00:56.991066",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's sloppy 81% ball handling was the game's biggest swing, gifting Boston extra possessions via turnovers.\n- Shooting was a major problem for Orlando, which managed just a shaky 51% eFG in defeat.\n- Orlando's 33% OREB was a bright spot, creating plenty of second-chance opportunities that kept them competitive.\n- Boston also crashed the offensive glass at 32% OREB, generating second-chance chances for itself that helped fuel the road win.\n- The Celtics lived at the line with a 26% FT rate, adding another edge that Orlando couldn't overcome.\n- Boston's frigid 51% eFG was one area that favored Orlando, but it wasn't enough to change the result."
+    },
+    "0022600155": {
+      "generated_at": "2026-11-02T06:01:04.064388",
+      "model": "gpt-5.4",
+      "eight_factors": "- Shooting was Indiana's defining problem: a shaky 49% eFG weighed heavily in the home loss.\n- Brooklyn's sloppy 80% ball handling gifted Indiana extra possessions via turnovers, a bright spot that wasn't enough for the home side.\n- At 50% eFG, Brooklyn was hardly explosive, but its shooting inefficiency still worked in Indiana's favor rather than driving the road win.\n- Brooklyn lived at the line with a 34% FT rate, a meaningful edge that helped power the road victory.\n- Indiana's poor 84% ball handling gave Brooklyn extra possessions and added to the home team's offensive issues.\n- Indiana's 30% FT rate kept them in the game by getting to the stripe frequently, but it wasn't enough to overcome the broader offensive struggles.\n- Second-chance chances were limited for both sides, and Indiana's 20% OREB left the home team with little extra offense.\n- Brooklyn also generated few second-chance looks for itself, posting the same 20% OREB and leaving that area as another small plus for Indiana."
+    },
+    "0022600157": {
+      "generated_at": "2026-11-02T06:01:09.272884",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' elite 65% eFG was the biggest driver of the win, with the home side scoring with ruthless efficiency.\n- Turnovers were Toronto's clearest path to staying in it, as Los Angeles' shaky 77% ball handling gifted the visitors extra possessions.\n- Toronto crashed the offensive glass at a dominant 38% OREB, creating a steady stream of second-chance opportunities for itself that kept the game tight.\n- Living at the stripe also helped Los Angeles, which posted a strong 34% free-throw rate.\n- A frigid 51% eFG from Toronto worked in Los Angeles' favor, as the road team couldn't match the home side's shot-making.\n- Los Angeles added a smaller boost on the offensive glass, grabbing 27% of its own misses to manufacture extra chances for itself."
     }
   },
   "decomposition_model_id": "json_contributions"
