@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-05T11:01:19.595964+00:00",
+  "generated_at_utc": "2026-11-06T11:00:22.297447+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 121,
+  "games_processed": 123,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -1821,6 +1821,36 @@
       "possession_changes": 217,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.9511459990951149
+    },
+    {
+      "game_id": "0022600187",
+      "game_date": "2026-11-05",
+      "game_type": "regular_season",
+      "home_team": "PHX",
+      "road_team": "ORL",
+      "home_score": 117,
+      "road_score": 104,
+      "winner": "home",
+      "excitement_factor": 1.5472380670425503,
+      "comeback_factor": 0.5989656861269375,
+      "possession_changes": 198,
+      "min_home_win_prob": 0.4010343138730626,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600188",
+      "game_date": "2026-11-05",
+      "game_type": "regular_season",
+      "home_team": "GSW",
+      "road_team": "MIA",
+      "home_score": 120,
+      "road_score": 100,
+      "winner": "home",
+      "excitement_factor": 2.0367907280062316,
+      "comeback_factor": 0.675986028174423,
+      "possession_changes": 204,
+      "min_home_win_prob": 0.32401397182557695,
+      "max_home_win_prob": 1.0
     }
   ]
 }
