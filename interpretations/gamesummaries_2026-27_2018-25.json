@@ -606,6 +606,16 @@
       "generated_at": "2026-11-05T06:02:59.504608",
       "model": "gpt-5.4",
       "eight_factors": "- Miami's frigid 48% eFG was the game's biggest swing, but that shooting struggle still wasn't enough for Los Angeles to pull out the win.\n- Los Angeles generated almost no second-chance offense, with a dismal 14% OREB leaving them short on extra chances for themselves.\n- Ball security was a major separator for Miami, whose strong 89% ball handling denied Los Angeles extra possessions.\n- Despite the loss, Los Angeles shot an efficient 57% eFG and that hot shooting kept them within a point.\n- Sloppy 82% ball handling hurt Los Angeles, as the turnovers handed Miami extra possessions.\n- Los Angeles also struggled to get to the stripe, posting an anemic 16% FT rate."
+    },
+    "0022600187": {
+      "generated_at": "2026-11-06T06:00:43.445975",
+      "model": "gpt-5.4",
+      "eight_factors": "- Phoenix\u2019s elite 62% eFG was the game\u2019s biggest swing, powering the home side\u2019s offense throughout.\n- Orlando's sloppy 75% ball handling gifted Phoenix extra possessions via turnovers, a massive factor in the result.\n- Orlando crashed the offensive glass at a dominant 36% OREB, creating a steady stream of second-chance opportunities for itself, but it wasn't enough to overcome Phoenix.\n- Phoenix generated almost no second-chance offense for itself, posting a dismal 15% OREB.\n- Even in defeat, Orlando's efficient 56% eFG kept the visitors within reach for stretches.\n- Phoenix rarely got to the stripe, managing an anemic 12% FT rate.\n- With shaky 85% ball handling, Phoenix coughed up possessions and gave Orlando extra opportunities.\n- Orlando also struggled to get to the line, finishing with a modest 16% FT rate."
+    },
+    "0022600188": {
+      "generated_at": "2026-11-06T06:00:50.476709",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's elite 63% eFG was the game's biggest driver, powering the home side's offensive efficiency.\n- Miami shot a shaky 48% eFG, and that cold shooting kept the visitors from mounting real pressure.\n- Ball security tilted sharply toward Golden State because Miami's sloppy 79% ball handling gifted the home team extra possessions.\n- Even in a comfortable win, Golden State's own ball handling was loose at 82%, coughing up possessions and giving Miami a lane to stay afloat for stretches.\n- Second-chance creation was scarce for Golden State at 19% OREB, a minor drag despite the final margin.\n- Miami also struggled to create extra looks for itself, managing just 20% OREB on its own misses.\n- Getting to the stripe was a quiet plus for the home team, with Golden State posting a strong 25% free-throw rate."
     }
   },
   "decomposition_model_id": "json_contributions"
