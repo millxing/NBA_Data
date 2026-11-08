@@ -661,6 +661,26 @@
       "generated_at": "2026-11-07T06:01:48.202918",
       "model": "gpt-5.4",
       "eight_factors": "- Portland's elite 65% eFG kept the visitors humming offensively, but it wasn't enough to carry them through.\n- At just 76% ball handling, Portland was sloppy with the ball and gifted the Lakers a stream of extra possessions via turnovers.\n- Los Angeles crashed the offensive glass at a dominant 37% OREB, creating a steady supply of second-chance opportunities for itself.\n- The Lakers' shaky 51% eFG was a major drag, with inefficient shooting helping Portland stay in the game.\n- Portland lived at the line with a dominant 39% FT rate, a crucial boost that kept the road side competitive.\n- Clean 89% ball handling from Los Angeles kept possessions secure and denied Portland extra opportunities.\n- The Lakers also drew fouls consistently, posting a strong 31% FT rate and adding needed scoring at the stripe.\n- Portland's 26% OREB gave the road team another source of extra chances for itself, a smaller edge that still mattered."
+    },
+    "0022600191": {
+      "generated_at": "2026-11-07T23:33:28.440381",
+      "model": "gpt-5.4",
+      "eight_factors": "- New York's dominant 35% OREB was a major driver, creating a steady stream of second-chance opportunities for the visitors.\n- Cleveland shot an even 52% eFG, but that efficiency wasn't enough to overcome New York in the loss.\n- At 50% eFG, New York won despite shaky shooting, surviving a night without much scoring efficiency.\n- Clean 89% ball handling from New York kept possessions secure and denied Cleveland extra opportunities.\n- Cleveland's 88% ball handling was a bright spot in defeat, helping them avoid giveaways and keep possessions alive.\n- Cleveland rarely got to the stripe, posting a dismal 13% FT rate.\n- New York also struggled to draw fouls, finishing with an anemic 14% FT rate, one area that worked in Cleveland's favor."
+    },
+    "0022600189": {
+      "generated_at": "2026-11-07T23:33:32.141326",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver protected the ball at an elite 95% ball-handling rate, denying Indiana extra possessions and supplying the game's biggest four-factor swing.\n- Indiana's dismal 13% OREB left the home side with almost no second-chance opportunities for itself.\n- At 90% ball handling, Indiana was sharp with the ball, a bright spot that kept them competitive in defeat.\n- Indiana rarely got to the stripe, posting an anemic 5% free-throw rate.\n- Denver's shaky 19% OREB meant the visitors generated limited second-chance chances for themselves, one area that helped Indiana.\n- Shooting was also a drag for Indiana, which managed only a steady 53% eFG and couldn't turn it into enough offense.\n- Denver's 51% eFG was inconsistent, another road factor that leaned slightly toward Indiana."
+    },
+    "0022600190": {
+      "generated_at": "2026-11-07T23:33:35.823538",
+      "model": "gpt-5.4",
+      "eight_factors": "- Brooklyn's shaky 79% ball handling was the game's biggest swing, gifting Atlanta extra possessions via turnovers.\n- Atlanta struggled to create efficient offense, shooting a frigid 51% eFG that pushed this game toward Brooklyn.\n- On the other end of the shot-quality battle, Brooklyn's efficient 56% eFG kept the visitors dangerous throughout.\n- Brooklyn crashed the offensive glass at a dominant 38% OREB, generating a steady stream of second-chance opportunities for itself.\n- Clean 89% ball handling from Atlanta helped stabilize the win by keeping possessions secure.\n- Atlanta also found extra chances with a strong 28% OREB, creating useful second-chance opportunities for itself."
+    },
+    "0022600192": {
+      "generated_at": "2026-11-07T23:33:38.926477",
+      "model": "gpt-5.4",
+      "eight_factors": "- Washington's frigid 33% eFG was the game's defining swing, as the visitors simply could not shoot efficiently.\n- Washington also rarely got to the stripe, posting an anemic 10% FT rate that further undercut its offense.\n- Even in the blowout, Washington protected the ball fairly well at 88% ball handling, a small bright spot that wasn't enough to keep them competitive.\n- Oklahoma City added to the margin by forcing little foul pressure of its own, with a shaky 15% FT rate standing out as the lone notable drag on the home side."
     }
   },
   "decomposition_model_id": "json_contributions"
