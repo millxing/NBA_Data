@@ -681,6 +681,21 @@
       "generated_at": "2026-11-07T23:33:38.926477",
       "model": "gpt-5.4",
       "eight_factors": "- Washington's frigid 33% eFG was the game's defining swing, as the visitors simply could not shoot efficiently.\n- Washington also rarely got to the stripe, posting an anemic 10% FT rate that further undercut its offense.\n- Even in the blowout, Washington protected the ball fairly well at 88% ball handling, a small bright spot that wasn't enough to keep them competitive.\n- Oklahoma City added to the margin by forcing little foul pressure of its own, with a shaky 15% FT rate standing out as the lone notable drag on the home side."
+    },
+    "0022600193": {
+      "generated_at": "2026-11-08T06:00:46.811315",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's elite 63% eFG was the biggest driver of the home win, with the Warriors scoring efficiently throughout.\n- Orlando's frigid 46% eFG undercut its upset bid and gave Golden State a major boost.\n- Despite the win, Golden State generated almost no second-chance offense with a dismal 8% OREB.\n- Orlando crashed the offensive glass at a dominant 38% OREB, creating a steady stream of second-chance opportunities for itself and keeping the visitors in it.\n- Ball security was a problem for Golden State, whose shaky 83% ball handling gifted Orlando extra possessions.\n- Golden State also lived at the line, posting a strong 31% FT rate that added needed offense in a close game.\n- Orlando rarely got to the stripe, managing an anemic 13% FT rate.\n- Orlando's steady 87% ball handling was a bright spot in defeat, helping the visitors avoid empty possessions from turnovers."
+    },
+    "0022600194": {
+      "generated_at": "2026-11-08T06:00:51.307344",
+      "model": "gpt-5.4",
+      "eight_factors": "- Houston's frigid 44% eFG was the game's biggest swing, a major reason Phoenix escaped with the win.\n- On the other side of the glass, Houston crashed to a 30% OREB and created a steady stream of second-chance opportunities for itself, keeping the visitors in it.\n- Phoenix's shaky ball handling hurt its own cause, with an 83% mark gifting Houston extra possessions via turnovers.\n- Phoenix rarely got to the stripe, posting an anemic 9% FT rate that stalled a cleaner path to separation.\n- Efficient shot-making still gave Phoenix a lift, as its 55% eFG provided an important offensive boost in a tight game.\n- Houston's own ball security was also an issue; an 85% ball-handling mark handed Phoenix a few extra possessions."
+    },
+    "0022600195": {
+      "generated_at": "2026-11-08T06:00:55.501524",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 47% eFG was the game's biggest swing factor, as the home side simply could not convert efficiently.\n- San Antonio crashed the offensive glass at 32% OREB, creating a steady stream of second-chance opportunities for itself.\n- Ball security also tilted toward San Antonio, with Portland's shaky 83% ball handling gifting the visitors extra possessions via turnovers.\n- Getting to the stripe was a bright spot in defeat for Portland, who posted a strong 29% free-throw rate.\n- San Antonio also lived at the line with a 31% free-throw rate, another edge that helped fuel the road win.\n- The visitors' 85% ball handling was still loose enough to help Portland a bit, as San Antonio gave away some possessions with turnovers."
     }
   },
   "decomposition_model_id": "json_contributions"
