@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-07T11:00:50.696590+00:00",
+  "generated_at_utc": "2026-11-08T04:33:08.852275+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 132,
+  "games_processed": 136,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -1986,6 +1986,66 @@
       "possession_changes": 192,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.5441361124429049
+    },
+    {
+      "game_id": "0022600189",
+      "game_date": "2026-11-07",
+      "game_type": "regular_season",
+      "home_team": "IND",
+      "road_team": "DEN",
+      "home_score": 102,
+      "road_score": 114,
+      "winner": "road",
+      "excitement_factor": 1.5878811631690655,
+      "comeback_factor": 0.5715987179600501,
+      "possession_changes": 200,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5715987179600501
+    },
+    {
+      "game_id": "0022600190",
+      "game_date": "2026-11-07",
+      "game_type": "regular_season",
+      "home_team": "ATL",
+      "road_team": "BKN",
+      "home_score": 124,
+      "road_score": 121,
+      "winner": "home",
+      "excitement_factor": 3.429739768222631,
+      "comeback_factor": 0.8641839231937103,
+      "possession_changes": 211,
+      "min_home_win_prob": 0.1358160768062897,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600191",
+      "game_date": "2026-11-07",
+      "game_type": "regular_season",
+      "home_team": "CLE",
+      "road_team": "NYK",
+      "home_score": 97,
+      "road_score": 109,
+      "winner": "road",
+      "excitement_factor": 2.125839110251244,
+      "comeback_factor": 0.6478939036886179,
+      "possession_changes": 178,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.6478939036886179
+    },
+    {
+      "game_id": "0022600192",
+      "game_date": "2026-11-07",
+      "game_type": "regular_season",
+      "home_team": "OKC",
+      "road_team": "WAS",
+      "home_score": 114,
+      "road_score": 75,
+      "winner": "home",
+      "excitement_factor": 1.110381946151627,
+      "comeback_factor": 0.5300098626274972,
+      "possession_changes": 197,
+      "min_home_win_prob": 0.46999013737250284,
+      "max_home_win_prob": 1.0
     }
   ]
 }
