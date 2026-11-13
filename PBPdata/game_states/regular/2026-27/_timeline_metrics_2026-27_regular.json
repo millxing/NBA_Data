@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-12T11:00:57.814124+00:00",
+  "generated_at_utc": "2026-11-13T11:00:32.824250+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 170,
+  "games_processed": 174,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -2555,6 +2555,66 @@
       "comeback_factor": 0.7451885880114715,
       "possession_changes": 197,
       "min_home_win_prob": 0.25481141198852847,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600227",
+      "game_date": "2026-11-12",
+      "game_type": "regular_season",
+      "home_team": "PHI",
+      "road_team": "TOR",
+      "home_score": 123,
+      "road_score": 112,
+      "winner": "home",
+      "excitement_factor": 2.8540852833773562,
+      "comeback_factor": 0.8321317109361683,
+      "possession_changes": 190,
+      "min_home_win_prob": 0.16786828906383164,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600228",
+      "game_date": "2026-11-12",
+      "game_type": "regular_season",
+      "home_team": "WAS",
+      "road_team": "DET",
+      "home_score": 140,
+      "road_score": 144,
+      "winner": "road",
+      "excitement_factor": 4.6097077285514825,
+      "comeback_factor": 0.8794566529050828,
+      "possession_changes": 235,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.8794566529050828
+    },
+    {
+      "game_id": "0022600229",
+      "game_date": "2026-11-12",
+      "game_type": "regular_season",
+      "home_team": "MIN",
+      "road_team": "DAL",
+      "home_score": 133,
+      "road_score": 94,
+      "winner": "home",
+      "excitement_factor": 1.2909509276246975,
+      "comeback_factor": 0.5990353805066886,
+      "possession_changes": 205,
+      "min_home_win_prob": 0.40096461949331136,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600230",
+      "game_date": "2026-11-12",
+      "game_type": "regular_season",
+      "home_team": "PHX",
+      "road_team": "CHA",
+      "home_score": 101,
+      "road_score": 96,
+      "winner": "home",
+      "excitement_factor": 3.3697940724743454,
+      "comeback_factor": 0.6983569578702844,
+      "possession_changes": 187,
+      "min_home_win_prob": 0.30164304212971554,
       "max_home_win_prob": 1.0
     }
   ]
