@@ -851,6 +851,26 @@
       "generated_at": "2026-11-12T06:01:58.642808",
       "model": "gpt-5.4",
       "eight_factors": "- Oklahoma City's frigid 48% eFG was the biggest four-factor swing, leaving the visitors short on shooting efficiency.\n- Portland shot an efficient 57% eFG, a central driver of the home win.\n- Oklahoma City crashed the offensive glass at 33% OREB, generating second-chance opportunities for itself and keeping the game competitive.\n- Portland's shaky 82% ball handling gifted Oklahoma City extra possessions via turnovers, the Thunder's clearest boost in defeat.\n- Getting to the stripe mattered too: Portland posted a 31% FT rate and consistently drew fouls.\n- Oklahoma City's sloppy 84% ball handling handed Portland extra possessions.\n- The Thunder also lived at the line with a 26% FT rate, a smaller bright spot that wasn't enough to overcome their larger deficits.\n- Portland added a modest lift on the offensive glass, turning a 26% OREB into extra chances for itself."
+    },
+    "0022600227": {
+      "generated_at": "2026-11-13T06:00:56.123064",
+      "model": "gpt-5.4",
+      "eight_factors": "- Philadelphia's elite 60% eFG powered the home offense and set the tone in a 123-point night.\n- Clean 90% ball handling from Philadelphia kept possessions secure and denied Toronto extra chances through turnovers.\n- Toronto's dismal 17% OREB left the visitors with almost no second-chance opportunities for themselves.\n- Shooting remained a bright spot in defeat for Toronto, which still posted an efficient 56% eFG.\n- Toronto also protected the ball fairly well at 88% ball handling, but that wasn't enough to overcome Philadelphia's stronger overall edge.\n- Philadelphia chipped in on the offensive glass as well, turning a 27% OREB into extra opportunities for itself."
+    },
+    "0022600228": {
+      "generated_at": "2026-11-13T06:01:02.624815",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit protected the ball at a strong 90% ball-handling rate, denying Washington extra possessions and giving the visitors a major boost.\n- Living at the line was huge for Detroit, which posted an elite 33% free-throw rate and kept pressure on with frequent trips to the stripe.\n- Detroit's efficient 56% eFG kept the offense humming and was a central driver of the road win.\n- Washington's 29% offensive rebound rate was a bright spot in defeat, creating useful second-chance opportunities for the home side.\n- Efficient shot-making from Washington showed up in a 56% eFG, helping keep this one tight despite the loss.\n- Detroit also generated extra chances for itself with a 27% OREB, adding another layer to its offensive edge.\n- Washington's shaky 85% ball handling hurt, as turnovers gifted Detroit extra possessions.\n- Washington still got to the line at a healthy 26% free-throw rate, a positive that wasn't enough to overcome Detroit's advantages."
+    },
+    "0022600229": {
+      "generated_at": "2026-11-13T06:01:08.722959",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's blistering 66% eFG was the game's biggest driver, powering the home rout.\n- Dallas shot a frigid 44% eFG, a massive offensive drag that played straight into Minnesota's hands.\n- Sloppy Dallas ball handling at 82% gifted Minnesota extra possessions via turnovers.\n- Minnesota's own 84% ball handling was a weak spot even in the blowout, coughing up possessions and giving Dallas some extra chances.\n- Dallas rarely got to the stripe, posting an anemic 12% FT rate that further stalled its offense.\n- Minnesota also struggled to draw fouls, managing just a 16% FT rate, but that shortcoming barely mattered in a 39-point win."
+    },
+    "0022600230": {
+      "generated_at": "2026-11-13T06:01:14.817043",
+      "model": "gpt-5.4",
+      "eight_factors": "- Charlotte's sloppy 72% ball handling was the game's biggest swing, gifting Phoenix a stream of extra possessions via turnovers.\n- Charlotte crashed the offensive glass at 41% OREB, creating a major second-chance source for itself that kept the visitors competitive.\n- Shooting was a real drag on Phoenix's offense: a frigid 48% eFG was their biggest weakness in a win.\n- Phoenix protected the ball at an elite 92% ball-handling rate, keeping its possessions secure and denying Charlotte extra chances.\n- At 50% eFG, Charlotte shot efficiently enough to give itself a bright spot in defeat, but it wasn't enough to overcome the turnover gap.\n- Second-chance offense was scarce for Phoenix, which managed just 20% OREB on its own misses.\n- Phoenix rarely got to the stripe, posting an anemic 13% free-throw rate."
     }
   },
   "decomposition_model_id": "json_contributions"
