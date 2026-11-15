@@ -916,6 +916,31 @@
       "generated_at": "2026-11-14T06:01:48.149626",
       "model": "gpt-5.4",
       "eight_factors": "- Portland's efficient 59% eFG was the biggest driver of the road win, powering the visitors' offense throughout.\n- Portland lived at the line with a 38% free-throw rate, a major scoring lever in the 13-point win.\n- At just 17% OREB, Portland generated few second-chance opportunities for itself, but that shortcoming wasn't enough to derail the road victory.\n- Sacramento's shaky 52% eFG was a central problem, leaving the home side short on shooting efficiency.\n- Sacramento's 19% OREB left them with limited second-chance opportunities, another drag in the loss.\n- Ball security was a rare bright spot for Sacramento, whose 87% ball handling helped them keep possessions intact.\n- Portland's sloppy 83% ball handling gifted Sacramento extra possessions via turnovers, but it wasn't enough to swing the game."
+    },
+    "0022600233": {
+      "generated_at": "2026-11-15T06:01:02.125029",
+      "model": "gpt-5.4",
+      "eight_factors": "- Detroit's frigid 46% eFG was the game's biggest swing, with the visitors unable to score efficiently.\n- Miami's blistering 60% eFG powered the home side's offensive control from the outset.\n- Detroit crashed the offensive glass at a 38% OREB clip, a real bright spot in defeat that created plenty of second-chance chances for itself.\n- On the other side of the glass, Miami's 35% OREB kept extra possessions flowing and added to the separation.\n- Miami also lived at the line with a 38% free-throw rate, another major driver of the runaway win.\n- Detroit's 29% free-throw rate kept them in some contact by generating trips to the stripe, but it wasn't enough to overcome Miami's bigger edges."
+    },
+    "0022600234": {
+      "generated_at": "2026-11-15T06:01:06.346717",
+      "model": "gpt-5.4",
+      "eight_factors": "- Memphis shot an elite 62% eFG, the biggest driver behind a 129-point night.\n- Brooklyn crashed the offensive glass at 40% OREB, creating a steady stream of second-chance opportunities for itself, but it wasn't enough to overcome the loss.\n- On the other end of the same factor, Memphis posted a dominant 35% OREB and repeatedly extended its own possessions.\n- Brooklyn's shaky ball handling at 83% gifted Memphis extra possessions via turnovers.\n- The Nets rarely got to the stripe, finishing with an anemic 12% FT rate.\n- Memphis added another layer at the line with a strong 25% FT rate.\n- Brooklyn's 53% eFG was a bright spot in defeat and helped keep the offense afloat."
+    },
+    "0022600231": {
+      "generated_at": "2026-11-15T06:01:10.236693",
+      "model": "gpt-5.4",
+      "eight_factors": "- New Orleans' frigid 49% eFG was the game's biggest swing, as their own shooting efficiency came up short in a loss.\n- Denver lived at the line with a dominant 35% free-throw rate, a major driver of the road win.\n- Clean 89% ball handling was a bright spot for New Orleans, helping them protect possessions and stay within range.\n- At 55% eFG, Denver shot efficiently enough to provide another meaningful boost offensively."
+    },
+    "0022600232": {
+      "generated_at": "2026-11-15T06:01:14.501361",
+      "model": "gpt-5.4",
+      "eight_factors": "- Cleveland's elite 62% eFG set the tone in the win, powering the home side's most important four-factor advantage.\n- Dallas protected the ball at an excellent 92% ball-handling rate, denying Cleveland extra possessions and keeping the visitors within range.\n- At a shaky 50% eFG, Dallas never found efficient enough shooting, and that shortfall pushed the game toward Cleveland.\n- Crashing the offensive glass at 33% OREB, Cleveland created a steady stream of second-chance opportunities for itself.\n- Sloppy 83% ball handling hurt Cleveland even in victory, as turnovers gifted Dallas extra possessions.\n- Dallas lived at the line with a 27% free-throw rate, a bright spot in defeat that wasn't enough to overcome Cleveland's bigger edges."
+    },
+    "0022600235": {
+      "generated_at": "2026-11-15T06:01:17.512715",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's frigid 47% eFG was the game's biggest swing, as the home side simply didn't shoot well enough.\n- Chicago's sloppy 82% ball handling gifted Minnesota extra possessions via turnovers, a bright spot that wasn't enough for the home team.\n- At 57% eFG, Chicago shot efficiently, a major driver of the road win.\n- Chicago also crashed the offensive glass at 28% OREB, creating useful second-chance opportunities for itself."
     }
   },
   "decomposition_model_id": "json_contributions"
