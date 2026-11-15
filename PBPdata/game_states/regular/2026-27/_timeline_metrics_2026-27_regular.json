@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-14T11:00:51.226412+00:00",
+  "generated_at_utc": "2026-11-15T11:00:36.597139+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 183,
+  "games_processed": 188,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -2751,6 +2751,81 @@
       "possession_changes": 195,
       "min_home_win_prob": 0.13421636872729106,
       "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600231",
+      "game_date": "2026-11-14",
+      "game_type": "regular_season",
+      "home_team": "NOP",
+      "road_team": "DEN",
+      "home_score": 108,
+      "road_score": 116,
+      "winner": "road",
+      "excitement_factor": 2.19596521148955,
+      "comeback_factor": 0.5389614176556169,
+      "possession_changes": 202,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5389614176556169
+    },
+    {
+      "game_id": "0022600232",
+      "game_date": "2026-11-14",
+      "game_type": "regular_season",
+      "home_team": "CLE",
+      "road_team": "DAL",
+      "home_score": 127,
+      "road_score": 117,
+      "winner": "home",
+      "excitement_factor": 1.6472686971822266,
+      "comeback_factor": 0.5762146111852051,
+      "possession_changes": 200,
+      "min_home_win_prob": 0.42378538881479494,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600233",
+      "game_date": "2026-11-14",
+      "game_type": "regular_season",
+      "home_team": "MIA",
+      "road_team": "DET",
+      "home_score": 137,
+      "road_score": 117,
+      "winner": "home",
+      "excitement_factor": 2.12796305330221,
+      "comeback_factor": 0.6117531229017528,
+      "possession_changes": 204,
+      "min_home_win_prob": 0.3882468770982473,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600234",
+      "game_date": "2026-11-14",
+      "game_type": "regular_season",
+      "home_team": "MEM",
+      "road_team": "BKN",
+      "home_score": 129,
+      "road_score": 110,
+      "winner": "home",
+      "excitement_factor": 1.418516058006165,
+      "comeback_factor": 0.5387104844840367,
+      "possession_changes": 191,
+      "min_home_win_prob": 0.4612895155159633,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600235",
+      "game_date": "2026-11-14",
+      "game_type": "regular_season",
+      "home_team": "MIN",
+      "road_team": "CHI",
+      "home_score": 106,
+      "road_score": 117,
+      "winner": "road",
+      "excitement_factor": 2.3842413713049333,
+      "comeback_factor": 0.5637062224356947,
+      "possession_changes": 206,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5637062224356947
     }
   ]
 }
