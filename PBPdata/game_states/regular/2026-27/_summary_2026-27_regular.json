@@ -1,7 +1,7 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-16T11:00:48.966831+00:00",
+  "generated_at_utc": "2026-11-17T11:00:46.380690+00:00",
   "pbp_source_file": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/nbastatsv3/regular/nbastatsv3_2026.parquet",
   "pbp_source": "nbastatsv3",
   "fallback_source_file": "",
@@ -9,15 +9,17 @@
   "fallback_source_games_used": 0,
   "output_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "candidate_games": 1,
-  "processed_games": 1,
+  "processed_games": 0,
   "skipped_existing_games": 0,
-  "matched_games": 1,
+  "matched_games": 0,
   "mismatched_games": 0,
   "source_consistent_mismatched_games": 0,
   "parser_mismatched_games": 0,
   "mixed_mismatched_games": 0,
-  "missing_pbp_games": 0,
-  "missing_pbp_game_ids": [],
+  "missing_pbp_games": 1,
+  "missing_pbp_game_ids": [
+    "0022600252"
+  ],
   "pending_pbp_games": 0,
   "pending_pbp_game_ids": [],
   "mismatches": []
