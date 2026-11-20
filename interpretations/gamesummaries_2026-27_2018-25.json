@@ -1111,6 +1111,26 @@
       "generated_at": "2026-11-19T06:02:37.137959",
       "model": "gpt-5.4",
       "eight_factors": "- Phoenix's elite 66% eFG was the game's defining advantage, a scorching shooting night that powered the road rout.\n- Sacramento generated almost no trips to the stripe, and its anemic 13% FT rate left a key scoring avenue empty.\n- At just 19% OREB, Phoenix created few second-chance opportunities for itself, a rare bright spot for Sacramento in the loss.\n- Clean 88% ball handling from Phoenix kept its possessions intact and denied Sacramento extra chances off turnovers.\n- Sacramento's shaky 84% ball handling fed the visitors extra possessions and added to the home side's uphill night."
+    },
+    "0022600270": {
+      "generated_at": "2026-11-20T06:00:57.678375",
+      "model": "gpt-5.4",
+      "eight_factors": "- Golden State's frigid 44% eFG was the game's biggest swing, leaving the visitors unable to generate efficient offense.\n- Sloppy Golden State ball handling also fueled Memphis, as a 77% ball-handling rate gifted the home side extra possessions via turnovers.\n- Memphis piled up second-chance opportunities for itself with a dominant 42% OREB, a major driver of the blowout.\n- Hot shooting from Memphis kept the pressure on all night, with the home team posting an elite 61% eFG.\n- Golden State still found one bright spot on the offensive glass, crashing to a 42% OREB and creating second-chance chances for itself, but it wasn't enough to change the outcome.\n- Memphis hurt itself with shaky ball handling at 81%, coughing up possessions and giving Golden State extra chances.\n- The visitors also lived at the line, putting up a strong 34% FT rate that kept them competitive in that category despite the lopsided final."
+    },
+    "0022600271": {
+      "generated_at": "2026-11-20T06:01:02.568047",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's elite 64% eFG was the game's defining driver, as the visitors torched Milwaukee from the floor in a road win.\n- Milwaukee got extra possessions from Portland's sloppy ball handling; the Trail Blazers managed just 79% ball handling, a bright spot for the home side that wasn't enough to swing the result.\n- Portland lived at the line with a dominant 33% FT rate, another major piece of the road victory.\n- Milwaukee's shaky 84% ball handling gifted Portland extra possessions via turnovers.\n- Crashing the offensive glass at 28% OREB, Portland created useful second-chance opportunities for itself.\n- At 53% eFG, Milwaukee's shooting was merely steady, and that lack of punch still tilted this factor toward Portland."
+    },
+    "0022600272": {
+      "generated_at": "2026-11-20T06:01:07.039500",
+      "model": "gpt-5.4",
+      "eight_factors": "- Second-chance offense was nearly nonexistent for Minnesota, whose dismal 15% OREB left them with very few extra looks in a three-point loss.\n- Minnesota's shaky 82% ball handling hurt badly, as turnovers gifted New York extra possessions.\n- New York's 18% OREB was low enough to help Minnesota, with the visitors generating limited second-chance opportunities for themselves.\n- Sloppy 83% ball handling from New York gave Minnesota some extra possessions, a bright spot the home side couldn't fully cash in.\n- At an anemic 13% FT rate, New York rarely got to the stripe, another area that kept Minnesota within reach.\n- Minnesota's 53% eFG was a solid mark, but it wasn't enough to overcome the ball-security and offensive-rebounding deficits."
+    },
+    "0022600273": {
+      "generated_at": "2026-11-20T06:01:10.718013",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles' elite 60% eFG kept the visitors dangerous, but it wasn't enough to overcome San Antonio.\n- San Antonio shot an efficient 59% eFG, a major driver of the home win.\n- Los Angeles' sloppy 79% ball handling gifted San Antonio extra possessions via turnovers.\n- Despite the win, San Antonio's shaky 80% ball handling handed Los Angeles too many extra possessions.\n- At just 19% OREB, Los Angeles generated few second-chance opportunities for itself.\n- Second-chance looks were also scarce for San Antonio, which managed only 21% OREB.\n- San Antonio added a smaller boost by getting to the stripe at a 24% free-throw rate."
     }
   },
   "decomposition_model_id": "json_contributions"
