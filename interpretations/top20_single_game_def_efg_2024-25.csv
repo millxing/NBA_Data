@@ -1,0 +1,21 @@
+rank,game_date,game_id,game_type,team_abbreviation,team_name,home_road,opponent_abbreviation,opponent_name,def_efg_pct,opp_fgm,opp_fg3m,opp_fga,pts_allowed
+1,2025-01-15,0022400571,regular_season,LAC,LA Clippers,home,BKN,Brooklyn Nets,0.3313,25,5,83,67
+2,2025-03-01,0022400861,regular_season,DET,Detroit Pistons,home,BKN,Brooklyn Nets,0.3368,29,6,95,94
+3,2024-11-15,0022400018,regular_season,OKC,Oklahoma City Thunder,home,PHX,Phoenix Suns,0.3533,22,9,75,83
+4,2025-03-17,0022400987,regular_season,DET,Detroit Pistons,road,NOP,New Orleans Pelicans,0.3547,28,5,86,81
+5,2024-11-10,0022400210,regular_season,MEM,Memphis Grizzlies,road,POR,Portland Trail Blazers,0.3600,34,4,100,89
+6,2025-02-24,0022400825,regular_season,ATL,Atlanta Hawks,home,MIA,Miami Heat,0.3631,27,7,84,86
+7,2024-10-25,0022400084,regular_season,GSW,Golden State Warriors,road,UTA,Utah Jazz,0.3641,29,9,92,86
+8,2024-12-31,0022400449,regular_season,BOS,Boston Celtics,home,TOR,Toronto Raptors,0.3721,27,10,86,71
+9,2025-03-10,0022400934,regular_season,HOU,Houston Rockets,home,ORL,Orlando Magic,0.3721,28,8,86,84
+10,2025-02-22,0022400810,regular_season,POR,Portland Trail Blazers,home,CHA,Charlotte Hornets,0.3724,34,5,98,88
+11,2024-11-25,0022400282,regular_season,MEM,Memphis Grizzlies,home,POR,Portland Trail Blazers,0.3725,34,8,102,98
+12,2025-01-30,0022400674,regular_season,LAL,Los Angeles Lakers,road,WAS,Washington Wizards,0.3736,29,10,91,96
+13,2024-11-03,0022400153,regular_season,DAL,Dallas Mavericks,home,ORL,Orlando Magic,0.3763,31,8,93,85
+14,2024-12-30,0022400446,regular_season,CLE,Cleveland Cavaliers,road,GSW,Golden State Warriors,0.3788,33,9,99,95
+15,2025-02-01,0022400687,regular_season,UTA,Utah Jazz,home,ORL,Orlando Magic,0.3791,30,9,91,99
+16,2024-11-16,0022400232,regular_season,DAL,Dallas Mavericks,home,SAS,San Antonio Spurs,0.3807,28,11,88,93
+17,2025-01-23,0022400622,regular_season,POR,Portland Trail Blazers,road,ORL,Orlando Magic,0.3816,26,6,76,79
+18,2024-11-04,0022400163,regular_season,OKC,Oklahoma City Thunder,home,ORL,Orlando Magic,0.3841,29,5,82,86
+19,2025-03-07,0022400908,regular_season,OKC,Oklahoma City Thunder,home,POR,Portland Trail Blazers,0.3895,33,8,95,89
+20,2024-12-03,0022400057,regular_season,PHX,Phoenix Suns,home,SAS,San Antonio Spurs,0.3900,35,8,100,93
