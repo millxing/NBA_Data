@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-19T11:01:12.442754+00:00",
+  "generated_at_utc": "2026-11-20T11:00:35.051120+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 222,
+  "games_processed": 226,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -3336,6 +3336,66 @@
       "possession_changes": 197,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.5426676260520409
+    },
+    {
+      "game_id": "0022600270",
+      "game_date": "2026-11-19",
+      "game_type": "regular_season",
+      "home_team": "MEM",
+      "road_team": "GSW",
+      "home_score": 126,
+      "road_score": 98,
+      "winner": "home",
+      "excitement_factor": 1.434410530233134,
+      "comeback_factor": 0.506341503351105,
+      "possession_changes": 190,
+      "min_home_win_prob": 0.493658496648895,
+      "max_home_win_prob": 1.0
+    },
+    {
+      "game_id": "0022600271",
+      "game_date": "2026-11-19",
+      "game_type": "regular_season",
+      "home_team": "MIL",
+      "road_team": "POR",
+      "home_score": 114,
+      "road_score": 124,
+      "winner": "road",
+      "excitement_factor": 3.6770083915248324,
+      "comeback_factor": 0.7096468189823376,
+      "possession_changes": 206,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.7096468189823376
+    },
+    {
+      "game_id": "0022600272",
+      "game_date": "2026-11-19",
+      "game_type": "regular_season",
+      "home_team": "MIN",
+      "road_team": "NYK",
+      "home_score": 99,
+      "road_score": 102,
+      "winner": "road",
+      "excitement_factor": 2.3684722045659212,
+      "comeback_factor": 0.5965860251282352,
+      "possession_changes": 188,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5965860251282352
+    },
+    {
+      "game_id": "0022600273",
+      "game_date": "2026-11-19",
+      "game_type": "regular_season",
+      "home_team": "SAS",
+      "road_team": "LAC",
+      "home_score": 124,
+      "road_score": 112,
+      "winner": "home",
+      "excitement_factor": 3.0881890316189415,
+      "comeback_factor": 0.706998596898124,
+      "possession_changes": 203,
+      "min_home_win_prob": 0.29300140310187595,
+      "max_home_win_prob": 1.0
     }
   ]
 }
