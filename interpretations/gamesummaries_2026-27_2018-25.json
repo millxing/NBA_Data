@@ -1176,6 +1176,36 @@
       "generated_at": "2026-11-21T06:02:00.000695",
       "model": "gpt-5.4",
       "eight_factors": "- Denver's elite 62% eFG was the biggest driver of the home win, powering its offense all night.\n- Houston's 61% eFG kept the visitors in striking distance, but it wasn't enough to overcome Denver.\n- Ball security gave Denver another major lift: its 90% ball handling kept possessions secure and denied Houston extra opportunities.\n- Second-chance offense was scarce for Denver at 19% OREB, a weakness that helped Houston hang around.\n- Getting to the stripe also mattered, with Denver posting a 30% FT rate and consistently creating points at the line.\n- Houston lived at the line with a 28% FT rate, a bright spot in defeat that added needed scoring.\n- Sloppy Houston ball handling also tilted things toward the home side, as the road team turned it over enough to gift Denver extra possessions."
+    },
+    "0022600277": {
+      "generated_at": "2026-11-22T06:01:03.541080",
+      "model": "gpt-5.4",
+      "eight_factors": "- Minnesota's elite 65% eFG was the biggest driver of the home win, powering its offense even in a lower-scoring game.\n- Ball security was Memphis' biggest bright spot in defeat: Minnesota's sloppy 77% ball handling gifted the visitors extra possessions via turnovers.\n- Memphis shot a frigid 47% eFG, a major reason the road offense never found enough traction.\n- The Grizzlies' shaky 83% ball handling also helped Minnesota, with turnovers handing the home side added possessions.\n- Second-chance offense was scarce for Minnesota at 19% OREB, leaving the Timberwolves with few extra looks on their own misses.\n- Minnesota rarely got to the stripe, posting an anemic 11% FT rate.\n- Memphis also struggled to generate free throws, managing just a 12% FT rate."
+    },
+    "0022600278": {
+      "generated_at": "2026-11-22T06:01:06.777240",
+      "model": "gpt-5.4",
+      "eight_factors": "- New Orleans shot a frigid 41% eFG, the biggest four-factor swing in San Antonio's blowout win.\n- San Antonio's efficient 56% eFG gave the home side a clear offensive lift.\n- Crashing in at 27% OREB, New Orleans created second-chance opportunities for itself and found a bright spot in defeat.\n- Ball security was one area San Antonio didn't own: their shaky 85% ball handling led to turnovers that gifted New Orleans extra possessions."
+    },
+    "0022600274": {
+      "generated_at": "2026-11-22T06:01:11.266116",
+      "model": "gpt-5.4",
+      "eight_factors": "- Philadelphia's pristine 96% ball handling was the game's biggest swing, keeping possessions secure and denying Milwaukee extra chances via turnovers.\n- Milwaukee's 92% ball handling still kept the road offense organized and was a major reason the visitors stayed right there, but it wasn't enough to overcome Philadelphia.\n- At the line, Philadelphia lived there with a 38% free-throw rate, a key boost in a three-point home win.\n- Second-chance looks were scarce for Philadelphia at 17% OREB, costing the home side extra opportunities for itself.\n- Milwaukee crashed the offensive glass at 30% OREB, generating valuable second-chance opportunities for itself and helping keep the game tight.\n- Efficient shooting mattered on both sides, with Philadelphia posting a 56% eFG to support its late edge.\n- Milwaukee's 55% eFG was a real bright spot in defeat, keeping the visitors competitive throughout."
+    },
+    "0022600275": {
+      "generated_at": "2026-11-22T06:01:14.745595",
+      "model": "gpt-5.4",
+      "eight_factors": "- Portland's frigid 49% eFG was the biggest swing in New York's one-point win, as the visitors simply didn't shoot it well enough.\n- New York's anemic 5% FT rate nearly swung this game the other way, with the home side rarely getting to the stripe.\n- Portland crashed the offensive glass at 31% OREB, creating second-chance opportunities for itself and keeping the visitors in it until the final margin.\n- Sloppy Portland ball handling also helped New York, with the road team posting just 84% ball handling and gifting away extra possessions via turnovers.\n- At a shaky 15% FT rate, Portland struggled to draw fouls and left points at the line unavailable."
+    },
+    "0022600276": {
+      "generated_at": "2026-11-22T06:01:19.312399",
+      "model": "gpt-5.4",
+      "eight_factors": "- Los Angeles shot a frigid 47% eFG, a major driver of Dallas controlling the game.\n- Dallas' own 48% eFG was shaky and stood out as the biggest thing keeping Los Angeles within reach.\n- On the glass, Los Angeles posted a strong 35% OREB and created a steady stream of second-chance opportunities for itself.\n- Dallas answered with force on its own misses, turning a 35% OREB into valuable extra chances for itself.\n- Clean Dallas ball handling was a real separator: at 91%, the home side protected possessions and denied Los Angeles extra opportunities.\n- Sloppy Los Angeles ball handling also fed the Dallas win, as the visitors' 83% mark gifted away extra possessions via turnovers.\n- Dallas added another smaller edge by getting to the line at a 26% FT rate, helping round out the home win."
+    },
+    "0022600279": {
+      "generated_at": "2026-11-22T06:01:24.731332",
+      "model": "gpt-5.4",
+      "eight_factors": "- Boston's frigid 40% eFG was the game's biggest swing, with the visitors simply unable to shoot efficiently.\n- Sacramento's own shooting was nearly as shaky at 46% eFG, a major reason this stayed a one-possession game despite the home win.\n- Sloppy Sacramento ball handling also fed Boston opportunities, as the Kings posted a dismal 80% ball-handling mark.\n- Boston crashed the offensive glass at a dominant 33% OREB, creating valuable second-chance opportunities for itself and keeping the visitors competitive.\n- At the line, Sacramento found a key edge with an elite 33% FT rate, consistently generating trips to the stripe.\n- Clean Boston ball handling was another bright spot in defeat, as the Celtics protected possessions with a strong 89% ball-handling rate.\n- Sacramento's 27% OREB gave the home side a useful stream of second-chance chances in a game decided by a single point.\n- Boston rarely got to the stripe, and its anemic 15% FT rate quietly helped tilt this result toward Sacramento."
     }
   },
   "decomposition_model_id": "json_contributions"
