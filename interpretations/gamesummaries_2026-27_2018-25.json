@@ -1291,6 +1291,21 @@
       "generated_at": "2026-11-24T06:02:09.137974",
       "model": "gpt-5.4",
       "eight_factors": "- San Antonio's 38% offensive rebound rate was the biggest four-factor driver, as the visitors repeatedly created second-chance opportunities for themselves.\n- Elite 92% ball handling from San Antonio kept possessions secure and denied Sacramento extra chances.\n- Sacramento protected the ball well at 90% ball handling, a bright spot in defeat that wasn't enough to swing the game.\n- San Antonio's shaky 52% eFG still favored Sacramento, with the visitors leaving some shooting efficiency on the table.\n- Sacramento's anemic 10% free-throw rate left the home side with almost no trips to the stripe.\n- Crashing the offensive glass at 27% OREB gave Sacramento some second-chance opportunities, but it wasn't enough to overcome the road win.\n- Sacramento's 53% eFG was a mild drag on the home side, as their shooting efficiency fell short of what they needed."
+    },
+    "0022600052": {
+      "generated_at": "2026-11-25T06:00:58.734309",
+      "model": "gpt-5.4",
+      "eight_factors": "- Orlando's sloppy 79% ball handling was the game's biggest swing, gifting Detroit extra possessions via turnovers.\n- Shooting just 48% eFG, Orlando never found efficient offense, a central driver of the home loss.\n- Detroit's 59% eFG kept the visitors in control, with efficient shot-making powering the road win.\n- Orlando rarely got to the stripe, posting a dismal 7% free-throw rate in an offense that generated little easy scoring.\n- Detroit's shaky 83% ball handling was a bright spot for Orlando, as road turnovers handed the home side extra possessions.\n- At 21% OREB, Detroit generated few second-chance opportunities for itself, another area that mildly favored Orlando.\n- Detroit also struggled to draw fouls, managing only a 14% free-throw rate and leaving some scoring chances unused."
+    },
+    "0022600054": {
+      "generated_at": "2026-11-25T06:01:03.688165",
+      "model": "gpt-5.4",
+      "eight_factors": "- Denver's frigid 47% eFG was the game's biggest swing, a shooting night that undercut the home offense from the start.\n- Dallas crashed the offensive glass at 33% OREB, creating a steady stream of second-chance opportunities for itself.\n- Ball security also tilted hard toward the visitors: Denver's shaky 82% ball handling gifted Dallas extra possessions via turnovers.\n- Dallas protected the ball well with 87% ball handling, keeping its own possessions intact and denying Denver extra opportunities.\n- A rare bright spot for Denver came on the offensive glass, where a 26% OREB gave the home side some second-chance opportunities.\n- Dallas rarely got to the stripe, posting an anemic 13% FT rate that gave away one area Denver could hang around in.\n- Denver's 25% FT rate was another positive in defeat, as the home team did get to the line at a healthy clip."
+    },
+    "0022600053": {
+      "generated_at": "2026-11-25T06:01:08.155327",
+      "model": "gpt-5.4",
+      "eight_factors": "- Washington's frigid 51% eFG was a major weakness, with the home side struggling to shoot efficiently in a loss.\n- Boston's 57% eFG fueled the road win, as the visitors scored with efficient shot-making throughout.\n- Clean 90% ball handling from Boston kept possessions secure and denied Washington extra opportunities.\n- Washington's 30% OREB was a bright spot in defeat, creating a steady stream of second-chance chances for the home team.\n- Boston also generated extra looks for itself on the offensive glass, posting a strong 28% OREB.\n- At a 24% FT rate, Washington did a solid job getting to the stripe, but it wasn't enough to swing the game."
     }
   },
   "decomposition_model_id": "json_contributions"
