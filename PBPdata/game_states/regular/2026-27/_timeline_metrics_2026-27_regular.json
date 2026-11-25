@@ -1,10 +1,10 @@
 {
   "season": "2026-27",
   "phase": "regular",
-  "generated_at_utc": "2026-11-24T11:01:05.057707+00:00",
+  "generated_at_utc": "2026-11-25T11:00:33.019943+00:00",
   "input_dir": "/Users/robschoen/Dropbox/CC/NBA_Data/PBPdata/game_states/regular/2026-27",
   "source": "parquet",
-  "games_processed": 257,
+  "games_processed": 261,
   "games_missing_win_prob": 0,
   "games": [
     {
@@ -3833,6 +3833,21 @@
       "max_home_win_prob": 0.8492894710322854
     },
     {
+      "game_id": "0022600294",
+      "game_date": "2026-11-23",
+      "game_type": "regular_season",
+      "home_team": "HOU",
+      "road_team": "LAC",
+      "home_score": 116,
+      "road_score": 104,
+      "winner": "home",
+      "excitement_factor": 3.0820493372516427,
+      "comeback_factor": 0.6559683319125655,
+      "possession_changes": 190,
+      "min_home_win_prob": 0.3440316680874345,
+      "max_home_win_prob": 1.0
+    },
+    {
       "game_id": "0022600295",
       "game_date": "2026-11-23",
       "game_type": "regular_season",
@@ -3861,6 +3876,51 @@
       "possession_changes": 192,
       "min_home_win_prob": 0.0,
       "max_home_win_prob": 0.7599224392215026
+    },
+    {
+      "game_id": "0022600052",
+      "game_date": "2026-11-24",
+      "game_type": "regular_season",
+      "home_team": "ORL",
+      "road_team": "DET",
+      "home_score": 86,
+      "road_score": 104,
+      "winner": "road",
+      "excitement_factor": 1.9166954873116246,
+      "comeback_factor": 0.6476440717207326,
+      "possession_changes": 182,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.6476440717207326
+    },
+    {
+      "game_id": "0022600053",
+      "game_date": "2026-11-24",
+      "game_type": "regular_season",
+      "home_team": "WAS",
+      "road_team": "BOS",
+      "home_score": 116,
+      "road_score": 131,
+      "winner": "road",
+      "excitement_factor": 1.325625347653947,
+      "comeback_factor": 0.5312834458578054,
+      "possession_changes": 197,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5312834458578054
+    },
+    {
+      "game_id": "0022600054",
+      "game_date": "2026-11-24",
+      "game_type": "regular_season",
+      "home_team": "DEN",
+      "road_team": "DAL",
+      "home_score": 101,
+      "road_score": 120,
+      "winner": "road",
+      "excitement_factor": 1.8950077962510359,
+      "comeback_factor": 0.5968062368541798,
+      "possession_changes": 200,
+      "min_home_win_prob": 0.0,
+      "max_home_win_prob": 0.5968062368541798
     }
   ]
 }
